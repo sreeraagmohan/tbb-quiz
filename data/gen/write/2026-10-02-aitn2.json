@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-02-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 336,
+  "output_tokens": 1220,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the tariff ceiling and scope of the US Russia-sanctions law; the Modi-Trump call and the Goyal-Greer meeting are routine or speculative.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, US President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act. Consider the following statements about it:",
+    "items": [
+     "It allows Washington to impose tariffs of up to 50 per cent on countries buying Russian oil and gas.",
+     "Its tariff provisions apply to countries buying Russian gas as well as Russian oil."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the Act permits tariffs of up to 100 per cent, not 50 per cent, and it covers buyers of both Russian oil and gas. Days after it was signed, Prime Minister Modi spoke with Trump by phone on 30 September 2026, their first call since June.",
+    "source": "which lets Washington impose tariffs of up to 100 per cent on countries buying Russian oil and gas."
+   }
+  ]
+ }
+}

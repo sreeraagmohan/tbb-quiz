@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-02-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 607,
+  "output_tokens": 2033,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the location of the offshore blocks, their area, minerals and deadline, and how this round relates to the failed 2024 round.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, the Ministry of Mines opened bidding for the Sewell Rise-01 and West Sewell Ridge-01 offshore mineral blocks. In which sea are these blocks located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Andaman Sea",
+     "Arabian Sea",
+     "Laccadive Sea",
+     "Gulf of Mannar"
+    ],
+    "answer": 0,
+    "explain": "The two blocks offered on 1 October 2026 lie in the Andaman Sea. An earlier offer of seven blocks near Great Nicobar in 2024 failed to attract sufficient qualifying bids.",
+    "source": "The Ministry of Mines opened bidding for two offshore mineral blocks in the Andaman Sea on Thursday, with submissions due by 28 December."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the offshore mineral blocks put up for bidding by the Ministry of Mines in October 2026:",
+    "items": [
+     "The two blocks together cover more than 1,632 square kilometres.",
+     "According to the ministry, their seabed nodules and crusts contain cobalt, nickel, manganese, copper and rare earth elements.",
+     "Bid submissions are due by 28 December 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story. The ministry says these minerals are used in batteries, electronics and advanced manufacturing, and the bids cover both exploration and mining extraction rights.",
+    "source": "Mineral exploration and mining extraction rights over Sewell Rise-01 and West Sewell Ridge-01, which cover more than 1,632 square kilometres."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Andaman Sea offshore mineral auction launched in October 2026:",
+    "items": [
+     "The two blocks on offer are a re-auction of the blocks near Great Nicobar offered in 2024.",
+     "The launch announcement gives no estimate of how much mineral can be recovered or at what cost."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because a government official said the two blocks cover different areas and are not a re-auction of the seven blocks offered in 2024. Government surveys have established mineral occurrences in both areas, but India's domestic miners lack deep-sea experience, so success hinges on foreign partnerships.",
+    "source": "These two are different areas, rather than a re-auction, according to a government official."
+   }
+  ]
+ }
+}

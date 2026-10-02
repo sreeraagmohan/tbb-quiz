@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-02-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 304,
+  "output_tokens": 849,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Minor consular advisory; tested its two concrete elements in one statements question.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the Ministry of External Affairs issued an advisory warning Indians travelling to Russia against joining the Russian armed forces. Consider the following statements about it:",
+    "items": [
+     "The ministry noted that some Indians had asked to give up their citizenship so they could take a Russian passport and enlist.",
+     "The advisory urged Indians to vet any job offer from agents not registered with the ministry."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both points appear in the advisory, which called enlisting a dangerous path that the government strongly discourages. The ministry said many Indians were seeking such offers willingly for the money and expected the government to secure their release later.",
+    "source": "It urged Indians to vet any job offer from agents not registered with the ministry."
+   }
+  ]
+ }
+}

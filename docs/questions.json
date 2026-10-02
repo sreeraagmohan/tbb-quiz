@@ -24490,5 +24490,192 @@
   "issue_title": "Watt comes next",
   "story_title": "Apple Pay launches with Axis Bank",
   "link": "https://thebharatbriefing.beehiiv.com/p/watt-comes-next#also-in-the-news:~:text=It%20initially%20covers%20Axis%20credit%20cards%20on%20the"
+ },
+ {
+  "id": "g-2026-10-02-1-1",
+  "story_id": "2026-10-02-1",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In October 2026, the Ministry of Mines opened bidding for the Sewell Rise-01 and West Sewell Ridge-01 offshore mineral blocks. In which sea are these blocks located?",
+  "options": [
+   "Andaman Sea",
+   "Arabian Sea",
+   "Laccadive Sea",
+   "Gulf of Mannar"
+  ],
+  "answer": 0,
+  "explain": "The two blocks offered on 1 October 2026 lie in the Andaman Sea. An earlier offer of seven blocks near Great Nicobar in 2024 failed to attract sufficient qualifying bids.",
+  "source": "The Ministry of Mines opened bidding for two offshore mineral blocks in the Andaman Sea on Thursday, with submissions due by 28 December.",
+  "date": "2026-10-02",
+  "issue_no": 180,
+  "issue_title": "Sea what bids",
+  "story_title": "Sea what bids",
+  "link": "https://thebharatbriefing.beehiiv.com/p/sea-what-bids#sea-what-bids:~:text=The%20Ministry%20of%20Mines%20opened%20bidding%20for%20two"
+ },
+ {
+  "id": "g-2026-10-02-1-2",
+  "story_id": "2026-10-02-1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the offshore mineral blocks put up for bidding by the Ministry of Mines in October 2026:",
+  "items": [
+   "The two blocks together cover more than 1,632 square kilometres.",
+   "According to the ministry, their seabed nodules and crusts contain cobalt, nickel, manganese, copper and rare earth elements.",
+   "Bid submissions are due by 28 December 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements match the story. The ministry says these minerals are used in batteries, electronics and advanced manufacturing, and the bids cover both exploration and mining extraction rights.",
+  "source": "Mineral exploration and mining extraction rights over Sewell Rise-01 and West Sewell Ridge-01, which cover more than 1,632 square kilometres.",
+  "date": "2026-10-02",
+  "issue_no": 180,
+  "issue_title": "Sea what bids",
+  "story_title": "Sea what bids",
+  "link": "https://thebharatbriefing.beehiiv.com/p/sea-what-bids#sea-what-bids:~:text=Mineral%20exploration%20and%20mining%20extraction%20rights%20over%20Sewell"
+ },
+ {
+  "id": "g-2026-10-02-1-3",
+  "story_id": "2026-10-02-1",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Andaman Sea offshore mineral auction launched in October 2026:",
+  "items": [
+   "The two blocks on offer are a re-auction of the blocks near Great Nicobar offered in 2024.",
+   "The launch announcement gives no estimate of how much mineral can be recovered or at what cost."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because a government official said the two blocks cover different areas and are not a re-auction of the seven blocks offered in 2024. Government surveys have established mineral occurrences in both areas, but India's domestic miners lack deep-sea experience, so success hinges on foreign partnerships.",
+  "source": "These two are different areas, rather than a re-auction, according to a government official.",
+  "date": "2026-10-02",
+  "issue_no": 180,
+  "issue_title": "Sea what bids",
+  "story_title": "Sea what bids",
+  "link": "https://thebharatbriefing.beehiiv.com/p/sea-what-bids#sea-what-bids:~:text=These%20two%20are%20different%20areas%2C%20rather%20than%20a"
+ },
+ {
+  "id": "g-2026-10-02-aitn2-1",
+  "story_id": "2026-10-02-aitn2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In September 2026, US President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act. Consider the following statements about it:",
+  "items": [
+   "It allows Washington to impose tariffs of up to 50 per cent on countries buying Russian oil and gas.",
+   "Its tariff provisions apply to countries buying Russian gas as well as Russian oil."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the Act permits tariffs of up to 100 per cent, not 50 per cent, and it covers buyers of both Russian oil and gas. Days after it was signed, Prime Minister Modi spoke with Trump by phone on 30 September 2026, their first call since June.",
+  "source": "which lets Washington impose tariffs of up to 100 per cent on countries buying Russian oil and gas.",
+  "date": "2026-10-02",
+  "issue_no": 180,
+  "issue_title": "Sea what bids",
+  "story_title": "Modi calls Trump as Russia-oil tariff law looms",
+  "link": "https://thebharatbriefing.beehiiv.com/p/sea-what-bids#also-in-the-news:~:text=which%20lets%20Washington%20impose%20tariffs%20of%20up%20to"
+ },
+ {
+  "id": "g-2026-10-02-aitn3-1",
+  "story_id": "2026-10-02-aitn3",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements regarding India's economic ties with the European Free Trade Association (EFTA) as of October 2026:",
+  "items": [
+   "The Trade and Economic Partnership Agreement (TEPA) commits EFTA states to USD 100 billion in investment in India over 10 years.",
+   "The Ministry of External Affairs calls Switzerland India's largest trade and investment partner among the four EFTA states.",
+   "The second India–EFTA Prosperity Summit, held in October 2026, marks a year since TEPA came into force."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the USD 100 billion investment commitment under TEPA runs over 15 years, not 10. Swiss President Guy Parmelin was scheduled to attend the second India–EFTA Prosperity Summit on 7 October 2026 during his first state visit to India.",
+  "source": "The pact commits EFTA states to USD 100 billion in investment in India over 15 years.",
+  "date": "2026-10-02",
+  "issue_no": 180,
+  "issue_title": "Sea what bids",
+  "story_title": "Swiss President Parmelin to make a state visit from October 5–7",
+  "link": "https://thebharatbriefing.beehiiv.com/p/sea-what-bids#also-in-the-news:~:text=The%20pact%20commits%20EFTA%20states%20to%20USD%20100"
+ },
+ {
+  "id": "g-2026-10-02-aitn4-1",
+  "story_id": "2026-10-02-aitn4",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In September 2026, the Ministry of External Affairs issued an advisory warning Indians travelling to Russia against joining the Russian armed forces. Consider the following statements about it:",
+  "items": [
+   "The ministry noted that some Indians had asked to give up their citizenship so they could take a Russian passport and enlist.",
+   "The advisory urged Indians to vet any job offer from agents not registered with the ministry."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both points appear in the advisory, which called enlisting a dangerous path that the government strongly discourages. The ministry said many Indians were seeking such offers willingly for the money and expected the government to secure their release later.",
+  "source": "It urged Indians to vet any job offer from agents not registered with the ministry.",
+  "date": "2026-10-02",
+  "issue_no": 180,
+  "issue_title": "Sea what bids",
+  "story_title": "MEA warns Indians against enlisting in Russia's army",
+  "link": "https://thebharatbriefing.beehiiv.com/p/sea-what-bids#also-in-the-news:~:text=It%20urged%20Indians%20to%20vet%20any%20job%20offer"
+ },
+ {
+  "id": "g-2026-10-02-aitn5-1",
+  "story_id": "2026-10-02-aitn5",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the ASEAN-India Maritime Exercise that opened in September 2026:",
+  "items": [
+   "It is the second edition of the exercise.",
+   "It is being held at Subic Bay, on the Philippines' South China Sea coast.",
+   "INS Sahyadri and INS Kulish are the Indian warships taking part."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three are correct. The second edition opened on 28 September 2026 at Subic Bay in the Philippines, with INS Sahyadri and INS Kulish representing India. A harbour phase of expert exchanges comes before joint manoeuvres at sea, and the Ministry of Defence placed the drill under India's Act East Policy.",
+  "source": "Indian warships INS Sahyadri and INS Kulish are exercising with maritime forces of the Association of Southeast Asian Nations (ASEAN) at Subic Bay, on the Philippines' South China Sea coast, in the second edition of the ASEAN-India Maritime Exercise.",
+  "date": "2026-10-02",
+  "issue_no": 180,
+  "issue_title": "Sea what bids",
+  "story_title": "Indian Navy joins ASEAN drills at Subic Bay",
+  "link": "https://thebharatbriefing.beehiiv.com/p/sea-what-bids#also-in-the-news:~:text=Indian%20warships%20INS%20Sahyadri%20and%20INS%20Kulish%20are"
  }
 ]

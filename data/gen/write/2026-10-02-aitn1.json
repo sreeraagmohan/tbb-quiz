@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-02-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 385,
+  "output_tokens": 153,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an in-flight attack and the praise for the captain is a crime or incident story with no policy, institutional or durable public-affairs fact worth testing.",
+  "questions": []
+ }
+}

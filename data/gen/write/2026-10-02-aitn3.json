@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-02-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 365,
+  "output_tokens": 1119,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–EFTA TEPA: its investment commitment, when it came into force, and Switzerland's standing among EFTA states.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements regarding India's economic ties with the European Free Trade Association (EFTA) as of October 2026:",
+    "items": [
+     "The Trade and Economic Partnership Agreement (TEPA) commits EFTA states to USD 100 billion in investment in India over 10 years.",
+     "The Ministry of External Affairs calls Switzerland India's largest trade and investment partner among the four EFTA states.",
+     "The second India–EFTA Prosperity Summit, held in October 2026, marks a year since TEPA came into force."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the USD 100 billion investment commitment under TEPA runs over 15 years, not 10. Swiss President Guy Parmelin was scheduled to attend the second India–EFTA Prosperity Summit on 7 October 2026 during his first state visit to India.",
+    "source": "The pact commits EFTA states to USD 100 billion in investment in India over 15 years."
+   }
+  ]
+ }
+}

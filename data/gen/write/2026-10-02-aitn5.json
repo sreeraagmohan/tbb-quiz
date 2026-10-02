@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-02-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 304,
+  "output_tokens": 913,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the venue, edition and Indian participants of the September 2026 ASEAN-India Maritime Exercise.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the ASEAN-India Maritime Exercise that opened in September 2026:",
+    "items": [
+     "It is the second edition of the exercise.",
+     "It is being held at Subic Bay, on the Philippines' South China Sea coast.",
+     "INS Sahyadri and INS Kulish are the Indian warships taking part."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. The second edition opened on 28 September 2026 at Subic Bay in the Philippines, with INS Sahyadri and INS Kulish representing India. A harbour phase of expert exchanges comes before joint manoeuvres at sea, and the Ministry of Defence placed the drill under India's Act East Policy.",
+    "source": "Indian warships INS Sahyadri and INS Kulish are exercising with maritime forces of the Association of Southeast Asian Nations (ASEAN) at Subic Bay, on the Philippines' South China Sea coast, in the second edition of the ASEAN-India Maritime Exercise."
+   }
+  ]
+ }
+}
