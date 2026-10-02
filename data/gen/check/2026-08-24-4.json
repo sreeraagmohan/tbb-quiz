@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-08-24-4",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": false,
+    "problem": "The explanation says the export volumes \"allowed India to keep supplying Nepal and Bhutan in full even through the West Asia crisis\". The story draws no such causal link. It states separately that India is a net exporter (about 61.4 million tonnes in FY 2025-26) and that it already supplies Nepal and Bhutan in full, even through the West Asia crisis."
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 2880,
+  "output_tokens": 784,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-26-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 339,
+  "output_tokens": 1157,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A ministerial assessment with little durable content. One question tests the fiscal cost of the fuel excise cuts and the minister's framing of the shock as external.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, Finance Minister Nirmala Sitharaman named fuel, fertiliser and foreign exchange as the economy's critical pressure points amid the West Asia crisis. Consider the following statements:",
+    "items": [
+     "Excise duty cuts on petrol and diesel were costing the exchequer INR 1 lakh crore.",
+     "She attributed the pressures mainly to weakening domestic fundamentals."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong. Sitharaman said India's domestic fundamentals remain positive and resilient, and that the challenges are externally driven. Crude has risen from around USD 70 to over USD 115 per barrel since the Strait of Hormuz disruptions began in late February 2026.",
+    "source": "excise duty cuts on petrol and diesel are already costing the exchequer INR 1 lakh crore (USD 11.7 billion)"
+   }
+  ]
+ }
+}

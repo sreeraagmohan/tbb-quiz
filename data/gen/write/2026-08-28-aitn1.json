@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-28-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 228,
+  "output_tokens": 732,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the venue of the 26th SCO summit, a durable summit-and-venue fact; the Tashkent leg serves as a distractor.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, Prime Minister Narendra Modi was scheduled to attend the 26th Shanghai Cooperation Organisation (SCO) summit on 31 August and 1 September 2026. In which city was this summit to be held?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Bishkek",
+     "Tashkent",
+     "Astana",
+     "Dushanbe"
+    ],
+    "answer": 0,
+    "explain": "The 26th SCO summit was set for Bishkek, capital of the Kyrgyz Republic. Tashkent was the earlier leg of the trip, a state visit on 29-30 August for talks with Uzbek President Shavkat Mirziyoyev on trade, defence, critical minerals and energy.",
+    "source": "then flies to Bishkek for the 26th Shanghai Cooperation Organisation (SCO) summit on August 31 and September 1."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-01-26-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 555,
+  "output_tokens": 1014,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "The story reports Davos remarks rather than a policy decision, so it gets one statements question on the cited pollution-cost estimates.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In January 2026, former IMF chief economist Gita Gopinath spoke about pollution at a Davos panel on India's growth. Consider the following statements about her remarks:",
+    "items": [
+     "She said the economic damage from tariffs already outweighs that from pollution.",
+     "She cited a 2022 World Bank study estimating nearly 1.7 million pollution-linked deaths a year in India, about 18% of all deaths.",
+     "A 2021 study cited in the discussion estimated that air pollution costs Indian businesses about USD 95 billion annually, around 3% of GDP."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because Gopinath said the reverse: pollution's economic damage already outweighs the impact of tariffs. The other two figures are as reported, and she called for treating pollution control as a national mission on par with deregulation.",
+    "source": "Speaking at a panel on India’s growth trajectory, the former IMF chief economist said pollution’s economic damage already outweighs the impact of tariffs."
+   }
+  ]
+ }
+}

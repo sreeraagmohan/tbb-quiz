@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-25-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 385,
+  "output_tokens": 1112,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India-UK CETA entry-into-force date, the Double Contribution Convention's purpose and the 2030 bilateral trade target.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-UK Comprehensive Economic and Trade Agreement (CETA), as of June 2026:",
+    "items": [
+     "It was scheduled to enter into force on 15 July 2026, together with an accompanying Double Contribution Convention.",
+     "The accompanying Double Contribution Convention provides a framework for eliminating dual social security contributions for eligible temporary workers.",
+     "India and the UK are working towards a bilateral trade target of USD 120 billion by 2035."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because the USD 120 billion bilateral trade target is set for 2030, not 2035. Ahead of the 15 July entry into force, Commerce Minister Piyush Goyal visited London from 25 to 27 June 2026 to review customs coordination, tariff liberalisation and the arrangements for implementing both agreements with UK Business and Trade Secretary Peter Kyle.",
+    "source": "as India and the UK work towards a bilateral trade target of USD 120 billion by 2030."
+   }
+  ]
+ }
+}

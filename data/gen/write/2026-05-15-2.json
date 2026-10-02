@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-15-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 523,
+  "output_tokens": 1571,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the scope and timeline of the May 2026 sugar export ban, the quota position before it, and the supply reason behind it. The futures moves and currency angle are left out.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, India banned sugar exports. Consider the following statements about this decision:",
+    "items": [
+     "The ban covers raw, white and refined sugar until 30 September 2026, or until further notice.",
+     "Earlier in 2026, the government had cleared mills to export 1.59 million tonnes of sugar.",
+     "More than 1.2 million tonnes of the approved quota had already been shipped when the ban was announced."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. Only about 800,000 tonnes of the 1.59 million tonne quota were contracted, and just over 600,000 tonnes had been shipped. That leaves roughly 200,000 tonnes of committed orders stranded.",
+    "source": "India pulled the plug on sugar exports on Wednesday, banning all shipments of raw, white, and refined sugar until September 30, or until further notice."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In May 2026, India banned sugar exports. Which of the following was the main domestic supply concern behind the ban?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Consumption could exceed production for a second straight season",
+     "A surplus of sugar stocks was pushing domestic prices down sharply",
+     "Mills had shipped far more sugar than their approved export quota",
+     "Sugarcane acreage had shifted to rice under a new procurement policy"
+    ],
+    "answer": 0,
+    "explain": "The story says India risks consuming more sugar than it produces for the second straight season, as cane yields weaken in major growing states. El Niño-linked monsoon disruptions could make the next season worse.",
+    "source": "India now risks consuming more than it produces for the second straight season, with weakening cane yields in major growing states."
+   }
+  ]
+ }
+}

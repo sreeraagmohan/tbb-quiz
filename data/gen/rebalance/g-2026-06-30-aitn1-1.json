@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-06-30-aitn1-1",
+ "story_id": "2026-06-30-aitn1",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, the Centre imposed temporary restrictions on petrol and diesel sales, which it withdrew with effect from 1 July 2026. Consider the following statements:",
+  "items": [
+   "The restrictions barred commercial buyers from purchasing fuel at retail pumps.",
+   "The government raised retail fuel prices during the West Asia crisis to close the gap with bulk diesel prices."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the government held retail prices steady, which opened a gap of roughly INR 40 per litre between retail and bulk diesel. The measures, imposed on 12 June, also capped daily diesel purchases at 200 litres per customer at retail outlets.",
+  "source": "The government held retail fuel prices steady during the West Asia crisis, opening a gap of roughly INR 40 (USD 0.42) per litre between retail and bulk diesel."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, the Centre imposed temporary restrictions on petrol and diesel sales, which it withdrew with effect from 1 July 2026. Consider the following statements:",
+  "items": [
+   "The restrictions capped daily diesel purchases at 500 litres per customer at retail outlets.",
+   "The government raised retail fuel prices during the West Asia crisis to close the gap with bulk diesel prices."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the cap was 200 litres per customer, not 500. Statement 2 is wrong because the government held retail prices steady, which opened a gap of roughly INR 40 per litre between retail and bulk diesel. The measures, imposed on 12 June, also barred commercial buyers from retail pumps.",
+  "source": "The measures, imposed on 12 June, had capped daily diesel purchases at 200 litres per customer at retail outlets and barred commercial buyers from retail pumps."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2152,
+  "output_tokens": 672,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

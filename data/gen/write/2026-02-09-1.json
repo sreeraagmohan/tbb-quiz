@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-09-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 664,
+  "output_tokens": 1726,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the terms of the February 2026 US-India interim trade framework: tariff commitments, the non-binding purchase pledge and the Section 232 condition on pharmaceuticals.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the US-India joint statement on a framework for an Interim Trade Agreement, released in February 2026:",
+    "items": [
+     "The United States applies a reciprocal 18% tariff on Indian goods, with its removal conditional on the interim pact being concluded.",
+     "India takes on a binding obligation to purchase USD 500 billion of US goods over five years.",
+     "India commits to eliminating or reducing tariffs on all US industrial goods."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong. The USD 500 billion purchase over five years, covering energy, aircraft, GPUs and coking coal, is a signal of intent, not an obligation. The framework is a bridge to the broader Bilateral Trade Agreement talks launched in February 2025.",
+    "source": "India signals intent, not obligation, to purchase USD 500 billion of US goods over five years"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the US-India framework for an Interim Trade Agreement announced in February 2026, US tariff relief for Indian pharmaceuticals was deferred until the conclusion of which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "A Section 232 national security investigation",
+     "A Section 301 unfair trade practices investigation",
+     "A World Trade Organization dispute panel ruling",
+     "An anti-dumping duty sunset review"
+    ],
+    "answer": 0,
+    "explain": "The United States deferred pharmaceutical relief until a Section 232 national security investigation concludes. It did agree to lift steel, aluminium and copper tariffs on Indian aircraft and parts and to grant India a preferential tariff-rate quota for auto parts.",
+    "source": "defer pharmaceutical relief until a Section 232 national security investigation concludes."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-30-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 666,
+  "output_tokens": 1788,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the January 2026 Economic Survey's AI strategy: small sector-specific models, the AI-OS on India Stack, the late-entry argument and sequenced regulation.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the approach to artificial intelligence set out in the Economic Survey presented in January 2026:",
+    "items": [
+     "It favours sector-specific, small, open-weight models over US- and China-style mega-models.",
+     "It argues that India's late entry into AI is a handicap that will leave it permanently behind early movers.",
+     "It proposes an \"AI-OS\" layered onto India Stack to give startups access to public data and shared compute."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The Survey treats global AI hype as a cooling bubble and argues India's late entry could help it avoid the energy intensity and financial instability troubling early movers in the West. It also cites India's over 1 billion broadband users as a structural advantage.",
+    "source": "Instead, it backs sector-specific, small, open-weight models built for real use, not leaderboard glory."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Which approach to regulating artificial intelligence did the Economic Survey presented in January 2026 recommend for India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Build ecosystems and regulatory capacity first, then impose binding rules",
+     "Impose binding rules first, then build ecosystems and regulatory capacity",
+     "Rely only on voluntary industry self-regulation, with no binding rules",
+     "Enact one comprehensive AI law immediately, before any ecosystem building"
+    ],
+    "answer": 0,
+    "explain": "The Survey backs sequenced regulation, with binding rules to come once risks are clear and enforceable. This fits its wider aim of reducing fragile dependence on foreign compute, capital and supply chains.",
+    "source": "build ecosystems and regulatory capacity first, then impose binding rules once risks are clear and enforceable."
+   }
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-07-28-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 768,
+  "output_tokens": 2044,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the DGMA Hormuz deployment bar against the Black Sea advisory, and the July 2026 diplomatic summons over the two ship attacks.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Indian government measures for seafarers in July 2026:",
+    "items": [
+     "The Directorate General of Maritime Administration (DGMA) barred the deployment of Indian seafarers on any vessel transiting the Strait of Hormuz until further orders.",
+     "A Ministry of External Affairs advisory said attacks on commercial vessels around the Black Sea had killed five Indians since April 2026.",
+     "The DGMA's Black Sea circular did not impose a deployment restriction equivalent to its Hormuz order."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. The DGMA's July 15 order bars deployment on vessels transiting Hormuz, the MEA's July 26 advisory cited five Indian deaths since April 2026, and the DGMA's July 23 Black Sea circular carries no equivalent restriction. For the Black Sea, sailors are instead told to weigh the risks and secure contracts covering medical care, evacuation, repatriation and compensation.",
+    "source": "The same regulator's Black Sea circular, dated July 23, carries no equivalent restriction."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, India's Ministry of External Affairs summoned diplomats from both sides of the Ukraine war over attacks on merchant ships that killed Indian nationals. Consider the following statements:",
+    "items": [
+     "The MEA release on summoning Ukraine's ambassador named Ukraine as responsible for the strike on MV Omorfi.",
+     "Russia's chargé d'affaires was summoned over the strike on MV Golden Leo, which killed four Indians."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the MEA release does not name Ukraine as responsible, though it asked Ambassador Oleksandr Polishchuk to tell Kyiv such actions are unacceptable. Russian chargé d'affaires Vladimir Ladanov was called in on July 21 over the MV Golden Leo strike.",
+    "source": "The release does not name Ukraine as responsible for the strike."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-06-2-1",
+ "story_id": "2026-02-06-2",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In February 2026, the Competition Commission of India (CCI) ordered a formal investigation into IndiGo after the airline's flight cancellations in December 2025. Consider the following statements:",
+  "items": [
+   "The CCI suspects IndiGo used its 60% market share to withhold capacity, creating artificial scarcity and fare spikes.",
+   "The Directorate General of Civil Aviation (DGCA) had earlier fined IndiGo USD 2.45 million for roster failures.",
+   "The CCI accepted IndiGo's argument that the DGCA's ongoing action barred a competition investigation."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: the CCI dismissed IndiGo's argument, holding that sector-specific rules do not grant immunity from competition law. IndiGo had cancelled over 4,500 flights in early December 2025, and the CCI is now examining possible abuse of market dominance.",
+  "source": "The CCI dismissed this, asserting that sector-specific rules do not grant immunity from competition law."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In February 2026, the Competition Commission of India (CCI) ordered a formal investigation into IndiGo after the airline's flight cancellations in December 2025. Consider the following statements:",
+  "items": [
+   "The CCI suspects IndiGo used its 60% market share to withhold capacity, creating artificial scarcity and fare spikes.",
+   "The Directorate General of Civil Aviation (DGCA) had earlier fined IndiGo USD 2.45 million for roster failures.",
+   "The CCI rejected IndiGo's argument that the DGCA's ongoing action barred a competition investigation, holding that sector-specific rules do not grant immunity from competition law."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the CCI suspects IndiGo of withholding capacity using its 60% share, the DGCA had already fined it USD 2.45 million, and the CCI dismissed IndiGo's plea that DGCA action shielded it from competition law. IndiGo had cancelled over 4,500 flights in early December 2025, stranding tens of thousands of passengers.",
+  "source": "The CCI dismissed this, asserting that sector-specific rules do not grant immunity from competition law."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3177,
+  "output_tokens": 863,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

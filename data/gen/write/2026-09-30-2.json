@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-09-30-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 817,
+  "output_tokens": 1483,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US legal moves shaping India-US trade talks and the summit behind Xi Jinping's New Delhi visit; the remarks themselves are skipped as commentary.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–US trade relations as of September 2026:",
+    "items": [
+     "The US Supreme Court struck down reciprocal tariffs in February 2026.",
+     "The US Trade Representative is investigating alleged excess capacity in Indian manufacturing under Section 301 of the US Trade Act.",
+     "Commerce Minister Piyush Goyal said India is waiting for Washington to guarantee it lower tariffs than competing economies."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The Supreme Court struck down reciprocal tariffs in February, the USTR has opened a Section 301 probe into Indian manufacturing, and Goyal said on September 24 that the terms were almost done. Washington is still settling a new legal basis for tariffs.",
+    "source": "Separately, the US Trade Representative (USTR) is investigating alleged excess capacity in Indian manufacturing under Section 301 of the US Trade Act."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, External Affairs Minister S Jaishankar said India–China ties had improved following Chinese President Xi Jinping's visit to New Delhi. Which summit did Xi attend during that visit?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "BRICS summit",
+     "SCO summit",
+     "G20 summit",
+     "East Asia Summit"
+    ],
+    "answer": 0,
+    "explain": "Xi Jinping visited New Delhi for the BRICS summit, and Jaishankar said ties have improved since then. He summed up India's approach to China as not getting locked into a problem that benefits others.",
+    "source": "Jaishankar said ties with China have improved since 2025, and even more since 2024, following President Xi Jinping’s visit to New Delhi for the BRICS summit."
+   }
+  ]
+ }
+}

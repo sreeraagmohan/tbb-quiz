@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-15-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 294,
+  "output_tokens": 1210,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the expressway's length, wildlife corridor and tunnel location; skipped the cost because the rupee and dollar figures are inconsistent.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Delhi-Dehradun Expressway inaugurated in April 2026:",
+    "items": [
+     "It is a 210-km corridor designed to cut travel time between Delhi and Uttarakhand from 6 hours to 2.5 hours.",
+     "It features a 12-kilometre elevated wildlife corridor to protect the Shivalik forest ecosystem.",
+     "It includes a 340-metre tunnel near Delhi."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The 340-metre tunnel is near Dehradun, not Delhi, and is meant to improve connectivity to the Himalayan foothills. The 12-km elevated wildlife corridor is described as Asia's largest.",
+    "source": "The 210-km corridor, built at a cost of approximately ₹13,000 crore ($14mn), features Asia’s largest 12-kilometre elevated wildlife corridor to protect the Shivalik forest ecosystem."
+   }
+  ]
+ }
+}

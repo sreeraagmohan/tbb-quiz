@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-01-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 236,
+  "output_tokens": 1082,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A temporary customs duty waiver extension. I tested its origin and coverage, both of which the story states plainly.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "By July 2026, the Centre had extended its full customs duty exemption on critical petrochemical imports until July 15, 2026. Consider the following statements about this waiver:",
+    "items": [
+     "It was introduced in April 2026 as a temporary measure after the West Asia conflict disrupted supply chains.",
+     "The extension added new products to the list covered by the waiver."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the extended waiver covers the same product list as before. The exemption began in April after the West Asia conflict disrupted supply chains, when Indian refiners were directed to prioritise LPG production. The fifteen-day extension past the June 30 deadline is meant to ease the transition.",
+    "source": "The waiver, introduced in April as a temporary measure after the West Asia conflict disrupted supply chains and Indian refiners were directed to prioritise liquefied petroleum gas (LPG) production, covers the same product list as before."
+   }
+  ]
+ }
+}

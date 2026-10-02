@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-08-25-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 493,
+  "output_tokens": 2018,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the August 2026 lifting of the wheat export ban: the ban timeline and record harvest, the notifying body, and the Black Sea disruption behind high prices.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, India lifted its ban on wheat exports. Consider the following statements about the ban and its background:",
+    "items": [
+     "The ban on wheat exports was first imposed in May 2022.",
+     "The export curbs were extended to wheat flour in August 2022.",
+     "India's last wheat harvest before the lifting of the ban, at 120.6 million tonnes, fell short of the country's previous record."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first two statements are correct. The third is wrong because the 120.6 million tonne harvest was an all-time high, rebuilding the buffer that the heatwave-hit 2022 crop had drained.",
+    "source": "India's last harvest hit an all-time high of 120.6 million tonnes, rebuilding the buffer the 2022 crop had drained."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, India scrapped its ban on exports of wheat, durum wheat, flour and related products. Which body issued the notifications clearing these shipments?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Directorate General of Foreign Trade",
+     "Food Corporation of India",
+     "Commission for Agricultural Costs and Prices",
+     "Central Board of Indirect Taxes and Customs"
+    ],
+    "answer": 0,
+    "explain": "The DGFT notifications cleared shipments of wheat, the durum variety, flour and related products. The ban had been in place since May 2022, after a price spike following Russia's invasion of Ukraine pulled record volumes of Indian wheat abroad.",
+    "source": "clearing shipments of wheat, the durum variety, flour, and related products through notifications from the Directorate General of Foreign Trade (DGFT)."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, attacks on commercial vessels and ports in which sea disrupted grain flows from major exporters and pushed Chicago wheat futures to a two-year high?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Black Sea",
+     "Caspian Sea",
+     "Baltic Sea",
+     "Red Sea"
+    ],
+    "answer": 0,
+    "explain": "Escalating Russia-Ukraine attacks in the Black Sea disrupted grain flows from some of the world's top exporters. Indian shipments could ease pressure on import-dependent countries across Asia, Africa and West Asia.",
+    "source": "Escalating Russia-Ukraine attacks on commercial vessels and ports in the Black Sea have disrupted grain flows from some of the world's top exporters and pushed Chicago wheat futures to a two-year high."
+   }
+  ]
+ }
+}

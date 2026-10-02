@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-13-2-1",
+ "story_id": "2026-08-13-2",
+ "target": 1,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the petroleum shipment from India that reached Russia in early August 2026:",
+  "items": [
+   "It marked the first time Russia had imported fuel from India.",
+   "The cargo went through a ship-to-ship transfer off Egypt's Damietta port.",
+   "A US bill that names India among buyers of Russian oil authorises tariffs of up to 50% on such buyers."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The third statement is wrong. The US bill names India among five countries and authorises tariffs of up to 100% on buyers of Russian oil. The 42,000-tonne cargo took a lengthy detour via Damietta, which suggests Russia's fuel shortage is severe enough to justify paying for supply from South Asia.",
+  "source": "The shipment marks the first time ever that Russia has imported fuel from India"
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the petroleum shipment from India that reached Russia in early August 2026:",
+  "items": [
+   "It was shipped from a refinery owned by Reliance Industries.",
+   "The cargo went through a ship-to-ship transfer off Egypt's Damietta port.",
+   "A US bill that names India among buyers of Russian oil authorises tariffs of up to 100% on such buyers."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "The first statement is wrong. The 42,000-tonne shipment came from Rosneft-backed Nayara Energy's Vadinar refinery, not from Reliance Industries. It marked the first time Russia had imported fuel from India, which suggests Russia's fuel crisis is severe.",
+  "source": "The trade has put India among five countries named in a US bill that authorises tariffs up to 100% on buyers of Russian oil"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2815,
+  "output_tokens": 1047,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

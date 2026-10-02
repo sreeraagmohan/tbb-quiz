@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-08-1-2",
+ "story_id": "2026-07-08-1",
+ "target": 0,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to outcomes of Prime Minister Modi's state visit to Indonesia in July 2026:",
+  "items": [
+   "Steel Authority of India — Joint venture with Krakatau Steel for a stainless-steel slab facility",
+   "IIM Bangalore — First overseas campus at the Singhasari Special Economic Zone",
+   "Unified Payments Interface — Integration with Indonesia's payment system"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three pairs match the outcomes described in the story. The two sides exchanged 14 agreements covering critical minerals and rare earths, steel, health, space and telecommunications.",
+  "source": "A Steel Authority of India (SAIL) joint venture with Krakatau Steel will build a stainless-steel slab facility in Indonesia, India's Unified Payments Interface (UPI) will integrate with Indonesia's payment system, and the Indian Institute of Management (IIM) Bangalore will open its first overseas campus at the Singhasari Special Economic Zone."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to outcomes of Prime Minister Modi's state visit to Indonesia in July 2026:",
+  "items": [
+   "Steel Authority of India — Joint venture with Krakatau Steel for a stainless-steel slab facility in India",
+   "IIM Ahmedabad — First overseas campus at the Singhasari Special Economic Zone",
+   "Unified Payments Interface — Integration with Indonesia's payment system"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Pair 1 is wrong because the SAIL and Krakatau Steel joint venture will build the stainless-steel slab facility in Indonesia, not India. Pair 2 is wrong because it is IIM Bangalore, not IIM Ahmedabad, that will open its first overseas campus at Singhasari; only the UPI pair is correct. The two sides exchanged 14 agreements covering critical minerals and rare earths, steel, health, space and telecommunications.",
+  "source": "A Steel Authority of India (SAIL) joint venture with Krakatau Steel will build a stainless-steel slab facility in Indonesia, India's Unified Payments Interface (UPI) will integrate with Indonesia's payment system, and the Indian Institute of Management (IIM) Bangalore will open its first overseas campus at the Singhasari Special Economic Zone."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4221,
+  "output_tokens": 965,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

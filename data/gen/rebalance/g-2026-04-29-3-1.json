@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-29-3-1",
+ "story_id": "2026-04-29-3",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, the Reserve Bank of India ordered banks to report offshore rupee derivative trades executed by their group entities. Consider the following statements about this mandate:",
+  "items": [
+   "Banks must report both deliverable and non-deliverable over-the-counter FX contracts.",
+   "Foreign lenders must disclose trades from their offshore units, not just their Indian branches.",
+   "Lenders must report 100% of notional value by July 2027."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: implementation is phased, with 70% of notional value due by July 2027 and 100% by July 2028. Trades under USD 1 million are exempt, and including offshore units closes a major loophole for foreign lenders.",
+  "source": "Lenders must report 70% of notional value by July 2027, hitting 100% by July 2028."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, the Reserve Bank of India ordered banks to report offshore rupee derivative trades executed by their group entities. Consider the following statements about this mandate:",
+  "items": [
+   "Banks must report over-the-counter FX contracts to the Securities and Exchange Board of India.",
+   "Foreign lenders must disclose trades from their offshore units, not just their Indian branches.",
+   "Lenders must report 100% of notional value by July 2028."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: banks must report both deliverable and non-deliverable over-the-counter FX contracts to the Clearing Corporation of India, not SEBI. Statements 2 and 3 are correct, with implementation phased from 70% of notional value by July 2027 to 100% by July 2028, and trades under USD 1 million exempt.",
+  "source": "Banks must now report both deliverable and non-deliverable over-the-counter FX contracts to the Clearing Corporation of India."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2873,
+  "output_tokens": 827,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

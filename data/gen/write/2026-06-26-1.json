@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-06-26-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 640,
+  "output_tokens": 1675,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Corporate pledge with a policy hook. Tested the Budget 2026-27 tax incentives for foreign cloud providers and the comparative Big Tech investment pledges.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the incentives for foreign cloud service providers in the Union Budget 2026-27:",
+    "items": [
+     "It offers a tax holiday until 2047 on income earned by serving global clients through data centres located in India.",
+     "It provides a 15% safe-harbour margin on related-party transactions."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "The Budget gave foreign cloud providers a 20-year tax holiday until 2047 on income from serving global clients via Indian data centres, along with a 15% safe-harbour margin on related-party deals. In June 2026, Amazon's enlarged India pledge followed these incentives, with its new tranche going to data centres in Mumbai and Hyderabad.",
+    "source": "which handed foreign cloud providers a 20-year tax holiday until 2047 on income earned by serving global clients through Indian data centres, plus a 15% safe-harbour margin on related-party deals"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of companies and their India investment commitments as reported in June 2026:",
+    "items": [
+     "Amazon — USD 48 billion through 2030",
+     "Microsoft — USD 15 billion",
+     "Google — USD 15 billion"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Microsoft's pledge is USD 17.5 billion, not USD 15 billion. Google committed USD 15 billion, and Amazon raised its total to USD 48 billion through 2030, a figure the Centre called a record. Amazon's total combines a fresh USD 13 billion with the USD 35 billion it pledged in December 2025.",
+    "source": "Microsoft has pledged USD 17.5 billion and Google has committed USD 15 billion on comparable horizons."
+   }
+  ]
+ }
+}

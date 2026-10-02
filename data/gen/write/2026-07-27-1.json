@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-27-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 783,
+  "output_tokens": 1888,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the examination reform task force and the change at the Education Ministry; skipped the protest details and political claims.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the response to the exam paper leak protests in July 2026:",
+    "items": [
+     "The Prime Minister named Nandan Nilekani to head a six-member task force on examination reform.",
+     "Former Intelligence Bureau director Tapan Deka is a member of the task force.",
+     "The report of the 2019 Supreme Court-appointed panel on the Staff Selection Commission's 2017 recruitment exams, on which Nilekani sat, was made public."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first two statements are correct. The third is wrong because the 2019 panel's report was never made public. Former ISRO chairman S. Somanath is also on the new task force.",
+    "source": "Nilekani sat on a Supreme Court-appointed panel in 2019 after alleged irregularities in the Staff Selection Commission's 2017 recruitment exams, and that report was never made public."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, after Dharmendra Pradhan resigned as Education Minister, who took charge of the education ministry?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Pralhad Joshi",
+     "Piyush Goyal",
+     "Ashwini Vaishnaw",
+     "Nirmala Sitharaman"
+    ],
+    "answer": 0,
+    "explain": "Pralhad Joshi took charge on 26 July 2026, a day after President Droupadi Murmu accepted Pradhan's resignation. Joshi also continues to hold Consumer Affairs, Food and Public Distribution, and New and Renewable Energy.",
+    "source": "Pralhad Joshi took charge of the education ministry on Sunday and opened with a review meeting."
+   }
+  ]
+ }
+}

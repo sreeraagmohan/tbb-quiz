@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-22-aitn2-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 423,
+  "output_tokens": 1006,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the two-thirds threshold under the anti-defection law and the Speaker's role in disqualification petitions; personalities skipped.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, six of the nine Lok Sabha MPs of the Shiv Sena (UBT) joined the faction led by Eknath Shinde. Consider the following statements:",
+    "items": [
+     "Six of nine MPs meets the two-thirds threshold that shields the group from disqualification under India's anti-defection law.",
+     "The Thackeray camp signalled it would approach the Supreme Court directly, bypassing the Lok Sabha Speaker."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong: the Thackeray camp said it would first seek disqualification before the Lok Sabha Speaker, and only failing that go to the Supreme Court. The anti-defection law otherwise unseats lawmakers who switch parties, which is why the number six mattered.",
+    "source": "six of nine is the two-thirds threshold that shields the group from disqualification under India's anti-defection law, which otherwise unseats lawmakers who switch parties."
+   }
+  ]
+ }
+}

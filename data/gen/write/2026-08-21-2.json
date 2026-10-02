@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-21-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 442,
+  "output_tokens": 2166,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the August 2026 duty-free raw sugar import decision, the supply-demand shortfall behind it, and the 20% ethanol blending link.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's sugar import decision of August 2026:",
+    "items": [
+     "Mills and refiners were allowed to import 1 million metric tons of raw sugar duty-free until 31 October.",
+     "The duty-free window replaced the usual 100% tariff on sugar imports.",
+     "It marked India's first sugar import in nearly a decade."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct: on 20 August 2026 New Delhi allowed 1 million metric tons of raw sugar in duty-free until 31 October, in place of the usual 100% tariff. India went from exporting sugar to importing it within a single harvest.",
+    "source": "On Thursday, New Delhi allowed mills and refiners to import 1 million metric tons of raw sugar duty-free until October 31, replacing the usual 100% tariff."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's sugar supply position as reported in August 2026:",
+    "items": [
+     "The harvest forecast of 27.9 million metric tons is below India's annual consumption of 28.5 million metric tons.",
+     "Before halting exports in May 2026, India had shipped the entire 1.59 million metric tons of sugar it had approved for export."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong: India approved 1.59 million metric tons of exports but shipped only a little over 600,000 before halting trade in May. Output was initially expected at 30.95 million metric tons before the forecast was cut.",
+    "source": "The harvest is now forecast at 27.9 million, below annual consumption of 28.5 million."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As reported in August 2026, Indian sugar mills diverted sugar into ethanol as India locked in petrol containing what share of ethanol?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "20%",
+     "10%",
+     "15%",
+     "27%"
+    ],
+    "answer": 0,
+    "explain": "India locked in petrol blended with 20% ethanol, and mills diverted around 3 million metric tons of sugar equivalent into ethanol. This diversion contributed to the shortfall that forced sugar imports.",
+    "source": "Mills diverted around 3 million metric tons of sugar equivalent into ethanol as India locked in petrol containing 20% ethanol."
+   }
+  ]
+ }
+}

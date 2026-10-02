@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-16-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 829,
+  "output_tokens": 1957,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the tariff commitments and exclusions, the market-access figures, and the Double Contribution Convention of the India-UK CETA that took effect in July 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-UK Comprehensive Economic and Trade Agreement (CETA), which took effect in July 2026:",
+    "items": [
+     "The UK removes duties immediately on 96.8% of tariff lines, covering 97.7% of trade value.",
+     "India removes duties immediately on 64.1% of tariff lines and phases out tariffs on a further 21%.",
+     "Dairy products are among the sectors India opens to UK imports on a phased basis."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because dairy, grains and oilseeds stay off the table entirely, the same defensive basket India has protected in every recent trade agreement. Indian textiles, leather, footwear, marine products, gems and jewellery gain duty-free entry against UK tariffs that ran from 4% to 20%.",
+    "source": "Dairy, grains, and oilseeds stay off the table entirely, the same defensive basket India has protected in every recent trade agreement."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the India-UK CETA, which came into force in July 2026:",
+    "items": [
+     "Completely built UK vehicles allowed each year at preferential tariffs — 37,000",
+     "Services sub-sectors covered by market access — 137",
+     "Value of India's procurement market opened to UK suppliers — around USD 120 billion"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong. India's procurement market opens to UK suppliers at around USD 114 billion, while roughly USD 120 billion is the size of the UK's own procurement market. The automobile opening comes through a phased quota of 37,000 vehicles a year.",
+    "source": "India's procurement market opens to UK suppliers at around USD 114 billion."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Double Contribution Convention, linked to the India-UK trade agreement that took effect in July 2026, exempts eligible Indian professionals and employers from which UK levy?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "National Insurance contributions",
+     "Carbon border adjustment charges",
+     "Steel import quota duties",
+     "Digital services tax payments"
+    ],
+    "answer": 0,
+    "explain": "The convention exempts eligible Indian professionals and employers from UK National Insurance contributions for stays of up to five years. It covers roughly 75,000 workers and 900 employers, and it protects India's services trade with the UK, where India ran a surplus of nearly USD 7.9 billion in 2024.",
+    "source": "The linked Double Contribution Convention exempts eligible Indian professionals and employers from the UK's National Insurance contributions for stays of up to five years, covering roughly 75,000 workers and 900 employers."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-07-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 595,
+  "output_tokens": 1486,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Mostly a market-moves story. The questions test India's crude import dependence, the role of Hormuz, the fall in forex reserves and the RBI's rupee measures, not index levels or the Brent price.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As of April 2026, roughly 40-50% of India's energy needs transited which waterway, whose closure after a conflict that began in February 2026 squeezed Indian energy security?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Strait of Malacca",
+     "Bab-el-Mandeb Strait",
+     "Suez Canal"
+    ],
+    "answer": 0,
+    "explain": "The story says 40-50% of India's energy needs transit the Strait of Hormuz, and India imports 85% of its crude. Brent crude hit USD 109.77 while Iran kept the strait blocked, roughly 50% higher than when the conflict started on 28 February.",
+    "source": "India imports 85% of its crude, with 40-50% of its energy needs transiting Hormuz."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's economic position during the Strait of Hormuz closure between late February and early April 2026:",
+    "items": [
+     "India imports about 85% of its crude oil.",
+     "India's foreign exchange reserves rose by over USD 30 billion as capital flowed in.",
+     "The RBI banned non-deliverable forwards to curb speculative trades in the rupee."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Forex reserves fell by USD 30.5 billion as the RBI intervened to defend the rupee, and foreign portfolio investors pulled out a record Rs 1.22 lakh crore in March. The RBI also capped banks' rupee positions.",
+    "source": "Forex reserves have fallen USD 30.5 billion since late February as the RBI intervened to defend the rupee."
+   }
+  ]
+ }
+}

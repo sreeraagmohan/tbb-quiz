@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-08-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 215,
+  "output_tokens": 151,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped. This is a building-collapse accident, and its only institutional angle is a promised structural-safety certification rule that has not yet been enacted.",
+  "questions": []
+ }
+}

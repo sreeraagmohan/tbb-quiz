@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-03-12-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 184,
+  "output_tokens": 927,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the March 2026 motion against Speaker Om Birla: its rarity and how the Lok Sabha disposed of it.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In March 2026, the Lok Sabha took up a no-confidence motion against Speaker Om Birla. Consider the following statements:",
+    "items": [
+     "It was only the fourth such motion against a Speaker in India's parliamentary history.",
+     "The motion was defeated in a recorded division of members."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The motion was rejected by voice vote, not in a recorded division. The opposition INDIA alliance, led by the Congress, filed it, citing repeated denial of floor time to its members.",
+    "source": "rejected a no-confidence motion against Speaker Om Birla by voice vote on Tuesday, only the fourth such motion in the country's parliamentary history"
+   }
+  ]
+ }
+}

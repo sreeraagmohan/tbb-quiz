@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-03-13-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 669,
+  "output_tokens": 2560,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US trade-law tools named in the story (IEEPA, Sections 122 and 301), the target of the March 2026 investigation, and the 18% baseline in the India–US interim framework.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about US trade measures affecting India in early 2026:",
+    "items": [
+     "The White House used Section 122 of the Trade Act to impose a temporary 15% global tariff that expires in late July 2026.",
+     "Tariffs under Section 301 rest on presidential discretion rather than on formal investigations.",
+     "The India–US framework for an interim trade deal, reached in February 2026, set an 18% baseline tariff on Indian goods."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because Section 301 builds on formal investigations and findings of unfair trade practices, not presidential discretion, which gives its levies a stronger legal footing. Section 301 could override the 18% baseline with higher, sector-specific duties.",
+    "source": "It builds on formal investigations and findings of unfair trade practices rather than presidential discretion, giving any resulting levies a stronger legal foundation."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In early 2026, the US Supreme Court struck down tariffs imposed by President Trump under which law?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "International Emergency Economic Powers Act",
+     "Section 122 of the Trade Act",
+     "Section 301 of the Trade Act",
+     "Section 232 of the Trade Expansion Act"
+    ],
+    "answer": 0,
+    "explain": "The Court struck down Trump's emergency tariffs under IEEPA, after which the White House pivoted to Section 122 for a temporary 15% global tariff. Section 301 is the replacement strategy for when that expires.",
+    "source": "This new development comes weeks after the Supreme Court struck down Trump’s emergency tariffs under IEEPA, which we covered here."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, the US launched a Section 301 investigation into trading partners including India, the EU and China. What did the investigation target?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Structural excess capacity in manufacturing",
+     "Currency manipulation by central banks",
+     "Digital services taxes on US firms",
+     "Forced transfer of US technology"
+    ],
+    "answer": 0,
+    "explain": "Washington framed the probe around what it calls structural excess capacity in manufacturing. US Trade Representative Jamieson Greer hoped to conclude it before the temporary tariffs expire in July.",
+    "source": "targeting what Washington calls structural excess capacity in manufacturing"
+   }
+  ]
+ }
+}

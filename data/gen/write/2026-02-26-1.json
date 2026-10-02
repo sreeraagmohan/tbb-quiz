@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-02-26-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 631,
+  "output_tokens": 2683,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Special Strategic Partnership upgrade, the defence systems tied to Sudarshan Chakra and the Hexagon of Alliances, and the IMEC link. The USD 10 billion pact is skipped because it is only a target.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, during Prime Minister Narendra Modi's two-day visit to Israel, India–Israel ties were upgraded to which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Special Strategic Partnership",
+     "Comprehensive Strategic Partnership",
+     "Global Strategic Partnership",
+     "Privileged Strategic Partnership"
+    ],
+    "answer": 0,
+    "explain": "The visit upgraded bilateral ties to a Special Strategic Partnership. Israel usually reserves this status for allies such as the US and Germany.",
+    "source": "By upgrading ties to a Special Strategic Partnership, India now holds an elite status Israel usually reserves for its allies, such as the US and Germany."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Israel cooperation announced during Prime Minister Modi's visit to Israel in February 2026:",
+    "items": [
+     "Israeli systems such as the Iron Dome and the Arrow interceptor are being folded into Sudarshan Chakra, India's planned indigenous missile shield.",
+     "Talks are underway for the co-production of the Iron Beam, a 100kW laser-based defence system.",
+     "The \"Hexagon of Alliances\" unveiled by Benjamin Netanyahu links India, Israel, Greece and Cyprus with moderate Arab and African states."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements match the story. Sudarshan Chakra is India's planned indigenous missile shield, the Iron Beam is Israel's 100kW laser system, and the Hexagon was pitched as a counterweight to the \"radical Shia axis\" and an \"emerging radical Sunni axis\".",
+    "source": "India is folding Israeli tech, including the Iron Dome and Arrow interceptor, into Sudarshan Chakra, its planned indigenous missile shield."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The \"Hexagon of Alliances\", unveiled by Israeli Prime Minister Benjamin Netanyahu during Narendra Modi's February 2026 visit to Israel, was described as giving a boost to which connectivity project?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India-Middle East-Europe Economic Corridor",
+     "International North-South Transport Corridor",
+     "China-Pakistan Economic Corridor",
+     "Chabahar Port connectivity project"
+    ],
+    "answer": 0,
+    "explain": "The story says the Hexagon also boosts the India-Middle East-Europe Economic Corridor (IMEC). The grouping links India, Israel, Greece and Cyprus with moderate Arab and African states.",
+    "source": "It also gives a boost to the India-Middle East-Europe Economic Corridor (IMEC)."
+   }
+  ]
+ }
+}

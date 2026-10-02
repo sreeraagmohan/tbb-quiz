@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-06-3-1",
+ "story_id": "2026-02-06-3",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Bharat Taxi, launched in February 2026:",
+  "items": [
+   "It was launched by the Union Minister of Cooperation.",
+   "It uses surge pricing, with drivers keeping a fixed share of each fare.",
+   "Before launch, it ran a pilot in Delhi-NCR and Gujarat."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. Bharat Taxi is a zero-commission, surge-free platform where drivers receive the full fare and any surplus goes back to members. Amit Shah, Union Home and Cooperation Minister, launched it on 5 February 2026 after a two-month pilot in Delhi-NCR and Gujarat.",
+  "source": "On Thursday, Union Home and Cooperation Minister Amit Shah launched Bharat Taxi, pitching it as a driver-owned, zero-commission ride-hailing platform."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Bharat Taxi, launched in February 2026:",
+  "items": [
+   "It was launched by the Union Minister of Cooperation.",
+   "It is a surge-free platform on which drivers receive the full fare.",
+   "Before launch, it ran a pilot in Delhi-NCR and Gujarat."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct. Amit Shah, Union Home and Cooperation Minister, launched Bharat Taxi on 5 February 2026 after a two-month pilot in Delhi-NCR and Gujarat, as a zero-commission, surge-free platform where drivers receive the full fare. Any surplus is routed back to members, and drivers also get health insurance, accident cover and retirement savings.",
+  "source": "A zero-commission, surge-free platform where drivers receive the full fare and any surplus is routed back to members."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3159,
+  "output_tokens": 646,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

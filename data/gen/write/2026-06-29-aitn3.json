@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-29-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 283,
+  "output_tokens": 975,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the named HADR operation to Venezuela: aircraft, cause of the disaster and hospital units deployed.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Operation Amistad, launched by India in June 2026 to assist Venezuela:",
+    "items": [
+     "India dispatched two Indian Air Force C-17 Globemaster aircraft for the mission.",
+     "The relief was sent in response to a devastating hurricane.",
+     "The deployment included two BHISHM portable hospitals."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the relief was sent in response to a devastating earthquake, not a hurricane. India's HADR deployments have historically focused on the Indian Ocean neighbourhood, so this airlift to Latin America marks a notable extension of that reach.",
+    "source": "India dispatched two Indian Air Force (IAF) C-17 Globemaster aircraft to Venezuela on 26 June carrying 30 tonnes of relief supplies, six tonnes of medicines, and a 41-member rescue and medical team in response to a devastating earthquake."
+   }
+  ]
+ }
+}

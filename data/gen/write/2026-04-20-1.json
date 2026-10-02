@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-04-20-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 2595,
+  "output_tokens": 2427,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Women's Reservation Act and the failed April 2026 amendment, the 1976 seat freeze, Article 81 and the reserved-seat figures. The total-seat figure is skipped because the story gives both 815 and 816.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, a proposed amendment to the Nari Shakti Vandan Adhiniyam (Women's Reservation Act) failed to clear the Lok Sabha. Consider the following statements:",
+    "items": [
+     "The Act, a 2023 constitutional amendment, reserves one-third of seats for women in the Lok Sabha and state assemblies.",
+     "The Act passed unanimously in September 2023.",
+     "The proposed amendment sought to base implementation on data from the 2027 Census."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. The amendment would have delinked implementation from the upcoming 2027 Census and used 2011 Census data instead, so the quota would be in place for the 2029 general election. Without it, enforcement waits until roughly 2034.",
+    "source": "The law passed unanimously in September 2023 but tied implementation to a future census and delimitation exercise, pushing enforcement to roughly 2034."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In 1976, during the Emergency, the allocation of Lok Sabha seats among states was frozen on the basis of which Census?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "1971 Census",
+     "1961 Census",
+     "1981 Census",
+     "2001 Census"
+    ],
+    "answer": 0,
+    "explain": "The 1976 freeze used 1971 Census figures so that states that controlled population growth, mainly in the South, would not lose seats to states with higher birth rates. The freeze was later extended until 2026.",
+    "source": "In 1976, during the Emergency, the government froze the seat allocation based on the 1971 Census to ensure that states which successfully implemented population control (primarily in the South) were not punished by losing seats to states with higher birth rates (primarily in the North)."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to Lok Sabha seats and delimitation, as discussed in April 2026:",
+    "items": [
+     "Article 81 of the Constitution — delimitation and readjustment of seats after every census",
+     "Seats currently reserved for Scheduled Castes — 84",
+     "Seats currently reserved for Scheduled Tribes — 70"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong. Seats reserved for Scheduled Tribes currently number 47, and 70 was the figure proposed under the expanded House, while Scheduled Caste seats would have risen from 84 to 136. Critics said the failed bill would have removed the Article 81 obligation and left Parliament to decide when delimitation happens and which census it uses.",
+    "source": "Seats reserved for Scheduled Castes and Scheduled Tribes (India's constitutionally recognised disadvantaged communities) also increase, from 84 to 136 and 47 to 70 respectively, with one-third of each reserved for women."
+   }
+  ]
+ }
+}

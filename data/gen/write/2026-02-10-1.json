@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-10-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 700,
+  "output_tokens": 1580,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the deal's stated import exclusions and export access, and the specific farm-price concern over distillers dried grains; protests and demands are left out as transient.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–US interim trade deal, as described by Indian officials in February 2026:",
+    "items": [
+     "It excludes imports of staples such as rice, wheat and corn into India.",
+     "It offers Indian exporters of basmati rice, spices, coffee and tea duty-free access to the US market.",
+     "It opens the Indian market to imports of US dairy products."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Officials say dairy is excluded from the deal along with rice, wheat and corn, so the third statement is wrong. Farm unions argue that lower tariffs on items such as crude soybean oil, apples and animal feed products could still hurt domestic producers.",
+    "source": "Officials say the current deal excludes imports of staples such as rice, wheat, corn and dairy, while offering duty-free access to the US market for Indian exporters of basmati rice, fruits, spices, coffee and tea."
+   },
+   {
+    "topic": "Agriculture",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In February 2026, Indian farm unions opposing the India–US interim trade deal singled out imports of distillers dried grains as a threat to the prices of which crops?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Maize and oilseeds",
+     "Rice and wheat",
+     "Pulses and cotton",
+     "Sugarcane and jute"
+    ],
+    "answer": 0,
+    "explain": "Unions warned that distillers dried grain imports, an animal feed product, could depress maize and oilseed prices. Farm leaders argue Indian growers cannot compete with larger, heavily subsidised US producers.",
+    "source": "with distillers dried grain imports in particular seen as a threat to maize and oilseed prices"
+   }
+  ]
+ }
+}

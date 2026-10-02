@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-06-1-1",
+ "story_id": "2026-02-06-1",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In February 2026, Commerce Minister Piyush Goyal said the first tranche of the India-US trade deal was almost ready. Consider the following statements about implementing the deal:",
+  "items": [
+   "The US can cut its tariffs through an executive order without waiting for the formal signing.",
+   "India can lower its Most-Favoured Nation (MFN) rates on US goods as soon as the joint statement is issued.",
+   "MFN rates are the standard rates India applies to countries with which it has no preferential trade agreement."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. India must wait for the formal signing to lower its MFN rates, and it needs Cabinet approval and possibly legislative changes to apply preferential rates. Goyal expected the deal to be signed by mid-March 2026, with the legal text taking up to a month and a half after the joint statement.",
+  "source": "India, however, must wait for the formal signing to lower its Most-Favoured Nation (MFN) rates, which are standard rates applied to countries that India doesn’t have a preferential trade agreement with."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In February 2026, Commerce Minister Piyush Goyal said the first tranche of the India-US trade deal was almost ready. Consider the following statements about implementing the deal:",
+  "items": [
+   "The US can cut its tariffs through an executive order without waiting for the formal signing.",
+   "India must wait for the formal signing of the deal before it can lower its Most-Favoured Nation (MFN) rates.",
+   "MFN rates are the standard rates India applies to countries with which it has no preferential trade agreement."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the US can cut tariffs immediately by executive order, while India must wait for the formal signing to lower its MFN rates, which are the standard rates for countries without a preferential trade agreement with India. Goyal expected the deal to be signed by mid-March 2026, and India also needs Cabinet approval and possibly legislative changes to apply preferential rates.",
+  "source": "India, however, must wait for the formal signing to lower its Most-Favoured Nation (MFN) rates, which are standard rates applied to countries that India doesn’t have a preferential trade agreement with."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2957,
+  "output_tokens": 661,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

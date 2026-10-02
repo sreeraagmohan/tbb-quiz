@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-04-29-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 262,
+  "output_tokens": 829,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the high commissioner appointment to Bangladesh and the unusual choice of a non-diplomat.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In April 2026, India named Dinesh Trivedi as its next high commissioner to Bangladesh. Consider the following statements:",
+    "items": [
+     "Trivedi is a career diplomat, in keeping with India's usual practice for the post.",
+     "Trivedi is a former railways and health minister who joined the Bharatiya Janata Party in 2021."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because Trivedi is a veteran politician, and appointing a non-diplomat to the post is a rare move. The appointment follows the Bangladesh Nationalist Party's election win in February 2026 and an April 2026 visit by Bangladesh's foreign minister seeking fuel, fertiliser and energy cooperation.",
+    "source": "Trivedi, 75, is a former railways and health minister who joined the Bharatiya Janata Party (BJP) in 2021."
+   }
+  ]
+ }
+}

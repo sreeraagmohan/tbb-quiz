@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-11-3-1",
+ "story_id": "2026-02-11-3",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's policy push on critical minerals and rare-earths, as reported in February 2026:",
+  "items": [
+   "In 2023, India classified more than 20 minerals as critical to its aim of self-reliance.",
+   "The USD 800mn incentive scheme approved in November 2025 targets 6,000 tonnes of permanent magnets annually within three years.",
+   "The Union Budget 2026-27 announced Dedicated Rare-Earth Corridors to cluster mining, processing, R&D and manufacturing."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong: the scheme targets 6,000 tonnes of permanent magnets annually within seven years, not three. The rare-earth corridors aim to shorten timelines, ease approvals and give investors predictable infrastructure.",
+  "source": "In November 2025, it approved an USD 800mn incentive scheme targeting 6,000 tonnes of permanent magnets annually within seven years."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's policy push on critical minerals and rare-earths, as reported in February 2026:",
+  "items": [
+   "The USD 800mn incentive scheme approved in November 2025 targets 6,000 tonnes of permanent magnets annually within three years.",
+   "In 2023, India classified more than 20 minerals as critical to its aim of self-reliance.",
+   "The Union Budget 2026-27 announced Dedicated Rare-Earth Corridors to cluster mining, processing, R&D and manufacturing."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: the scheme targets 6,000 tonnes of permanent magnets annually within seven years, not three. The rare-earth corridors aim to shorten timelines, ease approvals and give investors predictable infrastructure.",
+  "source": "In November 2025, it approved an USD 800mn incentive scheme targeting 6,000 tonnes of permanent magnets annually within seven years."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3542,
+  "output_tokens": 804,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

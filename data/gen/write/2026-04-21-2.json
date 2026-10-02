@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-21-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 498,
+  "output_tokens": 1123,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the RBI's April 2026 rollback of the rupee NDF ban and the position cap that stays in place.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Reserve Bank of India's (RBI) currency market measures in March–April 2026:",
+    "items": [
+     "In April 2026, the RBI lifted its ban on rupee non-deliverable forward (NDF) contracts and restored the ability to rebook cancelled forward contracts.",
+     "The USD 100 million cap on banks' net open positions, imposed in March 2026, was withdrawn along with the NDF ban.",
+     "The rupee hit an all-time low of INR 95.22 to the dollar in late March 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the USD 100 million position cap imposed on March 27 remains in force even after the NDF ban was lifted on 20 April 2026. The RBI had acted after the Iran conflict pushed Brent crude above USD 110 and banks built up an estimated USD 30 to USD 40 billion in onshore-offshore arbitrage positions.",
+    "source": "The Reserve Bank of India (RBI) on Monday lifted its April 1 ban on rupee non-deliverable forward (NDF) contracts and restored the ability to rebook cancelled forward contracts."
+   }
+  ]
+ }
+}

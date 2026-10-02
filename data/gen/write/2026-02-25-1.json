@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-02-25-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 474,
+  "output_tokens": 1177,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Rana citizenship revocation case: its legal basis, his extradition route and when he became a citizen. The Carney visit framing is analysis and is not tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, Canada launched legal proceedings to revoke the citizenship of Tahawwur Hussain Rana, accused by India of helping orchestrate the 2008 Mumbai terror attacks. Consider the following statements:",
+    "items": [
+     "Canada's proceedings are based on terror charges linked to the 2008 Mumbai attacks.",
+     "Rana was extradited to India from the United States in 2025.",
+     "Rana obtained Canadian citizenship in 2001."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong. Canada is not acting on terror charges, and immigration authorities (IRCC) allege Rana committed serious and deliberate deception by lying about his residency details on his citizenship application. The move came days before Prime Minister Mark Carney's scheduled visit to India.",
+    "source": "Following his 2025 extradition from the US, he is currently in Indian custody awaiting trial."
+   }
+  ]
+ }
+}

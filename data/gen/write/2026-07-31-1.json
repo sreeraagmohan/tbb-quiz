@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-31-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 352,
+  "output_tokens": 1506,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the amended anti-paper-leak bill's court design and the legislative step after both Houses passed it; the NEET case and penalties are covered elsewhere.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the amendment to India's anti-paper-leak law passed by Parliament in July 2026:",
+    "items": [
+     "It was passed by the Lok Sabha a day before the Rajya Sabha passed it.",
+     "It creates a new judicial system of specially constituted courts with newly appointed judges.",
+     "It requires every state and union territory to designate an existing Sessions Court and appoint special prosecutors."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the bill does not create a new judicial system; it relies on existing Sessions Courts designated by each state and union territory. The Lok Sabha passed it on 29 July 2026 and the Rajya Sabha on 30 July 2026, and the government says six special fast-track courts are already operating.",
+    "source": "It requires every state and union territory to designate an existing Sessions Court and appoint special prosecutors."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "After both Houses of Parliament passed the tougher anti-paper-leak amendment bill in July 2026, which step remained before it could become law?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Assent of the President",
+     "Ratification by half the states",
+     "Approval at a joint sitting",
+     "Clearance by the Supreme Court"
+    ],
+    "answer": 0,
+    "explain": "With the Rajya Sabha passing the bill on 30 July 2026, a day after the Lok Sabha, it needed only presidential assent to become law. TBB notes the bill shifts the caseload to states and high courts, since designating existing courts as fast track adds no judges.",
+    "source": "It now requires presidential assent."
+   }
+  ]
+ }
+}

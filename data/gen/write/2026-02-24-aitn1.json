@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-02-24-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 97,
+  "output_tokens": 153,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the excerpt never names the two countries, so the USD 70 billion by 2030 trade target cannot be tied to a checkable fact.",
+  "questions": []
+ }
+}

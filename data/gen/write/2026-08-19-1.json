@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-19-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 725,
+  "output_tokens": 291,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story covers internal BJP organisational appointments and party social media strategy, with no durable public-policy, institutional or constitutional fact suitable for Prelims.",
+  "questions": []
+ }
+}

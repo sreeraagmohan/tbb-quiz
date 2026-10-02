@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-05-06-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 855,
+  "output_tokens": 2295,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the ECLGS 5.0 approval, its credit target, its guarantee terms and the scheme's earlier history.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, the Union Cabinet approved the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0 to cushion businesses against the West Asia conflict. What additional credit flow does the scheme target?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "INR 2.55 lakh crore",
+     "INR 3.61 lakh crore",
+     "INR 1.50 lakh crore",
+     "INR 5.00 lakh crore"
+    ],
+    "answer": 0,
+    "explain": "ECLGS 5.0 targets INR 2.55 lakh crore (USD 26.8 billion) in additional credit, including INR 5,000 crore earmarked for airlines. INR 3.61 lakh crore is what versions 1.0 to 4.0 issued in guarantees before the scheme wound down in March 2023.",
+    "source": "The scheme targets INR 2.55 lakh crore (USD 26.8 billion) in additional credit flow, including INR 5,000 crore (USD 526 million) earmarked for airlines."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0 approved in May 2026:",
+    "items": [
+     "The National Credit Guarantee Trustee Company Limited provides 90% guarantee coverage for MSMEs.",
+     "Additional credit for an airline is capped at INR 1,500 crore per borrower.",
+     "Borrowers pay no guarantee fee under the scheme."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong: NCGTC gives 100% coverage for MSMEs, and 90% applies to non-MSMEs and airlines. Airlines can get up to 100% additional credit, capped at INR 1,500 crore per borrower, and there is no guarantee fee.",
+    "source": "The government-owned National Credit Guarantee Trustee Company Limited (NCGTC) provides 100% guarantee coverage for Micro, Small, and Medium Enterprises (MSMEs) and 90% for non-MSMEs and airlines."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the Emergency Credit Line Guarantee Scheme (ECLGS):",
+    "items": [
+     "First launch of ECLGS — May 2020, under the Aatmanirbhar Bharat package",
+     "Winding down of versions 1.0 to 4.0 — March 2023",
+     "Validity of ECLGS 5.0 — until 31 March 2027"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the story. ECLGS began in May 2020 to keep MSMEs afloat during COVID lockdowns, wound down in March 2023, and version 5.0 runs until 31 March 2027. TBB notes that the COVID problem was lost demand, while the West Asia shock hits supply.",
+    "source": "ECLGS was first launched in May 2020 under the Aatmanirbhar Bharat (self-reliant India) package to keep MSMEs afloat during COVID lockdowns."
+   }
+  ]
+ }
+}

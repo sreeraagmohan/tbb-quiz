@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-03-30-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 464,
+  "output_tokens": 780,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly market moves and forecasts; tested only the excise duty cut and India's oil import dependence.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In March 2026, the Iran war that broke out on 28 February put pressure on India's economy. Consider the following statements:",
+    "items": [
+     "The Centre cut excise duties on petrol and diesel by INR 10 per litre to help oil companies.",
+     "India imports about 60% of its oil requirement."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The excise cut is correct, but India imports 85% of its oil, not about 60%. That dependence makes every escalation in West Asia a macro event for India, and the petroleum minister warned the cut would mean a huge hit to tax revenues.",
+    "source": "New Delhi cut excise duties on petrol and diesel by INR 10 per litre to help out oil companies."
+   }
+  ]
+ }
+}

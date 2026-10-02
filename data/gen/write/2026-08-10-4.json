@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-08-10-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 744,
+  "output_tokens": 2245,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the MSMED (Amendment) Bill 2026 on delayed-payment timelines, TReDS for CPSEs, and the recovery, decriminalisation and Udyam provisions.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026, passed by Parliament in August 2026:",
+    "items": [
+     "It mandates that mediation in delayed-payment disputes must be completed within 90 days.",
+     "If a buyer's challenge to an arbitral award is pending for more than six months, courts must release at least 50 per cent of the awarded amount to the MSE supplier.",
+     "It raises the share of an arbitral award that a buyer must deposit with the court when challenging it from 50 per cent to 75 per cent."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: buyers already had to deposit 75 per cent of an award, but its release to the supplier was left to judicial discretion. The bill adds a floor of 50 per cent release once a challenge has been pending for over six months.",
+    "source": "Now, if the challenge sits pending for more than six months, courts must release at least 50 per cent of the awarded amount to the MSE supplier upfront."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Under the MSMED (Amendment) Bill, 2026, passed in August 2026, all Central Public Sector Enterprises must route their payments to MSMEs through which platform?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Trade Receivables Discounting System",
+     "Government e-Marketplace",
+     "Open Network for Digital Commerce",
+     "Unified Payments Interface"
+    ],
+    "answer": 0,
+    "explain": "The bill requires all CPSEs to pay MSMEs through TReDS, an invoice-discounting platform. It also nudges state governments to put their own enterprises on it.",
+    "source": "It also requires all Central Public Sector Enterprises to route their MSME payments through the Trade Receivables Discounting System (TReDS), an invoice-discounting platform, and nudges state governments to put their own enterprises on it too."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the MSMED (Amendment) Bill, 2026, passed by the Lok Sabha in August 2026:",
+    "items": [
+     "It allows a mediated settlement or arbitral award to be recovered as an arrear of land revenue through the district administration.",
+     "It makes registration on the Udyam Registration Portal mandatory and fee-based for all MSMEs.",
+     "It retains criminal conviction as a penalty for failing to register or supply information."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only statement 1 is correct. The Udyam portal gets statutory permanence as a free, voluntary platform, and failures to register or supply information are decriminalised into graded penalties, starting with a warning for a first instance of wrong information.",
+    "source": "The amendment also gives statutory permanence to the Udyam Registration Portal as a free, voluntary digital platform, and formally incorporates the twin criteria of \"investment in plant/machinery\" and \"turnover\" for MSME classification into the Act."
+   }
+  ]
+ }
+}

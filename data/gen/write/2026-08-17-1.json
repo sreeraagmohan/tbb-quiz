@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-17-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 758,
+  "output_tokens": 1923,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Most pledges lacked detail, so the questions test existing platforms and standing targets: SATHEE's partner institution, the Lakhpati Didi definition, the nuclear goal and the IndiaAI Mission's start date.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In his Independence Day address of August 2026, Prime Minister Modi promised free online coaching for competitive examinations. The existing SATHEE platform, which already offers such coaching, is run with which institution?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Indian Institute of Technology, Kanpur",
+     "Indian Institute of Technology, Madras",
+     "Indian Institute of Technology, Bombay",
+     "Indian Institute of Technology, Delhi"
+    ],
+    "answer": 0,
+    "explain": "The Self Assessment Test and Help for Entrance Exams (SATHEE) platform is run with IIT Kanpur. It provides free coaching for engineering, medical and civil service examinations. Modi attached no budget or launch date to the new coaching pledge.",
+    "source": "The Self Assessment Test and Help for Entrance Exams (SATHEE) platform, run with the Indian Institute of Technology, Kanpur, provides free coaching for engineering, medical, and civil service examinations, and the AI pledge scales up the IndiaAI Mission that has run since 2024."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about goals mentioned in Prime Minister Modi's Independence Day address of August 2026:",
+    "items": [
+     "Lakhpati Didis are rural women who earn at least INR 100,000 a year through village savings groups.",
+     "The government's standing target is 100 GW of nuclear power by 2047.",
+     "The IndiaAI Mission was first launched in 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the IndiaAI Mission has run since 2024, and the new pledge to train 10 million young people in AI scales it up. Modi also reaffirmed a target of 60 million Lakhpati Didis.",
+    "source": "Modi reaffirmed his administration's standing goals: 60 million Lakhpati Didis, rural women who earn at least INR 100,000 (USD 1,050) a year through village savings groups; 100 GW of nuclear power by 2047; and more semiconductor plants."
+   }
+  ]
+ }
+}

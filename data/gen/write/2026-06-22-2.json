@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-22-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 688,
+  "output_tokens": 2273,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the FATF's mandate and leadership change, India's 2024 Mutual Evaluation tier, and FIU-IND's role.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, Vivek Aggarwal was appointed India's first-ever vice-president of the Financial Action Task Force (FATF). Consider the following statements:",
+    "items": [
+     "The FATF is a Paris-based intergovernmental body that sets global standards on anti-money laundering and counter-terrorist financing.",
+     "Aggarwal succeeds Giles Thomson of the UK, who becomes FATF president from 1 July 2026.",
+     "Aggarwal's term as vice-president runs from July 2026 to June 2028."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because Aggarwal holds the role from July 2026 to June 2027. Thomson's presidency is expected to focus on payment transparency and underground banking.",
+    "source": "Aggarwal holds the role from July 2026 to June 2027, succeeding Giles Thomson of the UK, who moves up to the FATF presidency from 1 July 2026."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's 2024 FATF Mutual Evaluation:",
+    "items": [
+     "It placed India in the \"regular follow-up\" category, the FATF's highest rating tier.",
+     "India was the only G20 country placed in this tier."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the tier is shared by four other G20 countries. The story says this result laid the credibility foundation for Aggarwal's appointment as FATF vice-president in June 2026.",
+    "source": "The 2024 assessment placed India in the \"regular follow-up\" category, the FATF's highest rating tier, shared by only four other G20 countries."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Vivek Aggarwal, appointed India's first FATF vice-president in June 2026, is a former head of which agency, India's central agency for tracking suspicious financial transactions?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Financial Intelligence Unit-India",
+     "Enforcement Directorate",
+     "Directorate of Revenue Intelligence",
+     "Central Economic Intelligence Bureau"
+    ],
+    "answer": 0,
+    "explain": "Aggarwal previously headed FIU-IND, India's central agency for tracking suspicious financial transactions. He currently serves as Secretary at the Ministry of Culture.",
+    "source": "is a former head of the Financial Intelligence Unit (FIU-IND), India's central agency for tracking suspicious financial transactions"
+   }
+  ]
+ }
+}

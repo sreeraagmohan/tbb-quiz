@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-08-2-1",
+ "story_id": "2026-04-08-2",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, amid a cooking gas shortage, the Union Food Secretary set out the government's position on sugar and edible oils. Consider the following statements:",
+  "items": [
+   "India's annual sugar consumption is about 29 million tonnes, and output was expected to fall below it for a second straight year.",
+   "The government ruled out diverting sugar toward ethanol production to offset crude oil disruption.",
+   "The government announced a cut in import duties on edible oils to cushion consumers."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because Food Secretary Sanjeev Chopra said India has no plans to cut import duties on edible oils or to curb sugar exports. Falling demand from shuttered eateries is easing pressure, with edible oil imports down nearly 9% in March to 1.2 million tonnes.",
+  "source": "Food Secretary Sanjeev Chopra said India has no plans to curb sugar exports or cut import duties on edible oils, despite output falling short of forecasts for a second consecutive year (we covered it here)."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, amid a cooking gas shortage, the Union Food Secretary set out the government's position on sugar and edible oils. Consider the following statements:",
+  "items": [
+   "India's annual sugar consumption is about 29 million tonnes, and output was expected to fall below it for a second straight year.",
+   "The government ruled out diverting sugar toward ethanol production to offset crude oil disruption.",
+   "The government said it had no plans to cut import duties on edible oils."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: Food Secretary Sanjeev Chopra said India has no plans to curb sugar exports or cut edible oil import duties, and ruled out diverting sugar to ethanol, while output is expected to fall below 29 million tonnes of consumption for a second straight year. Falling demand from shuttered eateries is easing pressure, with edible oil imports down nearly 9% in March to 1.2 million tonnes.",
+  "source": "Food Secretary Sanjeev Chopra said India has no plans to curb sugar exports or cut import duties on edible oils, despite output falling short of forecasts for a second consecutive year (we covered it here)."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3263,
+  "output_tokens": 669,
+  "cache_creation_input_tokens": 1080,
+  "cache_read_input_tokens": 798
+ }
+}

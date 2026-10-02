@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-05-14-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 598,
+  "output_tokens": 1889,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Thoothukudi greenfield shipyard location and specifications, the VOYAGES framework, and India's shipbuilding targets and fund.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, the Ministry of Ports, Shipping and Waterways announced a tripartite MoU with South Korea's HD KSOE for India's first mega greenfield shipyard. Where is the shipyard to be built?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Thoothukudi, Tamil Nadu",
+     "Kakinada, Andhra Pradesh",
+     "Paradip, Odisha",
+     "Kandla, Gujarat"
+    ],
+    "answer": 0,
+    "explain": "The MoU, signed in April 2026 and announced by the MoPSW on 13 May 2026, is for a facility in Thoothukudi, Tamil Nadu. South Korean yards bring the high-end technology, and India brings a large workforce.",
+    "source": "signed a tripartite MoU with South Korea’s HD KSOE earlier in April to build a massive facility in Thoothukudi, Tamil Nadu."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–South Korea greenfield shipyard agreement announced in May 2026:",
+    "items": [
+     "The shipyard targets an annual capacity of 2.5 million gross tonnage.",
+     "It is the first major win for VOYAGES, a maritime framework launched during South Korean President Lee Jae Myung's state visit.",
+     "The Indian signatories were National Shipbuilding & Heavy Industries Park and Sagarmala Finance Corporation."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements match the story. The yard targets 2.5 million GT a year under a tripartite MoU with HD KSOE, and it is the first major outcome of the VOYAGES framework.",
+    "source": "The yard targets an annual capacity of 2.5 million gross tonnage (GT)."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India's shipbuilding push, as reported in May 2026:",
+    "items": [
+     "Target year for India to be among the world's top five shipbuilders — 2047",
+     "Corpus of the Maritime Development Fund — USD 2.9 billion",
+     "New vessels India needs by 2042, as projected by the MoPSW — 734"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong because the MoPSW projects that India needs 437 new vessels by 2042, not 734. The government has also overhauled the Merchant Shipping Act and launched a Shipbuilding Financial Assistance Programme to cut contract costs.",
+    "source": "The MoPSW projects that India needs 437 new vessels by 2042."
+   }
+  ]
+ }
+}

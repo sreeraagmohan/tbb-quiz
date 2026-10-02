@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-06-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 718,
+  "output_tokens": 1597,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the statute being amended for UPI merchant fees and basic payment-fee facts; the proposed MDR rates and thresholds are skipped because they are still under consideration.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, the Finance Minister tabled amendments in Parliament to create a legal framework for reintroducing a Merchant Discount Rate on UPI transactions. Which Act was being amended?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Payment and Settlement Systems Act",
+     "Banking Regulation Act",
+     "Foreign Exchange Management Act",
+     "Information Technology Act"
+    ],
+    "answer": 0,
+    "explain": "Nirmala Sitharaman tabled amendments to the Payment and Settlement Systems Act on 4 August 2026 to allow an MDR on UPI. Industry players such as PhonePe and Google Pay argue the zero-fee model cannot cover their infrastructure costs.",
+    "source": "tabled amendments to the Payment and Settlement Systems Act in parliament on Tuesday"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about digital payment fees in India, as of August 2026:",
+    "items": [
+     "The Merchant Discount Rate is a processing fee that merchants pay to banks and payment service providers.",
+     "UPI has been free of merchant fees since 2019.",
+     "Regulations cap the Merchant Discount Rate on debit cards at a maximum of 3%."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Debit card fees are capped by regulation at 0.9%. The 3% figure is the level that credit card MDR can reach. UPI's fee-free status since 2019 helped it process transactions worth INR 30 trillion in July 2026.",
+    "source": "whereas debit card fees are capped by regulations at a maximum of 0.9%"
+   }
+  ]
+ }
+}

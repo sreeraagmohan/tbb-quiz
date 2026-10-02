@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-28-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 613,
+  "output_tokens": 713,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly a corporate earnings story; only the September 2025 GST rate cut on small cars and two-wheelers is a durable policy fact worth testing.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2025, the Goods and Services Tax (GST) rate on small cars and two-wheelers was revised. Which of the following correctly describes the change?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Cut from 28% to 18%",
+     "Cut from 18% to 12%",
+     "Cut from 28% to 12%",
+     "Cut from 12% to 5%"
+    ],
+    "answer": 0,
+    "explain": "The September 2025 GST cuts lowered the tax on small cars and two-wheelers from 28% to 18%. By April 2026 this had lifted industry-wide wholesale volumes 13.2% year-on-year in Q4 FY26, up from 2.4% in the previous quarter.",
+    "source": "driven by the September 2025 GST cuts that slashed tax on small cars and two-wheelers from 28% to 18%."
+   }
+  ]
+ }
+}

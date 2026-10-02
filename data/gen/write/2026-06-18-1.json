@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-06-18-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 637,
+  "output_tokens": 1876,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–UK CETA's entry-into-force date, its farm and steel safeguards, the tariffs it removes, and the social security agreement's exemption period.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, India and the United Kingdom announced the entry into force of their Comprehensive Economic and Trade Agreement (CETA). Consider the following statements about it:",
+    "items": [
+     "It takes effect on 15 July 2026, along with a companion social security agreement.",
+     "India agreed to partially open its dairy, grains and oilseeds sectors to UK imports.",
+     "India negotiated exemptions to protect 85% of its steel exports from the UK's upcoming steel import restrictions."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because India kept dairy, grains and oilseeds completely off the liberalisation table. The deal had earlier stalled over UK steel quotas tightening by 60% from 1 July and a Carbon Border Adjustment Mechanism due in 2027.",
+    "source": "India protected its sensitive agricultural sector, keeping dairy, grains, and oilseeds completely off the liberalization table."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of Indian export categories and the UK tariffs on them that the India–UK CETA removes from July 2026:",
+    "items": [
+     "Textiles — 12%",
+     "Leather — 16%",
+     "Marine products — 21.5%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct, and these tariffs fall to zero on the first day the agreement is in force. Overall, the deal gives India zero-duty access on roughly 99% of its exports to the UK.",
+    "source": "High tariffs on Indian textiles (12%), leather (16%), and marine products (21.5%) will drop to absolute zero on day one."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the India–UK social security agreement announced in June 2026, for up to how long are temporary Indian workers in the UK exempt from paying double social security contributions?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Five years",
+     "Three years",
+     "Seven years",
+     "Ten years"
+    ],
+    "answer": 0,
+    "explain": "The agreement exempts temporary Indian workers from double contributions for up to five years, which TBB says saves about 75,000 professionals. Separately, the UK opened 137 services sub-sectors under the CETA.",
+    "source": "Crucially, the social security agreement exempts temporary Indian workers from paying double social security contributions for up to five years, saving 75,000 professionals from a bureaucratic tax trap."
+   }
+  ]
+ }
+}

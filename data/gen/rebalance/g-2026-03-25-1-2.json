@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-25-1-2",
+ "story_id": "2026-03-25-1",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Supreme Court ruling of March 2026 on conversion and Scheduled Caste status:",
+  "items": [
+   "The ruling was delivered by a bench of Justices Prashant Kumar Mishra and Manmohan.",
+   "The case involved an Andhra Pradesh pastor who had been practising Christianity for over a decade.",
+   "The court held that protections under the Scheduled Castes and Scheduled Tribe (Prevention of Atrocities) Act continue to apply to a convert."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third statement is wrong: the court held that once a person converts and practises another faith, protections under the Atrocities Act cease to apply. The court said legal remedies for caste-based discrimination cannot follow a convert.",
+  "source": "Once a person converts and practices another faith – as in the case of an Andhra Pradesh pastor who had been practising Christianity for over a decade – protections under the Scheduled Castes and Scheduled Tribe (Prevention of Atrocities) Act cease to apply."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Supreme Court ruling of March 2026 on conversion and Scheduled Caste status:",
+  "items": [
+   "The court held that SC status under the Constitution (Scheduled Castes) Order, 1950 is available to Hindus, Sikhs and Christians.",
+   "The case involved a Tamil Nadu pastor who had been practising Christianity for over a decade.",
+   "The court held that protections under the Scheduled Castes and Scheduled Tribe (Prevention of Atrocities) Act continue to apply to a convert."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong. The court held that SC status is restricted to Hindus, Sikhs and Buddhists, the case involved an Andhra Pradesh pastor, and Atrocities Act protections cease to apply once a person converts and practises another faith. The bench of Justices Prashant Kumar Mishra and Manmohan held that the caste system is alien to Christianity and Islam.",
+  "source": "Once a person converts and practices another faith – as in the case of an Andhra Pradesh pastor who had been practising Christianity for over a decade – protections under the Scheduled Castes and Scheduled Tribe (Prevention of Atrocities) Act cease to apply."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3273,
+  "output_tokens": 982,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

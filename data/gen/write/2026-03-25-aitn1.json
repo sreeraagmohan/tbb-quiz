@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-03-25-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 249,
+  "output_tokens": 1061,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Supreme Court's March 2026 ruling in the Harish Rana passive euthanasia case and its link to the 2018 right to die with dignity.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, the Supreme Court permitted the withdrawal of life support for Harish Rana, who had been in a vegetative state for 13 years. Consider the following statements about the case:",
+    "items": [
+     "It was the first case to operationalise the Supreme Court's 2018 recognition of the right to die with dignity.",
+     "The Delhi High Court had allowed the family's plea in 2024, and the Supreme Court upheld that order.",
+     "The Supreme Court ruled that clinically assisted nutrition constitutes medical treatment that can be withdrawn."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the Delhi High Court initially denied the family's plea in 2024, and the Supreme Court overturned that decision. The court held that assisted nutrition can be withdrawn when it no longer serves the patient's interest, and Rana died on 24 March 2026.",
+    "source": "the Supreme Court overturned that, ruling that clinically assisted nutrition constitutes medical treatment that can be withdrawn when it no longer serves the patient's interest."
+   }
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-03-12-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 663,
+  "output_tokens": 1846,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the March 2026 easing of FDI rules for land-bordering countries and the timeline of the India–China thaw.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, India changed its rules on foreign direct investment from land-bordering countries. Consider the following statements about the change:",
+    "items": [
+     "Investments where Chinese beneficial ownership stays below 10% now enter through the automatic route.",
+     "Proposals in electronics, batteries, rare-earth magnets, capital goods and solar cells will receive a government decision within 60 days, provided Indian residents retain majority control.",
+     "The relaxation applies only to investments from China and not to other land-bordering neighbours."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the change is part of a broader policy covering all land-bordering neighbours, though it is squarely aimed at rebuilding commercial ties with Beijing. Under the previous policy, any firm with a Chinese beneficial owner needed government approval regardless of stake, which caught global PE and VC funds with Chinese limited partners.",
+    "source": "Now, investments where Chinese beneficial ownership stays below 10% enter through the automatic route."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the thaw in India–China commercial ties:",
+    "items": [
+     "Galwan clash that froze ties — 2020",
+     "Narendra Modi's first visit to Beijing in seven years — August 2025",
+     "Clearance of business visas for Chinese technicians — February 2026"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Business visas for Chinese technicians were cleared in December 2025; February 2026 was when state-run power and coal companies were allowed to resume equipment imports. The visa freeze had stalled projects such as Bengaluru's Yellow Line metro for years.",
+    "source": "business visas for Chinese technicians were cleared in December"
+   }
+  ]
+ }
+}

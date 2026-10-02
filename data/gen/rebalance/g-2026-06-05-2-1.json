@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-06-05-2-1",
+ "story_id": "2026-06-05-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Critical Minerals Global Supply Chain Observatory (GSCO) launched in New Delhi in June 2026:",
+  "items": [
+   "It is a joint initiative of IIT (ISM) Dhanbad, TEXMiN and the University of Cambridge.",
+   "It was first announced at the India–UK Prime Ministers' bilateral meeting in October 2025.",
+   "It was co-inaugurated by India's Minister of Coal and Mines and the UK Trade Minister."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: the Observatory was co-inaugurated by G Kishan Reddy and UK Foreign Secretary Yvette Cooper, not the Trade Minister. The platform monitors global critical mineral supply chains and was formalised by a Research Collaboration Agreement in March 2026.",
+  "source": "The Critical Minerals Global Supply Chain Observatory (GSCO) is a joint initiative of IIT (ISM) Dhanbad, TEXMiN, and the University of Cambridge."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Critical Minerals Global Supply Chain Observatory (GSCO) launched in New Delhi in June 2026:",
+  "items": [
+   "It is a joint initiative of IIT (ISM) Dhanbad, TEXMiN and the University of Cambridge.",
+   "It was first announced at the India–UK Prime Ministers' bilateral meeting in October 2025.",
+   "It was co-inaugurated by India's Minister of Coal and Mines and the UK Foreign Secretary."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the GSCO is a joint initiative of IIT (ISM) Dhanbad, TEXMiN and the University of Cambridge, it was first announced at the India–UK PM bilateral in October 2025, and it was co-inaugurated by G Kishan Reddy and UK Foreign Secretary Yvette Cooper. The platform was formalised by a Research Collaboration Agreement in March 2026.",
+  "source": "The Observatory went live in New Delhi, co-inaugurated by the Minister of Coal and Mines G Kishan Reddy and UK Foreign Secretary Yvette Cooper."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3597,
+  "output_tokens": 663,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

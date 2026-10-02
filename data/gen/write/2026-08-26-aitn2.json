@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-26-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 211,
+  "output_tokens": 900,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the concrete assurances on fertiliser supply and the size of the India–Russia trade deficit, both stated in the story.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, External Affairs Minister S Jaishankar met Russian President Vladimir Putin. Consider the following statements:",
+    "items": [
+     "Putin assured India that Russia would increase fertiliser shipments amid disruptions in West Asia.",
+     "India's bilateral trade deficit with Russia exceeded USD 50 billion in 2025–26."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Putin promised to sustain energy supplies and step up fertiliser shipments, and Jaishankar pressed Moscow to narrow a deficit that topped USD 50 billion in 2025–26. India sought better market access, payment mechanisms and business ties to close the gap.",
+    "source": "Jaishankar meanwhile pressed Russia to narrow a bilateral trade deficit that exceeded USD 50 billion in 2025–26, calling for better market access, payment mechanisms and business ties."
+   }
+  ]
+ }
+}

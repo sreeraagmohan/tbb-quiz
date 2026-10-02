@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-28-1-2",
+ "story_id": "2026-07-28-1",
+ "target": 0,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the Public Examinations Act amendment bill introduced in July 2026:",
+  "items": [
+   "Maximum fine for individual offenders — INR 50 lakh",
+   "Maximum fine for organised offences — INR 5 crore",
+   "Deadline for completing investigations — two months"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Organised offences would carry fines of up to INR 10 crore and at least seven years in prison. INR 5 crore is the maximum fine for complicit service providers. The individual fine ceiling rises fivefold to INR 50 lakh, and investigations must finish within two months.",
+  "source": "Organised offences would carry at least seven years and fines of up to INR 10 crore (~ USD 1 million)."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the Public Examinations Act amendment bill introduced in July 2026:",
+  "items": [
+   "Maximum fine for individual offenders — INR 50 lakh",
+   "Maximum fine for organised offences — INR 5 crore",
+   "Deadline for completing investigations — three months"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Only pair 1 is correct, as the individual fine ceiling rises fivefold to INR 50 lakh. Pair 2 is wrong because organised offences carry fines of up to INR 10 crore (INR 5 crore applies to complicit service providers), and pair 3 is wrong because investigations must finish within two months. Three months is the deadline from charge sheet to verdict in Special Fast Track Courts.",
+  "source": "Investigations would have to finish within two months, with Courts of Session designated as Special Fast Track Courts running day-to-day trials and a three-month deadline from charge sheet to verdict."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3073,
+  "output_tokens": 715,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

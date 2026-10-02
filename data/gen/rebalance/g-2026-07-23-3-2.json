@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-23-3-2",
+ "story_id": "2026-07-23-3",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's 2025 nuclear law, the SHANTI Act, as reported in July 2026:",
+  "items": [
+   "It permits licensed private participation in nuclear equipment manufacturing.",
+   "It opens the management of nuclear waste to licensed private companies.",
+   "Fuel-cycle activities remain under government control."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong: nuclear waste, like fuel-cycle activities and security, stays under government control. The Act allows licensed private participation in plant operation, generation and manufacturing, and Adani, Tata Power and Reliance have shown interest.",
+  "source": "But fuel-cycle activities, nuclear waste and security remain under government control."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's 2025 nuclear law, the SHANTI Act, as reported in July 2026:",
+  "items": [
+   "It permits licensed private participation in nuclear equipment manufacturing.",
+   "Nuclear waste management remains under government control.",
+   "Fuel-cycle activities remain under government control."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the Act permits licensed private participation in plant operation, generation and manufacturing, while fuel-cycle activities, nuclear waste and security remain under government control. Adani, Tata Power and Reliance have shown interest, although none has joined the Tarapur projects.",
+  "source": "But fuel-cycle activities, nuclear waste and security remain under government control."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2768,
+  "output_tokens": 787,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

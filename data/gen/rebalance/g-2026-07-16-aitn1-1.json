@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-07-16-aitn1-1",
+ "story_id": "2026-07-16-aitn1",
+ "target": 1,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about ethanol-blended petrol in India as of July 2026:",
+  "items": [
+   "India had reached 20% ethanol blending, with E20 sold at every fuel station in the country.",
+   "Union Road Transport Minister Nitin Gadkari said that whether pumps should dispense multiple blends was a matter for his own ministry to decide."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "India hit 20% blending, and E20 is now available at every fuel station. Gadkari said the question of multiple blends sits with the Petroleum Ministry and declined to comment. He repeated the government's position that every E10-compliant vehicle can run on E20.",
+  "source": "India has hit 20% ethanol blending, with E20 now sold at every fuel station in the country."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about ethanol-blended petrol in India as of July 2026:",
+  "items": [
+   "Union Road Transport Minister Nitin Gadkari said that whether pumps should dispense multiple blends was a matter for his own ministry to decide.",
+   "India had reached 20% ethanol blending, with E20 sold at every fuel station in the country."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: Gadkari said the question of multiple blends sits with the Petroleum Ministry and declined to comment. Statement 2 is correct, as India has hit 20% blending and E20 is sold at every fuel station. Gadkari also said motorists who do not want ethanol-blended petrol can buy 100% petrol at a higher price.",
+  "source": "India has hit 20% ethanol blending, with E20 now sold at every fuel station in the country."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2234,
+  "output_tokens": 589,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

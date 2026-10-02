@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-08-04-aitn1-1",
+ "story_id": "2026-08-04-aitn1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Uzbekistan economic relations, as discussed at the India-Uzbekistan Business Forum in New Delhi in August 2026:",
+  "items": [
+   "The India–Uzbekistan Bilateral Investment Treaty entered into force in May 2025.",
+   "Commerce and Industry Minister Piyush Goyal called for doubling bilateral trade within five years."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Goyal called for doubling bilateral trade within three years, not five, from about USD 1.5 billion. He cited the Bilateral Investment Treaty, in force since May 2025, and named mining, textiles, pharmaceuticals, food processing and digital public infrastructure for co-investment.",
+  "source": "citing the Bilateral Investment Treaty (BIT) which entered into force in May 2025"
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Uzbekistan economic relations, as discussed at the India-Uzbekistan Business Forum in New Delhi in August 2026:",
+  "items": [
+   "The India–Uzbekistan Bilateral Investment Treaty entered into force in May 2024.",
+   "Commerce and Industry Minister Piyush Goyal called for doubling bilateral trade within five years."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both statements are wrong: the Bilateral Investment Treaty entered into force in May 2025, not May 2024, and Goyal called for doubling bilateral trade within three years, not five. He put current trade at about USD 1.5 billion and named mining, textiles, pharmaceuticals, food processing and digital public infrastructure for co-investment.",
+  "source": "Commerce and Industry Minister Piyush Goyal called for doubling bilateral trade with Uzbekistan within three years"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2539,
+  "output_tokens": 686,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

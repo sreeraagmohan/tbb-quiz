@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-09-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 231,
+  "output_tokens": 820,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the BRICS summit venue; the trade talks themselves are only possible, with no formal position announced.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Which city was scheduled to host the BRICS summit on 12-13 September 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "New Delhi",
+     "Rio de Janeiro",
+     "Kazan",
+     "Johannesburg"
+    ],
+    "answer": 0,
+    "explain": "India hosted the BRICS summit in New Delhi on 12-13 September 2026. Before it, the Commerce Ministry consulted Indian industry groups about Chinese restrictions on rare-earth magnets, battery technology, solar equipment and specialised power-transmission components.",
+    "source": "Ahead of the Brazil, Russia, India, China, and South Africa (BRICS) summit in New Delhi next week (12-13 September), the Commerce Ministry consulted Indian industry groups about Chinese restrictions on critical technology and components."
+   }
+  ]
+ }
+}

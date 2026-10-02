@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-04-30-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 455,
+  "output_tokens": 284,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story is mainly about foreign portfolio outflows, index declines and sectoral selling, which are market moves without a scheme, law or institutional decision to test.",
+  "questions": []
+ }
+}

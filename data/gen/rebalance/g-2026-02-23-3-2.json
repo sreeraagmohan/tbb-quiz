@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-02-23-3-2",
+ "story_id": "2026-02-23-3",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Brazil trade, as discussed during the Brazilian President's visit to India in February 2026:",
+  "items": [
+   "Bilateral trade between India and Brazil stood at USD 15.2 billion in 2025.",
+   "Prime Minister Modi set a USD 20 billion bilateral trade target to be met within ten years."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the USD 20 billion target is to be met within five years, not ten. Tech and digital collaboration are on the horizon, but raw commodities will anchor the relationship for now.",
+  "source": "Prime Minister Modi set an ambitious USD 20 billion trade target to be met within five years"
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Brazil trade, as discussed during the Brazilian President's visit to India in February 2026:",
+  "items": [
+   "Bilateral trade between India and Brazil stood at USD 20 billion in 2025.",
+   "Prime Minister Modi set a USD 20 billion bilateral trade target to be met within ten years."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because bilateral trade stood at USD 15.2 billion in 2025, and USD 20 billion is the target. Statement 2 is wrong because that target is to be met within five years, not ten. Raw commodities such as iron ore and critical minerals will anchor the relationship for now.",
+  "source": "Bilateral trade stood at USD 15.2 billion in 2025."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2716,
+  "output_tokens": 830,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

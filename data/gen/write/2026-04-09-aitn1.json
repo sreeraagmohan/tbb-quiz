@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-09-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 350,
+  "output_tokens": 640,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly opposition criticism; tested only the concrete fact that Pakistan brokered the US–Iran ceasefire in April 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, which country brokered a two-week ceasefire between the United States and Iran in the West Asia conflict?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Pakistan",
+     "Qatar",
+     "Oman",
+     "Egypt"
+    ],
+    "answer": 0,
+    "explain": "Pakistan brokered the two-week ceasefire between the US and Iran in the conflict that began on 28 February 2026. The Congress party argued that India's lack of any mediating role, while Pakistan stepped in, undercut years of efforts to isolate Islamabad internationally.",
+    "source": "The Congress party attacked PM Modi's foreign policy after Pakistan brokered a two-week ceasefire between the US and Iran in the ongoing West Asia conflict."
+   }
+  ]
+ }
+}

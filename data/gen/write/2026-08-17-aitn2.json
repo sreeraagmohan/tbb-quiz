@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-17-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 253,
+  "output_tokens": 1285,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Enforcement story; tested only the trade-agreement angle (SAFTA origin misdeclaration), which links to rules of origin.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, the Directorate of Revenue Intelligence dismantled a syndicate that passed off South-East Asian areca nuts as Bangladeshi-origin goods. The duty exemptions of which trade agreement were fraudulently claimed?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "South Asian Free Trade Area (SAFTA)",
+     "ASEAN–India Trade in Goods Agreement",
+     "India–Sri Lanka Free Trade Agreement",
+     "India–Japan Comprehensive Economic Partnership"
+    ],
+    "answer": 0,
+    "explain": "The syndicate falsely declared the nuts as Bangladeshi to claim SAFTA duty exemptions. It evaded over INR 2,500 crore in customs duties, and the DRI's operation across Kolkata and Visakhapatnam led to nine arrests.",
+    "source": "by mislabeling South-East Asian areca nuts as Bangladeshi-origin to fraudulently claim SAFTA duty exemptions"
+   }
+  ]
+ }
+}

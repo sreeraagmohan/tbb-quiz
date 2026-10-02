@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-01-20-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 520,
+  "output_tokens": 2157,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the first export of guided Pinaka rockets to Armenia, the system's development and history, and the other countries interested in it.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In January 2026, Defence Minister Rajnath Singh flagged off the first tranche of guided Pinaka rockets for export. To which country were they sent?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Armenia",
+     "Philippines",
+     "Vietnam",
+     "Egypt"
+    ],
+    "answer": 0,
+    "explain": "The first tranche of guided Pinaka rockets was bound for Armenia, which signed its Pinaka deal in September 2022. Singh said India's defence exports have climbed to ₹24,000 crore (USD 2.9 billion).",
+    "source": "Defence Minister Rajnath Singh flagged off the first tranche of guided Pinaka rockets bound for Armenia."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Pinaka rocket system, as reported in January 2026:",
+    "items": [
+     "It was developed by DRDO's Armament Research and Development Establishment (ARDE).",
+     "It was first deployed during the 1999 Kargil War.",
+     "The batch of guided rockets exported to Armenia was produced at a public-sector ordnance factory in Pune."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. The batch was produced at Solar Defence and Aerospace's facility in Nagpur, a private firm, which reflects the growing private role in India's defence supply chain. The system has been upgraded since Kargil to extend range and precision beyond its original 37.5 km.",
+    "source": "The current batch was produced at Solar Defence and Aerospace’s Nagpur facility, underscoring the growing role of private firms in India’s defence supply chain."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of countries and their reported interest in India's Pinaka rocket system as of January 2026:",
+    "items": [
+     "France — Running evaluation trials",
+     "Indonesia — Expressed interest",
+     "Nigeria — Expressed interest"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct. France is running evaluation trials, while Indonesia and Nigeria have expressed interest. Armenia is the first buyer and signed its deal in September 2022.",
+    "source": "France is running evaluation trials, while Indonesia and Nigeria have expressed interest."
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-05-19-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 281,
+  "output_tokens": 892,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the May 2026 upgrade of India–Vietnam ties to an Enhanced Comprehensive Strategic Partnership; the visit itinerary itself is less durable.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In May 2026, during Vietnamese President To Lam's state visit to India, India–Vietnam relations were upgraded to which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Enhanced Comprehensive Strategic Partnership",
+     "Comprehensive Global Strategic Partnership",
+     "Special and Privileged Strategic Partnership",
+     "Comprehensive Strategic and Global Partnership"
+    ],
+    "answer": 0,
+    "explain": "The two countries' Comprehensive Strategic Partnership, which turned 10 years old, was upgraded to an Enhanced Comprehensive Strategic Partnership during To Lam's state visit. Defence Minister Rajnath Singh's Vietnam leg later that month marked the anniversary, with a focus on military cooperation and maritime security.",
+    "source": "recently upgraded to an Enhanced Comprehensive Strategic Partnership during Vietnamese President To Lam's state visit to India earlier this month"
+   }
+  ]
+ }
+}

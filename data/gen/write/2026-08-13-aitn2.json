@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-13-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 274,
+  "output_tokens": 925,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–SACU Terms of Reference: agreement type, first-with-Africa status and negotiating scope.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Terms of Reference signed by India and the Southern African Customs Union (SACU) in August 2026:",
+    "items": [
+     "They set out negotiations towards a Free Trade Agreement between India and SACU.",
+     "They are India's first such framework with an African region.",
+     "The negotiations will cover eight chapters, including rules of origin and a bilateral safeguard mechanism."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the talks are towards a Preferential Trade Agreement, not a Free Trade Agreement. SACU comprises South Africa, Botswana, Namibia, Eswatini and Lesotho, and Commerce Minister Piyush Goyal cited scope for India to supply affordable medicines and IT talent to the bloc.",
+    "source": "The Terms of Reference (ToR) mark India's first such framework with an African region."
+   }
+  ]
+ }
+}

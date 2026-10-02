@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-06-10-3-3",
+ "story_id": "2026-06-10-3",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the VB–G RAM G law, which replaces MGNREGA from 1 July 2026:",
+  "items": [
+   "It adds compensation for delayed wages.",
+   "Expenditure beyond sanctioned limits is shared equally between the Centre and the states."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "The second statement is wrong because spending beyond sanctioned limits falls entirely on state budgets. TBB argues that capping central funds passes the fiscal burden to the states.",
+  "source": "Expenditure beyond sanctioned limits falls entirely on state budgets."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the VB–G RAM G law, which replaces MGNREGA from 1 July 2026:",
+  "items": [
+   "It increases guaranteed annual wage employment from 100 to 150 days per rural household for unskilled manual labour.",
+   "Expenditure beyond sanctioned limits is shared equally between the Centre and the states."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both statements are wrong: the new law raises guaranteed employment from 100 to 125 days, not 150, and spending beyond sanctioned limits falls entirely on state budgets. Under the new model, states must also bear at least 40% of the cost, whereas New Delhi previously footed the entire wage bill.",
+  "source": "The new law increases guaranteed annual wage employment from 100 to 125 days per rural household for unskilled manual labour."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3144,
+  "output_tokens": 787,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

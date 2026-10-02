@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-08-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 198,
+  "output_tokens": 201,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the 10-million figure is an aspirational goal from a ministerial speech, with no deadline, funding or binding target, so there is no durable policy fact to test.",
+  "questions": []
+ }
+}

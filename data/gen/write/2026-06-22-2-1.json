@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-06-22-2-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 742,
+  "output_tokens": 2499,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests India's 2026 BRICS chairship, the expanded membership and NSA meeting theme, event venues, and the India–China Special Representatives mechanism.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about BRICS in 2026:",
+    "items": [
+     "India holds the BRICS chair and will host the leaders' summit in September 2026.",
+     "The BRICS National Security Advisers' Meeting held in June 2026 was themed on non-traditional security challenges, including counter-terrorism and security in the use of ICTs.",
+     "Saudi Arabia and Argentina are among the countries that joined the bloc beyond its founding five."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. The eleven-member bloc added Egypt, Ethiopia, Indonesia, Iran, Saudi Arabia and the United Arab Emirates, not Argentina. India's chairship calendar builds toward the September leaders' summit, and chairing lets Delhi set the agenda on a consensus-based platform.",
+    "source": "India is this year's chair of the now eleven-member bloc, which has expanded beyond its founding five to take in Egypt, Ethiopia, Indonesia, Iran, Saudi Arabia, and the United Arab Emirates."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of events and their venues:",
+    "items": [
+     "BRICS National Security Advisers' Meeting, June 2026 — New Delhi",
+     "BRICS energy ministers' meeting, June 2026 — Gurugram",
+     "Shanghai Cooperation Organisation summit, August 2025 — Tianjin"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct. Ajit Doval opened the NSA meeting in New Delhi on 22 June 2026, energy ministers were due in Gurugram on 25 and 26 June, and the Tianjin SCO summit was the last time Modi, Xi Jinping and Vladimir Putin shared a table.",
+    "source": "The meeting is one of a run of events on India's chairship calendar, with BRICS energy ministers due in Gurugram on 25 and 26 June, all building toward the leaders' summit India hosts in September."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The 24th round of India–China Special Representatives talks, held in August 2025, dealt with which issue?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "The India–China boundary question",
+     "Brahmaputra river data sharing",
+     "The bilateral trade imbalance",
+     "Visa rules for Indian students"
+    ],
+    "answer": 0,
+    "explain": "Ajit Doval and Wang Yi last met in August 2025 for the 24th round of Special Representatives talks on the boundary question. This was part of a normalisation that followed the October 2024 patrolling deal, which began winding down the standoff in eastern Ladakh.",
+    "source": "The two last met in August 2025 for the 24th round of Special Representatives talks on the boundary question, part of a steady normalisation since the October 2024 patrolling deal that began winding down the standoff in eastern Ladakh."
+   }
+  ]
+ }
+}

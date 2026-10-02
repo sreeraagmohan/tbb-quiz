@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-16-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 647,
+  "output_tokens": 1720,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the new partnership level and the visit's concrete outcomes (first visit, defence LoI, ICCR AI Chair).",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, during Prime Minister Narendra Modi's state visit to Slovakia, India–Slovakia bilateral ties were elevated to which level?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Comprehensive Partnership",
+     "Strategic Partnership",
+     "Comprehensive Strategic Partnership",
+     "Enhanced Strategic Partnership"
+    ],
+    "answer": 0,
+    "explain": "The visit raised ties to a Comprehensive Partnership and produced eleven agreements. Slovakia also reaffirmed support for India's permanent UNSC seat and its bid to join the Nuclear Suppliers Group.",
+    "source": "Modi became the first Indian Prime Minister to visit Slovakia since the country's independence in 1993, using the trip to elevate bilateral ties to a Comprehensive Partnership."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Prime Minister Narendra Modi's visit to Slovakia in June 2026:",
+    "items": [
+     "He became the first Indian Prime Minister to visit Slovakia since its independence in 1993.",
+     "Defence cooperation between the two countries was formalised through a Memorandum of Understanding.",
+     "India will set up its first ICCR Chair in Artificial Intelligence at the Technical University of Kosice."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Defence was covered by a Letter of Intent, while the MoUs dealt with labour migration, digital technologies, higher education, audio-visual creation and quantum communication. The leaders also set up a Joint Working Group on Counter-Terrorism and a Consular Dialogue.",
+    "source": "India will set up its first Indian Council for Cultural Relations (ICCR) Chair in Artificial Intelligence at the Technical University of Kosice."
+   }
+  ]
+ }
+}

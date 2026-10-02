@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-02-13-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 438,
+  "output_tokens": 1454,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the agricultural tariff terms of the February 2026 interim India-US trade deal and the government's stated protection share; skipped protest details and TBB analysis.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the interim India-US trade deal that drew farmer protests in February 2026:",
+    "items": [
+     "India will eliminate or reduce tariffs on US dried distillers’ grains (DDGs) and red sorghum for animal feed.",
+     "US soybean oil has been kept outside the deal's tariff concessions.",
+     "Commerce and Industry Minister Piyush Goyal claimed that 90-95% of domestic produce is shielded."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because soybean oil is listed among the US products on which India will eliminate or reduce tariffs, alongside tree nuts, fruit, and wine and spirits. Farmers argue that US imports could depress local prices, a backlash that echoes the 2020-21 protests which forced the repeal of three farm laws.",
+    "source": "Under the interim deal, India will eliminate or reduce tariffs on a wide range of US food and agricultural products, including dried distillers’ grains (DDGs), red sorghum for animal feed, tree nuts, fresh and processed fruit, soybean oil, and wine and spirits."
+   }
+  ]
+ }
+}

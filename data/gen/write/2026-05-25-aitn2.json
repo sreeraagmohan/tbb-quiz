@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-25-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 212,
+  "output_tokens": 1134,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–Ethiopia WTO accession protocol, the trading-partner rank and the December 2025 Strategic Partnership.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Ethiopia relations as of May 2026:",
+    "items": [
+     "In May 2026, India signed a bilateral accession protocol in Geneva supporting Ethiopia's membership of the World Trade Organization.",
+     "India is Ethiopia's largest trading partner.",
+     "Bilateral relations were elevated to a Strategic Partnership during the Indian Prime Minister's visit to Ethiopia in December 2025."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong because India is Ethiopia's second-largest trading partner, not its largest. The first and third are correct. Ethiopia is still negotiating its WTO entry, and its Working Party held a seventh round in April 2026.",
+    "source": "India is Ethiopia's second-largest trading partner, and bilateral relations were elevated to a Strategic Partnership during Modi's visit to Ethiopia in December 2025."
+   }
+  ]
+ }
+}

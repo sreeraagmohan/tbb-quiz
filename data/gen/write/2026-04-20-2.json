@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-04-20-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 1293,
+  "output_tokens": 2254,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the government-backed maritime insurance pool, the Hormuz transit rights and ceasefire mediator, and the MILAN 2026 venue; skipped the vessel names and Iran's motives.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, after Iranian forces fired on two Indian-flagged vessels in the Strait of Hormuz, India approved support for a maritime insurance pool. Consider the following statements about it:",
+    "items": [
+     "India approved a government-backed guarantee of INR 129.8 billion for the pool.",
+     "The pool covers hull, cargo and war risk for a period of ten years.",
+     "GIC Re, India's government-owned reinsurer, was among the reinsurers that had pulled cover or raised premiums."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The guarantee (USD 1.4 billion) backs a pool covering hull, cargo and war risk for ten years, and GIC Re was one of the reinsurers that pulled cover or hiked premiums. Member insurers will issue policies with combined underwriting capacity of about INR 9.5 billion.",
+    "source": "Hours after the attack, India approved an INR 129.8 billion (USD 1.4 billion) government-backed guarantee for a maritime insurance pool covering hull, cargo, and war risk for ten years."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Strait of Hormuz crisis in 2026:",
+    "items": [
+     "In late March 2026, Iran granted transit rights through the Strait to five countries, including India and Pakistan.",
+     "The US–Iran ceasefire of 8 April 2026 was brokered by Qatar."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the 8 April ceasefire was brokered by Pakistan, not Qatar. The five countries given transit rights were China, Russia, India, Iraq and Pakistan.",
+    "source": "In late March, Iran granted transit rights to five countries: China, Russia, India, Iraq, and Pakistan."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, the Iranian frigate IRIS Dena was sunk off Sri Lanka shortly after taking part in India's MILAN 2026 naval exercise. Where was MILAN 2026 held?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Visakhapatnam",
+     "Kochi",
+     "Mumbai",
+     "Chennai"
+    ],
+    "answer": 0,
+    "explain": "The Dena had just left MILAN 2026 in Visakhapatnam as New Delhi's guest when a US submarine torpedoed it in international waters on 4 March, killing at least 87 sailors. India never publicly criticised the US for the sinking.",
+    "source": "The Dena had just left India's MILAN 2026 naval exercise in Visakhapatnam"
+   }
+  ]
+ }
+}

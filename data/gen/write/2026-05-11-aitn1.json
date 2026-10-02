@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-11-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 478,
+  "output_tokens": 1226,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests structural results of the May 2026 assembly elections: West Bengal's first BJP chief minister, Tamil Nadu's coalition and Assam's tally.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the state assembly election outcomes announced in May 2026:",
+    "items": [
+     "In West Bengal, the BJP won 207 of 294 seats and Suvendu Adhikari became the state's first BJP chief minister.",
+     "In Tamil Nadu, the Tamilaga Vettri Kazhagam crossed the 118-seat majority mark on its own.",
+     "In Assam, the BJP-led National Democratic Alliance won 102 of 126 seats."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The TVK won 108 seats and needed backing from the Congress, the VCK and the IUML to cross the 118-seat majority before Vijay took oath on 10 May 2026. In West Bengal, Mamata Banerjee refused to resign, prompting Governor RN Ravi to dissolve the assembly.",
+    "source": "His Tamilaga Vettri Kazhagam (TVK) won 108 seats but needed backing from the Indian National Congress, the Viduthalai Chiruthaigal Katchi (VCK) and the Indian Union Muslim League (IUML) to cross the 118-seat majority."
+   }
+  ]
+ }
+}

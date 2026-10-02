@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-08-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 584,
+  "output_tokens": 1490,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Sports policy story with a modest governance angle; tested the May 2026 bilateral-versus-multilateral rule, India's hosting bids and the 2026 T20 World Cup venue arrangement.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements in the context of India's sporting engagement with Pakistan as of May 2026:",
+    "items": [
+     "A memo issued by the Ministry of Youth Affairs and Sports in May 2026 cleared the way for Pakistani teams to compete in multilateral events hosted by India.",
+     "Under the May 2026 policy, India will host Pakistan for standalone bilateral matches.",
+     "India is bidding to host the 2036 Olympics and the 2038 Asian Games."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because India will still refuse to play one-on-one series against Pakistan or host them for standalone matches; only multilateral events are opened up. India is also bidding for the 2030 Commonwealth Games, and TBB notes that alienating global sporting bodies would hurt its 2036 Olympic bid.",
+    "source": "India will still refuse to play one-on-one series against Pakistan or host them for standalone matches."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "During the India-hosted T20 World Cup in 2026, in which country did Pakistan play its matches?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Sri Lanka",
+     "Bangladesh",
+     "Nepal",
+     "Oman"
+    ],
+    "answer": 0,
+    "explain": "Pakistan played its matches in Sri Lanka to avoid the optics of crossing the border. Bilateral cricket between India and Pakistan has been frozen since 2012, and a military skirmish in May 2025 hardened the freeze further.",
+    "source": "During this year’s India-hosted T20 World Cup, Pakistan played its matches in Sri Lanka to avoid the optics of crossing the border."
+   }
+  ]
+ }
+}

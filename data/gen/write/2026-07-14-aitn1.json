@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-14-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 372,
+  "output_tokens": 1621,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the route, specifications and programme of India's first hydrogen-powered train in one statements question.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's first hydrogen-powered train, which the Prime Minister was scheduled to flag off from Jind, Haryana, on 17 July 2026:",
+    "items": [
+     "Its commercial operations will run on the 89-kilometre Jind–Sonipat section under Northern Railway.",
+     "It is a 10-car, 1,200 KW trainset that runs on hydrogen fuel cells.",
+     "It is the first train under the Hydrogen for Heritage programme, which plans 35 such trains for dedicated freight corridors."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the Hydrogen for Heritage programme plans 35 trains for heritage and hill routes, not freight corridors. Each train costs roughly INR 80 crore, plus INR 70 crore in route infrastructure. Indian Railways approved the trainset in May 2026, and it emits only water vapour.",
+    "source": "The launch is the first under the \"Hydrogen for Heritage\" programme, which plans 35 such trains for heritage and hill routes at roughly INR 80 crore (USD 8 million) per train, plus INR 70 crore (USD 7 million) in route infrastructure."
+   }
+  ]
+ }
+}

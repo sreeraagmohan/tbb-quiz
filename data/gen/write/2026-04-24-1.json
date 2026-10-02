@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-04-24-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 565,
+  "output_tokens": 1957,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the scope of the June 2026 domestic solar cell mandate, the MNRE framework amended, and the 2030 non-fossil capacity target.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, India announced that solar PV projects must use domestically made cells from 1 June 2026. Consider the following statements about this mandate:",
+    "items": [
+     "It applies to net-metering and open-access projects as well as government-backed schemes.",
+     "Projects already bid out before the deadline must also switch to domestic cells.",
+     "Domestic sourcing requirements for ingots and wafers are scheduled to follow in 2028."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because projects already bid out are exempt, and only future bids must comply. The cell mandate sits within a broader localisation push: modules are already required domestically, and ingots and wafers follow in 2028.",
+    "source": "Projects already bid out are exempt, but all future bids must comply."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In April 2026, the Ministry of New and Renewable Energy extended local sourcing rules for solar projects from modules to cells by amending which framework?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Approved Models and Manufacturers framework",
+     "Production Linked Incentive framework",
+     "Renewable Purchase Obligation framework",
+     "Green Energy Open Access framework"
+    ],
+    "answer": 0,
+    "explain": "MNRE amended its Approved Models and Manufacturers framework, in place since 2019, to cover cells as well as modules. India has 80 GW of module-making capacity but only 7 GW of cell capacity, with the rest imported mostly from China.",
+    "source": "India's renewable energy ministry (MNRE) amended its Approved Models and Manufacturers framework, which has been in place since 2019, to extend local sourcing rules from modules to cells."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As stated in April 2026, what is India's target for non-fossil fuel power capacity by 2030?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "500 GW",
+     "280 GW",
+     "750 GW",
+     "1,000 GW"
+    ],
+    "answer": 0,
+    "explain": "India aims for 500 GW of non-fossil fuel capacity by 2030, up from 156 GW at the time of the April 2026 solar cell mandate. TBB argues that requiring domestic cells before supply catches up is meant to force capital into Indian cell manufacturing.",
+    "source": "India's target is 500 GW of non-fossil fuel capacity by 2030, up from 156 GW today."
+   }
+  ]
+ }
+}

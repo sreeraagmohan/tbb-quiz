@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-01-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 269,
+  "output_tokens": 993,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the partners behind UPI's June 2026 Greek launch and how it works for Indian users; the 'tenth market' figure appears only in the title, so it is not tested.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the launch of India's Unified Payments Interface (UPI) in Greece in June 2026:",
+    "items": [
+     "It was launched through a partnership between Greece's Eurobank and NIPL, the international arm of NPCI.",
+     "Indian users must open a local Greek bank account before they can pay Greek merchants through UPI."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong. Indian travellers, students and the diaspora can pay Greek merchants straight from their existing Indian bank accounts, using the UPI apps they use at home. Commerce and Industry Minister Piyush Goyal witnessed the launch in Athens.",
+    "source": "India's Unified Payments Interface (UPI) went live in Greece on June 30 through a partnership between Greece's Eurobank and NPCI's international arm, NIPL."
+   }
+  ]
+ }
+}

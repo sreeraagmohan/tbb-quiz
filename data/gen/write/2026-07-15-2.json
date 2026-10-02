@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-15-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 670,
+  "output_tokens": 2202,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the DGFT forced-labour import ban under FTP 2023, its ILO-based definition and start date, and the USTR Section 301 context.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, India prohibited the import of goods produced wholly or partly through forced labour. Consider the following statements about this prohibition:",
+    "items": [
+     "It defines forced labour using the wording of the International Labour Organization's 1930 Forced Labour Convention.",
+     "It took effect immediately on publication in the gazette.",
+     "It was brought in by amending the Foreign Trade Policy 2023."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the rule takes effect 30 days after gazette publication. Even then, nothing is blocked until the DGFT investigates and names specific products, with procedures to follow the Handbook of Procedures, 2023.",
+    "source": "The notification inserts a new clause into the FTP defining forced labour by borrowing the International Labour Organization (ILO)'s 1930 Forced Labour Convention wording, and empowers the Centre to block specific goods once an inquiry finds evidence they were made with forced labour."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the United States Trade Representative's (USTR) Section 301 action on forced-labour imports, as of July 2026:",
+    "items": [
+     "Number of economies under investigation — 60",
+     "Tariff proposed against India on 3 June 2026 — 12.5%",
+     "Subject of the other separate USTR probe affecting India — currency manipulation"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong because the other USTR probe concerns industrial overcapacity, not currency manipulation. Either probe could push India's current flat 10% US tariff higher.",
+    "source": "India currently faces a flat 10% US tariff, and this is one of two separate USTR probes, the other into industrial overcapacity, that could push that rate higher."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, which body amended India's Foreign Trade Policy to prohibit imports of goods made with forced labour?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Directorate General of Foreign Trade",
+     "Directorate General of Trade Remedies",
+     "Central Board of Indirect Taxes and Customs",
+     "Directorate of Revenue Intelligence"
+    ],
+    "answer": 0,
+    "explain": "The DGFT issued the ban on 13 July 2026 by amending the Foreign Trade Policy 2023. It came five weeks after the US proposed fresh tariffs against India over the same issue.",
+    "source": "India's Directorate General of Foreign Trade (DGFT) prohibited the import of goods produced wholly or partly through forced labour on Monday, amending the Foreign Trade Policy (FTP) 2023 five weeks after Washington proposed fresh tariffs against India over the same issue."
+   }
+  ]
+ }
+}

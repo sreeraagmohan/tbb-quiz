@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-24-1-1",
+ "story_id": "2026-08-24-1",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, India changed how rupee-settled exports are treated under its Foreign Trade Policy (FTP). Consider the following statements:",
+  "items": [
+   "Exports paid for in rupees through approved banking channels now count towards export obligations under the FTP.",
+   "The change covers rupee-paid exports to all countries, including Nepal and Bhutan.",
+   "The Directorate General of Foreign Trade (DGFT) administers India's Foreign Trade Policy."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 2 is wrong because the change applies to exports to any country other than Nepal and Bhutan. Rupee-paid exports now earn FTP benefits and count towards export obligations, just as foreign-currency exports do.",
+  "source": "Exports to any country other than Nepal and Bhutan, if paid for in rupees through approved banking channels, now earn FTP benefits and count towards export obligations, just as foreign-currency exports do."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, India changed how rupee-settled exports are treated under its Foreign Trade Policy (FTP). Consider the following statements:",
+  "items": [
+   "Exports paid for in rupees through approved banking channels now earn FTP benefits but still do not count towards export obligations.",
+   "The change covers rupee-paid exports to all countries, including Nepal and Bhutan.",
+   "The Reserve Bank of India (RBI) administers India's Foreign Trade Policy."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong. Rupee-paid exports now both earn FTP benefits and count towards export obligations, the change applies to any country other than Nepal and Bhutan, and the FTP is administered by the Directorate General of Foreign Trade (DGFT), not the RBI. The RBI's role was setting up Special Rupee Vostro Accounts in July 2022, which made rupee settlement legal.",
+  "source": "Exports to any country other than Nepal and Bhutan, if paid for in rupees through approved banking channels, now earn FTP benefits and count towards export obligations, just as foreign-currency exports do."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3072,
+  "output_tokens": 852,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

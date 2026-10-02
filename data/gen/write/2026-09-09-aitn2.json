@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-09-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 272,
+  "output_tokens": 875,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Security story with a modest institutional angle; one question tests the Mizoram entry route and the narrowing from UAPA to immigration charges.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the National Investigation Agency (NIA) chargesheeted a US citizen and six Ukrainian nationals accused of training ethnic armed groups in Myanmar in drone warfare. Consider the following statements:",
+    "items": [
+     "The accused allegedly entered India through Mizoram before crossing into Myanmar.",
+     "The chargesheet against the seven includes charges under the anti-terror law (UAPA)."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The accused allegedly entered through Mizoram and crossed into Myanmar. They were arrested under the UAPA in March 2026, but the chargesheet carries only immigration charges, though the NIA says the terror probe stays open.",
+    "source": "Arrested in March under the anti-terror law (UAPA), the seven now face only immigration charges, though the NIA says the terror probe stays open."
+   }
+  ]
+ }
+}

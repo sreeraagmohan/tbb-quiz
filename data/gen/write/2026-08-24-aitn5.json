@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-24-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 249,
+  "output_tokens": 1527,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the body, venue and mineral mix of Chhattisgarh's critical-mineral exploration approvals; the Bastar context goes in the explanation.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, Chhattisgarh's State Geological Programming Board cleared 45 mineral exploration projects for 2026-27. Consider the following statements:",
+    "items": [
+     "The projects were cleared at the board's 26th meeting, held in Raipur.",
+     "The minerals covered include lithium, rare earth elements, niobium and tantalum."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The board cleared the projects at its 26th meeting in Raipur on 19 August 2026, covering lithium, graphite, rare earth elements, niobium, tantalum, titanium and iron ore. Several projects lie in the Bastar belt, which until 2026 was the heart of India's Maoist insurgency.",
+    "source": "cleared 45 mineral exploration projects for 2026-27 at its 26th meeting in Raipur on August 19, covering lithium, graphite, rare earth elements, niobium, tantalum, titanium, and iron ore"
+   }
+  ]
+ }
+}

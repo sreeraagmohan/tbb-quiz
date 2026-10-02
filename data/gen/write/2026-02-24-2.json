@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-24-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 573,
+  "output_tokens": 1406,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests PRAHAAR as India's first national counter-terrorism policy and its key design features.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, the Government of India unveiled PRAHAAR. Which of the following best describes it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India's first comprehensive national counter-terrorism policy",
+     "India's first comprehensive national cybersecurity strategy",
+     "India's first comprehensive national drone regulation policy",
+     "India's first comprehensive national maritime security doctrine"
+    ],
+    "answer": 0,
+    "explain": "PRAHAAR stands for Policy for Response Against Hostile Activities and Radicalism and is India's first comprehensive national counter-terrorism policy. It brings intelligence agencies, police and prosecutors under one coordinated system.",
+    "source": "India has unveiled PRAHAAR (Policy for Response Against Hostile Activities and Radicalism), its first comprehensive national counter-terrorism policy."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about PRAHAAR, the national counter-terrorism policy unveiled by India in February 2026:",
+    "items": [
+     "Its threat focus on CBRNED risks covers digital threats alongside chemical, biological, radiological, nuclear and explosive ones.",
+     "Prosecutors are brought into terror cases only after the investigation has been completed.",
+     "Real-time intelligence sharing between federal agencies and state police has been made formal policy."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the policy involves prosecutors from the start, so that terror cases survive court scrutiny. PRAHAAR replaces decades of agency-by-agency responses with a single national playbook.",
+    "source": "Real-time intelligence sharing between federal agencies and state police is now formal policy, not a system that relies on interpersonal ties."
+   }
+  ]
+ }
+}

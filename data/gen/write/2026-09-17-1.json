@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-09-17-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 639,
+  "output_tokens": 1583,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the provisions and fate of amendments to the US Russia sanctions bill passed in September 2026, and the lawmaker it is named after. Skipped the summit timing and the stalled trade deal.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, the US House of Representatives passed a bill targeting buyers of Russian oil. Consider the following statements about it:",
+    "items": [
+     "It would let the US President impose a tariff of up to 100% on India for buying Russian oil.",
+     "An amendment naming India and nine other countries as explicit targets was adopted on the House floor.",
+     "The version passed applies only to the top five buyers of Russian oil and gas by volume."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The House Rules Committee voted down Steny Hoyer's amendment naming India and nine other countries before it reached the floor. The passed bill keeps the Senate's version, which covers the top five buyers, a group India tops alongside China.",
+    "source": "The House Rules Committee voted down both before either reached the floor."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Russia and Iran sanctions bill passed by the US House in September 2026 was renamed in honour of which US lawmaker?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Lindsey Graham",
+     "Steny Hoyer",
+     "Gregory Meeks",
+     "Ted Cruz"
+    ],
+    "answer": 0,
+    "explain": "The bill's Republican co-author, Lindsey Graham, died in July 2026, days after securing the White House's backing, and colleagues renamed it the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026. Hoyer and Meeks moved the amendments that the House Rules Committee rejected.",
+    "source": "Graham, the bill's Republican co-author, died in July days after securing the White House's backing; colleagues renamed the bill in his honour."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-16-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 565,
+  "output_tokens": 1407,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the BNP victory and Tarique Rahman's background, and the location of the China-backed Teesta project near the Siliguri Corridor.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Bangladesh general election held in February 2026:",
+    "items": [
+     "The Bangladesh Nationalist Party (BNP) defeated an 11-party Islamist alliance in the first elections held since the 2024 uprising.",
+     "BNP leader Tarique Rahman is the son of former Prime Minister Sheikh Hasina.",
+     "Dhaka is seeking Sheikh Hasina's extradition from India for crimes against humanity."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because Tarique Rahman is the son of the late former Prime Minister Khaleda Zia, and he returned after 17 years in self-exile. Hasina's extradition remains a sore point because New Delhi is still sheltering her.",
+    "source": "Leader Tarique Rahman – son of the late former Prime Minister Khaleda Zia – now inherits a fractured nation after 17 years in self-exile."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, the new BNP government's interest in a China-backed river project near India's Siliguri Corridor was seen as a source of friction with New Delhi. Which river is this project on?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Teesta",
+     "Meghna",
+     "Karnaphuli",
+     "Feni"
+    ],
+    "answer": 0,
+    "explain": "The BNP has shown interest in the China-backed Teesta River project near the sensitive Siliguri Corridor. TBB's analysis notes that New Delhi is trying to keep Dhaka from pivoting fully into China's orbit.",
+    "source": "Add to this the BNP’s interest in the China-backed Teesta River project near the sensitive Siliguri Corridor, and the reset looks increasingly uphill."
+   }
+  ]
+ }
+}

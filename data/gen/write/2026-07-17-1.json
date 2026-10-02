@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-17-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 549,
+  "output_tokens": 1389,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the issuing body and the scope and duration of India's July 2026 ban on deploying seafarers through the Strait of Hormuz.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, which body issued the directive ordering that Indian seafarers not be deployed on vessels transiting the Strait of Hormuz?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Directorate General of Shipping",
+     "Indian Register of Shipping",
+     "Indian Coast Guard Headquarters",
+     "Ministry of External Affairs"
+    ],
+    "answer": 0,
+    "explain": "The Directorate General of Shipping issued the directive on 15 July 2026. It said recent attacks had raised the risks to seafarers and commercial ships significantly.",
+    "source": "Issued late Wednesday by the Directorate General of Shipping, the directive says recent attacks have raised the risks to seafarers and commercial ships \"significantly\"."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's July 2026 order on Indian seafarers and the Strait of Hormuz:",
+    "items": [
+     "The order is addressed to shipowners, ship managers and recruitment firms.",
+     "The ban on deploying Indian seafarers is for a fixed period of 90 days.",
+     "After an Indian seafarer was killed aboard the Al Bahiyah, India publicly named Iran as responsible."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the first statement is correct. The ban runs until further orders, not for a fixed period. India summoned Iran's deputy ambassador after the Al Bahiyah death but did not publicly name Tehran as responsible.",
+    "source": "India has ordered shipowners, ship managers, and recruitment firms to stop deploying Indian seafarers on any vessel transiting the Strait of Hormuz, with the ban running until further orders."
+   }
+  ]
+ }
+}

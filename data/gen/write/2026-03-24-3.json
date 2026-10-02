@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-24-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 495,
+  "output_tokens": 1643,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the RoDTEP scheme's purpose and the March 2026 restoration of full rates, including its retrospective effect.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, the Ministry of Commerce restored full benefits under the Remission of Duties and Taxes on Export Products (RoDTEP) scheme. Consider the following statements:",
+    "items": [
+     "The RoDTEP scheme was launched in 2021.",
+     "In February 2026, the government had capped RoDTEP benefits at 50%.",
+     "The restored full rates were applied only prospectively, from the date of the March 2026 decision."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong. The restoration was backdated to 23 February and runs only through 31 March, so it unwinds the February cut retrospectively. The government reversed the cap to offset surging maritime costs from the West Asia conflict.",
+    "source": "The reversal was backdated to February 23 to offset surging maritime costs stemming from the West Asia conflict."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Remission of Duties and Taxes on Export Products (RoDTEP) scheme, whose full rates were restored in March 2026, is primarily designed to:",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Refund domestic taxes embedded in the cost of export goods",
+     "Provide interest subvention on pre-shipment export credit",
+     "Insure exporters against default by overseas buyers",
+     "Subsidise ocean freight charges paid by exporters"
+    ],
+    "answer": 0,
+    "explain": "RoDTEP is a WTO-compliant tool that neutralises domestic taxes, such as electricity duty and VAT on fuel, incurred in making and distributing export goods. Industry groups said the February 2026 cap of 50% had added 1-2% to export prices.",
+    "source": "Launched in 2021, RoDTEP is a WTO-compliant tool that neutralises domestic taxes – like electricity duty and VAT on fuel – incurred in the manufacturing and distribution of export goods."
+   }
+  ]
+ }
+}

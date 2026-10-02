@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-17-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 1174,
+  "output_tokens": 2434,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the July 2026 draft CAFE norms: the issuing ministry, the credit buyout, mass-based targets, super-credit multipliers and the governing Act.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the draft Corporate Average Fuel Economy (CAFE) norms for passenger cars circulated in India in July 2026:",
+    "items": [
+     "The draft was circulated by the Ministry of Power.",
+     "Carmakers that miss their targets can buy credits from the Bureau of Energy Efficiency at a published price.",
+     "Each manufacturer's specific target is scaled to the average engine displacement of the vehicles it sells."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: targets are scaled to the weighted unladen mass of a maker's sales, so a fleet of heavy SUVs gets a looser limit than one of small hatchbacks. The buyout price starts at INR 2,500 per gram per kilometre in 2027-28 and rises to INR 4,500 by 2031-32, and 90 per cent of the proceeds go to state governments.",
+    "source": "Carmakers running a deficit can purchase credits from the Bureau of Energy Efficiency at INR 2,500 (USD 26) per gram of carbon dioxide per kilometre in 2027-28, rising to INR 4,500 (USD 47) by 2031-32."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to how vehicles are counted in the compliance calculation under India's draft CAFE norms of July 2026:",
+    "items": [
+     "Electric vehicles — 3.0 times actual sales volume",
+     "Plug-in hybrids — 2.5 times actual sales volume",
+     "Strong hybrids — 1.6 times actual sales volume"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three multipliers match the draft. Ethanol flex-fuel vehicles get a separate 22.3 per cent discount on declared emissions, and the fleet target falls from 94.76 grams per kilometre in 2027-28 to 78.90 by 2031-32.",
+    "source": "Electric vehicles count 3.0 times their actual sales volume in the compliance maths, plug-in hybrids 2.5 times, and strong hybrids 1.6 times."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Carmakers that missed India's CAFE-II fuel economy targets in FY23 argued that penalty provisions which took effect on 1 January 2023 could not apply retrospectively. Under which law are these penalty provisions?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Energy Conservation Act",
+     "Environment (Protection) Act",
+     "Motor Vehicles Act",
+     "Air (Prevention and Control of Pollution) Act"
+    ],
+    "answer": 0,
+    "explain": "The makers said the Energy Conservation Act's penalty provisions began three quarters of the way through the assessment year. Eight carmakers missed the 113 gram cap in FY23, no penalty was ever levied, and by July 2026 the Centre had dropped the matter.",
+    "source": "The companies argued the Energy Conservation Act's penalty provisions only took effect on January 1, 2023, three quarters of the way through the assessment year, so applying them across all of FY23 would be retrospective."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-06-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 386,
+  "output_tokens": 1452,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the closing approvals and Gujarat concentration of ISM 1.0; the merged Supreme Court item was left aside as this is a single Also in the news slot.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, the Union Cabinet approved the final two projects under India Semiconductor Mission (ISM) 1.0. Consider the following statements:",
+    "items": [
+     "The two projects are a Gallium Nitride (GaN) display panel facility in Dholera and a chip packaging plant in Surat.",
+     "The two projects together bring in investment of about INR 39,360 crore.",
+     "Half of the projects approved under ISM 1.0 are located in Gujarat."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong: the two assembly-tier facilities bring a combined INR 3,936 crore (USD 414 million). With these approvals ISM 1.0 closes at 12 projects worth INR 1.64 lakh crore, six of them in Gujarat.",
+    "source": "The two assembly-tier facilities bring a combined INR 3,936 crore (USD 414 million) in investment and close out ISM 1.0 at 12 approved projects worth INR 1.64 lakh crore (USD 17.3 billion)."
+   }
+  ]
+ }
+}

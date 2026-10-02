@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-20-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 548,
+  "output_tokens": 1249,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India's fertiliser import dependence, stockpiles and gas prioritisation, plus the strait behind the Qatar LNG disruption.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's fertiliser supply position in March 2026:",
+    "items": [
+     "West Asia accounts for roughly half of India's diammonium phosphate (DAP) and urea imports.",
+     "The government prioritised gas supplies to fertiliser plants, ensuring at least 70% of average consumption.",
+     "DAP inventories were lower than a year earlier."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. DAP inventories were up 105% and urea inventories up 10.7% from a year earlier, giving India a healthy buffer. Most shipments need to arrive between March and May ahead of the June–July kharif planting surge.",
+    "source": "Urea and DAP inventories are up 10.7% and 105% respectively from a year ago."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, threats around which strait disrupted LNG shipments from Qatar to India, prompting the government to prioritise gas supplies to fertiliser plants?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Bab-el-Mandeb",
+     "Strait of Malacca",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "Qatar's LNG shipments were disrupted by threats around the Strait of Hormuz amid the West Asia war. In response, the government ensured fertiliser plants receive at least 70% of their average gas consumption.",
+    "source": "after LNG shipments from Qatar were disrupted by Strait of Hormuz threats, which we covered here."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-27-2-1",
+ "story_id": "2026-05-27-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–Canada Comprehensive Economic Partnership Agreement (CEPA) negotiations as of May 2026:",
+  "items": [
+   "Terms of Reference for the talks were signed in March 2026 during Canadian Prime Minister Mark Carney's visit to India.",
+   "The third round of negotiations was held in New Delhi.",
+   "Both sides aim to conclude the agreement by the end of 2026."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third round ran in Ottawa, not New Delhi, in parallel with Commerce Minister Piyush Goyal's visit with a delegation of over 100 companies. The Terms of Reference were signed in March 2026, and both sides want to conclude the CEPA by the end of 2026.",
+  "source": "A third round is running in parallel with Goyal's visit in Ottawa this week, with negotiators from both sides working through May 29."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–Canada Comprehensive Economic Partnership Agreement (CEPA) negotiations as of May 2026:",
+  "items": [
+   "Terms of Reference for the talks were signed in March 2026 during Commerce Minister Piyush Goyal's visit to Ottawa.",
+   "The third round of negotiations was held in New Delhi.",
+   "Both sides aim to conclude the agreement by 2030."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three are wrong. The Terms of Reference were signed in March 2026 during Mark Carney's visit to India, the third round ran in Ottawa rather than New Delhi, and both sides want to conclude the CEPA by the end of 2026 (2030 is the target year for USD 50 billion in bilateral trade). The third round ran alongside Goyal's visit with a delegation of over 100 companies.",
+  "source": "A third round is running in parallel with Goyal's visit in Ottawa this week, with negotiators from both sides working through May 29."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3700,
+  "output_tokens": 856,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

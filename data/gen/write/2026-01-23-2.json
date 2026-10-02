@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-01-23-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 454,
+  "output_tokens": 986,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly a scheduling call. The one concrete institutional detail, Brazil's APEX office opening in New Delhi during Lula's February 2026 visit, is tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In January 2026, it was announced that Brazilian President Luiz Inácio Lula da Silva's state visit to New Delhi in February 2026 would include the inauguration of an office of APEX. What is APEX?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Brazil's trade and investment promotion agency",
+     "Brazil's national space research agency",
+     "Brazil's national development bank",
+     "Brazil's agricultural research corporation"
+    ],
+    "answer": 0,
+    "explain": "APEX is the Brazilian Trade and Investment Promotion Agency, and its New Delhi office was scheduled to open during Lula's 19-21 February 2026 visit, which also included the Brazil-India Business Forum. India and Brazil are aligning more closely inside groupings like BRICS and the G20.",
+    "source": "The visit will also see the inauguration of Brazil’s APEX (Brazilian Trade and Investment Promotion Agency) office in New Delhi."
+   }
+  ]
+ }
+}

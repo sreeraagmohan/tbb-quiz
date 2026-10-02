@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-20-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 479,
+  "output_tokens": 983,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the April 2026 decision to shelve mandatory Aadhaar app pre-installation, the deciding ministry and the earlier Sanchar Saathi rollback. Skipped the analysis on FDI.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, India shelved its plan to pre-install the Aadhaar app on all smartphones sold in the country. Consider the following statements:",
+    "items": [
+     "The Ministry of Electronics and Information Technology reviewed the proposal and decided against it.",
+     "The ministry cited the security risks flagged by Apple and Samsung as its official reason for dropping the plan.",
+     "A December 2025 mandate to pre-install the Sanchar Saathi telecom app was rolled back within days."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because MeitY decided against the plan with no official reason given, even though Apple and Samsung had flagged security and compatibility concerns. This was the sixth attempt in two years to mandate pre-installed state apps, and the industry opposed all six.",
+    "source": "The Ministry of Electronics and Information Technology (MeitY) reviewed the proposal and decided against it, with no official reason given."
+   }
+  ]
+ }
+}

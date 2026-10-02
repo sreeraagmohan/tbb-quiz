@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-01-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 425,
+  "output_tokens": 1465,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the partner country in the RBI payments MoU and what the MoU covers; India's earlier UPI links are used only as context.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As reported in June 2026, the Reserve Bank of India signed a Memorandum of Understanding to connect its digital payment systems with which country's central bank?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Vietnam",
+     "Indonesia",
+     "Thailand",
+     "Philippines"
+    ],
+    "answer": 0,
+    "explain": "The RBI signed the MoU with the State Bank of Vietnam to link the two countries' digital payment systems. India has been extending its Unified Payments Interface one country at a time, with links already running or agreed across Singapore, the UAE, France and Sri Lanka.",
+    "source": "The Reserve Bank of India (RBI) and the State Bank of Vietnam have signed an agreement to connect their digital payment systems."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Vietnam digital payments MoU reported in June 2026:",
+    "items": [
+     "It covers information sharing and regulatory coordination between the two sides.",
+     "It was signed by the National Payments Corporation of India and the State Bank of Vietnam.",
+     "It provides for cross-border QR-code merchant payments."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the MoU was signed by the Reserve Bank of India and the State Bank of Vietnam. New Delhi presents the tie-up as a way to make trade and tourism payments faster, cheaper and real-time.",
+    "source": "The Memorandum of Understanding (MoU) covers information sharing, regulatory coordination, and the plumbing for cross-border QR-code merchant payments."
+   }
+  ]
+ }
+}

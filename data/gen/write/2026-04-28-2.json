@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-28-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 592,
+  "output_tokens": 1576,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Section 11 power used in the summer blackout playbook and key details of the April 2026 peak demand response; skipped the speculative El Niño demand projection.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, the Ministry of Power released an emergency playbook to prevent summer blackouts. Which provision of the Electricity Act did it invoke to force power plants to come online?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 11",
+     "Section 62",
+     "Section 63",
+     "Section 135"
+    ],
+    "answer": 0,
+    "explain": "The playbook invoked Section 11 of the Electricity Act to force plants to come online and deferred maintenance on 10,000 MW of thermal plants until July. It was tested when peak demand hit a record 256.1 GW in April 2026.",
+    "source": "invoking Section 11 of the Electricity Act to force plants to come online"
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's power situation in April 2026:",
+    "items": [
+     "India's peak power demand hit a record 256.1 GW during a heatwave.",
+     "The Ministry of Power's emergency playbook deferred maintenance on 10,000 MW of hydropower plants until July.",
+     "NTPC procured gas through the Indian Gas Exchange to meet demand."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the deferred maintenance covered 10,000 MW of thermal plants, not hydropower plants. To meet the record demand, coal-fired generation ramped up to 187 GW, supported by 9.6 GW of gas-fired capacity.",
+    "source": "deferring maintenance on 10,000 MW of thermal plants until July"
+   }
+  ]
+ }
+}

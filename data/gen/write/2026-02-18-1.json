@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-02-18-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 510,
+  "output_tokens": 879,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Mostly a logistics story; tested only the durable facts of venue, first-in-developing-world status and duration.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the AI Impact Summit that opened in New Delhi in February 2026:",
+    "items": [
+     "It was the first time the global AI summit was held in the developing world.",
+     "It was scheduled to run until 20 February 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The summit opened on Monday 16 February 2026 and was expected to draw roughly 250,000 attendees through February 20. The government used it to position India as a voice for the Global South on AI policy.",
+    "source": "This is the first time the global AI summit has been held in the developing world."
+   }
+  ]
+ }
+}

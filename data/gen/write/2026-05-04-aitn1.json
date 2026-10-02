@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-04-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 318,
+  "output_tokens": 940,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests Mission Drishti's optical-SAR first, its launch vehicle and the NSIL distribution tie-up.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Mission Drishti, launched by the Bengaluru-based startup GalaxEye in May 2026:",
+    "items": [
+     "It is the world's first satellite to combine optical and Synthetic Aperture Radar (SAR) imaging on a single platform.",
+     "It was launched aboard an ISRO Polar Satellite Launch Vehicle.",
+     "GalaxEye has partnered with NewSpace India Limited (NSIL) for global distribution of its imagery."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the 190 kg satellite was launched aboard a SpaceX Falcon 9, not an ISRO rocket. It is also India's largest privately built satellite, and NSIL, ISRO's commercial arm, will handle global distribution of the imagery.",
+    "source": "The 190 kg satellite is the world's first to combine optical and Synthetic Aperture Radar (SAR) imaging on a single platform, allowing all-weather, day-and-night Earth observation."
+   }
+  ]
+ }
+}

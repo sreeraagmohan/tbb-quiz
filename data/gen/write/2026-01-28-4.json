@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-28-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 581,
+  "output_tokens": 1666,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Corporate MoU with a policy angle. Tested the partner and venture, and the regional aircraft and UDAN context.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In January 2026, the Adani Group signed a Memorandum of Understanding with which aircraft manufacturer to explore a regional aircraft manufacturing venture in India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Embraer",
+     "Bombardier",
+     "ATR",
+     "Comac"
+    ],
+    "answer": 0,
+    "explain": "Adani signed the MoU with Brazil's Embraer to explore building regional aircraft in India, which pushes the group into commercial aviation production. The announcement came as President Lula was set to travel to India for the Brazil-India Business Forum.",
+    "source": "India’s Adani Group and Brazil’s Embraer signed a Memorandum of Understanding (MoU) to explore a regional aircraft manufacturing venture in India"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements in the context of the Adani–Embraer regional aircraft MoU of January 2026:",
+    "items": [
+     "The Embraer jets in focus seat 70–140 passengers and are built for thin routes.",
+     "Navi Mumbai International, being built by the Adani Group, is India's largest greenfield airport.",
+     "The UDAN scheme subsidises wide-body aircraft operations on high-density trunk routes."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. UDAN subsidises regional connectivity to smaller cities, where wide-bodies make no sense and turboprops are hitting capacity limits. Embraer's 70–140 seat jets suit these routes, while IndiGo and Air India have ordered Airbus and Boeing planes for trunk routes.",
+    "source": "That aligns with India’s regional connectivity scheme (UDAN), which subsidises regional connectivity to smaller cities where wide-bodies make no sense and turboprops are hitting capacity limits."
+   }
+  ]
+ }
+}

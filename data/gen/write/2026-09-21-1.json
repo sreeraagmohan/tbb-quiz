@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-09-21-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 442,
+  "output_tokens": 1674,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the EU's draft exclusion of India from metal-scrap export permissions and the provisions of the US Russia and Iran sanctions law.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, the European Commission proposed excluding India from permissions to import European Union metal scrap. Consider the following statements about this proposal:",
+    "items": [
+     "It falls under EU waste-export rules that apply from May 2027.",
+     "The Commission's assessment cites insufficient evidence of pollution controls and enforcement in India's recycling system.",
+     "It accompanies a 15 per cent export duty on aluminium scrap that Brussels has imposed alongside it."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because Brussels abandoned the separate 15 per cent aluminium-scrap export duty, and the exclusion proposal followed that decision. India had sought an exemption in June 2026, warning that restrictions could raise manufacturers' costs and undermine gains from the bilateral trade agreement.",
+    "source": "The proposal follows Brussels’ abandonment of a separate 15 per cent aluminium-scrap export duty."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, US President Donald Trump signed the Russia and Iran sanctions legislation into law. Consider the following statements about this law:",
+    "items": [
+     "It provides for additional tariffs of up to 100 per cent on qualifying buyers of Russian energy, a list that includes India.",
+     "Its signing immediately imposed a 100 per cent tariff on Indian goods.",
+     "The President can waive the duties after submitting a national-interest certification and explanation to Congress."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because the signing does not itself establish a 100 per cent tariff on Indian goods. It only creates the authority for such tariffs, and the President keeps a waiver power. The law was signed on Friday 18 September 2026, following its passage in the House.",
+    "source": "The signing does not itself establish a 100 per cent tariff on Indian goods."
+   }
+  ]
+ }
+}

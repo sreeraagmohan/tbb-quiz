@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-30-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 236,
+  "output_tokens": 781,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Minor institutional announcement; one question on the council's chair and the separate directorate's role.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the Ministry of Steel announced a Steel Industry Safety Council. Consider the following statements:",
+    "items": [
+     "The council will be chaired by the Union Minister of Steel.",
+     "A separate Steel Industry Safety Directorate will run safety audits and investigate serious incidents."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The council will be chaired by the steel secretary, not the minister. It will approve industry safety standards and review serious accidents and near misses. A new directorate will handle audits and investigations.",
+    "source": "The Ministry of Steel will set up a Steel Industry Safety Council, chaired by the steel secretary, to approve industry safety standards and review serious accidents and near misses."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-17-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 501,
+  "output_tokens": 1318,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the India–Zambia critical minerals block and India's copper import position; skipped the analysis on the exploration trap.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, India refused to commit further capital to a cobalt and copper exploration block until the host country guarantees long-term mining rights. Which country allocated this block to India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Zambia",
+     "Zimbabwe",
+     "Namibia",
+     "Mozambique"
+    ],
+    "answer": 0,
+    "explain": "India paused investment in the Zambian block, which Zambia allocated in 2025, until Lusaka guarantees long-term tenure. Geologists have finished initial fieldwork, but New Delhi will not move to private-sector extraction without secure rights.",
+    "source": "India has hit pause on Zambian critical mineral investment, refusing to commit further capital until Lusaka guarantees long-term mining rights."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's critical mineral position, as reported in April 2026:",
+    "items": [
+     "The block Zambia allocated to India for cobalt and copper exploration covers about 9,000 square kilometres.",
+     "The 2018 closure of Vedanta's Sterlite Copper smelter turned India from a copper exporter into an importer.",
+     "India's copper imports fell 4% in the fiscal year ending March 2025."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: copper imports rose 4% to 1.2 million tonnes in the fiscal year ending March 2025. India is also pursuing government-to-government deals across Africa and Latin America, including an initial agreement with the Democratic Republic of Congo.",
+    "source": "India's copper imports rose 4% to 1.2 million tonnes in the fiscal year ending March 2025."
+   }
+  ]
+ }
+}

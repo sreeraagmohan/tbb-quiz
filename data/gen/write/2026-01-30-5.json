@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-01-30-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 674,
+  "output_tokens": 1824,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the January 2026 Economic Survey's proposals on ultra-processed foods and digital addiction; these are Survey recommendations, not enacted policy.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Economic Survey presented in January 2026 and its treatment of ultra-processed foods (UPFs):",
+    "items": [
+     "It suggested moving UPFs to the highest GST slab along with a surcharge.",
+     "It proposed replacing front-of-pack warning labels with star-based health ratings.",
+     "It noted that obesity has doubled alongside a 150% jump in UPF consumption over 15 years."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The Survey proposed the reverse, replacing vague ratings with clear front-of-pack warning labels. Its toolkit also included banning UPF marketing during daytime and evening hours across media.",
+    "source": "The Survey notes that obesity has doubled alongside a 150% jump in UPF consumption over 15 years and significantly increasing healthcare costs and decreasing productivity."
+   },
+   {
+    "topic": "Society",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "The Economic Survey presented in January 2026 flagged compulsive digital use as a productivity threat. Consider the following statements about its suggestions:",
+    "items": [
+     "It floated age-based access limits for social media and gambling apps.",
+     "It suggested basic phones for children to curb early addiction."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both suggestions appear in the Survey, along with a proposed digital wellness curriculum in schools. It linked digital over-consumption to anxiety and sleep deprivation and warned that this could blunt India's demographic dividend.",
+    "source": "It floats age-based access limits for social media and gambling apps, proposes a “digital wellness curriculum” in schools, and even suggests basic phones for children to curb early addiction."
+   }
+  ]
+ }
+}

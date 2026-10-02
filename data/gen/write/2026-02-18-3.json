@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-18-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 472,
+  "output_tokens": 2023,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the new partnership label and the concrete defence-industrial and innovation outcomes of the February 2026 Modi–Macron meeting.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, India and France upgraded their bilateral relationship to which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Special Global Strategic Partnership",
+     "Comprehensive Global Strategic Partnership",
+     "Enhanced Comprehensive Strategic Partnership",
+     "Privileged Strategic and Global Partnership"
+    ],
+    "answer": 0,
+    "explain": "Prime Minister Modi and President Macron upgraded ties to a Special Global Strategic Partnership on 17 February 2026. The label puts France on par with India's top-tier relationships with Japan and the US.",
+    "source": "Prime Minister Modi and President Macron upgraded bilateral ties to a \"Special Global Strategic Partnership\" on Tuesday, moving beyond just trade to co-manufacturing everything from Everest-bound helicopters to AI health tech."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the outcomes of the India–France summit held in February 2026:",
+    "items": [
+     "An Airbus H125 helicopter assembly line was inaugurated in Karnataka.",
+     "A BEL-Safran joint venture was approved to manufacture HAMMER precision-guided missiles in India.",
+     "The India-France Year of Innovation 2026 was launched with a focus on AI in health and digital science."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story. The H125 is an Everest-capable helicopter that both sides are targeting for export, and a Swami Vivekananda Cultural Centre will also open in France.",
+    "source": "The duo inaugurated an Airbus H125 helicopter – the Everest-capable helicopter that both sides are targeting for export – assembly line in Karnataka and greenlit a BEL-Safran joint venture to manufacture HAMMER precision-guided missiles in India."
+   }
+  ]
+ }
+}

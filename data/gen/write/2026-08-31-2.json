@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-08-31-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 906,
+  "output_tokens": 2096,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests FSSAI's August 2026 front-of-pack labelling proposal: its two-nutrient trigger, the exemption, and how it compares with labelling systems abroad.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Food Safety and Standards Authority of India (FSSAI) proposed warning labels for packaged food and drinks in a filing before the Supreme Court. Consider the following statements about the proposal:",
+    "items": [
+     "A warning would apply to any product high in just one of saturated fat, sugar or salt.",
+     "Single-ingredient foods are exempt from the proposed labelling."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the red hexagon applies only to products high in two or more of saturated fat, sugar or salt. Single-ingredient foods are exempt, and the rollout is phased. The Supreme Court had floated a one-nutrient trigger, so a drink high only in sugar escapes the warning under FSSAI's version.",
+    "source": "In a Supreme Court filing on Friday, the Food Safety and Standards Authority of India (FSSAI) called for a red hexagon on products high in two or more of saturated fat, sugar, or salt."
+   },
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of jurisdictions and front-of-pack food labelling systems:",
+    "items": [
+     "United Kingdom — Traffic-light ratings",
+     "Europe — Nutri-Score",
+     "India (FSSAI proposal, August 2026) — Red hexagon warning"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correctly matched: the UK uses traffic-light ratings, Nutri-Score is used across Europe, and FSSAI proposed a red hexagon for India. Industry groups that opposed labels in India as confusing use such systems abroad.",
+    "source": "Coca-Cola, Nestle, and PepsiCo industry groups have long opposed labels as confusing, though many use them abroad, from traffic-light ratings in the UK to Nutri-Score across Europe."
+   }
+  ]
+ }
+}

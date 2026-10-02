@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-22-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 288,
+  "output_tokens": 1026,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the summit's edition, venue and partner, and the Ebola strain detail behind the May 2026 postponement.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-Africa Forum Summit postponed in May 2026:",
+    "items": [
+     "It was to be the fourth edition of the summit, held with the African Union in New Delhi.",
+     "The postponement followed a WHO warning about an Ebola outbreak in the Democratic Republic of Congo involving a strain for which a vaccine is available."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the WHO said the outbreak involves a rare strain for which no vaccine exists. The fourth summit, scheduled for 28 to 31 May 2026, was to cover trade, investment, digital technology and global governance, and the MEA said new dates would be finalised in due course.",
+    "source": "India and the African Union (AU) have postponed the fourth India-Africa Forum Summit, which was scheduled for May 28–31 in New Delhi, citing an \"emerging public health situation\" in Africa."
+   }
+  ]
+ }
+}

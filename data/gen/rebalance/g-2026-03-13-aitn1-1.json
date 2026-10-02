@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-03-13-aitn1-1",
+ "story_id": "2026-03-13-aitn1",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In March 2026, India warned drugmakers against directly or indirectly advertising prescription weight-loss drugs. Consider the following statements:",
+  "items": [
+   "The warning was issued by the Central Drugs Standard Control Organisation (CDSCO).",
+   "The regulator said that 'awareness campaigns' about such drugs fall outside the scope of its restrictions."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "The CDSCO issued the warning and said that even 'awareness campaigns', influencer promotions or exaggerated claims of effectiveness could trigger action. Prescription medicines cannot be marketed to the public under Indian law, and cheaper generic versions of semaglutide were expected once Novo Nordisk's Indian patent expired later in March 2026.",
+  "source": "The Central Drugs Standard Control Organisation (CDSCO) said even “awareness campaigns,” influencer promotions or claims exaggerating drug effectiveness could trigger action."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In March 2026, India warned drugmakers against directly or indirectly advertising prescription weight-loss drugs. Consider the following statements:",
+  "items": [
+   "The warning was issued by the Food Safety and Standards Authority of India (FSSAI).",
+   "The regulator said that 'awareness campaigns' about such drugs fall outside the scope of its restrictions."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the warning came from the Central Drugs Standard Control Organisation (CDSCO), not the FSSAI. Statement 2 is wrong because the CDSCO said even 'awareness campaigns', influencer promotions or exaggerated claims of effectiveness could trigger action. Prescription medicines cannot be marketed to the public under Indian law, and cheaper generic versions of semaglutide were expected once Novo Nordisk's Indian patent expired later in March 2026.",
+  "source": "The Central Drugs Standard Control Organisation (CDSCO) said even “awareness campaigns,” influencer promotions or claims exaggerating drug effectiveness could trigger action."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2346,
+  "output_tokens": 797,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

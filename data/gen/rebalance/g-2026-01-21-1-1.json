@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-01-21-1-1",
+ "story_id": "2026-01-21-1",
+ "target": 0,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about a proposal made by the Reserve Bank of India (RBI) in January 2026:",
+  "items": [
+   "It seeks to link BRICS members' central bank digital currencies (CBDCs) to ease cross-border trade and tourism payments.",
+   "The RBI recommended that it be placed on the agenda of the 2026 BRICS Summit, which India will host.",
+   "The RBI favours private stablecoins over CBDCs because stablecoins strengthen capital controls."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third statement is wrong. The RBI prefers CBDCs to private stablecoins, citing risks of de-facto dollarisation and weakened capital controls. Digital rails are being pitched as a workaround after rupee trade settlement with Russia stalled.",
+  "source": "The RBI prefers central bank digital currencies (CBDCs) to private stablecoins, citing risks of de-facto dollarisation and weakened capital controls."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about a proposal made by the Reserve Bank of India (RBI) in January 2026:",
+  "items": [
+   "It seeks to link BRICS members' central bank digital currencies (CBDCs) to ease cross-border trade and tourism payments.",
+   "The RBI recommended that it be placed on the agenda of the 2026 BRICS Summit, which Brazil will host.",
+   "The RBI favours private stablecoins over CBDCs because stablecoins strengthen capital controls."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Statements 2 and 3 are wrong: India, not Brazil, will host the 2026 BRICS Summit, and the RBI prefers CBDCs to private stablecoins, citing risks of de-facto dollarisation and weakened capital controls. The idea flows from the 2025 BRICS declaration in Rio de Janeiro, which called for greater interoperability between member countries' payment systems.",
+  "source": "It has recommended that the government place the proposal on the agenda for the 2026 BRICS Summit, which India will host later this year."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3263,
+  "output_tokens": 739,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

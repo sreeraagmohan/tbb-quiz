@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-15-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 753,
+  "output_tokens": 1533,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the location of the new DRDL facility and the announcement and design of Mission Sudarshan Chakra.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, the Defence Minister inaugurated a new Advanced Weapon System Complex at the Defence Research and Development Laboratory (DRDL). In which city is this laboratory located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Hyderabad",
+     "Bengaluru",
+     "Pune",
+     "Chandipur"
+    ],
+    "answer": 0,
+    "explain": "DRDL is in Hyderabad and is part of DRDO's Dr APJ Abdul Kalam Missile Complex. Rajnath Singh linked the inauguration to the performance of Indian missile systems such as Akash and BrahMos during Operation Sindoor.",
+    "source": "On June 12, Defence Minister Rajnath Singh inaugurated a new Advanced Weapon System Complex at the Defence Research and Development Laboratory (DRDL) in Hyderabad, part of the Defence Research and Development Organisation's (DRDO) Dr APJ Abdul Kalam Missile Complex."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Mission Sudarshan Chakra, which the Defence Minister reaffirmed in June 2026:",
+    "items": [
+     "It was first announced by Prime Minister Narendra Modi on Independence Day 2025.",
+     "Its proposed architecture has two tiers.",
+     "It aims to protect military facilities, critical infrastructure and civilian population centres simultaneously."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong because the story describes a proposed three-tier architecture, not a two-tier one. TBB's analysis notes that the programme's success may depend on shortening the journey from laboratory to deployment.",
+    "source": "The proposed three-tier architecture aims to protect military facilities, critical infrastructure, and civilian population centres simultaneously."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-20-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 489,
+  "output_tokens": 1892,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the statutory power under Section 11 of the Electricity Act and the stated summer 2026 power supply facts; the plan itself is only under consideration, so it is not tested as a decision.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, the Centre considered using emergency powers to make imported coal-based power plants run at full capacity. Under which provision can the Centre direct any power plant to operate according to its directions during extraordinary circumstances?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 11 of the Electricity Act",
+     "Section 61 of the Electricity Act",
+     "Section 79 of the Electricity Act",
+     "Section 86 of the Electricity Act"
+    ],
+    "answer": 0,
+    "explain": "Section 11 lets the Centre direct any power plant to operate as directed in extraordinary circumstances, including threats to public order or for the sake of public interest. Because imported coal costs more, the government may let generators pass higher fuel costs to consumers or offer a financial cushion under the same section.",
+    "source": "Under Section 11 of the Electricity Act, the Centre can direct any power plant to operate according to its directions during extraordinary circumstances, which includes threats to public order or for the sake of public interest."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's power supply outlook for summer 2026, as reported in March 2026:",
+    "items": [
+     "Peak power demand is projected to reach a record 271 GW.",
+     "India has 15 imported coal-based power plants with a combined capacity of 17 GW.",
+     "Limited gas supplies have been reprioritised towards the power sector to handle sudden summer demand surges."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong: gas has been reprioritised towards households and fertiliser production, leaving the power sector without capacity to meet sudden surges. The government is looking to imported coal plants to bridge an estimated 12 GW peak shortfall, accepting higher costs amid the West Asia conflict.",
+    "source": "The government is reportedly targeting some of the 15 imported coal-based power plants that have 17 GW capacity in total to bridge an estimated 12 GW peak summer power demand shortfall."
+   }
+  ]
+ }
+}

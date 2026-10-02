@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-13-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 881,
+  "output_tokens": 2014,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the 2024 Supreme Court royalty ruling, the August 2026 bill's key provisions, and Jharkhand's cess increase.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the 2024 Supreme Court judgment on mineral royalty:",
+    "items": [
+     "The Court ruled by an 8–1 majority that royalty is not a tax.",
+     "The judgment left Parliament a route to restrict state taxation of mineral rights through the Mines and Minerals (Development and Regulation) Act.",
+     "The Centre's review petition against the judgment succeeded."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong. The Centre lost its review attempt and filed a curative petition before turning to legislation. Because courts had long treated royalty as a tax, reclassifying it removed the cap on what states could separately charge.",
+    "source": "In 2024, the Supreme Court ruled 8–1 that royalty is not a tax."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Union Coal and Mines Minister introduced a bill on state taxation of minerals. Consider the following statements about the bill:",
+    "items": [
+     "It would prohibit states from taxing mineral rights.",
+     "It would void state taxes and cesses on minerals that remain unpaid or unrecovered once it takes effect."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "The bill bars states from taxing mineral rights and voids dues still unpaid when it takes effect. Money already collected stays with the states.",
+    "source": "The bill would void state taxes and cesses left unpaid or unrecovered once it takes effect."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Following the 2024 Supreme Court ruling on mineral royalty, which state raised its coal cess from INR 100 to INR 250 per tonne in 2025?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Jharkhand",
+     "Karnataka",
+     "Odisha",
+     "Chhattisgarh"
+    ],
+    "answer": 0,
+    "explain": "Jharkhand raised its coal cess to INR 250 per tonne and its iron ore cess from INR 100 to INR 400 in 2025. Karnataka had instead projected INR 30 billion from a proposed levy in 2026-27 that was awaiting central approval.",
+    "source": "Jharkhand raised its coal cess from INR 100 (USD 1.05) to INR 250 (USD 2.62) per tonne"
+   }
+  ]
+ }
+}

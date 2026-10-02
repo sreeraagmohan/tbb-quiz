@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-11-2-1",
+ "story_id": "2026-03-11-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the United States granted India a waiver relating to Russian oil. Consider the following statements:",
+  "items": [
+   "The waiver allowed India to buy Russian oil already stranded at sea for a period of 30 days.",
+   "The oil covered by the waiver was estimated to meet about a month of India's oil demand.",
+   "US Treasury Secretary Scott Bessent told G7 ministers that these cargoes would not benefit the Kremlin because the oil was already loaded."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 2 is wrong. Nomura estimated the 20-30 million barrels available would cover just four days of Indian demand, not a month. Bessent also said India would eventually buy more American crude instead, and the US signalled that any further easing would likely be just for India.",
+  "source": "Nomura analysts note the estimated 20-30 million barrels available cover just four days of Indian demand."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the United States granted India a waiver relating to Russian oil. Consider the following statements:",
+  "items": [
+   "The waiver allowed India to buy Russian oil already stranded at sea for a period of 90 days.",
+   "The oil covered by the waiver was estimated to meet about a month of India's oil demand.",
+   "US Treasury Secretary Scott Bessent told G7 ministers that these cargoes would not benefit the Kremlin because the oil had not yet been loaded."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong: the story says the waiver lasts 30 days, not 90; Nomura estimated the 20-30 million barrels would cover just four days of Indian demand, not a month; and Bessent said the cargoes would not help the Kremlin because the oil was already loaded. Bessent also said India would eventually buy more American crude instead.",
+  "source": "The US granted India a 30-day waiver to purchase stranded Russian oil last Friday at sea, which we covered here."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2816,
+  "output_tokens": 1083,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

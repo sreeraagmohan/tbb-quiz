@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-16-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 548,
+  "output_tokens": 1363,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "An official trade data release. The questions test the direction and composition of May 2026 trade and the bullion import duty hike.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's trade data for May 2026, released by the Ministry of Commerce and Industry in June 2026:",
+    "items": [
+     "Total exports of merchandise and services were estimated at USD 81.96 billion, up 15.83% on a year earlier.",
+     "The combined trade deficit narrowed compared with May 2025.",
+     "Petroleum products led the growth in merchandise exports."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the combined trade deficit widened to USD 10.51 billion from USD 6.79 billion, as imports grew 19.23% to USD 92.47 billion. Petroleum products rose 54.89% and engineering goods 24.48%, together leading merchandise exports to USD 45.20 billion.",
+    "source": "The Ministry of Commerce and Industry estimated total exports of merchandise and services at USD 81.96 billion for May 2026, up 15.83% on a year earlier, even as the combined trade deficit widened to USD 10.51 billion from USD 6.79 billion."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As reported in June 2026, the Centre had raised the effective import duty on gold and silver to what level, in order to curb dollar outflows on bullion?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "15%",
+     "9%",
+     "10%",
+     "12%"
+    ],
+    "answer": 0,
+    "explain": "The effective duty on gold and silver imports was raised to 15% from 6% to curb dollar outflows on bullion. The merchandise trade deficit alone reached USD 28.21 billion in May 2026.",
+    "source": "The Centre had raised the effective gold and silver import duty to 15% from 6%, aimed at curbing dollar outflows on bullion"
+   }
+  ]
+ }
+}

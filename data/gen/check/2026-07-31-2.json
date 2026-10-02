@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-31-2",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   3,
+   2,
+   0,
+   1
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": false,
+    "problem": "\"which TBB describes as India's solar powerhouse\" is wrong. The story calls Rajasthan India's solar powerhouse in its main text, not in the TBB analysis. The 'Sound smarter (TBB analysis)' section does not mention Rajasthan at all."
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 2646,
+  "output_tokens": 332,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-09-1",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   2,
+   3,
+   1,
+   0
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "trivial",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 3962,
+  "output_tokens": 273,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

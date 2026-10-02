@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-25-aitn1-1",
+ "story_id": "2026-03-25-aitn1",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the Supreme Court permitted the withdrawal of life support for Harish Rana, who had been in a vegetative state for 13 years. Consider the following statements about the case:",
+  "items": [
+   "It was the first case to operationalise the Supreme Court's 2018 recognition of the right to die with dignity.",
+   "The Delhi High Court had allowed the family's plea in 2024, and the Supreme Court upheld that order.",
+   "The Supreme Court ruled that clinically assisted nutrition constitutes medical treatment that can be withdrawn."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the Delhi High Court initially denied the family's plea in 2024, and the Supreme Court overturned that decision. The court held that assisted nutrition can be withdrawn when it no longer serves the patient's interest, and Rana died on 24 March 2026.",
+  "source": "the Supreme Court overturned that, ruling that clinically assisted nutrition constitutes medical treatment that can be withdrawn when it no longer serves the patient's interest."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the Supreme Court permitted the withdrawal of life support for Harish Rana, who had been in a vegetative state for 13 years. Consider the following statements about the case:",
+  "items": [
+   "It was the first case to operationalise the Supreme Court's 2018 recognition of the right to die with dignity.",
+   "The Delhi High Court had initially denied the family's plea in 2024, and the Supreme Court overturned that decision.",
+   "The Supreme Court ruled that clinically assisted nutrition constitutes medical treatment that can be withdrawn."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the case operationalised the 2018 right to die with dignity, and the Supreme Court overturned the Delhi High Court's 2024 refusal. The court held that clinically assisted nutrition can be withdrawn when it no longer serves the patient's interest, and it permitted withdrawal of life support on 11 March 2026.",
+  "source": "The Delhi High Court had initially denied his family's plea in 2024; the Supreme Court overturned that, ruling that clinically assisted nutrition constitutes medical treatment that can be withdrawn when it no longer serves the patient's interest."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2404,
+  "output_tokens": 753,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

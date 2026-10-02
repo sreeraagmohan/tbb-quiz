@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-22-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 526,
+  "output_tokens": 1441,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US legal sequence on tariffs affecting India (Section 122 duty, the CIT ruling) and the Section 301 probe. The expected June negotiator visit is skipped as a forward-looking plan.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about US tariffs affecting India, as of May 2026:",
+    "items": [
+     "After the US Supreme Court scrapped the \"Liberation Day\" tariffs, Washington imposed a 10% flat duty under Section 122.",
+     "The US Court of International Trade declared the 10% flat duties unlawful.",
+     "Following the US Court of International Trade ruling, US Customs stopped collecting the 10% duty from all importers."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because US Customs continues to collect the 10% duty from everyone except the specific plaintiffs, so the court win is narrow. The Supreme Court's removal of the Liberation Day tariffs knocked out the original basis for the India-US trade deal and stalled negotiations.",
+    "source": "US Customs continues to collect the tax from everyone except the specific plaintiffs."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In 2026, after its \"Liberation Day\" tariffs were struck down, the United States opened investigations into Indian trade practices under which provision of US trade law?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 301",
+     "Section 122",
+     "Section 232",
+     "Section 201"
+    ],
+    "answer": 0,
+    "explain": "Washington launched Section 301 investigations into Indian trade practices. Section 122 was the basis for the separate 10% flat duty. TBB notes that Section 301 action carries no expiry and no ceiling, which adds urgency to the trade talks.",
+    "source": "Washington pivoted to a 10% flat duty under Section 122 and launched Section 301 investigations into Indian trade practices"
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-19-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 831,
+  "output_tokens": 1410,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the structure of the NSE IPO (offer-for-sale, stake size, revenue mix) and the substance of the co-location case. Skipped valuation and market commentary.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, the National Stock Exchange (NSE) filed draft papers for an initial public offering. Consider the following statements about the offering and the exchange:",
+    "items": [
+     "The offering is a pure offer-for-sale in which existing shareholders sell their shares.",
+     "The shares on offer make up around 6% of NSE's equity.",
+     "Transaction charges account for about half of NSE's revenue."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: transaction charges make up about 82% of NSE's revenue. The offer of 148.9 million shares raises no fresh money for NSE, because sellers such as Temasek and the Canada Pension Plan Investment Board are taking money off the table.",
+    "source": "The offering is a pure offer-for-sale of 148.9 million shares, around 6% of NSE's equity."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The 'co-location case' that froze the National Stock Exchange's listing plans for years, and led SEBI to fine NSE INR 11 billion in 2019, concerned allegations that the exchange:",
+    "items": [],
+    "ask": "",
+    "options": [
+     "gave some high-frequency traders unfair early access to its price feed",
+     "diverted client margin money to fund its own technology expansion",
+     "manipulated Nifty index rebalancing to favour certain listed companies",
+     "allowed foreign brokers to trade without registering with SEBI"
+    ],
+    "answer": 0,
+    "explain": "The case examined whether NSE gave some high-frequency traders early access to its price feed between 2010 and 2014. SEBI cleared the listing in January 2026, and NSE has applied to settle the remaining charges for around USD 158 million.",
+    "source": "an investigation into whether the exchange gave some high-frequency traders unfair early access to its price feed between 2010 and 2014."
+   }
+  ]
+ }
+}

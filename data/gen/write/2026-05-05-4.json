@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-05-05-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 1209,
+  "output_tokens": 2044,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the 2026 Kerala assembly result, the end of Left state governments, and the BJP's Nemom win. The BJP 'first time' claim and the RSP's alignment are avoided as unclear.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Kerala Legislative Assembly election results declared in May 2026:",
+    "items": [
+     "The majority mark in the 140-seat assembly is 71.",
+     "The CPI(M) won 26 seats, down from 62 in 2021.",
+     "Chief Minister Pinarayi Vijayan lost his Dharmadam constituency."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Vijayan held Dharmadam, although at least 12 of his cabinet ministers were trailing or lost their seats. The Congress-led UDF crossed the majority mark with over 90 seats, ending the LDF's decade-long hold on the state.",
+    "source": "Vijayan himself held his Dharmadam constituency, but at least 12 of his cabinet ministers were trailing or lost their seats."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of states and the year in which CPI(M)-led rule there ended:",
+    "items": [
+     "West Bengal — 2011",
+     "Tripura — 2018",
+     "Kerala — 2026"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. The CPI(M) held West Bengal for 34 years until 2011, Tripura until 2018 and Kerala until May 2026. With the LDF's defeat in Kerala, no Left party governs any Indian state.",
+    "source": "The CPI(M) held West Bengal for 34 years until 2011, Tripura until 2018, and Kerala until today."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In the Kerala assembly election of May 2026, BJP state president Rajeev Chandrasekhar defeated sitting CPI(M) minister V. Sivankutty in which constituency?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Nemom",
+     "Dharmadam",
+     "Paravur",
+     "Palakkad"
+    ],
+    "answer": 0,
+    "explain": "Chandrasekhar won Nemom in Thiruvananthapuram, one of the BJP's three seats in the election. Dharmadam is Pinarayi Vijayan's seat, and Paravur is held by V.D. Satheesan, the front-runner for Chief Minister.",
+    "source": "The BJP won three seats, including Nemom in Thiruvananthapuram, where state president Rajeev Chandrasekhar defeated sitting CPI(M) minister V. Sivankutty."
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-01-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 541,
+  "output_tokens": 146,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a corporate data breach at Tata Electronics involving Apple's unreleased iPhone 18 Pro, with no scheme, law, regulator or policy action to test.",
+  "questions": []
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-26-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 436,
+  "output_tokens": 953,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly a misinformation rebuttal; one statements question on the factual clarifications about E20 fuel-grade ethanol and insurance.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, the Ministry of Petroleum and Natural Gas and Bharat Petroleum Corporation Limited issued clarifications about E20 ethanol-blended petrol. Consider the following statements:",
+    "items": [
+     "Fuel-grade ethanol used for blending is distilled to eliminate residual sugars and contains insect-repellent denaturants.",
+     "Industry stakeholders found that using E20 petrol voids vehicle insurance coverage."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "BPCL said fuel-grade ethanol is distilled to remove residual sugars and carries insect-repellent denaturants, while the ministry said industry stakeholders had found the insurance claim to be incorrect. The E20 programme is a cornerstone of India's push to cut crude oil imports and support domestic agriculture.",
+    "source": "fuel-grade ethanol is distilled to eliminate residual sugars and contains insect-repellent denaturants"
+   }
+  ]
+ }
+}

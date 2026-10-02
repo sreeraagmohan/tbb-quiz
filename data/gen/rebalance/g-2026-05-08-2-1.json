@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-08-2-1",
+ "story_id": "2026-05-08-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements in the context of India's sporting engagement with Pakistan as of May 2026:",
+  "items": [
+   "A memo issued by the Ministry of Youth Affairs and Sports in May 2026 cleared the way for Pakistani teams to compete in multilateral events hosted by India.",
+   "Under the May 2026 policy, India will host Pakistan for standalone bilateral matches.",
+   "India is bidding to host the 2036 Olympics and the 2038 Asian Games."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because India will still refuse to play one-on-one series against Pakistan or host them for standalone matches; only multilateral events are opened up. India is also bidding for the 2030 Commonwealth Games, and TBB notes that alienating global sporting bodies would hurt its 2036 Olympic bid.",
+  "source": "India will still refuse to play one-on-one series against Pakistan or host them for standalone matches."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements in the context of India's sporting engagement with Pakistan as of May 2026:",
+  "items": [
+   "A memo issued by the Ministry of Youth Affairs and Sports in May 2026 cleared the way for Pakistani teams to compete in multilateral events hosted by India.",
+   "Under the May 2026 policy, India will continue to refuse to play one-on-one series against Pakistan or host it for standalone matches.",
+   "India is bidding to host the 2036 Olympics and the 2038 Asian Games."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct. The May 2026 memo opens multilateral events to Pakistani teams, while India still refuses bilateral series or standalone matches, and India is bidding for the 2030 Commonwealth Games, 2036 Olympics and 2038 Asian Games. Bilateral cricket between the two countries has been frozen since 2012.",
+  "source": "India will still refuse to play one-on-one series against Pakistan or host them for standalone matches."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3345,
+  "output_tokens": 756,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

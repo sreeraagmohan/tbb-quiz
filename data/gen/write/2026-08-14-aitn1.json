@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-14-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 274,
+  "output_tokens": 895,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Trade remedy story; tests the history of the duties and how the rates are set, not company names.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, China extended anti-dumping duties on Indian single-mode optical fibre for another five years. Consider the following statements:",
+    "items": [
+     "China first imposed these duties in 2014 and previously renewed them for five years in 2020.",
+     "The extended duties apply at a single uniform rate to all Indian exporters."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the rates differ by exporter, ranging from 7.4 percent to 30.6 percent. China's Ministry of Commerce said a year-long expiry review found that removing the duties could allow dumping and harm to domestic producers to continue or recur.",
+    "source": "China first imposed the measures in 2014 and previously renewed them for five years in 2020."
+   }
+  ]
+ }
+}

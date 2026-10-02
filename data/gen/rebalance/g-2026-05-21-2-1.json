@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-21-2-1",
+ "story_id": "2026-05-21-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, Defence Minister Rajnath Singh signed three defence Memoranda of Understanding (MoUs) with South Korea in Seoul. Consider the following statements:",
+  "items": [
+   "One of the MoUs covers defence cyber cooperation.",
+   "One of the MoUs provides for training exchanges between India's National Defence College and Korea National Defence University.",
+   "Rajnath Singh's two-nation tour, which ended in Seoul, began in Japan."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The tour began in Vietnam, not Japan. The three MoUs covered defence cyber cooperation, training exchanges between the two national defence colleges, and peacekeeping operations.",
+  "source": "The Memoranda of Understanding (MoUs) cover defence cyber cooperation, training exchanges between India's National Defence College and Korea National Defence University, and peacekeeping operations."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, Defence Minister Rajnath Singh signed three defence Memoranda of Understanding (MoUs) with South Korea in Seoul. Consider the following statements:",
+  "items": [
+   "One of the MoUs provides for training exchanges between India's National Defence Academy and Korea National Defence University.",
+   "L&T and Hanwha signed three commercial agreements on defence technology at a business roundtable chaired by Singh in Seoul.",
+   "Rajnath Singh's two-nation tour, which ended in Seoul, began in Japan."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong: the training MoU links India's National Defence College (not the National Defence Academy) with Korea National Defence University, L&T and Hanwha signed two (not three) commercial agreements, and the tour began in Vietnam, not Japan. Both sides also discussed operationalising KIND-X, a joint platform for co-developing and co-producing defence systems.",
+  "source": "L&T and Hanwha also signed two commercial agreements on defence technology at a business roundtable Singh chaired in Seoul."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3092,
+  "output_tokens": 1355,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

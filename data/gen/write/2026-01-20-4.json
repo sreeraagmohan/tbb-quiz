@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-01-20-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 416,
+  "output_tokens": 1337,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the statutes feeding the new Environmental Protection Fund and its sharing, oversight and spending rules.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In January 2026, the environment ministry notified rules creating a statutory Environmental Protection Fund that pools penalties imposed under certain laws. Consider the following pairs of those laws and their years:",
+    "items": [
+     "Environment Protection Act — 1986",
+     "Air Act — 1981",
+     "Water Act — 1974"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "The fund collects penalties under the Environment Protection Act (1986), the Air Act (1981) and the Water Act (1974), so all three pairs are correct. It recycles these penalties into cleanup and compliance.",
+    "source": "The fund will collect penalties imposed under the Environment Protection Act (1986), Air Act (1981), and Water Act (1974)."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Environmental Protection Fund notified by India's environment ministry in January 2026:",
+    "items": [
+     "The Centre retains 75% of the penalties collected.",
+     "States and Union Territories must set up Project Management Units, with periodic audits mandated.",
+     "Eligible spending spans 11 categories, including remediation of environmental damage."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong. 75% of penalties go to the state where the violation occurred, and the Centre keeps 25%. TBB notes that penalty proceeds previously often sat idle, with no common rules on sharing, reporting or oversight.",
+    "source": "Of every rupee collected, 75% will be remitted to the state where the violation occurred."
+   }
+  ]
+ }
+}

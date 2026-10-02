@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-30-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 613,
+  "output_tokens": 1521,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the appeal and deadline provisions and legislative stage of the public examinations amendment bill, and the court that took the NEET leak chargesheet.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, the Lok Sabha passed the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026. Consider the following statements about the bill:",
+    "items": [
+     "Appeals against a Special Fast Track Court order lie only to the High Court, heard by a bench of two judges.",
+     "It sets a two-month limit for investigation and a three-month deadline for trial.",
+     "With its passage by the Lok Sabha, the bill became law."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong because the bill, passed by voice vote in the Lok Sabha, still needs the Rajya Sabha and presidential assent. High Court appeals must be disposed of within three months, and no other appeal or revision is available.",
+    "source": "The bill still needs the Rajya Sabha and presidential assent."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, the CBI's first chargesheet in the NEET paper-leak investigation was taken on record by a special judge at which Delhi court complex?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Rouse Avenue",
+     "Tis Hazari",
+     "Saket",
+     "Patiala House"
+    ],
+    "answer": 0,
+    "explain": "Special Judge Anu Grover Baliga took the chargesheet against 13 accused on record at Rouse Avenue. She noted that the witness statements and lists of documents had not come with it, and the CBI said the full record runs to about 20,000 pages.",
+    "source": "Special Judge Anu Grover Baliga took the chargesheet on record at Rouse Avenue on Wednesday"
+   }
+  ]
+ }
+}

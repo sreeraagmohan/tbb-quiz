@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-14-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 570,
+  "output_tokens": 1083,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a labour-unrest story. Testing the durable facts on India's LPG import position, Haryana's minimum wage hike and the direction of gas rationing.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, factory workers in Noida protested over rising living costs amid fuel shortages linked to the US-Israeli war on Iran. Consider the following statements:",
+    "items": [
+     "India is the world's second-largest importer of LPG.",
+     "In early April 2026, Haryana ordered a 35% hike in minimum wages after unrest in the auto hub of Manesar.",
+     "The government cut household cooking gas allocations to protect gas supplies to industry."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong. The government cut industrial gas allocations to protect household cooking supplies, which squeezed businesses and workers. Haryana's hike raised its wage floor to INR 19,000 a month, against about INR 13,000 earned by Noida factory workers.",
+    "source": "The government has cut industrial gas allocations to protect household cooking supplies, squeezing businesses and workers simultaneously."
+   }
+  ]
+ }
+}

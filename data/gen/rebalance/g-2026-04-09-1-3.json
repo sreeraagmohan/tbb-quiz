@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-09-1-3",
+ "story_id": "2026-04-09-1",
+ "target": 3,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the hydroelectric projects in Arunachal Pradesh approved in April 2026:",
+  "items": [
+   "Kamala project — 1,720 MW",
+   "Kalai-II project — 1,200 MW",
+   "Flood moderation component of the Kamala project — INR 40,175 crore"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The flood moderation component of the Kamala project has a dedicated budget of INR 4,744 crore. INR 40,175 crore is the total approved for both projects. The plants are meant to manage peak demand and steady a grid increasingly reliant on solar and wind.",
+  "source": "The Kamala project also provides flood moderation in the Brahmaputra Valley, with a dedicated budget of INR 4,744 crore for that component alone."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the hydroelectric projects in Arunachal Pradesh approved in April 2026:",
+  "items": [
+   "Kamala project — 1,200 MW",
+   "Kalai-II project — 1,720 MW",
+   "Flood moderation component of the Kamala project — INR 40,175 crore"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three pairs are wrong. The story gives Kamala as 1,720 MW and Kalai-II as 1,200 MW, and puts the flood moderation component at INR 4,744 crore, with INR 40,175 crore being the total approved for both projects. The plants are meant to manage peak demand and steady a grid increasingly reliant on solar and wind.",
+  "source": "two hydroelectric projects in Arunachal Pradesh: the 1,720 MW Kamala and 1,200 MW Kalai-II plants."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3157,
+  "output_tokens": 1117,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

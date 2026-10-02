@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-01-19-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 491,
+  "output_tokens": 1202,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly outbreak reporting; tested only the institutional responses by the NGT and NHRC.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about institutional responses to drinking water contamination in India in January 2026:",
+    "items": [
+     "The National Green Tribunal took action over reports of sewage contamination in drinking water across parts of Rajasthan, Madhya Pradesh and Uttar Pradesh.",
+     "The National Human Rights Commission issued a notice over a typhoid surge in Gandhinagar, Gujarat, linked to contaminated supply."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The NGT acted on sewage contamination reports across three states, and the NHRC separately issued a notice over the Gandhinagar typhoid surge. These responses followed a diarrhoea outbreak in Indore, Madhya Pradesh, that killed at least nine and hospitalised over 200 people.",
+    "source": "Separately, the National Human Rights Commission (NHRC) issued a notice over a typhoid surge in Gandhinagar, Gujarat, tied to contaminated supply on January 8."
+   }
+  ]
+ }
+}

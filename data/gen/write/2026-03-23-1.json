@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-03-23-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 765,
+  "output_tokens": 2005,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Hormuz chokepoint for LPG, India's fuel-price and import-dependency facts, and the March 2026 CCS review with fertiliser sourcing.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As of March 2026, almost all of India's LPG imports and the bulk of its crude imports pass through which maritime chokepoint?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Strait of Malacca",
+     "Bab-el-Mandeb",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "The Strait of Hormuz carries the bulk of India's crude and almost all of its LPG imports. India's big three public sector refiners are configured for Gulf crude, and reconfiguring a refinery for different feedstock is a multi-year, multi-billion-dollar project.",
+    "source": "The bulk of India's crude and almost all of its LPG imports transit the Strait of Hormuz."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's petroleum sector as reported in March 2026:",
+    "items": [
+     "India's crude oil import dependency is near 89%.",
+     "Fuel prices were deregulated between 2010 and 2014.",
+     "Retail pump prices rose by roughly 25% after the start of the West Asia conflict."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Retail prices stayed steady after the West Asia conflict began; the roughly 25% rise was in industrial diesel. Although prices are formally deregulated, the government has directed oil marketing companies to hold the line, leaving them with negative margins at USD 100–105 per barrel.",
+    "source": "Crude import dependency sits near 89%, and domestic LPG cylinder prices have already climbed roughly 7%."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's response to supply disruptions in March 2026:",
+    "items": [
+     "Prime Minister Modi chaired a Cabinet Committee on Security meeting to review energy, fertiliser and supply chain resilience.",
+     "India turned to Russia, Belarus and Morocco for fertiliser supplies."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "The CCS meeting on 22 March 2026 reviewed energy, fertiliser and supply chain resilience, and India has already sourced fertiliser from Russia, Belarus and Morocco. The Prime Minister also ordered a dedicated group of ministers and secretaries to coordinate across sectors and told states to act against hoarding.",
+    "source": "Prime Minister Modi chaired a high-level Cabinet Committee on Security (CCS) meeting on Sunday to review India's energy, fertiliser, and supply chain resilience, amid sustained disruptions in sourcing."
+   }
+  ]
+ }
+}

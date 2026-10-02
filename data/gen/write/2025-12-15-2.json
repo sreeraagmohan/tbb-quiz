@@ -1,0 +1,54 @@
+{
+ "story_id": "2025-12-15-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 536,
+  "output_tokens": 1657,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Stage IV trigger and curbs under GRAP and the role of CAQM. The impact narrative is skipped.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In December 2025, Stage IV of the Graded Response Action Plan (GRAP) was invoked in Delhi-NCR. Consider the following statements about it:",
+    "items": [
+     "It was invoked after Delhi's Air Quality Index breached 450 and slid into the 'Severe+' band.",
+     "Construction and demolition were halted across Delhi-NCR, but public works were exempted.",
+     "Offices were pushed to have roughly 50% of staff work from home."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the Stage IV halt on construction and demolition covered public works too. Stage IV, the toughest curbs under GRAP, also barred non-essential trucks and many diesel goods vehicles from Delhi.",
+    "source": "All construction and demolition across Delhi-NCR stops, including public works."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In December 2025, after GRAP Stage IV was invoked in Delhi-NCR, which body warned that further steps such as odd–even schemes could follow if 'Severe+' air quality persisted?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Commission for Air Quality Management",
+     "National Green Tribunal",
+     "Central Pollution Control Board",
+     "Delhi Pollution Control Committee"
+    ],
+    "answer": 0,
+    "explain": "The Commission for Air Quality Management warned that wider closures, tighter vehicle curbs and even odd–even schemes could follow. GRAP Stage IV acts as an emergency brake and is usually rolled back once AQI stabilises.",
+    "source": "The Commission for Air Quality Management has warned more steps may follow if ‘Severe+’ sticks — wider closures, tighter vehicle curbs, even odd–even schemes."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-20-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 534,
+  "output_tokens": 1777,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India's August 2026 WTO consultation request on the US quartz safeguard and why earlier US tariff disputes were treated differently.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, India requested consultations at the WTO over a US safeguard measure on quartz surfaces. Consider the following statements:",
+    "items": [
+     "The safeguard followed a finding by the US International Trade Commission that rising imports had seriously injured domestic manufacturers.",
+     "India has been exempted from the safeguard duties.",
+     "According to the Global Trade Research Initiative, the US bought 72.5 per cent of India's quartz-surface exports in the 2026 financial year."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the story states that India is not exempt. First-year imports face an additional 25 per cent tariff within the quota and 50 per cent above it, and India's quartz-surface exports to the US were worth USD 233.3 million in FY2026.",
+    "source": "The US International Trade Commission found rising imports had seriously injured domestic manufacturers."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Before its August 2026 WTO request on quartz surfaces, India had sought consultations over US tariffs on steel, aluminium, automobiles and copper. On what ground did Washington reject those requests?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "They were national-security measures",
+     "They were anti-dumping duties",
+     "They were countervailing duties",
+     "They were balance-of-payments measures"
+    ],
+    "answer": 0,
+    "explain": "Washington treated those tariffs as national-security measures, not safeguards. Because the quartz measure is explicitly a safeguard, India has cleaner procedural ground at the WTO this time.",
+    "source": "Washington rejected them as national-security measures, not safeguards."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-12-1-1",
+ "story_id": "2026-03-12-1",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, India changed its rules on foreign direct investment from land-bordering countries. Consider the following statements about the change:",
+  "items": [
+   "Investments where Chinese beneficial ownership stays below 10% now enter through the automatic route.",
+   "Proposals in electronics, batteries, rare-earth magnets, capital goods and solar cells will receive a government decision within 60 days, provided Indian residents retain majority control.",
+   "The relaxation applies only to investments from China and not to other land-bordering neighbours."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because the change is part of a broader policy covering all land-bordering neighbours, though it is squarely aimed at rebuilding commercial ties with Beijing. Under the previous policy, any firm with a Chinese beneficial owner needed government approval regardless of stake, which caught global PE and VC funds with Chinese limited partners.",
+  "source": "Now, investments where Chinese beneficial ownership stays below 10% enter through the automatic route."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, India changed its rules on foreign direct investment from land-bordering countries. Consider the following statements about the change:",
+  "items": [
+   "The relaxation applies only to investments from China and not to other land-bordering neighbours.",
+   "Investments where Chinese beneficial ownership stays below 10% now enter through the automatic route.",
+   "Proposals in electronics, batteries, rare-earth magnets, capital goods and solar cells will receive a government decision within 60 days, provided Indian residents retain majority control."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the change is part of a broader policy covering all land-bordering neighbours, though it is squarely aimed at rebuilding commercial ties with Beijing. Under the previous policy, any firm with a Chinese beneficial owner needed government approval regardless of stake, which caught global PE and VC funds with Chinese limited partners.",
+  "source": "part of a broader policy covering all such neighbours but squarely aimed at rebuilding commercial ties with Beijing after six years of friction."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3592,
+  "output_tokens": 784,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

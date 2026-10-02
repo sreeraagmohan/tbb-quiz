@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-05-28-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 183,
+  "output_tokens": 236,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story announces a planned delegation visit and expected talks, with no concluded agreement or durable detail worth testing.",
+  "questions": []
+ }
+}

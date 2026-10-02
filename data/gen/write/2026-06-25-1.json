@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-25-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 661,
+  "output_tokens": 1316,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the diplomatic channel and funeral itinerary for Khamenei and India's 2024 precedent on Raisi's death. India's response is pending, so it is not tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, Iran invited Prime Minister Narendra Modi to the state funeral of former Supreme Leader Ayatollah Ali Khamenei. Consider the following statements:",
+    "items": [
+     "The invitation was conveyed to the Ministry of External Affairs through a note verbale.",
+     "In March 2026, Foreign Secretary Vikram Misri signed the condolence book at Iran's embassy.",
+     "Khamenei's burial is scheduled to take place at Qom."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. The body lies in state in Tehran and the processions pass through Qom, Najaf and Karbala, but the burial is at Mashhad. Misri's signing on 5 March was India's first message of sympathy, and sending a civil servant rather than a minister was a deliberately understated gesture.",
+    "source": "The body lies in state in Tehran before processions through Qom, Najaf, and Karbala, with the burial at Mashhad."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "When Iranian President Ebrahim Raisi died in 2024, whom did India send to Tehran?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "The Vice President",
+     "The President",
+     "The External Affairs Minister",
+     "The Foreign Secretary"
+    ],
+    "answer": 0,
+    "explain": "India also declared a day of national mourning for Raisi. That precedent is now the benchmark against which India's representation at Khamenei's funeral will be judged.",
+    "source": "When Iranian President Ebrahim Raisi died in 2024, India declared a day of national mourning and sent the vice president to Tehran."
+   }
+  ]
+ }
+}

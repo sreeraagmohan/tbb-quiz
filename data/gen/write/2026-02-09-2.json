@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-02-09-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 583,
+  "output_tokens": 2826,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the partnership upgrade, the visit's economic and digital outcomes, and the semiconductor division of labour.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Prime Minister Modi visited Malaysia in February 2026. In August 2025, India and Malaysia had upgraded their bilateral ties to which level?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Comprehensive Strategic Partnership",
+     "Special and Privileged Partnership",
+     "Enhanced Strategic Partnership",
+     "Global Strategic Partnership"
+    ],
+    "answer": 0,
+    "explain": "The February 2026 trip was Modi's first visit to Malaysia since ties were upgraded to a Comprehensive Strategic Partnership the previous August. The visit's joint statement covered local-currency trade, semiconductors and digital payments.",
+    "source": "Prime Minister Modi wrapped his two-day visit to Malaysia on Sunday, his first trip there since upgrading bilateral ties to a \"Comprehensive Strategic Partnership\" last August."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Malaysia relations as reflected in the joint statement issued during Prime Minister Modi's visit in February 2026:",
+    "items": [
+     "Bilateral trade between India and Malaysia reached USD 18.6 billion in 2025.",
+     "Both countries are pushing INR-MYR local-currency settlement, partly to cut hedging costs for small and medium enterprises.",
+     "The newly launched Malaysia-India Digital Council is tasked with cooperation across areas including cybersecurity, Artificial Intelligence and fintech."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are stated in the story: trade hit USD 18.6 billion in 2025, INR-MYR settlement aims to bypass the dollar and cut SME hedging costs, and the Digital Council covers semiconductors, digital infrastructure, cybersecurity, AI and fintech. The two sides also plan to link India's UPI with Malaysia's PayNet.",
+    "source": "The joint statement confirmed the launch of the Malaysia-India Digital Council, a body tasked with accelerating cooperation across semiconductors, digital infrastructure, cybersecurity, Artificial Intelligence, and fintech."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the semiconductor cooperation outlined in the India–Malaysia joint statement of February 2026, India's strengths in chip design are to be combined with Malaysia's experience in which segment?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Assembly, testing and packaging",
+     "Wafer fabrication and lithography",
+     "Electronic design automation tools",
+     "Polysilicon and raw wafer supply"
+    ],
+    "answer": 0,
+    "explain": "The joint statement pairs India's chip-design strengths with Malaysia's extensive experience in assembly, testing and packaging. TBB's analysis notes that drawing on Malaysia's know-how offers India a shortcut to a resilient domestic chip ecosystem.",
+    "source": "with both sides looking to deepen trade and cooperation as they combine India’s strengths in chip design with Malaysia’s extensive experience in assembly, testing, and packaging."
+   }
+  ]
+ }
+}

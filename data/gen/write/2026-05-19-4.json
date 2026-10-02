@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-19-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 528,
+  "output_tokens": 1631,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Green Strategic Partnership upgrade and the concrete outcomes of the May 2026 India–Norway talks, including the DPI triangular pact, the ISRO MoU and Norway joining the IPOI.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, India and Norway upgraded their bilateral ties on the sidelines of the Nordic summit. What is the new partnership called?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Green Strategic Partnership",
+     "Comprehensive Strategic Partnership",
+     "Global Strategic Partnership",
+     "Special Strategic Partnership"
+    ],
+    "answer": 0,
+    "explain": "Prime Ministers Narendra Modi and Jonas Gahr Støre upgraded ties to a Green Strategic Partnership on 18 May 2026. At the same meeting they also signed a pact to jointly fund projects in the Global South.",
+    "source": "On Monday, Prime Minister Narendra Modi and Prime Minister Jonas Gahr Støre upgraded ties to a Green Strategic Partnership and signed a pact to jointly fund projects in the Global South."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the outcomes of the India–Norway talks held in May 2026:",
+    "items": [
+     "Under the triangular development cooperation agreement, Norway will export its digital public infrastructure model while India co-funds the projects.",
+     "The Indian Space Research Organisation signed an MoU with the Norwegian Space Agency.",
+     "Norway joined India's Indo-Pacific Oceans Initiative."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 reverses the roles. Under the triangular agreement, India's digital public infrastructure is rolled out in Global South countries with Norway co-funding the projects while India exports the model. Norway joining the Indo-Pacific Oceans Initiative is a notable signal from a NATO member with Arctic interests.",
+    "source": "Both sides signed a triangular development cooperation agreement to jointly roll out India's digital public infrastructure (DPI) in Global South countries, with Norway co-funding projects while India exports the model."
+   }
+  ]
+ }
+}

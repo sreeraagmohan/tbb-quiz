@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-02-20-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 556,
+  "output_tokens": 593,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly corporate investment pledges; tested only the government's 21-year tax holiday for cloud service providers, the one policy measure.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, during India's AI Impact Summit, the government announced a tax holiday for cloud service providers setting up in India. What was the duration of this tax holiday?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "21 years",
+     "10 years",
+     "15 years",
+     "25 years"
+    ],
+    "answer": 0,
+    "explain": "The government announced a 21-year tax holiday for cloud service providers setting up in India to keep investment momentum going. The summit drew large AI and data infrastructure pledges, including USD 109.8 billion from Reliance and Jio over seven years.",
+    "source": "the government announced a 21-year tax holiday for cloud service providers setting up shop in India earlier during the summit"
+   }
+  ]
+ }
+}

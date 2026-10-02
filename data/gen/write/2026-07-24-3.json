@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-24-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 629,
+  "output_tokens": 887,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a corporate lobbying story; tested only the airline-stake cap, AERA's remit and domestic market concentration.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, Gautam Adani asked the government to dilute rules on airport operators owning airlines. Consider the following statements about India's aviation sector as reported at the time:",
+    "items": [
+     "Airport operators are capped at a 10% stake in scheduled airlines.",
+     "The Airports Economic Regulatory Authority sets aeronautical tariffs and also oversees slot coordination and ground handling.",
+     "IndiGo and Air India together control roughly 90% of domestic air traffic."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong. The Airports Economic Regulatory Authority sets aeronautical tariffs, but slot coordination and ground handling sit outside its remit. That gap is why rival carriers fear conflicts of interest if an airport operator also runs an airline.",
+    "source": "The Airports Economic Regulatory Authority sets aeronautical tariffs, but slot coordination and ground handling sit outside its remit."
+   }
+  ]
+ }
+}

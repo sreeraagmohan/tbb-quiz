@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-10-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 265,
+  "output_tokens": 1210,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the statute and section being amended for UPI pricing, and that P2P payments stay fee-free while any MDR is limited to merchants.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Ministry of Finance clarified the proposed framework for charges on Unified Payments Interface (UPI) transactions. Consider the following statements:",
+    "items": [
+     "The proposed changes amend Section 10A of the Payment and Settlement Systems Act.",
+     "Under the proposed framework, peer-to-peer UPI payments will attract a nominal, threshold-based fee."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Everyday consumer and P2P payments will face zero transaction fees. Any future Merchant Discount Rate will be nominal, threshold-based and limited to a select subset of merchant transactions. The ministry said the Section 10A amendments aim at UPI's long-term technological sustainability, cybersecurity and infrastructure expansion.",
+    "source": "Under the proposed framework, everyday consumer and P2P payments will face zero transaction fees"
+   }
+  ]
+ }
+}

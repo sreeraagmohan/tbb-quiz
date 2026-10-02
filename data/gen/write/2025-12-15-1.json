@@ -1,0 +1,15 @@
+{
+ "story_id": "2025-12-15-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 508,
+  "output_tokens": 154,
+  "cache_creation_input_tokens": 4410,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: a celebrity appearance and crowd chaos at Salt Lake Stadium, with only a CM-ordered inquiry and an organiser's arrest. There is no durable scheme, law, body or policy fact to test.",
+  "questions": []
+ }
+}

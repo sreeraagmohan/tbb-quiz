@@ -1,0 +1,37 @@
+{
+ "story_id": "2025-12-15-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 505,
+  "output_tokens": 1132,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A state vision document with few durable facts. One question tests the plan's basic features and Chhattisgarh's origin.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Anjor Vision 2047, a development roadmap unveiled in December 2025:",
+    "items": [
+     "It was unveiled by Chief Minister Vishnu Deo Sai on the opening day of the state Assembly's winter session.",
+     "The document identifies 13 priority sectors and 10 missions.",
+     "Chhattisgarh, the state that released it, was carved out of Bihar in 2000."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because Chhattisgarh was carved out of Madhya Pradesh in 2000, not Bihar. Sai unveiled the roadmap on 14 December 2025 while the Congress boycotted the session's opening day.",
+    "source": "Chhattisgarh was carved out of Madhya Pradesh in 2000."
+   }
+  ]
+ }
+}

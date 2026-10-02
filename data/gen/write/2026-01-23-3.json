@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-23-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 488,
+  "output_tokens": 1692,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the scope and setting of the India-EU Security and Defence Partnership and what the EU's SAFE programme is. Indian access to SAFE is left out because it is only expected.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–EU Security and Defence Partnership (SDP) announced in January 2026:",
+    "items": [
+     "It covers maritime security, cybersecurity and counterterrorism.",
+     "It was to be signed during a Delhi visit by the European Commission President and the European Council President.",
+     "It was to be signed at the 15th India–EU Summit held in Brussels."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong. The pact was to be signed in New Delhi, where Ursula von der Leyen and Antonio Costa would co-chair the 16th India–EU Summit with Narendra Modi and attend Republic Day celebrations.",
+    "source": "Brussels announced a new Security and Defense Partnership (SDP) with New Delhi, covering maritime security, cybersecurity, and counterterrorism."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The European Union's Security Action For Europe (SAFE) programme, discussed in January 2026 in the context of India–EU defence industrial cooperation, is best described as:",
+    "items": [],
+    "ask": "",
+    "options": [
+     "An EU financing tool for defence readiness",
+     "An EU naval mission for maritime surveillance",
+     "An EU network for cyber-incident response",
+     "An EU database for counterterrorism intelligence"
+    ],
+    "answer": 0,
+    "explain": "SAFE is a EUR 150 billion financing tool meant to speed up European defence readiness. The new India–EU defence partnership could let Indian firms tap into Europe's defence supply chains as the EU rearms.",
+    "source": "including Indian firms accessing the EU’s Security Action For Europe (SAFE) programme, a EUR 150 billion financing tool to accelerate European defence readiness."
+   }
+  ]
+ }
+}

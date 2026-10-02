@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-22-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 307,
+  "output_tokens": 1134,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Defence commissioning with concrete platform facts; one pairs question matching each ship to its role or capability.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In June 2026, three indigenously designed naval ships were commissioned at Syama Prasad Mookerjee Port in Kolkata. Consider the following pairs:",
+    "items": [
+     "INS Dunagiri — Project 17A stealth frigate",
+     "INS Sanshodhak — Hydrographic and oceanographic work",
+     "INS Agray — BrahMos surface-to-surface missiles"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong. BrahMos missiles are carried by INS Dunagiri, the fifth Project 17A stealth frigate, while INS Agray carries lightweight torpedoes and shallow-water sonar. All three ships were built by Garden Reach Shipbuilders & Engineers (GRSE) to Indian Navy designs, with indigenous content above 75%.",
+    "source": "INS Dunagiri, the fifth Project 17A stealth frigate, carries BrahMos surface-to-surface missiles and a medium-range surface-to-air missile system."
+   }
+  ]
+ }
+}

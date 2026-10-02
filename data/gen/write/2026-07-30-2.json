@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-30-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 799,
+  "output_tokens": 2252,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests Naxal movement history, the force behind Besra's July 2026 arrest, and the Home Ministry's July 2026 district classification.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Left Wing Extremist insurgency in India:",
+    "items": [
+     "It began in 1967 with a peasant uprising in Naxalbari, a village in West Bengal.",
+     "The Communist Party of India (Maoist) was formed in 2004 through a merger of the two largest armed groups.",
+     "Violence peaked in 2004, the year the Communist Party of India (Maoist) was formed."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because violence peaked in 2010, when more than a thousand civilians and security personnel were killed. After the first wave was crushed, the movement regrouped across a forested belt of eastern and central India, drawing cadre largely from tribal communities.",
+    "source": "The violence peaked in 2010, when more than a thousand civilians and security personnel were killed."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, Misir Besra, the last absconding politburo member of the CPI (Maoist), was arrested by state police and the Commando Battalion for Resolute Action (CoBRA). CoBRA is a unit of which force?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Central Reserve Police Force",
+     "Border Security Force",
+     "Indo-Tibetan Border Police",
+     "Sashastra Seema Bal"
+    ],
+    "answer": 0,
+    "explain": "CoBRA belongs to the Central Reserve Police Force. Besra was flushed out of the Saranda forest in West Singhbhum, Jharkhand, and carried a bounty of more than INR 10 million.",
+    "source": "State police and the Central Reserve Police Force's Commando Battalion for Resolute Action flushed him out of the Saranda forest in West Singhbhum in Jharkhand."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the status of Naxal-affected areas reported by the Home Ministry to the Rajya Sabha in July 2026:",
+    "items": [
+     "No district is now classed as Naxal-affected, down from eight in December 2025.",
+     "Thirty-seven cleared districts are on a watch list the Centre calls Legacy and Thrust.",
+     "West Singhbhum is the only district still listed as a District of Concern."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements match the Home Ministry's reply. In the Legacy and Thrust districts security and development spending continues, and two-thirds of the security camps in cleared areas are staying.",
+    "source": "The Home Ministry told the Rajya Sabha on Wednesday that no district is now classed as Naxal-affected, down from eight in December 2025."
+   }
+  ]
+ }
+}

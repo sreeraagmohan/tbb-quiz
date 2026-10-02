@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-06-16-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 564,
+  "output_tokens": 2039,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–France Innovation Roadmap 2030 (June 2026): its mobility and industrial deliverables, the DEPA health-data link, and the February 2026 partnership upgrade.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–France Innovation Roadmap 2030 adopted in June 2026:",
+    "items": [
+     "France aims to welcome 30,000 Indian students by 2030, backed by an expanded Mutual Recognition of Qualifications framework.",
+     "The roadmap sets up an aeronautical training campus in Bengaluru.",
+     "The roadmap creates a bilateral startup corridor called the InnoXchange Bridge."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "The aeronautical training campus is in Kanpur, not Bengaluru. Bengaluru will instead co-host one of two back-to-back space summits with Paris in September 2026.",
+    "source": "On the industrial front, the deal sets up an aeronautical training campus in Kanpur and a bilateral startup corridor called the InnoXchange Bridge."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, India and France upgraded their bilateral ties to which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Special Global Strategic Partnership",
+     "Comprehensive Global Strategic Partnership",
+     "Enhanced Strategic and Global Partnership",
+     "Special Strategic and Global Partnership"
+    ],
+    "answer": 0,
+    "explain": "The two countries upgraded ties to a Special Global Strategic Partnership in February 2026 and launched the India-France Year of Innovation 2026, which focuses on AI in health and digital science. The Innovation Roadmap 2030 followed in June 2026.",
+    "source": "The two countries upgraded ties to a “Special Global Strategic Partnership” in February this year and launched the “India-France Year of Innovation 2026,” focusing on AI in health and digital science."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the India–France Innovation Roadmap 2030 adopted in June 2026, France is matching India's Data Empowerment and Protection Architecture (DEPA) with its own data platforms in which sector?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Health",
+     "Agriculture",
+     "Financial services",
+     "School education"
+    ],
+    "answer": 0,
+    "explain": "France is linking its health data platforms with India's DEPA to enable secure, consent-based research sharing. This forms part of the roadmap's focus on Trusted AI, which also covers child safety online and risk-based AI governance.",
+    "source": "France is matching India’s Data Empowerment and Protection Architecture (DEPA) with its own health data platforms to facilitate secure, consent-based research sharing."
+   }
+  ]
+ }
+}

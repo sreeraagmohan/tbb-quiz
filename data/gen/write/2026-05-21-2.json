@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-05-21-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 525,
+  "output_tokens": 2035,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–South Korea defence MoUs of May 2026, the KIND-X platform, and India's defence export figure for FY 2025-26.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, Defence Minister Rajnath Singh signed three defence Memoranda of Understanding (MoUs) with South Korea in Seoul. Consider the following statements:",
+    "items": [
+     "One of the MoUs covers defence cyber cooperation.",
+     "One of the MoUs provides for training exchanges between India's National Defence College and Korea National Defence University.",
+     "Rajnath Singh's two-nation tour, which ended in Seoul, began in Japan."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The tour began in Vietnam, not Japan. The three MoUs covered defence cyber cooperation, training exchanges between the two national defence colleges, and peacekeeping operations.",
+    "source": "The Memoranda of Understanding (MoUs) cover defence cyber cooperation, training exchanges between India's National Defence College and Korea National Defence University, and peacekeeping operations."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "During Defence Minister Rajnath Singh's visit to Seoul in May 2026, India and South Korea discussed operationalising KIND-X. What is KIND-X?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "A joint platform for co-developing and co-producing defence systems",
+     "A biennial joint naval exercise held in the Indo-Pacific",
+     "A reciprocal military logistics support agreement",
+     "A joint satellite programme for maritime surveillance"
+    ],
+    "answer": 0,
+    "explain": "KIND-X, the India-Korea Defence Innovation Accelerator Ecosystem, is a joint platform for co-developing and co-producing defence systems. L&T and Hanwha also signed two commercial defence technology agreements at a business roundtable Singh chaired in Seoul.",
+    "source": "Beyond the MoUs, both sides discussed operationalising KIND-X (India-Korea Defence Innovation Accelerator Ecosystem), a joint platform for co-developing and co-producing defence systems."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "According to figures cited by Defence Minister Rajnath Singh in May 2026, India's defence exports in FY 2025-26 were approximately:",
+    "items": [],
+    "ask": "",
+    "options": [
+     "INR 40,000 crore",
+     "INR 50,000 crore",
+     "INR 1.54 lakh crore",
+     "INR 15,000 crore"
+    ],
+    "answer": 0,
+    "explain": "Defence exports were nearly INR 40,000 crore (USD 4.7 billion) in FY 2025-26, while INR 1.54 lakh crore was total defence production. Singh said exports will reach INR 50,000 crore within two years.",
+    "source": "India recorded approximately INR 1.54 lakh crore (USD 18 billion) in defence production and nearly INR 40,000 crore (USD 4.7 billion) in exports in FY 2025-26."
+   }
+  ]
+ }
+}

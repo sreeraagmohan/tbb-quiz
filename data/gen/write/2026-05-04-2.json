@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-05-04-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 609,
+  "output_tokens": 2163,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests Ecuador's entry into the ISA and IBCA, India's grant pledge, the trade profile, the PTA framework and the copper-gold supply-chain focus.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, Ecuador's Foreign Minister Gabriela Sommerfeld Rosero concluded a visit to New Delhi. Consider the following statements about the visit and India–Ecuador ties:",
+    "items": [
+     "Ecuador joined both the International Solar Alliance and the International Big Cat Alliance.",
+     "India pledged INR 12 crore in development grants to be spread over five years.",
+     "Pharmaceuticals were among India's main imports from Ecuador in 2023–24."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. India exports pharmaceuticals, vehicles and steel to Ecuador and imports crude oil, gold and cocoa from it. Bilateral trade stood at USD 1.26 billion in 2023–24.",
+    "source": "Ecuador joined the International Solar Alliance (ISA) and the International Big Cat Alliance (IBCA)."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "During the Ecuadorian Foreign Minister's visit to New Delhi that concluded in May 2026, the framework for which type of trade agreement was discussed with Commerce Minister Piyush Goyal?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Preferential Trade Agreement",
+     "Comprehensive Economic Partnership Agreement",
+     "Bilateral Investment Treaty",
+     "Free Trade Agreement"
+    ],
+    "answer": 0,
+    "explain": "Piyush Goyal and Gabriela Sommerfeld Rosero discussed a Preferential Trade Agreement (PTA) framework, along with expanded Indian pharmaceutical exports. TBB's analysis calls the PTA the wrapping paper and the minerals the gift.",
+    "source": "Commerce Minister Piyush Goyal and Sommerfeld discussed a Preferential Trade Agreement (PTA) framework, expanded Indian pharmaceutical exports, and supply-chain partnerships in copper and gold."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In May 2026, India and Ecuador discussed supply-chain partnerships in which two minerals?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Copper and gold",
+     "Lithium and cobalt",
+     "Nickel and graphite",
+     "Tin and rare earths"
+    ],
+    "answer": 0,
+    "explain": "The talks covered supply-chain partnerships in copper and gold. Ecuador sits on the southern extension of the Andean metallic belt, where Chinese state-owned companies already operate its largest copper mine.",
+    "source": "discussed a Preferential Trade Agreement (PTA) framework, expanded Indian pharmaceutical exports, and supply-chain partnerships in copper and gold"
+   }
+  ]
+ }
+}

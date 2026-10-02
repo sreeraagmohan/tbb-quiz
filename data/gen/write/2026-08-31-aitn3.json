@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-31-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 162,
+  "output_tokens": 995,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A short item on a private-sector AI launch; one question tests what Gnani Artha is and what it combines.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, Vice-President C. P. Radhakrishnan launched 'Gnani Artha'. Which of the following best describes it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "A sovereign AI stack combining a language model with a workflow platform",
+     "A satellite constellation built for secure government communications",
+     "A semiconductor fabrication unit for making indigenous AI chips",
+     "A digital public platform for settling cross-border rupee payments"
+    ],
+    "answer": 0,
+    "explain": "Gnani Artha is a homegrown sovereign AI stack. It pairs the large language model Evon 3.3 with Plexus, a platform that connects AI tools to institutional workflows. It was developed by Bengaluru-based GNANI AI.",
+    "source": "The stack combines Evon 3.3, a large language model, with Plexus, a platform connecting AI tools to institutional workflows."
+   }
+  ]
+ }
+}

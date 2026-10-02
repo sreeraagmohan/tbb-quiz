@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-09-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 639,
+  "output_tokens": 1563,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US waiver for Russian crude and India's Hormuz exposure and reserve cover, plus Hormuz's share of world oil trade; Moscow's offer is skipped as an unconfirmed proposal.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's crude oil supply as reported in March 2026:",
+    "items": [
+     "The US Treasury granted India a 30-day waiver to buy Russian crude already loaded on tankers.",
+     "Around 40% of India's crude imports pass through the Strait of Hormuz.",
+     "India's strategic reserves cover about 60 days of crude supply."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "India's strategic reserves cover only 20-25 days of crude supply, not 60 days, so statement 3 is wrong. The US Treasury granted the 30-day waiver on 6 March 2026, as the Middle East conflict disrupted shipping through Hormuz, even though India had earlier reduced Russian oil purchases under US pressure.",
+    "source": "Around 40% of India’s crude imports pass through Hormuz, while strategic reserves cover only 20-25 days of crude supply"
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, shipping through the Strait of Hormuz was disrupted by conflict in the Middle East. Roughly what share of the world's oil trade does the strait normally carry?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "About one-fifth",
+     "About one-tenth",
+     "About one-third",
+     "About one-half"
+    ],
+    "answer": 0,
+    "explain": "Hormuz normally carries about one-fifth of the world's oil trade, so even partial disruption pushes prices higher. In March 2026, insurers pulled war-risk coverage and shipping companies suspended Gulf transits.",
+    "source": "Hormuz normally carries about 1/5 of the world’s oil trade, so even partial disruption sends prices higher."
+   }
+  ]
+ }
+}

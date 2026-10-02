@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-09-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1273,
+  "output_tokens": 1762,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a criminal case, but it has an India–Canada–US relations angle. Tested the indictment's key features and the multinational Operation Hard Ball.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, a US federal indictment charged Lawrence Bishnoi over the 2023 murder of Hardeep Singh Nijjar. Consider the following statements:",
+    "items": [
+     "The indictment was unsealed in Los Angeles.",
+     "The indictment alleges a role for the Indian government in the killing.",
+     "Nijjar was shot outside a Sikh temple in Surrey, British Columbia."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the indictment does not allege any Indian government role, and the RCMP said New Delhi cooperated with the investigation. This differs from September 2023, when Justin Trudeau accused Delhi in parliament of involvement and both sides expelled diplomats.",
+    "source": "Crucially, the indictment does not allege any Indian government role."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Operation Hard Ball, a coordinated sweep run jointly by law enforcement agencies in the US, Canada and Europe and made public in July 2026, targeted which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Three India-based organised crime networks",
+     "Three Mexico-based narcotics cartels",
+     "Three Russia-based cybercrime networks",
+     "Three China-based money-laundering rings"
+    ],
+    "answer": 0,
+    "explain": "The operation targeted the Bishnoi, Bhagwanpuria and Dhanda gangs, all India-based, and prosecutors charged 37 defendants in total. Canada had listed the Bishnoi Gang as a terrorist entity in 2025 over extortions and shootings targeting the South Asian diaspora.",
+    "source": "run jointly by law enforcement in the US, Canada, and Europe against three India-based organised crime networks: the Bishnoi, Bhagwanpuria, and Dhanda gangs."
+   }
+  ]
+ }
+}

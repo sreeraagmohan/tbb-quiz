@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-22-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 537,
+  "output_tokens": 1383,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "First dengue vaccine approval in India: tested the approving regulator and key features of Qdenga.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, which body granted marketing authorisation to Qdenga, the first dengue vaccine cleared for use in India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Central Drugs Standard Control Organisation",
+     "Indian Council of Medical Research",
+     "National Pharmaceutical Pricing Authority",
+     "Food Safety and Standards Authority of India"
+    ],
+    "answer": 0,
+    "explain": "The CDSCO, India's drug regulator, authorised the vaccine on 20 July 2026 for people aged 4 to 60. The Indian Council of Medical Research is instead among the domestic developers with its own dengue candidate in trials.",
+    "source": "The Central Drugs Standard Control Organisation (CDSCO), India's drug regulator, authorised the Dengue Tetravalent Vaccine (Live, Attenuated), manufactured by Germany's Takeda GmbH and imported by its Indian arm."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Qdenga, the dengue vaccine approved in India in July 2026:",
+    "items": [
+     "It is a live, attenuated tetravalent vaccine manufactured by Germany's Takeda GmbH.",
+     "It is administered as a single dose to people aged 4 to 60.",
+     "It holds World Health Organization prequalification."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong because the schedule is two doses given three months apart. The vaccine is already approved in 42 countries, with more than 24 million doses distributed globally.",
+    "source": "The schedule is two doses given three months apart."
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-01-28-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 635,
+  "output_tokens": 1938,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the auto-sector tariff provisions of the India–EU FTA: ICE vs EV phasing, CKD kits and the steel-linked quota reviews.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the automobile provisions of the India–EU Free Trade Agreement, as reported in January 2026:",
+    "items": [
+     "Tariffs on around 160,000 European internal combustion engine vehicles will fall to 10% within five years.",
+     "Tariff relief on the 90,000 European electric vehicles in the quota will come within five years.",
+     "Duties on auto components will fall to zero."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because EVs get delayed relief, with tariffs dropping only by year ten. The delay is meant to shield India's young EV market, while zero duty on components encourages European manufacturers to plug into India's parts ecosystem.",
+    "source": "90,000 EVs get delayed relief; tariffs only drop by year ten, shielding India’s young electric vehicle (EV) market."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the India–EU Free Trade Agreement, as reported in January 2026, reviews of the quota for European cars are tied to which sector, a core Indian priority?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Steel",
+     "Pharmaceuticals",
+     "Textiles",
+     "Aluminium"
+    ],
+    "answer": 0,
+    "explain": "Quota reviews are linked to steel, which gives New Delhi a built-in pressure point in future negotiations. TBB argues this lets India open the door to European cars without surrendering control.",
+    "source": "Quota reviews are tied to steel, a core Indian priority."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to European car imports under the India–EU Free Trade Agreement, as reported in January 2026:",
+    "items": [
+     "Total European-made cars entering India at lower duties — up to 250,000",
+     "Annual quota of completely knocked down (CKD) kits — 75,000",
+     "Tariff on eligible CKD kits under the deal — 8.25%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct. Up to 250,000 cars get lower duties, and 75,000 CKD kits priced above USD 18,000 can be shipped each year at 8.25%, down from the existing 16.5%.",
+    "source": "European carmakers can ship 75,000 completely knocked down (CKD) kits a year, priced above USD 18,000, with tariffs cut to 8.25% from the existing 16.5%."
+   }
+  ]
+ }
+}

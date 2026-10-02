@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-02-05-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 582,
+  "output_tokens": 120,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story is about a stock-market selloff triggered by a private company's product launch, with no scheme, law, institution or official data to test.",
+  "questions": []
+ }
+}

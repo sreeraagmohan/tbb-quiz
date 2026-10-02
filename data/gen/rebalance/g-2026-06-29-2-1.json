@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-06-29-2-1",
+ "story_id": "2026-06-29-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, Prime Minister Narendra Modi visited Seychelles. Consider the following statements about the visit:",
+  "items": [
+   "The visit coincided with Seychelles' 50th independence day, at which Modi was the guest of honour.",
+   "Modi became the first Indian prime minister to address the National Assembly of Seychelles."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements are correct. Modi attended as guest of honour for the island nation's 50th independence day and addressed its National Assembly, the first Indian prime minister to do so. It was his second visit to Seychelles, after 2015.",
+  "source": "Modi also addressed the National Assembly, the first Indian prime minister to do so."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, Prime Minister Narendra Modi visited Seychelles. Consider the following statements about the visit:",
+  "items": [
+   "The visit coincided with Seychelles' 40th independence day, at which Modi was the guest of honour.",
+   "Modi addressed the National Assembly of Seychelles, becoming the second Indian prime minister to do so."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both statements are wrong. Modi was guest of honour for Seychelles' 50th independence day, not its 40th, and he was the first Indian prime minister to address the National Assembly, not the second. It was his second visit to Seychelles, after 2015.",
+  "source": "Prime Minister Modi arrived in Seychelles on Saturday as the guest of honour for the island nation's 50th independence day, his second visit after 2015."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3365,
+  "output_tokens": 761,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

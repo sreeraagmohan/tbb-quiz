@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-03-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 650,
+  "output_tokens": 1676,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the announced US tariff cut on Indian goods and its structure. Unconfirmed commitments are avoided except where the story states they are not yet confirmed.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, US President Trump announced that the tariff on Indian goods would be cut from 50% to which rate?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "18%",
+     "15%",
+     "25%",
+     "10%"
+    ],
+    "answer": 0,
+    "explain": "Trump announced the cut from 50% to 18% after a phone call with Prime Minister Modi on 2 February 2026. In return, India reportedly agreed to buy more US goods and stop buying Russian crude.",
+    "source": "On Monday, US President Trump announced that tariffs on Indian goods would be cut from a staggering 50% to 18% after Prime Minister Modi reportedly agreed to buy a lot of stuff from the US and stop buying Russian crude."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the US tariff cut on Indian goods announced in February 2026:",
+    "items": [
+     "The cut involves Washington rescinding a 25% punitive duty on Indian goods.",
+     "At the time of the announcement, the White House had issued the Federal Register notice needed to make the new rates binding.",
+     "New Delhi explicitly confirmed a timeline for ending its purchases of Russian oil."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only statement 1 is correct. The White House had not yet issued the presidential proclamation or Federal Register notice needed to make the deal binding. New Delhi had not explicitly confirmed the Russian exit timeline, and Indian refiners warned that winding down existing contracts would take months.",
+    "source": "In exchange, Washington is rescinding a 25% punitive duty and lowering its “reciprocal” tariff from 25% to 18%."
+   }
+  ]
+ }
+}

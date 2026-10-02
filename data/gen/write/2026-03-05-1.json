@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-03-05-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 753,
+  "output_tokens": 1834,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the geography of the alternative supply route, India's energy vulnerability figures and the US tariff provision; the speculative resumption of Russian imports is not tested.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, with the Strait of Hormuz disrupted, Indian refiners asked Saudi Aramco to reroute crude supplies through the port of Yanbu. On which body of water does Yanbu lie?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Red Sea",
+     "Persian Gulf",
+     "Gulf of Oman",
+     "Arabian Sea"
+    ],
+    "answer": 0,
+    "explain": "Yanbu is a Red Sea port, so shipments from it avoid Hormuz. They would still pass through the Bab el-Mandeb strait, within range of Iran-backed Houthi forces.",
+    "source": "Indian refiners are asking Saudi Aramco to reroute supplies via the Red Sea port of Yanbu."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's energy situation during the Middle East conflict in March 2026:",
+    "items": [
+     "India's oil reserves covered only about 25 days of demand.",
+     "Qatar, India's top LNG supplier, halted production.",
+     "Domestic oil fields met more than a quarter of India's crude needs."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: domestic fields cover less than 15% of India's crude needs. With the Strait of Hormuz effectively closed, 40% of India's oil imports were stranded, and Russia offered to divert 9.5 million barrels of crude to India.",
+    "source": "India's reserves cover only 25 days of demand."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "After the US Supreme Court's ruling of February 2026 curbed the President's main tariff tool, the Trump administration's fallback was a blanket 15% levy expiring in July 2026. Under which provision was this levy imposed?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 122",
+     "Section 232",
+     "Section 301",
+     "Section 201"
+    ],
+    "answer": 0,
+    "explain": "The blanket 15% levy was imposed under Section 122 and expires in July. This weakened Washington's leverage over India, which had agreed in an interim trade framework to curb Russian oil purchases in exchange for lower tariffs.",
+    "source": "His fallback, a blanket 15% levy under Section 122, expires in July."
+   }
+  ]
+ }
+}

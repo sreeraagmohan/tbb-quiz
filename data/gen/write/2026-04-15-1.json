@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-15-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 696,
+  "output_tokens": 1426,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the April 2026 change of Bihar chief minister, the 2025 Assembly arithmetic and Nitish Kumar's move to the Rajya Sabha.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the change of government in Bihar in April 2026:",
+    "items": [
+     "In the 2025 Bihar Assembly elections, the BJP emerged as the single largest party with 89 of 243 seats.",
+     "Outgoing Chief Minister Nitish Kumar moved to the Lok Sabha before resigning.",
+     "The transition gave the BJP direct control of Bihar for the first time."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Nitish Kumar was elected to the Rajya Sabha, the upper house, on 16 March 2026 and took his oath on 10 April before resigning as chief minister. The BJP had kept him as chief minister after the 2025 NDA landslide for alliance continuity.",
+    "source": "the BJP emerged as the single largest party with 89 of 243 seats but kept Nitish as CM for alliance continuity."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Who was elected leader of the BJP legislature party and sworn in as Chief Minister of Bihar in April 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Samrat Choudhary",
+     "Nishant Kumar",
+     "Tejashwi Yadav",
+     "Vijay Kumar Sinha"
+    ],
+    "answer": 0,
+    "explain": "Deputy Chief Minister Samrat Choudhary was unanimously elected BJP legislature party leader and took oath on 15 April 2026, a day after Nitish Kumar resigned. Positioned as the BJP's OBC face, he began in the RJD in 1999 and joined the BJP in 2017.",
+    "source": "Deputy CM Samrat Choudhary was unanimously elected BJP legislature party leader and takes oath as Bihar's chief minister today."
+   }
+  ]
+ }
+}

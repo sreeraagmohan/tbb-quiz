@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-15-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 440,
+  "output_tokens": 1532,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the May 2026 customs duty hike on gold and silver, its forex rationale, and India's position as a gold consumer. The record discount, a market move, is skipped.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, India raised the import duty on gold and silver from 6% to what rate?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "15%",
+     "10%",
+     "12%",
+     "20%"
+    ],
+    "answer": 0,
+    "explain": "On 13 May 2026, India raised import duties on gold and silver from 6% to 15%. The hike came days after PM Modi urged citizens to pause gold purchases for a year to conserve foreign exchange.",
+    "source": "On Wednesday, India hiked import duties on gold and silver from 6% to 15%, a drastic move to shore up foreign exchange reserves as geopolitical instability rattles the rupee."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India and gold, in the context of the import duty hike of May 2026:",
+    "items": [
+     "The duty hike was intended to shore up India's foreign exchange reserves.",
+     "India is the world's largest consumer of gold.",
+     "Indian gold demand is driven largely by investments and jewellery."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "India is the world's second-largest gold consumer, not the largest, so statement 2 is wrong. The hike aimed to protect foreign exchange reserves as geopolitical instability weighed on the rupee.",
+    "source": "India is the world’s second-largest gold consumer, with demand largely driven by investments and jewellery."
+   }
+  ]
+ }
+}

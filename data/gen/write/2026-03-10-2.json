@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-10-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 466,
+  "output_tokens": 1380,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the proposed SAEIA's composition and stop-gap role, the 2006 EIA framework, and the role of State EIA Authorities.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, the Union government proposed a Standing Authority on Environment Impact Assessment (SAEIA). Consider the following statements:",
+    "items": [
+     "The SAEIA would consist of ex-officio members appointed by the central government.",
+     "The SAEIA would permanently replace the State Environment Impact Assessment Authorities.",
+     "The Environmental Impact Assessment framework under which approvals operate was introduced in 2006."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 3 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The SAEIA would only temporarily take over the responsibilities of state-level appraisal authorities when they become inactive, for example when terms expire and new members are not appointed. The aim is to stop projects piling up in a clearance backlog.",
+    "source": "When state-level environmental appraisal authorities become inactive, the standing authority would temporarily take over their responsibilities."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under India's Environmental Impact Assessment framework, as described in March 2026, which bodies handle most regional projects?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "State Environment Impact Assessment Authorities",
+     "State Pollution Control Boards",
+     "Benches of the National Green Tribunal",
+     "Regional offices of the Central Pollution Control Board"
+    ],
+    "answer": 0,
+    "explain": "Large national projects are reviewed by the central government, while most regional projects go to the State Environment Impact Assessment Authorities. The proposed SAEIA is meant to act as a backup when these state authorities stop functioning.",
+    "source": "Large national projects are reviewed by the central government under the EIA framework, while most regional projects are handled by the State Environment Impact Assessment Authorities locally."
+   }
+  ]
+ }
+}

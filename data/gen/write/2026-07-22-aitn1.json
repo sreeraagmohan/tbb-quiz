@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-22-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 234,
+  "output_tokens": 879,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the scope and features of the WTO Agreement on Fisheries Subsidies, which India accepted in July 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, India deposited its instrument of acceptance for the WTO Agreement on Fisheries Subsidies. Consider the following statements about the agreement:",
+    "items": [
+     "It is the first WTO pact with an environmental sustainability objective.",
+     "It bans subsidies tied to illegal, unreported and unregulated fishing and to overfished stocks.",
+     "Aquaculture and inland fisheries fall within its scope."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because aquaculture and inland fisheries stay outside the agreement's scope. That exclusion shields India's shrimp exports, the bulk of its seafood trade. India became the 123rd member to join.",
+    "source": "Aquaculture and inland fisheries stay outside its scope, which shields India's shrimp exports, the bulk of its seafood trade."
+   }
+  ]
+ }
+}

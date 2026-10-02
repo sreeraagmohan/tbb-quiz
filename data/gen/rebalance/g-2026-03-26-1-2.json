@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-03-26-1-2",
+ "story_id": "2026-03-26-1",
+ "target": 3,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In March 2026, India postponed its plan for flexible operation of coal-fired power plants. Consider the following statements:",
+  "items": [
+   "The Central Electricity Authority estimates that retrofitting coal plants for flexible operation is at least ten times cheaper per kilowatt-hour than battery storage.",
+   "When coal plants cannot ramp down, grid operators curtail solar output and compensate solar generators for the lost revenue."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both are correct. The CEA puts the retrofit cost at INR 0.28 to INR 0.60 per kilowatt-hour against INR 5.76 to INR 6.04 for battery storage, and the compensation paid to curtailed solar generators is funded through higher electricity tariffs.",
+  "source": "Retrofitting would add just INR 0.28 to INR 0.60 per kilowatt-hour to tariffs, versus INR 5.76 to INR 6.04 for battery storage, making flexible coal at least ten times cheaper, according to the Central Electricity Authority."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In March 2026, India postponed its plan for flexible operation of coal-fired power plants. Consider the following statements:",
+  "items": [
+   "The Central Electricity Authority estimates that battery storage is at least ten times cheaper per kilowatt-hour than retrofitting coal plants for flexible operation.",
+   "When coal plants cannot ramp down, grid operators curtail solar output, and the compensation paid to solar generators is funded from the federal budget rather than through electricity tariffs."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Neither is correct. Statement 1 reverses the comparison: the CEA says flexible coal is at least ten times cheaper, at INR 0.28 to INR 0.60 per kilowatt-hour against INR 5.76 to INR 6.04 for battery storage. Statement 2 is wrong because Ember says the USD 76 million bill was funded through higher electricity tariffs.",
+  "source": "Retrofitting would add just INR 0.28 to INR 0.60 per kilowatt-hour to tariffs, versus INR 5.76 to INR 6.04 for battery storage, making flexible coal at least ten times cheaper, according to the Central Electricity Authority."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3010,
+  "output_tokens": 1040,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

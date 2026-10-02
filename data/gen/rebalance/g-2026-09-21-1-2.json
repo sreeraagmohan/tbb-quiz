@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-09-21-1-2",
+ "story_id": "2026-09-21-1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In September 2026, US President Donald Trump signed the Russia and Iran sanctions legislation into law. Consider the following statements about this law:",
+  "items": [
+   "It provides for additional tariffs of up to 100 per cent on qualifying buyers of Russian energy, a list that includes India.",
+   "Its signing immediately imposed a 100 per cent tariff on Indian goods.",
+   "The President can waive the duties after submitting a national-interest certification and explanation to Congress."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 2 is wrong because the signing does not itself establish a 100 per cent tariff on Indian goods. It only creates the authority for such tariffs, and the President keeps a waiver power. The law was signed on Friday 18 September 2026, following its passage in the House.",
+  "source": "The signing does not itself establish a 100 per cent tariff on Indian goods."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In September 2026, US President Donald Trump signed the Russia and Iran sanctions legislation into law. Consider the following statements about this law:",
+  "items": [
+   "It provides for additional tariffs of up to 50 per cent on qualifying buyers of Russian energy, a list that includes India.",
+   "Its signing immediately imposed a 100 per cent tariff on Indian goods.",
+   "The President has no authority to waive the duties once they are imposed."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong: the law provides for additional tariffs of up to 100 per cent (not 50 per cent), the signing does not itself establish a 100 per cent tariff on Indian goods, and the President retains authority to waive duties after submitting a national-interest certification and explanation to Congress. The law was signed on Friday 18 September 2026, following its passage in the House.",
+  "source": "The President retains authority to waive duties after submitting a national-interest certification and explanation to Congress."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2760,
+  "output_tokens": 938,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

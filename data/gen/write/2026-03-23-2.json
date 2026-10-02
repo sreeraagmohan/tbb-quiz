@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-03-23-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 534,
+  "output_tokens": 1002,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the terms of the March 2026 US waiver on Iranian oil at sea and its precedent with Russian oil; skipped the refiners' unconfirmed plans.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, the US issued a temporary sanctions waiver on Iranian oil amid the US-Israeli-Iranian conflict. Consider the following statements about it:",
+    "items": [
+     "It covers Iranian oil already at sea that was loaded on or before 20 March 2026 and discharged by 19 April 2026.",
+     "It was the first time the US temporarily waived oil sanctions during the conflict.",
+     "Earlier temporary waivers during the conflict covered Russian oil already at sea."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The story calls this the third temporary US waiver of oil sanctions during the war, after earlier waivers for Russian oil already at sea. Analysts estimate the 30-day waiver covers roughly 170 million barrels on water. That volume is enough to ease shortages but not to bring prices down sharply.",
+    "source": "This marks the third time the US has temporarily waived oil sanctions during this war, having previously issued temporary waivers for Russian oil already at sea."
+   }
+  ]
+ }
+}

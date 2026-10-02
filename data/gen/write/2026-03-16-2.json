@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-16-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 478,
+  "output_tokens": 1583,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the proposed Economic Stabilisation Fund (size, mechanism) and the unchanged FY26 fiscal deficit target; skipped the 'expected' spending direction.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the 'Economic Stabilisation Fund' proposed by the Union Finance Minister in March 2026:",
+    "items": [
+     "It was proposed with a size of USD 6.20 billion.",
+     "The government raised its FY26 fiscal deficit target to accommodate the fund.",
+     "It creates a pre-authorised pool of cash that can be deployed quickly when supply chains snap or energy prices spike."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the government is sticking to its FY26 fiscal deficit target of INR 15.58 trillion despite the new spend. The fund is meant as a war chest to insulate the economy from global volatility.",
+    "source": "Finance Minister Nirmala Sitharaman proposed a USD 6.20 billion ‘Economic Stabilisation Fund’ last Friday, a war chest designed to insulate New Delhi from global volatility."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "While proposing an Economic Stabilisation Fund in March 2026, the Union government retained its FY26 fiscal deficit target at roughly what share of GDP under the revamped accounting system?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "4.5% of GDP",
+     "3.5% of GDP",
+     "5.5% of GDP",
+     "6.0% of GDP"
+    ],
+    "answer": 0,
+    "explain": "The FY26 fiscal deficit target of INR 15.58 trillion (USD 168 billion) works out to roughly 4.5% of GDP under the revamped accounting system. The government kept this target unchanged despite the new USD 6.20 billion fund.",
+    "source": "the government is sticking to its FY26 fiscal deficit target of INR 15.58 trillion (USD 168 billion), roughly 4.5% of GDP under the revamped accounting system."
+   }
+  ]
+ }
+}

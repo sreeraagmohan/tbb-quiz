@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-24-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 527,
+  "output_tokens": 1752,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the DGFT's August 2026 decision to give rupee-settled exports FTP benefits, including its coverage and administering body, and the RBI's SRVA mechanism of July 2022.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, India changed how rupee-settled exports are treated under its Foreign Trade Policy (FTP). Consider the following statements:",
+    "items": [
+     "Exports paid for in rupees through approved banking channels now count towards export obligations under the FTP.",
+     "The change covers rupee-paid exports to all countries, including Nepal and Bhutan.",
+     "The Directorate General of Foreign Trade (DGFT) administers India's Foreign Trade Policy."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because the change applies to exports to any country other than Nepal and Bhutan. Rupee-paid exports now earn FTP benefits and count towards export obligations, just as foreign-currency exports do.",
+    "source": "Exports to any country other than Nepal and Bhutan, if paid for in rupees through approved banking channels, now earn FTP benefits and count towards export obligations, just as foreign-currency exports do."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Special Rupee Vostro Accounts (SRVAs), which allow overseas banks to hold Indian rupees for trade settlement, were set up in July 2022 by which institution?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Reserve Bank of India",
+     "Directorate General of Foreign Trade",
+     "Securities and Exchange Board of India",
+     "Export-Import Bank of India"
+    ],
+    "answer": 0,
+    "explain": "The RBI set up SRVAs in July 2022, making rupee settlement of trade legal. Until the DGFT's August 2026 move, exporters could not be sure whether such rupee receipts qualified for trade-policy benefits.",
+    "source": "Rupee settlement has been legal since July 2022, when the Reserve Bank of India (RBI) set up Special Rupee Vostro Accounts (SRVAs) for overseas banks to hold rupees, but until now exporters could not be sure if those receipts qualified."
+   }
+  ]
+ }
+}

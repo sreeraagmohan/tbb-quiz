@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-18-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 674,
+  "output_tokens": 1607,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests Rajasthan's renewable milestones, the RERC's coal decision, and the Ministry of Power's use of Section 11 of the Electricity Act.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Rajasthan's power sector as of May 2026:",
+    "items": [
+     "In 2024, Rajasthan became the first Indian state to have solar exceed 50% of its installed power capacity.",
+     "Rajasthan has the largest installed renewable energy capacity of any Indian state.",
+     "In May 2026, the Rajasthan Electricity Regulatory Commission blocked a proposed 3.2 GW coal-fired project for the second time since November 2025."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Rajasthan's roughly 47 GW of installed renewable capacity is second only to Gujarat's. The regulator told state utilities to carry out rigorous resource planning to show that new coal capacity is needed over cleaner alternatives.",
+    "source": "Rajasthan became the first Indian state to have solar exceed 50% of its installed power capacity in 2024."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Ahead of the summer of 2026, the Ministry of Power forced plants running on imported coal, such as Tata's Mundra facility, to operate at full capacity. Which provision did it invoke?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 11 of the Electricity Act",
+     "Section 62 of the Electricity Act",
+     "Section 3 of the Essential Commodities Act",
+     "Section 14 of the Energy Conservation Act"
+    ],
+    "answer": 0,
+    "explain": "The ministry invoked Section 11 of the Electricity Act to make imported-coal plants run at full capacity and avoid summer blackouts. Forecasts put temperatures in Delhi and North India 5°C above normal that week.",
+    "source": "It recently invoked Section 11 of the Electricity Act, forcing plants running on expensive imported coal, such as Tata's Mundra facility, to operate at full capacity to avoid summer blackouts (we covered it here)."
+   }
+  ]
+ }
+}

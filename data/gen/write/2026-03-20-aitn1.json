@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-03-20-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 263,
+  "output_tokens": 234,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: diplomatic phone calls on the West Asia conflict produced no agreement, decision or other concrete, durable fact worth testing.",
+  "questions": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-16-1-1",
+ "story_id": "2026-03-16-1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about US tariff measures affecting India in early 2026:",
+  "items": [
+   "After the US Supreme Court struck down reciprocal tariffs in February 2026, Washington imposed a flat 10% duty on all imports under Section 122, valid through 24 July.",
+   "Tariffs imposed under Section 301 are capped at 15% and expire automatically.",
+   "The Section 301 investigations launched in March 2026 covered 16 economies, including India."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. The 15% cap applies to Section 122 duties, while Section 301 tariffs carry no ceiling and no expiry. The Section 301 probes target excess manufacturing capacity in sectors such as steel, solar and petrochemicals, and Indian officials see them as a pressure tactic.",
+  "source": "Unlike Section 122's 15% cap, Section 301 tariffs carry no ceiling and no expiry."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about US tariff measures affecting India in early 2026:",
+  "items": [
+   "After the US Supreme Court struck down reciprocal tariffs in February 2026, Washington imposed a flat 10% duty on all imports under Section 122, valid through 24 July.",
+   "Unlike Section 122 duties, which are capped at 15%, tariffs imposed under Section 301 carry no ceiling and no expiry.",
+   "The Section 301 investigations launched in March 2026 covered 16 economies, including India."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the Section 122 duty is a flat 10% valid through 24 July, Section 301 tariffs have no ceiling or expiry unlike Section 122's 15% cap, and the March 2026 probes covered 16 economies including India. The Section 301 probes target excess manufacturing capacity in sectors such as steel, solar and petrochemicals, and Indian officials see them as a pressure tactic.",
+  "source": "Unlike Section 122's 15% cap, Section 301 tariffs carry no ceiling and no expiry."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3518,
+  "output_tokens": 645,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

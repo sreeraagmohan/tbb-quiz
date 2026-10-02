@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-27-2-1",
+ "story_id": "2026-08-27-2",
+ "target": 3,
+ "original": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, Rolls-Royce offered India a full transfer of technology on the engine for the Advanced Medium Combat Aircraft (AMCA). Consider the following statements about the offer:",
+  "items": [
+   "India would keep the intellectual property rights on the engine.",
+   "The offer runs through a UK inter-governmental agreement and falls outside the US International Traffic in Arms Regulations (ITAR).",
+   "The rival bidder, France's Safran, has proposed co-development with Hindustan Aeronautics Limited."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because Safran has proposed co-development with the Gas Turbine Research Establishment (GTRE), India's state engine lab. Staying outside ITAR matters because those rules let Washington block the export, sale or upgrade of any weapon carrying American technology.",
+  "source": "Rolls-Royce is up against France's Safran, which has proposed co-development with the Gas Turbine Research Establishment (GTRE), India's state engine lab."
+ },
+ "rewritten": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, Rolls-Royce offered India a full transfer of technology on the engine for the Advanced Medium Combat Aircraft (AMCA). Consider the following statements about the offer:",
+  "items": [
+   "India would keep the intellectual property rights on the engine.",
+   "The offer runs through a UK inter-governmental agreement and falls outside the US International Traffic in Arms Regulations (ITAR).",
+   "The rival bidder, France's Safran, has proposed co-development with the Gas Turbine Research Establishment (GTRE), India's state engine lab."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: India would keep the intellectual property rights, the offer runs through a UK inter-governmental agreement outside ITAR, and Safran has proposed co-development with GTRE. Staying outside ITAR matters because those rules let Washington block the export, sale or upgrade of any weapon carrying American technology.",
+  "source": "Rolls-Royce is up against France's Safran, which has proposed co-development with the Gas Turbine Research Establishment (GTRE), India's state engine lab."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3415,
+  "output_tokens": 672,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

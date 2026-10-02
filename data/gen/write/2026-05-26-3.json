@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-26-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 601,
+  "output_tokens": 1579,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the May 2026 PNG-LPG decoupling order and India's LPG import dependence; skips the short-lived delivery figures.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, the Union government barred households with piped natural gas (PNG) connections from refilling LPG cylinders. Consider the following statements:",
+    "items": [
+     "The order was issued by the Ministry of Petroleum and Natural Gas.",
+     "Affected consumers must surrender their LPG connection or take a transfer voucher within 30 days.",
+     "India is the world's largest importer of LPG."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the story describes India as the world's second-largest LPG importer, not the largest. The transfer voucher allows a future LPG connection if a household moves to an area without piped gas infrastructure.",
+    "source": "Consumers must surrender their LPG connection or take a \"transfer voucher\" within 30 days."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "As of May 2026, almost all of India's LPG imports came from which two countries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Qatar and the UAE",
+     "Saudi Arabia and Kuwait",
+     "Iran and Oman",
+     "Iraq and Bahrain"
+    ],
+    "answer": 0,
+    "explain": "Almost all of India's LPG imports come from Qatar and the UAE, and these supplies cannot bypass the Strait of Hormuz. With the West Asia crisis choking supply, New Delhi is trying to source LPG from the US, Canada and Norway.",
+    "source": "Almost all of India's LPG imports come from Qatar and the UAE"
+   }
+  ]
+ }
+}

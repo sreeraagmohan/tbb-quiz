@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-26-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 519,
+  "output_tokens": 1320,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the status of the Special Intensive Revision of electoral rolls and the link between the Election Commission's foundation day and National Voters' Day.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Special Intensive Revision (SIR) of electoral rolls, as of January 2026:",
+    "items": [
+     "Chief Election Commissioner Gyanesh Kumar said the SIR will be extended to the remaining states.",
+     "The SIR had been conducted in 13 of India's 36 states and union territories.",
+     "The Election Commission described the SIR as a one-time exercise limited to poll-bound states."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. The Commission says the SIR is now firmly part of its nationwide approach to roll maintenance. Opposition parties and civil society groups have raised concerns over deletions and the risk of eligible voters being left out, especially in migrant-heavy constituencies.",
+    "source": "The SIR has been conducted in 13 of India’s 36 states and union territories so far."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The foundation day of the Election Commission of India is observed as which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "National Voters’ Day",
+     "Constitution Day",
+     "National Unity Day",
+     "National Democracy Day"
+    ],
+    "answer": 0,
+    "explain": "The Election Commission's foundation day is observed as National Voters' Day. Speaking ahead of it in January 2026, CEC Gyanesh Kumar said the SIR had helped restore the sanctity and credibility of the voter list.",
+    "source": "Speaking ahead of the Election Commission’s foundation day – observed as National Voters’ Day"
+   }
+  ]
+ }
+}

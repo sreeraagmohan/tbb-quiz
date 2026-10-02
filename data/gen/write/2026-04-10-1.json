@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-04-10-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 888,
+  "output_tokens": 2557,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the fiscal and customs response, the evacuation route through third countries, and Qatar's LNG force majeure; skipped LPG booking intervals and airspace status as situational.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the measures India set out at an inter-ministerial briefing in April 2026 on the Strait of Hormuz disruption:",
+    "items": [
+     "Excise duty on petrol and diesel was cut.",
+     "Export levies were imposed on diesel and aviation fuel.",
+     "Customs duty was zeroed on 40 petrochemical products to protect fertiliser inputs."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because customs duty on the 40 petrochemical products was zeroed to protect pharmaceutical inputs, not fertiliser inputs. The excise cut and the export levies on diesel and aviation fuel were meant to keep domestic supply intact while retail prices stayed unchanged.",
+    "source": "Customs duty has been zeroed on 40 petrochemical products to protect pharmaceutical inputs."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In April 2026, India briefed that its missions were moving Indian nationals stranded in Iran out of the region through which two countries named at the briefing?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Armenia and Azerbaijan",
+     "Turkey and Iraq",
+     "Afghanistan and Pakistan",
+     "Turkmenistan and Iraq"
+    ],
+    "answer": 0,
+    "explain": "The briefing named Armenia and Azerbaijan as transit routes for Indians stranded in Iran. With airspace closed in Kuwait and Israel, evacuations were functioning through third countries.",
+    "source": "Indian missions have been facilitating the movement of nationals out of the region, including through Armenia and Azerbaijan for those stranded in Iran."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, which energy company declared force majeure on long-term gas contracts after Iranian strikes knocked out roughly 17% of its country's export capacity?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "QatarEnergy",
+     "Saudi Aramco",
+     "ADNOC",
+     "Kuwait Petroleum Corporation"
+    ],
+    "answer": 0,
+    "explain": "QatarEnergy declared force majeure on its long-term gas contracts after the Iranian strikes on Qatar. In April 2026, Petroleum Minister Puri visited Qatar to press for priority LNG deliveries to India.",
+    "source": "Petroleum Minister Puri is in Qatar today to press for priority Liquefied Natural Gas (LNG) delivery after QatarEnergy declared force majeure on long-term gas contracts last month, following Iranian strikes that knocked out roughly 17% of Qatar's export capacity."
+   }
+  ]
+ }
+}

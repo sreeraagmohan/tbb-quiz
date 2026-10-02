@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-21-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 201,
+  "output_tokens": 236,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story reports only a signal that the US may reconsider its Jammu and Kashmir travel advisory, with no revision yet made, so there is no settled fact worth testing.",
+  "questions": []
+ }
+}

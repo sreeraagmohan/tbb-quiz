@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-30-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 640,
+  "output_tokens": 1343,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the RBI's March 2026 cap on banks' net open onshore positions, how it works, and the offshore NDF market used for the arbitrage.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the measures taken by the Reserve Bank of India (RBI) in March 2026 to support the rupee:",
+    "items": [
+     "The RBI ordered banks to cap net open onshore positions at USD 100 million by April 10, 2026.",
+     "Under the rules existing before the order, banks could set net open position limits of up to 25% of total capital.",
+     "To comply with the new cap, banks must buy dollars in the domestic market."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because, to comply, banks must sell dollars in the domestic market, not buy them. This helps the RBI defend the rupee without dipping into its dollar reserves. The order came after the rupee hit a record low of 94.79 against the USD in March 2026.",
+    "source": "The Reserve Bank of India (RBI) moved to shield the rupee on Friday, ordering banks to cap net open onshore positions at USD 100 million by April 10, intending to kill the offshore-onshore arbitrage trade that is stressing the currency."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, the RBI moved to curb an arbitrage trade that was pressuring the rupee. In this trade, banks offset large onshore dollar purchases with opposite positions in which offshore market?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Non-deliverable forward market",
+     "Overnight indexed swap market",
+     "Call money market",
+     "Government securities repo market"
+    ],
+    "answer": 0,
+    "explain": "Banks netted onshore dollar buys against offsetting positions in the offshore non-deliverable forward (NDF) market. This let them run arbitrage books estimated at USD 10-18 billion while staying within limits. The onshore dollar buying pushed the domestic price of the USD up and the INR down.",
+    "source": "Banks would offset large onshore dollar buys with opposite positions in the offshore, non-deliverable forward (NDF) market."
+   }
+  ]
+ }
+}

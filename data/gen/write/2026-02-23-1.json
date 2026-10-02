@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-02-23-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 737,
+  "output_tokens": 2424,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the February 2026 US Supreme Court IEEPA ruling, the Section 122 and Section 301 fallback provisions, and the terms of the India-US interim deal.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, the US Supreme Court ruled 6-3 that which US law does not authorise the president to impose tariffs?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "International Emergency Economic Powers Act, 1977",
+     "Trade Act, 1974",
+     "Trade Expansion Act, 1962",
+     "Tariff Act, 1930"
+    ],
+    "answer": 0,
+    "explain": "The court held that IEEPA, a 1977 emergency law, does not authorise tariffs, noting that the word tariff does not appear in the statute. The ruling knocked out the legal basis of the Liberation Day tariffs on which the India-US interim deal was built.",
+    "source": "In a 6-3 ruling on February 20, the court held that the International Emergency Economic Powers Act (IEEPA), a 1977 emergency law, does not authorise the president to impose tariffs."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "After the US Supreme Court's tariff ruling in February 2026, the US President turned to other trade provisions. Consider the following statements:",
+    "items": [
+     "Section 122 of the US Trade Act of 1974 is a temporary balance-of-payments provision.",
+     "Section 122 allows the president to impose a flat tariff of up to 15% on all countries for 150 days.",
+     "Tariffs imposed after Section 301 investigations are subject to a statutory ceiling of 15%."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: the story says Section 301 investigations could restore country-specific rates with no statutory ceiling. The 15% cap and 150-day limit apply only to Section 122, which is why TBB calls the current rate a placeholder.",
+    "source": "he invoked Section 122 of the 1974 Trade Act, a temporary balance-of-payments provision that allows the president to impose a flat tariff of up to 15% on all countries for 150 days."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-US interim trade deal that was in place before the US Supreme Court ruling of February 2026:",
+    "items": [
+     "Washington would cut tariffs on select Indian exports to 18%.",
+     "India would signal intent to purchase USD 500 billion of American goods over five years, covering energy, aircraft, precious metals and technology."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both terms are as the story describes them. With the flat 15% Section 122 tariff now in force, India is paying less than its negotiated 18%, and its trade delegation's visit to Washington was called off with no new date set.",
+    "source": "Washington would cut tariffs on select Indian exports to 18%; India would signal intent to purchase USD 500 billion in American purchases over five years, covering energy, aircraft, precious metals, and technology, which we covered here."
+   }
+  ]
+ }
+}

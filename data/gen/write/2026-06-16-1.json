@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-06-16-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 678,
+  "output_tokens": 1577,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the 150-day tariff pause deadline, the reciprocal safeguard clause in the draft framework, and the US official leading the talks. Speculative G7 outcomes are skipped.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–US trade negotiations as of June 2026:",
+    "items": [
+     "The US pause on higher reciprocal tariffs runs for 150 days and expires on 24 July 2026.",
+     "The draft interim framework includes a reciprocal safeguard clause allowing either side to adjust tariffs if the other changes its commitments."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. Washington's 150-day pause ends on 24 July, and the draft framework carries a reciprocal safeguard clause. Both governments want an interim deal in place before the deadline, while work continues on the broader Bilateral Trade Agreement.",
+    "source": "The real deadline is July 24 when Washington's 150-day pause on higher reciprocal tariffs expires."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, which US official was scheduled to visit India for talks with Commerce Minister Piyush Goyal on an interim trade deal?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "US Trade Representative",
+     "US Secretary of Commerce",
+     "US Secretary of the Treasury",
+     "US Secretary of State"
+    ],
+    "answer": 0,
+    "explain": "US Trade Representative Jamieson Greer was scheduled to visit India on 23–24 June 2026. The visit followed negotiations earlier that month covering goods trade, non-tariff barriers, customs cooperation, trade facilitation and economic security.",
+    "source": "US Trade Representative Jamieson Greer will visit India on June 23–24 for talks with Commerce Minister Piyush Goyal aimed at closing an interim trade deal before a key tariff deadline."
+   }
+  ]
+ }
+}

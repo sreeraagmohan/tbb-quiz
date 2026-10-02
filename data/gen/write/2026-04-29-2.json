@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-04-29-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 595,
+  "output_tokens": 1550,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested durable facts on ATF taxation and pricing and ATF's place in refinery output; skipped the airline lobbying and the expected May revision.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to aviation turbine fuel (ATF) in India as of April 2026:",
+    "items": [
+     "Excise duty on ATF — 11%",
+     "Value Added Tax on ATF in Delhi — 29%",
+     "Cap on April's domestic ATF base price hike — 25%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Delhi charges 25% VAT on ATF; 29% is Tamil Nadu's rate. The excise duty is 11%, and the government capped April's domestic base price hike at 25% even as international fuel prices rose by over 100%.",
+    "source": "Delhi charges 25% VAT on ATF, Tamil Nadu 29%."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In April 2026, the Federation of Indian Airlines sought relief on aviation turbine fuel (ATF) costs. Consider the following statements about ATF in India:",
+    "items": [
+     "ATF makes up about 4% of India's refinery output.",
+     "Domestic airlines consume most of the ATF produced in India, leaving little for export."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Domestic airlines consume only 30% of the ATF India refines, and the rest is marked for export. ATF now accounts for 55-60% of airline costs, up from 30-40% before April's price hike.",
+    "source": "Domestic airlines consume only 30% of that, with the rest marked for export."
+   }
+  ]
+ }
+}

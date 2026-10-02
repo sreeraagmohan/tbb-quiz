@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-05-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 490,
+  "output_tokens": 1559,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the main provisions of the Taxation and Other Laws (Amendment) Bill, 2026, introduced in August 2026: the extended electronics tax holiday, plus the cloud, fund manager and REIT measures.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Taxation and Other Laws (Amendment) Bill, 2026, introduced in Parliament in August 2026, extends the tax holiday for foreign suppliers of machinery and tooling to Indian factories through which year?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "2040-41",
+     "2030-31",
+     "2035-36",
+     "2045-46"
+    ],
+    "answer": 0,
+    "explain": "The Bill extends the tax holiday for foreign suppliers of machinery and tooling through 2040-41. It was initially valid only until 2031, and the extension is a long-term win for electronics makers like Apple.",
+    "source": "Foreign suppliers delivering machinery and tooling to Indian factories get their tax holiday extended through 2040-41, a long-term win for tech giants like Apple."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Taxation and Other Laws (Amendment) Bill, 2026, introduced by Finance Minister Nirmala Sitharaman in August 2026:",
+    "items": [
+     "Skilled fund managers can relocate to India without their entire offshore fund becoming subject to Indian corporate taxation.",
+     "Data centre facilities used by global cloud providers gain flexibility to operate on a leased basis.",
+     "Tax-free dividend perks for investors in real estate investment trusts and infrastructure investment trusts are withdrawn."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: the Bill restores tax-free dividend perks for REIT and InvIT investors, protecting yields as operating firms move to the new tax regime. The Bill aims to attract foreign capital by removing niche friction points in industries such as cloud services and fund management.",
+    "source": "Tax-free dividend perks for real estate investment trust and infrastructure investment trust investors are restored, protecting yields even as operating firms transition to the new tax regime."
+   }
+  ]
+ }
+}

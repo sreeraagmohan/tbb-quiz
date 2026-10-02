@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-18-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 280,
+  "output_tokens": 1309,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the India–Germany 75-year diplomatic milestone; skipped the FTA signing timeline as it is a stated plan, not a completed event.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Prime Minister Narendra Modi met the leader of which country on the sidelines of the G7 summit, with both sides marking 75 years of diplomatic ties?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Germany",
+     "France",
+     "Italy",
+     "United Kingdom"
+    ],
+    "answer": 0,
+    "explain": "Modi met German Chancellor Friedrich Merz, and the two sides marked 75 years of diplomatic ties while discussing trade, defence and green cooperation. At the same summit, European Commission President Ursula von der Leyen said the EU would formally sign its free trade agreement with India by the end of 2026.",
+    "source": "Modi also met German Chancellor Friedrich Merz on the sidelines of the summit, where both sides marked 75 years of diplomatic ties and discussed trade, defence, and green cooperation."
+   }
+  ]
+ }
+}

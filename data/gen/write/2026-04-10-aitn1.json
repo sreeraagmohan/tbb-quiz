@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-10-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 217,
+  "output_tokens": 1020,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the April 2026 World Bank upgrade of India's FY27 growth forecast, its stated drivers, and how it compares with the RBI projection.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the World Bank's April 2026 growth forecast for India:",
+    "items": [
+     "It raised India's FY27 growth forecast to 6.6% from its October estimate of 6.3%.",
+     "It cited recently signed free trade agreements with the EU and UK among the reasons for the upgrade.",
+     "The Reserve Bank of India's FY27 growth projection is lower than the World Bank's."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The RBI is more bullish than the World Bank, at 6.9%, while Moody's is more cautious at 6.0%. Even after the upgrade, 6.6% marks a slowdown from FY26's 7.6%, with the West Asia conflict the primary drag.",
+    "source": "The World Bank raised India's FY27 growth forecast to 6.6%, up from its October estimate of 6.3%, citing robust domestic demand and recently signed free trade agreements with the EU and UK."
+   }
+  ]
+ }
+}

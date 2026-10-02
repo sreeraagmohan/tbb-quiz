@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-05-07-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 132,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a one-off humanitarian rescue at sea with no agreement, institution, policy or durable fact worth testing.",
+  "questions": []
+ }
+}

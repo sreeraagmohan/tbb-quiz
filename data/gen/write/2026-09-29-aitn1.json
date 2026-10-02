@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-29-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 344,
+  "output_tokens": 953,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The Goyal–Greer meeting is only likely, so I skipped it. I tested the concrete fact of the USTR's Section 301 probe into Indian manufacturing.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "As of September 2026, the US Trade Representative was investigating alleged excess capacity in Indian manufacturing under which provision of US law?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 301 of the US Trade Act",
+     "Section 232 of the Trade Expansion Act",
+     "Section 201 of the US Trade Act",
+     "Section 122 of the US Trade Act"
+    ],
+    "answer": 0,
+    "explain": "The USTR's probe into alleged excess capacity in Indian manufacturing runs under Section 301 of the US Trade Act. It sits alongside the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which lets President Trump impose tariffs of up to 100 per cent on buyers of Russian oil and gas, a list that includes India.",
+    "source": "Separately, the USTR is investigating alleged excess capacity in Indian manufacturing under Section 301 of the US Trade Act."
+   }
+  ]
+ }
+}

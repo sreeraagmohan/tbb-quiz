@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-23-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 554,
+  "output_tokens": 1543,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The deal timeline is speculative, so the questions test the Section 301 mechanism, the US pharma tariff schedule and India's pharma export exposure, plus the ASEAN meeting venue.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements in the context of US-India trade developments in July 2026:",
+    "items": [
+     "Section 301 investigations by the United States cover unfair trade practices and can trigger tariffs.",
+     "The United States buys nearly 38% of India's pharmaceutical exports.",
+     "President Trump said generic drugs would face 100% tariffs from 1 August 2026."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. Generic drugs stay tariff-free for two years from 1 August, then face 100% tariffs for a year and 200% after that, a schedule meant to push manufacturers to reshore. The US buys USD 9.7 billion of India's USD 25.8 billion in pharmaceutical exports.",
+    "source": "The United States buys USD 9.7 billion of Indian pharmaceutical exports, nearly 38% of India’s USD 25.8 billion in pharmaceutical exports."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, in which city was the Association of Southeast Asian Nations (ASEAN) Foreign Ministers' meeting held?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Manila",
+     "Jakarta",
+     "Kuala Lumpur",
+     "Bangkok"
+    ],
+    "answer": 0,
+    "explain": "A senior US official spoke on the sidelines of the ASEAN Foreign Ministers' meeting in Manila. The official said the US-India trade deal was effectively complete and could be signed within three to four months.",
+    "source": "Speaking anonymously on the sidelines of the Association of Southeast Asian Nations (ASEAN) Foreign Ministers' meeting in Manila, the official said \"The deal... is there. We literally have the paper.\""
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-25-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 555,
+  "output_tokens": 1416,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Hormuz chokepoint at the centre of the March 2026 Modi–Trump call and India's crude exposure to it; skips the unconfirmed US–Iran talks and the postponed strikes.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, Prime Minister Modi and President Trump held a phone call focused on the Middle East crisis. Which maritime chokepoint did the call specifically seek to keep functional?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Bab-el-Mandeb",
+     "Strait of Malacca",
+     "Suez Canal"
+    ],
+    "answer": 0,
+    "explain": "The call addressed the urgent need to keep the Strait of Hormuz functional after its near-closure throttled shipping and gas supplies. Modi said keeping the Strait open, secure and accessible is essential for the whole world.",
+    "source": "PM Modi and President Trump spoke on Tuesday to address the Middle East crisis, specifically the urgent need to keep the Strait of Hormuz functional."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Middle East crisis as reported in March 2026:",
+    "items": [
+     "The Modi–Trump call in March 2026 was the first between the two leaders since the US and Israel launched coordinated strikes against Iran on 28 February 2026.",
+     "The Strait of Hormuz handles 40% of India's crude oil imports.",
+     "Iran's parliamentary speaker Ghalibaf confirmed that negotiations with the US had taken place."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: Ghalibaf denied that any negotiations had taken place and called reports of talks an attempt to manipulate oil markets. Modi told parliament the crisis had triggered unprecedented challenges, given that 40% of India's crude imports pass through the Strait.",
+    "source": "The Strait handles 40% of India's crude oil imports"
+   }
+  ]
+ }
+}

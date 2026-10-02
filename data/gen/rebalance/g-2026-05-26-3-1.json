@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-26-3-1",
+ "story_id": "2026-05-26-3",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, the Union government barred households with piped natural gas (PNG) connections from refilling LPG cylinders. Consider the following statements:",
+  "items": [
+   "The order was issued by the Ministry of Petroleum and Natural Gas.",
+   "Affected consumers must surrender their LPG connection or take a transfer voucher within 30 days.",
+   "India is the world's largest importer of LPG."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because the story describes India as the world's second-largest LPG importer, not the largest. The transfer voucher allows a future LPG connection if a household moves to an area without piped gas infrastructure.",
+  "source": "Consumers must surrender their LPG connection or take a \"transfer voucher\" within 30 days."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, the Union government barred households with piped natural gas (PNG) connections from refilling LPG cylinders. Consider the following statements:",
+  "items": [
+   "India is the world's largest importer of LPG.",
+   "The order was issued by the Ministry of Petroleum and Natural Gas.",
+   "Affected consumers must surrender their LPG connection or take a transfer voucher within 30 days."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the story describes India as the world's second-largest LPG importer, not the largest. Statements 2 and 3 are correct. Almost all of India's LPG imports come from Qatar and the UAE, and the West Asia crisis has choked these supplies.",
+  "source": "India is the world's second-largest LPG importer, and the US-Israeli war on Iran has choked fuel supplies."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3221,
+  "output_tokens": 672,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

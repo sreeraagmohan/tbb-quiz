@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-02-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 769,
+  "output_tokens": 1501,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the visit's concrete outcomes (scholarships, Rupee-Kyat settlement, rare-earth location) and the connectivity projects under Act East.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Myanmar President Min Aung Hlaing visited New Delhi in June 2026. Consider the following statements about India–Myanmar relations:",
+    "items": [
+     "India raised its Mekong Ganga scholarships for Myanmar students from 36 to 100.",
+     "The Rupee-Kyat settlement mechanism has handled bilateral payments since May 2024.",
+     "Myanmar's rare-earth deposits that interest India are concentrated in its southern coastal region."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the rare-earth deposits are concentrated in Myanmar's northern frontier, where China currently dominates extraction and processing. Both governments also backed expanding the Rupee-Kyat settlement mechanism during the visit.",
+    "source": "India raised its Mekong Ganga scholarships for Myanmar students from 36 to 100, and both governments backed expanding the Rupee-Kyat settlement mechanism that has handled bilateral payments since May 2024."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway, which India and Myanmar committed to completing in June 2026, are associated with which Indian foreign policy initiative?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Act East policy",
+     "Look West policy",
+     "Connect Central Asia policy",
+     "Gujral Doctrine"
+    ],
+    "answer": 0,
+    "explain": "The story describes Myanmar as a pillar of India's Act East policy and a crucial node in both projects. Completion is complicated because the government in Naypyidaw is battling an armed insurgency across several parts of the country.",
+    "source": "A pillar of India's Act East policy, Myanmar is a crucial node in both the Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway."
+   }
+  ]
+ }
+}

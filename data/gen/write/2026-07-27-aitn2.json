@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-27-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 262,
+  "output_tokens": 824,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the venue, timing and framework of the second India–Israel FTA negotiating round.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the proposed India–Israel free trade agreement (FTA) negotiations as of July 2026:",
+    "items": [
+     "The second round of negotiations was held in New Delhi and concluded in July 2026.",
+     "The talks are framed by terms of reference signed in November 2025."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "The second round ended on 23 July 2026 after four days in New Delhi, and the November 2025 terms of reference continue to frame the talks. Both sides committed to an early conclusion but set no date, with merchandise trade at USD 3.93 billion in the last financial year.",
+    "source": "The terms of reference signed in November 2025 continue to frame the talks, and both sides committed to an early conclusion without setting a date."
+   }
+  ]
+ }
+}

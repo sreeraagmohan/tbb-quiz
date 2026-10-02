@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-28-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 266,
+  "output_tokens": 1010,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Minor visit update; tested only the announced Team Canada Trade Mission and the Toronto roundtable as markers of the India–Canada reset.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Commerce Minister Piyush Goyal's visit to Canada in May 2026:",
+    "items": [
+     "In Toronto, he co-chaired an investment roundtable with Canadian pension funds and banks alongside Canada's Trade Minister Maninder Sidhu.",
+     "Canada announced a Team Canada Trade Mission to India for November 2026, the first such delegation since the diplomatic reset earlier in 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements match the story. Goyal co-chaired the Toronto roundtable with Maninder Sidhu, who announced the November trade mission to India as the first since the diplomatic reset. Goyal also met Canadian firms across insurance, banking, food processing and critical minerals.",
+    "source": "Sidhu announced a Team Canada Trade Mission to India in November, the first such delegation since the diplomatic reset earlier this year."
+   }
+  ]
+ }
+}

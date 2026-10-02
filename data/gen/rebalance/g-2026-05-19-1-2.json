@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-19-1-2",
+ "story_id": "2026-05-19-1",
+ "target": 3,
+ "original": {
+  "topic": "Society",
+  "difficulty": 2,
+  "format": "pairs",
+  "prompt": "Consider the following pairs of states and their total fertility rate (TFR), as reported in May 2026:",
+  "items": [
+   "Andhra Pradesh — about 1.5",
+   "Bihar — 2.8",
+   "Madhya Pradesh — 2.7"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Madhya Pradesh's TFR is 2.4; the figure of 2.7 belongs to Uttar Pradesh. Against a national average of 2.0 and a replacement level of 2.1, all five southern states report TFRs between 1.3 and 1.6.",
+  "source": "Meanwhile, Bihar (2.8), Uttar Pradesh (2.7), and Madhya Pradesh (2.4) remain well above replacement."
+ },
+ "rewritten": {
+  "topic": "Society",
+  "difficulty": 2,
+  "format": "pairs",
+  "prompt": "Consider the following pairs of states and their total fertility rate (TFR), as reported in May 2026:",
+  "items": [
+   "Andhra Pradesh — about 2.0",
+   "Bihar — 2.4",
+   "Madhya Pradesh — 2.7"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "None of the pairs is correct. Andhra Pradesh's TFR is roughly 1.5 (2.0 is the national average), Bihar's is 2.8 (2.4 is Madhya Pradesh's), and Madhya Pradesh's is 2.4 (2.7 is Uttar Pradesh's). All five southern states report TFRs between 1.3 and 1.6, against a replacement level of 2.1.",
+  "source": "Meanwhile, Bihar (2.8), Uttar Pradesh (2.7), and Madhya Pradesh (2.4) remain well above replacement."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4549,
+  "output_tokens": 857,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

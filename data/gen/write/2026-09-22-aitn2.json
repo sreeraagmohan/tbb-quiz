@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-22-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 150,
+  "output_tokens": 710,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Bilateral air-services capacity increase with Vietnam; one question on the partner country and the scale of the change.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, India more than doubled its weekly bilateral air-seat cap, raising it to over 16,000 seats a week, with which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Vietnam",
+     "Indonesia",
+     "Thailand",
+     "Malaysia"
+    ],
+    "answer": 0,
+    "explain": "India and Vietnam lifted their bilateral air-seat cap from 8,000 to over 16,000 seats a week. The increase came as airlines in both countries had used up, or were close to exhausting, their existing flying rights.",
+    "source": "India and Vietnam have lifted their bilateral air-seat cap to over 16,000 a week, more than double the existing 8,000."
+   }
+  ]
+ }
+}

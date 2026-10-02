@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-16-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 516,
+  "output_tokens": 1542,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the escorted transit of Indian LPG carriers through the Strait of Hormuz and India's dependence on Middle East energy, plus the Iranian warship docking at Kochi.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, Iran allowed two Indian-flagged vessels to transit the Strait of Hormuz during its blockade. Consider the following statements:",
+    "items": [
+     "The two vessels were LPG carriers chartered by Indian Oil Corp.",
+     "The vessels were escorted by the Indian Navy during the transit.",
+     "India draws nearly all its crude oil from the Middle East."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because India draws 40% of its crude from the Middle East. It is nearly all of its LPG that comes from the region. The carriers Shivalik and Nanda Devi were due at western Indian ports on 16 and 17 March, while 22 more vessels remained trapped west of the Strait.",
+    "source": "Escorted by the Indian Navy, the vessels Shivalik and Nanda Devi – chartered by Indian Oil Corp – are passed the bottleneck and will reach western Indian ports by March 16 and 17."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "By March 2026, after the US sank an Iranian ship, India had allowed an Iranian naval vessel to dock at which Indian port?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Kochi",
+     "Visakhapatnam",
+     "Chennai",
+     "Mumbai"
+    ],
+    "answer": 0,
+    "explain": "New Delhi allowed an Iranian naval vessel to dock in Kochi after the US sank another Iranian ship. This came even as India had bolstered ties with Israel, leaving New Delhi in an awkward balancing position.",
+    "source": "New Delhi allowed an Iranian naval vessel to dock in Kochi after the US sank another Iranian ship"
+   }
+  ]
+ }
+}

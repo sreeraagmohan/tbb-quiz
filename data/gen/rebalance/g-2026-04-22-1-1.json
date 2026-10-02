@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-22-1-1",
+ "story_id": "2026-04-22-1",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, a group of citizens complained about the Prime Minister's national address of 18 April. Consider the following statements:",
+  "items": [
+   "The complaint alleged that the address violated the Model Code of Conduct in force ahead of elections in Tamil Nadu and West Bengal.",
+   "The address was delivered a day after the women's reservation bill was defeated in the Rajya Sabha.",
+   "The complainants sought equal airtime for opposition parties on public broadcasters if the speech was pre-approved."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The second statement is wrong: the women's reservation bill was defeated in the Lok Sabha, not the Rajya Sabha. The complainants alleged that publicly funded platforms were used for partisan electioneering days before polling on 23 April.",
+  "source": "A day after the women's reservation bill was defeated in the Lok Sabha"
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, a group of citizens complained about the Prime Minister's national address of 18 April. Consider the following statements:",
+  "items": [
+   "The complaint was lodged with the Supreme Court, alleging that the address violated the Model Code of Conduct in force ahead of elections in Tamil Nadu and West Bengal.",
+   "The address was delivered a day after the women's reservation bill was defeated in the Rajya Sabha.",
+   "The complainants sought equal airtime for opposition parties on private broadcasters if the speech was pre-approved."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong: the complaint was filed with the Election Commission, not the Supreme Court; the bill was defeated in the Lok Sabha, not the Rajya Sabha; and the complainants sought equal airtime on public broadcasters, not private ones. The complainants alleged that publicly funded platforms were used for partisan electioneering days before polling on 23 April.",
+  "source": "The complainants want the Election Commission (EC) to investigate and, if Modi's speech was pre-approved, grant opposition parties equal airtime on public broadcasters."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3307,
+  "output_tokens": 1205,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

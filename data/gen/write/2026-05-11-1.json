@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-11-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 657,
+  "output_tokens": 1028,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly a political appeal; one question on what the May 2026 conservation appeal asked for and the unchanged retail fuel prices.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, amid the West Asia crisis, Prime Minister Narendra Modi made an appeal to conserve foreign exchange and fuel. Consider the following statements:",
+    "items": [
+     "He asked Indians to stop buying gold for a year and to postpone foreign travel.",
+     "He urged farmers to halve chemical fertiliser use and move to solar-powered irrigation.",
+     "State-owned Oil Marketing Companies had raised retail petrol and diesel prices to offset their under-recoveries."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because retail petrol and diesel prices remained unchanged. Indian Oil, Bharat Petroleum and Hindustan Petroleum were instead absorbing under-recoveries of INR 1,600–1,700 crore a day as crude rose from USD 70 to over USD 120 per barrel.",
+    "source": "Prime Minister Narendra Modi on Sunday asked Indians to stop buying gold for a year, cut fuel consumption, and postpone foreign travel to conserve foreign exchange amid the West Asia crisis."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-05-13-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1784,
+  "output_tokens": 2391,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India-EFTA TEPA, which trade pact covers each Nordic country at the May 2026 India-Nordic Summit, and the ASML-semiconductor link. Visit itineraries and trade figures are skipped.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA), as of May 2026:",
+    "items": [
+     "It entered into force in October 2025.",
+     "It commits the EFTA bloc to USD 100 billion in FDI in India over 15 years."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements match the story. The EFTA bloc is Switzerland, Norway, Iceland and Liechtenstein, and the TEPA formed the commercial backdrop to the first Indian prime ministerial visit to Norway in 43 years.",
+    "source": "which entered into force in October 2025 and commits the EFTA bloc (Switzerland, Norway, Iceland, and Liechtenstein) to USD 100 billion in FDI over 15 years."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "The 3rd India-Nordic Summit was held in Oslo in May 2026. Consider the following pairs of a participating Nordic country and the trade agreement that covers its commerce with India:",
+    "items": [
+     "Finland — India-EU FTA",
+     "Iceland — India-EFTA TEPA",
+     "Denmark — India-EFTA TEPA"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Denmark is an EU member, so it falls under the India-EU FTA along with Sweden and Finland. Only Norway and Iceland are covered by the India-EFTA TEPA. Earlier India-Nordic summits were held in Stockholm (2018) and Copenhagen (2022).",
+    "source": "three of the five Nordic participants (Sweden, Denmark, and Finland) fall under the India-EU FTA, while the remaining two (Norway and Iceland) are covered by the India-EFTA TEPA."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, Prime Minister Modi's European tour included a stop in the home country of ASML, the world's sole maker of extreme ultraviolet (EUV) lithography machines. Which country is it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Netherlands",
+     "Sweden",
+     "Norway",
+     "Italy"
+    ],
+    "answer": 0,
+    "explain": "ASML is a Dutch firm. It already supplies equipment to the Tata-PSMC mega-fab in Gujarat and is seeking partnerships with Indian companies under India Semiconductor Mission 2.0.",
+    "source": "Dutch firm ASML, the world's sole maker of extreme ultraviolet (EUV) lithography machines, is already supplying equipment to India's Tata-PSMC mega-fab in Gujarat"
+   }
+  ]
+ }
+}

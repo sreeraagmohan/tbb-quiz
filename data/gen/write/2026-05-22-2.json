@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-22-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 461,
+  "output_tokens": 932,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly announcements and an expected negotiation round; tested only the headline US investment commitment and its sectors.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about US investment commitments in India announced by Commerce Minister Piyush Goyal in May 2026:",
+    "items": [
+     "US companies had committed over USD 60 billion in investments over the preceding six months.",
+     "The commitments were concentrated in textiles, food processing and agriculture."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the commitments were concentrated in data centres, digital infrastructure and advanced manufacturing. Road Transport Minister Nitin Gadkari separately urged Indian firms to form joint ventures with US companies to absorb know-how in infrastructure, mobility and logistics.",
+    "source": "Commerce Minister Piyush Goyal announced that US companies have committed over USD 60 billion in investments over the last six months, concentrated in data centres, digital infrastructure, and advanced manufacturing."
+   }
+  ]
+ }
+}

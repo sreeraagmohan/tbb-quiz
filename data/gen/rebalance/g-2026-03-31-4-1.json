@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-31-4-1",
+ "story_id": "2026-03-31-4",
+ "target": 3,
+ "original": {
+  "topic": "Agriculture",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the West Asia conflict disrupted India's fertiliser imports ahead of the kharif season. Consider the following statements:",
+  "items": [
+   "India imports about 60% of its di-ammonium phosphate (DAP).",
+   "Saudi Arabia is India's biggest source of imported urea.",
+   "China's suspension of phosphate exports was in place until at least August 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. Saudi Arabia is the top DAP supplier, while Oman is the biggest urea source. India also imports roughly half its urea, and the government held talks with Russia, Belarus and Morocco to fill the gap.",
+  "source": "Saudi Arabia is the top DAP supplier; Oman is the biggest urea source."
+ },
+ "rewritten": {
+  "topic": "Agriculture",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the West Asia conflict disrupted India's fertiliser imports ahead of the kharif season. Consider the following statements:",
+  "items": [
+   "India imports about 60% of its di-ammonium phosphate (DAP).",
+   "Oman is India's biggest source of imported urea.",
+   "China's suspension of phosphate exports was in place until at least August 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: India imports 60% of its DAP, Oman is the biggest urea source, and China's phosphate export suspension runs until at least August. Both Oman and Saudi Arabia, the top DAP supplier, ship through the Strait of Hormuz, so the government held talks with Russia, Belarus and Morocco to fill the gap.",
+  "source": "Saudi Arabia is the top DAP supplier; Oman is the biggest urea source."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2942,
+  "output_tokens": 591,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

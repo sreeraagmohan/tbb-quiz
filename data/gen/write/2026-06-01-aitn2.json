@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-01-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 215,
+  "output_tokens": 1126,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "The visit is only scheduled, so the question tests the durable India–UK FTA facts: concluded in 2025, with rollout strained over UK steel import curbs.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–UK free trade agreement, as of June 2026:",
+    "items": [
+     "The agreement was concluded in 2025.",
+     "India's trade secretary said its rollout had hit a hurdle over the United Kingdom's new steel import curbs."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The story describes the pact as last year's free trade agreement, placing it in 2025, and says its rollout hit a hurdle over London's new steel import curbs. The strain formed the backdrop to British Foreign Secretary Yvette Cooper's planned visit to India on 4 June 2026 for talks with External Affairs Minister Jaishankar.",
+    "source": "The visit comes with last year's free trade agreement under strain, after India's trade secretary said its rollout had hit a hurdle over London's new steel import curbs."
+   }
+  ]
+ }
+}

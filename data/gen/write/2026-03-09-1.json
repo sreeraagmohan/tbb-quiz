@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-03-09-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 928,
+  "output_tokens": 1856,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Gen Z protests and Nepal's March 2026 election, Nepal's BRI accession year, and the Madhesi issue behind India's objection to Nepal's 2015 constitution.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Nepal's general election held in March 2026:",
+    "items": [
+     "It was Nepal's first election since the Gen Z-led protests that ousted Prime Minister KP Sharma Oli.",
+     "The Gen Z protests of September 2025 began as a demonstration against fuel and medicine shortages.",
+     "Balendra 'Balen' Shah, whose RSP was on track for an outright majority, had earlier been mayor of Kathmandu."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because the protests began as a digital rights protest and grew into a nationwide uprising against corruption, nepotism and youth unemployment. Shah's RSP is barely three years old, so New Delhi's old playbook of working through Nepal's traditional parties will need to change.",
+    "source": "In September 2025, what started as a digital rights protest quickly snowballed into a nationwide uprising against corruption, nepotism, and youth unemployment."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In which year did Nepal sign onto China's Belt and Road Initiative (BRI)?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "2017",
+     "2015",
+     "2013",
+     "2019"
+    ],
+    "answer": 0,
+    "explain": "Nepal joined the BRI in 2017. Chinese-built projects such as the Pokhara International Airport and the proposed Kathmandu-Tibet railway are already on the ground.",
+    "source": "Nepal signed onto China's Belt and Road Initiative (BRI) in 2017."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In 2015, India objected that Nepal's new constitution failed to accommodate which community, which has ties on both sides of the India–Nepal border?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Madhesi",
+     "Sherpa",
+     "Gurung",
+     "Limbu"
+    ],
+    "answer": 0,
+    "explain": "India said Nepal's fast-tracked 2015 constitution did not accommodate the Madhesi community. An unofficial blockade followed that choked off fuel and medicine and pushed Kathmandu towards Beijing. Balendra Shah is himself Madhesi.",
+    "source": "In 2015, Nepal fast-tracked a new constitution over India's objections that it failed to accommodate the Madhesi community, an ethnic group with ties on both sides of the border."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-23-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 542,
+  "output_tokens": 1905,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the January 2026 Supreme Court ruling in the Tiger Global case and GAAR's override of treaty benefits. The startup lobby's request is skipped because it is only a plea.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In January 2026, the Supreme Court denied tax treaty protection to Mauritius-based entities in the Tiger Global case. Which provisions of Indian tax law did the Court hold can override treaty benefits where a structure appears designed mainly to avoid tax?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "General Anti-Avoidance Rules",
+     "Equalisation Levy",
+     "Minimum Alternate Tax",
+     "Securities Transaction Tax"
+    ],
+    "answer": 0,
+    "explain": "The Court held that India's general anti-avoidance rules (GAAR) can override treaty benefits when a structure looks designed mainly to dodge tax. Startups fear this could see old investment structures reopened.",
+    "source": "The Court said India’s general anti-avoidance rules (GAAR) can override treaty benefits if a structure looks designed mainly to dodge tax, raising fears that old startup cap tables get reopened."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Supreme Court's January 2026 ruling in the Tiger Global case and the India–Mauritius tax relationship:",
+    "items": [
+     "The Court held that Mauritius-based entities used by Tiger Global in its 2018 sale of a Flipkart stake to Walmart were conduits.",
+     "The India–Mauritius tax treaty dates from 1982.",
+     "Government data cited by Reuters showed Mauritius accounted for USD 171 billion of inflows over 23 years to 2023."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. On 15 January 2026, the Court ruled that the entities were conduits, which denied them treaty protection and allowed India to tax the gains. For two decades, Mauritius was the standard holding-company route for investing in India.",
+    "source": "On 15 January 2026, the Supreme Court ruled that Mauritius-based entities used by Tiger Global in its 2018 Flipkart stake sale to Walmart were “conduits,” denying them treaty protection and allowing India to tax the gains."
+   }
+  ]
+ }
+}

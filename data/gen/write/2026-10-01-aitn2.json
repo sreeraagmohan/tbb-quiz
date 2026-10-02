@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-10-01-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 216,
+  "output_tokens": 806,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a corporate launch; tested only the payment-network angle, as RuPay is India's domestic card network.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "As reported in October 2026, Apple Pay launched in India through Axis Bank. Its initial launch covered Axis credit cards on which card networks?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Visa and Mastercard only",
+     "RuPay and Visa only",
+     "RuPay and Mastercard only",
+     "RuPay only"
+    ],
+    "answer": 0,
+    "explain": "The launch initially covers Axis credit cards on the Visa and Mastercard networks. Cards on RuPay, India's domestic network, are ineligible. Axis is India's fourth-largest credit card issuer, with 16.3 million of the country's 124 million cards as of August.",
+    "source": "It initially covers Axis credit cards on the Visa and Mastercard networks, and cards on RuPay, India's domestic network, are ineligible."
+   }
+  ]
+ }
+}

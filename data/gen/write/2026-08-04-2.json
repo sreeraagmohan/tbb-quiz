@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-04-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 401,
+  "output_tokens": 1345,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the new Bankers’ Books Evidence Bill, 2026: the House of introduction, its signature and notification provisions, and the 1891 Act it replaces.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Bankers’ Books Evidence Bill, 2026, introduced in Parliament in August 2026:",
+    "items": [
+     "It was introduced in the Rajya Sabha.",
+     "The government may extend its framework to other financial entities by notification.",
+     "Certificates issued by banks under it may use manual, digital or electronic signatures."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because Finance Minister Nirmala Sitharaman introduced the Bill in the Lok Sabha on 3 August 2026. The Bill would let digital, cloud, backup and disaster-recovery records serve as evidence through certified copies, as paper records already can.",
+    "source": "Finance Minister Nirmala Sitharaman introduced the Bankers’ Books Evidence Bill, 2026 in the Lok Sabha on Monday."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The Bankers’ Books Evidence Bill, 2026, introduced in the Lok Sabha in August 2026, would replace an Act governing the use of bank records in legal proceedings. In which year was that Act passed?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "1891",
+     "1872",
+     "1934",
+     "1949"
+    ],
+    "answer": 0,
+    "explain": "The Bill would replace the 135-year-old Act of 1891 on how bank records are used in legal proceedings. It remains a pending bill and would take effect only after passage and notification.",
+    "source": "It would replace the 1891 Act governing how bank records are used in legal proceedings."
+   }
+  ]
+ }
+}

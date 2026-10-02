@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-03-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 184,
+  "output_tokens": 214,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an announced visit with only a generic agenda and no concrete outcome such as an agreement or partnership.",
+  "questions": []
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2025-12-15-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 471,
+  "output_tokens": 161,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an internal party appointment, with the formal election only expected later, is not durable Prelims material.",
+  "questions": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-01-30-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1362,
+  "output_tokens": 2182,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Economic Survey 2025-26's first-time citation of the Lowy Power Gap Index, its headline macro figures, and the US tariff sequence it describes.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Economic Survey 2025-26, released in January 2026, cited for the first time a Power Gap Index on which India scored -4.0, the lowest in Asia excluding Russia and North Korea. Which think tank publishes this index?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Lowy Institute",
+     "Brookings Institution",
+     "Chatham House",
+     "Carnegie Endowment"
+    ],
+    "answer": 0,
+    "explain": "The Survey cited the Power Gap Index of the Australia-based Lowy Institute. A score of -4.0 indicates that India operates below its strategic potential.",
+    "source": "For the first time, the Survey cites Australia-based Lowy Institute’s Power Gap Index, noting that India operates below its strategic potential with a score of -4.0 – the lowest in Asia (excluding Russia and North Korea)."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Economic Survey 2025-26, released in January 2026:",
+    "items": [
+     "It puts India's real GDP growth estimate for FY26 at 7.4%.",
+     "It notes that the fiscal deficit came in at 4.8%, better than the 4.9% budgeted.",
+     "It notes that India received three sovereign rating downgrades."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the Survey records three sovereign rating upgrades, not downgrades. Its central paradox is that the rupee weakened despite this strong domestic performance.",
+    "source": "Fiscal consolidation outperformed (4.8% deficit vs 4.9% budgeted), and three sovereign rating upgrades followed."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "The Economic Survey 2025-26 discussed the impact of US tariffs on India in 2025. Consider the following statements:",
+    "items": [
+     "An additional 25% tariff imposed in August 2025 was added on top of a 25% reciprocal duty applied from April 2025.",
+     "Later India-US negotiations led to a reduction in these tariffs."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the later negotiations did not result in a reduction. The hope that India would win a quick exemption from the new US tariff regime did not materialise.",
+    "source": "Instead of securing quick exemption, India was slapped with an additional 25% tariff in August – piling onto the 25% reciprocal duty from April."
+   }
+  ]
+ }
+}

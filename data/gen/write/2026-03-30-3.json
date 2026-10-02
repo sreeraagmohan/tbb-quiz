@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-03-30-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 465,
+  "output_tokens": 1549,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the March 2026 procurement clearances for Chinese equipment and the sequence of India–China easing steps.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, India eased restrictions on public sector procurement from China. Consider the following statements:",
+    "items": [
+     "Bharat Heavy Electricals (BHEL) was allowed to source 21 types of critical equipment from Chinese suppliers.",
+     "Chinese bidders in state contracts must still register for political and security clearance.",
+     "State firms other than BHEL and SAIL were permitted to procure coal-gasification equipment from China."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because Chinese bidders in state contracts no longer need political and security clearance registration. The order also gave Steel Authority of India (SAIL) clearance for certain components, moving from broad policy to named firms with specific procurement lists.",
+    "source": "Chinese bidders in state contracts no longer need political and security clearance registration."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the easing of India–China commercial ties:",
+    "items": [
+     "February 2026 — Easing of power equipment import curbs",
+     "March 2026 — Relaxation of FDI rules for Chinese-linked investments",
+     "August 2025 — Prime Minister Modi's first visit to China in seven years"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correctly matched: power equipment import curbs were eased in February 2026, FDI rules for Chinese-linked investments were relaxed in March 2026, and Modi visited China in August 2025. Since that visit, direct flights have resumed and visa rules for Chinese professionals have loosened.",
+    "source": "New Delhi began easing power equipment import curbs in February, then relaxed FDI rules for Chinese-linked investments earlier this month."
+   }
+  ]
+ }
+}

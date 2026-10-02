@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-04-14-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 449,
+  "output_tokens": 872,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the RBI's March 2026 cap on banks' net onshore rupee positions and the hedging context. The investigation itself is only planned, so it is not tested as an outcome.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Reserve Bank of India's measures on the rupee in March–April 2026:",
+    "items": [
+     "From 27 March 2026, banks were capped at USD 100 million in net onshore rupee positions.",
+     "Corporations in India are not permitted to hedge their foreign exchange exposure."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the story says corporations are permitted to hedge FX exposure. In April 2026, the RBI suspected that some banks had passed about USD 40 billion in speculative rupee positions to corporate clients by presenting them as hedges, which would amount to market abuse.",
+    "source": "Since March 27, banks have been capped at USD 100 million in net onshore rupee positions, which we covered here."
+   }
+  ]
+ }
+}

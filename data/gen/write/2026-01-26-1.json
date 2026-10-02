@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-01-26-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 415,
+  "output_tokens": 1596,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests Nipah virus basics (no vaccine, bat spillover, rare human transmission) and India's outbreak history; skips the shifting case counts.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "With reference to the Nipah virus, which caused an outbreak in India in January 2026, consider the following statements:",
+    "items": [
+     "There is no vaccine or cure for the disease it causes.",
+     "It is typically linked to spillover from bats through contaminated fruit.",
+     "Human-to-human transmission is its most common mode of spread."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong because human transmission of Nipah is rare. The virus usually reaches people through bat spillovers via contaminated fruit. It has no vaccine or cure and sits on the WHO's high-risk list, with fatality rates of 40-75%.",
+    "source": "Human transmission is rare, and the virus is typically linked to bat spillovers via contaminated fruit."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Nipah virus outbreaks in India:",
+    "items": [
+     "In January 2026, India moved to contain a Nipah outbreak in West Bengal, with confirmed cases including doctors and nurses.",
+     "Kerala has reported Nipah repeatedly since 2018."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The January 2026 West Bengal outbreak had five confirmed cases, among them infected health workers. Nipah had surfaced in West Bengal before in 2001 and 2007, and India now has protocols for tracing, isolation and hospital control.",
+    "source": "Nipah has surfaced before in West Bengal in 2001 and 2007, and repeatedly in Kerala since 2018."
+   }
+  ]
+ }
+}

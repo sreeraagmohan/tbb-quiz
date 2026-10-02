@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-18-2-1",
+ "story_id": "2026-08-18-2",
+ "target": 3,
+ "original": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the MQ 9B Sea Guardian lease contract signed by India's defence ministry in August 2026:",
+  "items": [
+   "The two drones were leased for the Indian Air Force.",
+   "The drones will provide maritime surveillance for 30 months.",
+   "India has separately purchased 31 MQ 9B drones from the United States, with first deliveries expected in January 2029."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The first statement is wrong because the two drones were leased for the Navy, not the Air Force. The 30-month lease expires around February 2029, making it a bridge to the 31 purchased MQ 9B drones whose deliveries begin in January 2029.",
+  "source": "On Monday, the defence ministry signed an INR 1,943 crore (USD 203 million) contract with General Atomics to lease two MQ 9B Sea Guardian drones for the Navy."
+ },
+ "rewritten": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the MQ 9B Sea Guardian lease contract signed by India's defence ministry in August 2026:",
+  "items": [
+   "The two drones were leased for the Indian Air Force.",
+   "The drones will provide maritime surveillance for 18 months.",
+   "India has separately purchased 31 MQ 9B drones from the United States, with first deliveries expected in January 2027."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong. The drones were leased for the Navy, not the Air Force; they will provide surveillance for 30 months, not 18; and first deliveries of the 31 purchased drones are expected in January 2029, not January 2027. The lease expires around February 2029, making it a bridge to the permanent fleet.",
+  "source": "The high altitude, long endurance aircraft will provide maritime surveillance for 30 months."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3236,
+  "output_tokens": 758,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

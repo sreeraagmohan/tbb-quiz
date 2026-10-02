@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-28-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 320,
+  "output_tokens": 933,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the three AI tools on the Ministry of Culture's Gyan Bharatam manuscripts portal and their functions.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In July 2026, Gyan Bharatam, the Ministry of Culture's manuscripts mission, reported logging more than 11.9 million manuscripts. Consider the following pairs of tools on its AI-enabled portal and their functions:",
+    "items": [
+     "Gyan Mitram — Interpretation and exploration of manuscripts",
+     "Pandulipi Darpan — Transliteration and translation of uploaded pages",
+     "BharatiyaGPT — Text, audio and voice queries via a Talk to Manuscript feature"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the functions the story gives for the portal's tools. The portal combines optical character recognition, handwritten text recognition, script identification, semantic search and machine translation. The 11.9 million texts were logged through a national survey covering every state and union territory.",
+    "source": "Three tools sit on it: Gyan Mitram for interpretation and exploration, Pandulipi Darpan for transliteration and translation of uploaded pages, and BharatiyaGPT, which takes text, audio, and voice queries through a Talk to Manuscript feature."
+   }
+  ]
+ }
+}

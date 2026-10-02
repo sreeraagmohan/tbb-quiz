@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-08-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 211,
+  "output_tokens": 111,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an accident report with no named project, scheme or institutional decision to test beyond routine NDRF rescue involvement.",
+  "questions": []
+ }
+}

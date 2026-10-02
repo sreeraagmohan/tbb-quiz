@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-01-23-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 559,
+  "output_tokens": 215,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story covers a company's planned resumption of Russian crude purchases, with an uncertain horizon and no durable policy, scheme or institutional fact to test.",
+  "questions": []
+ }
+}

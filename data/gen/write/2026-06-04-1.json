@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-04-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 542,
+  "output_tokens": 1314,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the design of the June 2026 jet fuel stabilisation fund: who gets the advances, the duration, and where repayments go.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, the Union government approved an INR 100 billion jet fuel stabilisation fund. Consider the following statements about it:",
+    "items": [
+     "It provides interest-free advances to oil marketing companies to cover under-recoveries on jet fuel.",
+     "The support lasts for 36 months or until the money is recovered.",
+     "It is a permanent subsidy paid directly to airlines."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong. The fund is not a permanent subsidy, and the advances go to oil marketing companies, not airlines, to cover the gap between global rates and the capped prices charged to carriers. Jet fuel makes up as much as 40% of airline operating costs, and West Asian airspace closures have pushed those costs up.",
+    "source": "The government will provide interest-free advances to oil marketing companies (OMCs)."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the jet fuel stabilisation fund approved in June 2026, oil marketing companies must repay the differential into which fund once international prices fall?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Consolidated Fund of India",
+     "Contingency Fund of India",
+     "Public Account of India",
+     "National Investment Fund"
+    ],
+    "answer": 0,
+    "explain": "When international prices drop, OMCs pay the differential back into the Consolidated Fund of India until the advance is settled. This means the state is deferring the losses rather than absorbing them.",
+    "source": "OMCs must pay the differential back into the Consolidated Fund of India until the advance is settled."
+   }
+  ]
+ }
+}

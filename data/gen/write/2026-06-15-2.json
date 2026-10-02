@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-15-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 845,
+  "output_tokens": 1630,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the AAIB's role and the ICAO interim-statement rule on the AI-171 probe. Skips Air India's commercial troubles, which lack a policy angle.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the investigation into the Air India Flight AI-171 crash of June 2025:",
+    "items": [
+     "In June 2026, an interim statement was issued because International Civil Aviation Organization (ICAO) rules require one when no final report is issued within twelve months.",
+     "The June 2026 interim statement concluded that the crash was caused by a deliberate act.",
+     "The preliminary report of July 2025 found that both engine fuel control switches were moved from RUN to CUTOFF soon after take-off."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The interim statement declined to name a cause, citing pending international reviews and consultations, and the story says it remains undetermined whether the switch movement was deliberate, accidental or a fault. The probe has reached its final integrated analysis stage.",
+    "source": "The International Civil Aviation Organization (ICAO) rules require an interim statement when no final report lands within twelve months."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, which body issued an interim statement on its investigation into the crash of Air India Flight AI-171, a Boeing 787-8 flying from Ahmedabad to London?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Aircraft Accident Investigation Bureau",
+     "Directorate General of Civil Aviation",
+     "Bureau of Civil Aviation Security",
+     "Airports Authority of India"
+    ],
+    "answer": 0,
+    "explain": "The Aircraft Accident Investigation Bureau (AAIB) marked the crash's first anniversary with an interim statement that did not name a cause. The crash on June 12, 2025 left 260 people dead.",
+    "source": "One year after Air India Flight AI-171, the Aircraft Accident Investigation Bureau's (AAIB) interim report has still not reached a conclusion on what caused the crash that left 260 people dead."
+   }
+  ]
+ }
+}

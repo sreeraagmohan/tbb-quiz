@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-06-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 455,
+  "output_tokens": 1078,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the export resumption details (ban history, tranches, price gap) and the port used for the first shipment; price-gap commentary used only as context.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, Indian traders resumed wheat exports for the first time in four years. Consider the following statements:",
+    "items": [
+     "India had banned overseas sales of wheat in 2022 to protect local supply.",
+     "The government cleared a total of 5 million tons of wheat for export in a single tranche.",
+     "Indian wheat is cheaper than rival supplies from Australia and the Black Sea."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the first statement is correct. The 5 million tons were cleared across two tranches, and Indian wheat is about USD 20 more expensive than Australian or Black Sea supplies. The 2022 ban was extended to 2023 and 2024 and lifted after a robust 2025 harvest.",
+    "source": "The government has cleared a total of 5 million tons for export across two recent tranches."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, ITC loaded India's first wheat export shipment in four years, destined for the UAE, at which port?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Kandla",
+     "Paradip",
+     "Haldia",
+     "Kochi"
+    ],
+    "answer": 0,
+    "explain": "ITC was loading 22,000 metric tons of wheat at Kandla for the UAE. Because of the price gap, Indian wheat mainly suits buyers with immediate supply gaps or geographic proximity, such as the Middle East.",
+    "source": "Conglomerate ITC is currently loading 22,000 metric tons at Kandla port destined for the UAE."
+   }
+  ]
+ }
+}

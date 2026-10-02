@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-25-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 596,
+  "output_tokens": 1353,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the First Schedule and the constitutional process for renaming a state, using the February 2026 Kerala to Keralam approval.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, the Union Cabinet approved renaming Kerala as 'Keralam'. Which Schedule of the Constitution lists all states by name and must be amended for such a change?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "First Schedule",
+     "Fourth Schedule",
+     "Seventh Schedule",
+     "Eighth Schedule"
+    ],
+    "answer": 0,
+    "explain": "The First Schedule lists all states by name, and it never reflected the Malayalam name 'Keralam'. India's states were drawn on linguistic lines in 1956.",
+    "source": "The Constitution's First Schedule, which lists all states by name, never reflected that."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the proposal to rename Kerala as 'Keralam', approved by the Union Cabinet in February 2026:",
+    "items": [
+     "After the Cabinet approval, the President refers the bill to the Kerala legislature for its views before Parliament votes on it.",
+     "The rename is sought on linguistic grounds, so that the Constitution reflects the state's Malayalam name.",
+     "The resolution demanding the rename was passed in 2024 by a BJP-led Kerala state government."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: the 2024 resolution was passed by Kerala's CPI(M) government, and the BJP-led Centre approved it nearly two years later. With the state and the Centre aligned, the rename is expected to go through.",
+    "source": "Tuesday's Cabinet approval kicks off a constitutional formality: the President refers the bill to Kerala's legislature for their views, then Parliament votes."
+   }
+  ]
+ }
+}

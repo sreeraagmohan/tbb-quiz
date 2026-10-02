@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-09-1-1",
+ "story_id": "2026-03-09-1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Nepal's general election held in March 2026:",
+  "items": [
+   "It was Nepal's first election since the Gen Z-led protests that ousted Prime Minister KP Sharma Oli.",
+   "The Gen Z protests of September 2025 began as a demonstration against fuel and medicine shortages.",
+   "Balendra 'Balen' Shah, whose RSP was on track for an outright majority, had earlier been mayor of Kathmandu."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 2 is wrong because the protests began as a digital rights protest and grew into a nationwide uprising against corruption, nepotism and youth unemployment. Shah's RSP is barely three years old, so New Delhi's old playbook of working through Nepal's traditional parties will need to change.",
+  "source": "In September 2025, what started as a digital rights protest quickly snowballed into a nationwide uprising against corruption, nepotism, and youth unemployment."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Nepal's general election held in March 2026:",
+  "items": [
+   "It was Nepal's first election since the Gen Z-led protests that ousted Prime Minister Pushpa Kamal Dahal.",
+   "The Gen Z protests of September 2025 began as a demonstration against fuel and medicine shortages.",
+   "Balendra 'Balen' Shah, whose RSP was on track for an outright majority, had earlier been mayor of Pokhara."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three are wrong: the protests ousted PM KP Sharma Oli, they began as a digital rights protest that grew into an uprising against corruption, nepotism and youth unemployment, and Shah was mayor of Kathmandu, not Pokhara. Shah's RSP is barely three years old, so New Delhi's old playbook of working through Nepal's traditional parties will need to change.",
+  "source": "The protests culminated in the ousting of PM KP Sharma Oli and his administration."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4275,
+  "output_tokens": 1211,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

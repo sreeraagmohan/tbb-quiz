@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-04-16-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 676,
+  "output_tokens": 290,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an industrial accident at a private power plant, with only routine inquiries ordered. The policy angle (deferred coal maintenance and Electricity Act emergency powers) appears only in Sound smarter, so it cannot be tested.",
+  "questions": []
+ }
+}

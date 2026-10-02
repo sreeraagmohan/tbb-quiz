@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-18-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 228,
+  "output_tokens": 1256,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Art and culture restitution item; tested the plates' contents, their custodian and the restitution timeline.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, the Netherlands returned the Anaimangalam Copper Plates of the Chola dynasty to India. Consider the following statements about these plates:",
+    "items": [
+     "They had been held at Leiden University since the mid-19th century.",
+     "They record grants by Chola emperor Rajaraja I to a Buddhist monastery at Mamallapuram.",
+     "India had pursued their restitution since 2012."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the monastery was at the port town of Nagapattinam in Tamil Nadu, not Mamallapuram. The 11th-century set of 21 large and three small sheets was handed back during Prime Minister Modi's visit to the Netherlands.",
+    "source": "record grants by Chola emperor Rajaraja I to a Buddhist monastery at the port town of Nagapattinam in Tamil Nadu."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-20-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 416,
+  "output_tokens": 1610,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the NCLT's August 2026 SpiceJet order, the Go First moratorium and the 2025 Aircraft Objects Act; skipped procedural trivia like the retiring judge.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "After Go First's 2023 bankruptcy earned India a risky-jurisdiction label among aircraft lessors, which law did New Delhi enact in 2025 to speed up repossession of leased aircraft?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Aircraft Objects Act",
+     "Carriage by Air Act",
+     "SARFAESI Act",
+     "Insolvency and Bankruptcy Code"
+    ],
+    "answer": 0,
+    "explain": "The story says New Delhi responded to the Go First episode with the 2025 Aircraft Objects Act to speed repossession. Go First's bankruptcy had trapped more than 50 leased aircraft under a court moratorium.",
+    "source": "New Delhi responded with the 2025 Aircraft Objects Act to speed repossession."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about insolvency proceedings involving Indian airlines, as reported in August 2026:",
+    "items": [
+     "In August 2026, the National Company Law Tribunal ordered seven lessor petitions against SpiceJet to be reheard from scratch.",
+     "The lessor petitions against SpiceJet concern the repossession of leased aircraft rather than unpaid debts.",
+     "Go First's 2023 bankruptcy trapped more than 50 leased aircraft under a court moratorium."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: SpiceJet's cases concern unpaid debts, not repossession, though they expose a parallel enforcement problem. The NCLT's order left SpiceJet's management in control, whereas an admitted petition could have put the airline under an independent insolvency professional.",
+    "source": "On Wednesday, the National Company Law Tribunal ordered seven lessor petitions reheard from scratch, leaving management in control."
+   }
+  ]
+ }
+}

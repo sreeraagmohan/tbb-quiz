@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-06-30-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 847,
+  "output_tokens": 1973,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the registration mandate timeline, policy duration, hybrid exclusion and the central scheme funding charging points in Delhi's June 2026 EV policy.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, the Delhi Cabinet approved a new electric vehicle (EV) policy. Consider the following statements about it:",
+    "items": [
+     "From 1 January 2027, only electric three-wheelers and N1-category trucks will be eligible for new registration in Delhi.",
+     "Hybrid vehicles are eligible for purchase subsidies under the policy.",
+     "The policy runs until 31 March 2030."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the policy offers no subsidies for hybrids. The INR 150 billion policy takes effect on 1 July 2026, runs until 31 March 2030, and bans new ICE three-wheeler and light commercial truck registrations from January 2027.",
+    "source": "Only electric three-wheelers and N1-category trucks will be eligible for new registration in Delhi from January 2027."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to Delhi's EV policy approved in June 2026:",
+    "items": [
+     "Electric-only new registration of two-wheelers — from 1 April 2028",
+     "School buses — at least 10% of fleet electric within two years",
+     "Charging points planned — 32,000 over four years"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the policy. Delhi's Transport Commissioner said 46% of the city's pollution comes from two-wheelers and three-wheelers and 33% from commercial goods vehicles, which is why the policy targets them.",
+    "source": "Two-wheelers follow from 1 April 2028."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under Delhi's EV policy approved in June 2026, the planned charging points are to be funded by Delhi's own budget and which central scheme?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "PM e-Drive scheme",
+     "PM-KUSUM scheme",
+     "PM Surya Ghar scheme",
+     "PM Gati Shakti scheme"
+    ],
+    "answer": 0,
+    "explain": "The city plans 32,000 charging points over four years, funded jointly by the Centre's PM e-Drive scheme and Delhi's budget. The policy also offers scrapping incentives of up to INR 100,000 for owners of BS-IV or older four-wheelers switching to electric.",
+    "source": "The city plans 32,000 charging points over four years, funded by the Centre's PM e-Drive scheme and Delhi's own budget."
+   }
+  ]
+ }
+}

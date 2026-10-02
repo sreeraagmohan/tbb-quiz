@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-04-28-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 253,
+  "output_tokens": 63,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: an aviation incident with no institutional, regulatory or policy angle beyond the airline's own investigation.",
+  "questions": []
+ }
+}

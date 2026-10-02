@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-13-2-1",
+ "story_id": "2026-03-13-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about US trade measures affecting India in early 2026:",
+  "items": [
+   "The White House used Section 122 of the Trade Act to impose a temporary 15% global tariff that expires in late July 2026.",
+   "Tariffs under Section 301 rest on presidential discretion rather than on formal investigations.",
+   "The India–US framework for an interim trade deal, reached in February 2026, set an 18% baseline tariff on Indian goods."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because Section 301 builds on formal investigations and findings of unfair trade practices, not presidential discretion, which gives its levies a stronger legal footing. Section 301 could override the 18% baseline with higher, sector-specific duties.",
+  "source": "It builds on formal investigations and findings of unfair trade practices rather than presidential discretion, giving any resulting levies a stronger legal foundation."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about US trade measures affecting India in early 2026:",
+  "items": [
+   "The White House used Section 122 of the Trade Act to impose a temporary 15% global tariff that expires in late July 2026.",
+   "Tariffs under Section 301 rest on formal investigations and findings of unfair trade practices rather than on presidential discretion.",
+   "The India–US framework for an interim trade deal, reached in February 2026, set an 18% baseline tariff on Indian goods."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: Section 122 was used for a temporary 15% global tariff expiring in late July, Section 301 builds on formal investigations rather than presidential discretion, and the February 2026 framework set an 18% baseline tariff on Indian goods. The story notes that Section 301 could override that 18% baseline with higher, sector-specific duties.",
+  "source": "It builds on formal investigations and findings of unfair trade practices rather than presidential discretion, giving any resulting levies a stronger legal foundation."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3556,
+  "output_tokens": 612,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

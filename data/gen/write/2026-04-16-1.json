@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-04-16-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 508,
+  "output_tokens": 1838,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the March 2026 and FY26 trade deficit figures and the rise in US-bound exports after the tariff ruling; skipped TBB's analysis of energy imports.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's trade data released in April 2026:",
+    "items": [
+     "India's trade deficit for March 2026 narrowed to a nine-month low of USD 20.67 billion.",
+     "India's trade deficit for FY 2025-26 was at a three-year high of USD 119 billion.",
+     "In FY 2025-26, India's export growth outpaced its import growth."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because annual imports grew 6.5% while exports grew only 4.22%, which widened the FY26 deficit to USD 119 billion. The March narrowing came mainly from a sharp fall in imports, especially energy.",
+    "source": "Despite this monthly dip, the financial year 2025-2026 (FY26) deficit sits at a three-year high of USD 119 billion, as annual imports (+6.5%) continue to outpace export growth (+4.22%)."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's exports to the United States in March 2026:",
+    "items": [
+     "Shipments to the US rose 17.4% to USD 8.02 billion.",
+     "The rise followed a US Supreme Court ruling that cut punitive tariffs from 50% to 10%."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The increase was led by textiles and engineering goods after the US Supreme Court ruling reduced the 50% tariffs to 10%, even as exports to the Middle East fell by 57.95%.",
+    "source": "This surge in textiles and engineering goods follows a US Supreme Court ruling that slashed punitive 50% tariffs down to 10%, which we covered here."
+   }
+  ]
+ }
+}

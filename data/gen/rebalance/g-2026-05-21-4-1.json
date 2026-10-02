@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-21-4-1",
+ "story_id": "2026-05-21-4",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about municipal bonds in India, as reported in May 2026:",
+  "items": [
+   "Indian municipal bonds had raised only INR 45 billion over the previous nine years.",
+   "The government is offering 2% interest subsidies to encourage municipal bond issues.",
+   "The government is offering incentives of INR 10 billion for large municipal bond issues."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The incentive for large issues is INR 1 billion (USD 10 million), not INR 10 billion. The incentive is meant to revive a stagnant market that raised only INR 45 billion in nine years. Regulators are also tightening disclosure rules because investors worry about opaque local accounting.",
+  "source": "the government is offering INR 1 billion (USD 10 million) incentives for large issues and 2% interest subsidies"
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about municipal bonds in India, as reported in May 2026:",
+  "items": [
+   "The government is offering incentives of INR 10 billion for large municipal bond issues.",
+   "The government is offering 2% interest subsidies to encourage municipal bond issues.",
+   "Indian municipal bonds had raised only INR 45 billion over the previous nine years."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the story says the incentive for large issues is INR 1 billion (USD 10 million), not INR 10 billion. Statements 2 and 3 are correct. These incentives aim to revive a stagnant market that raised only INR 45 billion in nine years.",
+  "source": "the government is offering INR 1 billion (USD 10 million) incentives for large issues and 2% interest subsidies"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2988,
+  "output_tokens": 613,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

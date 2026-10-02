@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-24-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 587,
+  "output_tokens": 1429,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the location of GRSE's new Raichak yard and details of the August 2026 defence shipbuilding expansion projects.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, Defence Minister Rajnath Singh broke ground on a new Garden Reach Shipbuilders and Engineers (GRSE) yard able to build warships up to 200 metres long. Where is this yard located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Raichak, West Bengal",
+     "Ishapore, West Bengal",
+     "Paradip, Odisha",
+     "Kakinada, Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explain": "GRSE's new 32-acre yard is at Raichak in West Bengal. It will let GRSE bid for next-generation destroyers alongside commercial vessels. Ishapore is where Yantra India Limited is adding forging presses.",
+    "source": "GRSE's new 32-acre yard at Raichak in West Bengal will build warships up to 200 metres long, letting it bid for next-generation destroyers alongside commercial vessels."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the defence-industrial expansion projects launched in West Bengal in August 2026:",
+    "items": [
+     "The five projects, worth about INR 35 billion, are at Garden Reach Shipbuilders and Engineers and Yantra India Limited.",
+     "Yantra India Limited's new forging presses at Ishapore will produce gun barrels and naval-weapon components.",
+     "Garden Reach Shipbuilders and Engineers has built over 800 vessels to date, most of them for the Indian Coast Guard."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: most of GRSE's more than 800 vessels were built for the Indian Navy, not the Coast Guard. Rajnath Singh called ship repair and overhaul the low-hanging fruit and urged India to become a maintenance hub for the Indian Ocean region.",
+    "source": "GRSE has built over 800 vessels to date, most for the Indian Navy."
+   }
+  ]
+ }
+}

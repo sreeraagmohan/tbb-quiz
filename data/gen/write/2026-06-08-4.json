@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-08-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 782,
+  "output_tokens": 1508,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the geography of the Kalapani–Limpiyadhura–Lipulekh dispute and the June 2026 Nepal climbdown on third-party mediation.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Nepal said it would resolve its border dispute with India over the Kalapani, Limpiyadhura and Lipulekh region through bilateral mechanisms alone. India maintains that this region belongs to which Indian state?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Uttarakhand",
+     "Himachal Pradesh",
+     "Sikkim",
+     "Uttar Pradesh"
+    ],
+    "answer": 0,
+    "explain": "New Delhi holds that the disputed high-altitude stretch is part of Uttarakhand. The area lies at the trijunction of India, Nepal and China.",
+    "source": "New Delhi maintains the area belongs to the state of Uttarakhand."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Nepal boundary dispute as it stood in June 2026:",
+    "items": [
+     "The disputed Kalapani, Limpiyadhura and Lipulekh region lies at the trijunction with China.",
+     "The row hardened in 2020 when a Nepali government published a revised political map after India opened a road through Lipulekh.",
+     "Nepal's Foreign Minister said Nepal would pursue a settlement through a mechanism involving China and the United Kingdom."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. Foreign Minister Shishir Khanal said Nepal wants to resolve the dispute through bilateral mechanisms alone, which retreated from Prime Minister Balen Shah's suggestion that China and the UK be brought in. India's External Affairs Ministry had said there is no role for any third party.",
+    "source": "The row hardened in 2020, when a previous Nepali government published a revised political map claiming the territories after India opened a road through Lipulekh."
+   }
+  ]
+ }
+}

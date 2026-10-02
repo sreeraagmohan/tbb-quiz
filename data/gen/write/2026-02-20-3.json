@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-02-20-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 570,
+  "output_tokens": 1471,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the venue of the February 2026 India–Israel defence MoU and the background of bilateral ties; skipped the expected Modi visit as it is only planned.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, India and Israel signed a defence Memorandum of Understanding meant to institutionalise cooperation between their private companies in weapons development. In which city was it signed?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Tel Aviv",
+     "New Delhi",
+     "Jerusalem",
+     "Haifa"
+    ],
+    "answer": 0,
+    "explain": "The MoU was signed in Tel Aviv on 19 February 2026, alongside a seminar involving 30 Indian and 26 Israeli firms. It signals a shift from buying and selling towards joint ventures and co-development under India's Make in India policy.",
+    "source": "India and Israel signed a defence Memorandum of Understanding (MoU) in Tel Aviv on Thursday, a move designed to institutionalise cooperation between their private companies in weapons development."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Israel relations:",
+    "items": [
+     "India and Israel established full ties in 1992.",
+     "India originally turned to Israel for arms to diversify away from its heavy dependence on Russian arms."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct: full ties date to 1992, and India first looked to Israel to reduce its reliance on Russian weapons. Israel, in turn, found a large and reliable customer for its high-tech sensors and drones.",
+    "source": "Since establishing full ties in 1992, defence has been the bedrock of the relationship."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-18-3-1",
+ "story_id": "2026-05-18-3",
+ "target": 0,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the BRICS foreign ministers' meeting held in May 2026:",
+  "items": [
+   "It was held in Delhi, with India as the host.",
+   "The ministers adopted a joint statement condemning the US-Israeli war on Iran.",
+   "The United Arab Emirates, a BRICS member, rejected Iran's allegation that it was directly involved in military operations."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The second statement is wrong. The ministers failed to agree on a joint statement, so India issued a chair's statement acknowledging differing views on West Asia. Iran had pressed for condemnation of the war and accused the UAE of involvement, which the UAE categorically rejected.",
+  "source": "BRICS foreign ministers failed to agree on a joint statement after two days of talks in Delhi on Friday"
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the BRICS foreign ministers' meeting held in May 2026:",
+  "items": [
+   "It was held over two days in Abu Dhabi, with the United Arab Emirates as the host.",
+   "The ministers adopted a joint statement condemning the US-Israeli war on Iran.",
+   "The United Arab Emirates, a BRICS member, rejected Iran's allegation that it was directly involved in military operations."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Statements 1 and 2 are wrong. The talks were held in Delhi with India as host, and the ministers failed to agree on a joint statement, so India issued a chair's statement acknowledging differing views. Modi was in Abu Dhabi meeting the UAE President while the meeting took place, and the UAE categorically rejected Iran's allegations.",
+  "source": "BRICS foreign ministers failed to agree on a joint statement after two days of talks in Delhi on Friday"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3371,
+  "output_tokens": 784,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-30-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 698,
+  "output_tokens": 1743,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4410
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the EU waste shipment regulation's scope and India's exemption request, plus the UAE scrap export ban; market figures and FTA analysis left as context.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the European Union's revised waste shipment regulation, as reported in June 2026:",
+    "items": [
+     "From May 2027, it will bar exports of non-hazardous waste, including metal scrap, to non-OECD countries unless specific approvals are granted.",
+     "India has formally applied to retain access to recyclable materials under the new regime.",
+     "Its curbs apply only to hazardous waste, leaving metal scrap unaffected."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first two statements are correct. The third is wrong because the regulation targets non-hazardous waste, explicitly including metal scrap, with approvals needed by November 2026. India warned the curbs could raise costs and undermine the recently concluded India-EU trade pact before it takes effect.",
+    "source": "From May 2027, the EU's revised waste shipment regulation will bar exports of non-hazardous waste, including metal scrap, to non-OECD countries unless specific approvals are granted by November 2026."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In June 2026, which Gulf country introduced a scrap export ban that added to pressure on India's supply of recyclable metals?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "United Arab Emirates",
+     "Saudi Arabia",
+     "Oman",
+     "Qatar"
+    ],
+    "answer": 0,
+    "explain": "The UAE's ban came as the EU prepared its own scrap export curbs. India sources roughly a fifth of its scrap from Gulf states, and the Material Recycling Association of India warned that resource nationalism could push up procurement costs.",
+    "source": "A United Arab Emirates (UAE) scrap export ban introduced in June compounds the pressure."
+   }
+  ]
+ }
+}

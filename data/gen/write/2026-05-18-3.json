@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-18-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 656,
+  "output_tokens": 1563,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the outcome of the May 2026 BRICS foreign ministers' meeting in Delhi and the membership of Iran and the UAE; skipped the ship sinking and rhetoric.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the BRICS foreign ministers' meeting held in May 2026:",
+    "items": [
+     "It was held in Delhi, with India as the host.",
+     "The ministers adopted a joint statement condemning the US-Israeli war on Iran.",
+     "The United Arab Emirates, a BRICS member, rejected Iran's allegation that it was directly involved in military operations."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong. The ministers failed to agree on a joint statement, so India issued a chair's statement acknowledging differing views on West Asia. Iran had pressed for condemnation of the war and accused the UAE of involvement, which the UAE categorically rejected.",
+    "source": "BRICS foreign ministers failed to agree on a joint statement after two days of talks in Delhi on Friday"
+   }
+  ]
+ }
+}

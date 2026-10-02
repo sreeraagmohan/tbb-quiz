@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-03-19-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 456,
+  "output_tokens": 1179,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly speculation about shelving sales. Tested only the confirmed collapse of the IDBI Bank sale and the stalled status of the SCI and HLL Lifecare sales.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Union government's privatisation programme as of March 2026:",
+    "items": [
+     "The strategic sale of IDBI Bank collapsed after bids failed to meet the government's minimum price.",
+     "The privatisation of Shipping Corporation of India and HLL Lifecare was completed in 2020-21."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong. The SCI and HLL Lifecare sales were not completed and have been stuck in limbo since 2020-21. Beyond the sale of Air India to Tata, the drive announced in 2021 has been held back by red tape, high reserve prices and unresolved liabilities such as pension dues.",
+    "source": "The IDBI deal collapsed last week after bids failed to meet the government’s minimum price, while SCI and HLL have been trapped in limbo since 2020-21."
+   }
+  ]
+ }
+}

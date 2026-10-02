@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-26-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 639,
+  "output_tokens": 1400,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Diplomatic signalling story; tested the Quad meeting during Rubio's India visit, Pakistan's US-Iran mediation and the Helsingborg NATO venue in one statements question.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about US Secretary of State Marco Rubio's visit to India in May 2026:",
+    "items": [
+     "His four-day India visit concluded with the Quad foreign ministers' meeting.",
+     "He described Pakistan as the \"primary interlocutor\" with Iran at the Quad foreign ministers' meeting.",
+     "He said India's concerns about cross-border terrorism from Pakistan did not arise in the context of Pakistan's mediation in the US-Iran conflict."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: Rubio called Pakistan the \"primary interlocutor\" at the NATO foreign ministers' meeting in Helsingborg, three days before landing in India. Washington's language has escalated from praising Islamabad's \"constructive role\" in July 2025, while Rubio insisted ties with other countries do not come at the expense of the strategic alliance with India.",
+    "source": "Three days before landing in India, he called Pakistan the \"primary interlocutor\" at the NATO foreign ministers' meeting in Helsingborg."
+   }
+  ]
+ }
+}

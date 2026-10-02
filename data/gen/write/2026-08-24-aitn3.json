@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-24-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 231,
+  "output_tokens": 874,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4410
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the bilateral mechanism Jaishankar co-chaired in Russia in August 2026 (the IRIGC-TEC).",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, External Affairs Minister S Jaishankar visited Russia to co-chair the 27th session of which bilateral mechanism?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India-Russia Inter-Governmental Commission on Trade, Economic, Scientific, Technological and Cultural Cooperation (IRIGC-TEC)",
+     "Shanghai Cooperation Organisation Council of Foreign Ministers",
+     "BRICS Foreign Ministers' Meeting",
+     "India-Russia Annual Summit"
+    ],
+    "answer": 0,
+    "explain": "Jaishankar travelled to Russia on 23-24 August 2026 to co-chair the 27th IRIGC-TEC at the invitation of First Deputy Prime Minister Denis Manturov. During the visit he was also to meet Foreign Minister Sergey Lavrov on regional and global issues.",
+    "source": "External Affairs Minister S Jaishankar will visit Russia on August 23-24 to co-chair the 27th India-Russia Inter-Governmental Commission on Trade, Economic, Scientific, Technological and Cultural Cooperation (IRIGC-TEC), at the invitation of First Deputy Prime Minister Denis Manturov."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-28-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 707,
+  "output_tokens": 1402,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the facts about the Ethanol Blending Programme and E20 standard, and the court that admitted the deepfake defamation suit; skipped the march and damages figures.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's Ethanol Blending Programme, as reported in July 2026:",
+    "items": [
+     "The programme was launched in 2003.",
+     "It is administered by the Ministry of Road Transport and Highways.",
+     "E20 refers to petrol blended with 20 per cent ethanol."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the Ministry of Petroleum and Natural Gas administers the programme, not the Road Transport ministry that Nitin Gadkari has headed since 2014. In July 2026 the Centre ruled out any return to E10.",
+    "source": "He argues the Ministry of Petroleum and Natural Gas administers the Ethanol Blending Programme, launched in 2003, and issues its own statements on progress."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, which High Court granted Union minister Nitin Gadkari leave to sue Meta, Google and X over deepfakes linking him to the ethanol-blending programme?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Bombay High Court",
+     "Delhi High Court",
+     "Madras High Court",
+     "Calcutta High Court"
+    ],
+    "answer": 0,
+    "explain": "The Bombay High Court granted leave on 27 July 2026. Gadkari flagged at least 24 posts as defamatory and sought INR 11 crore in damages plus their removal.",
+    "source": "On Monday, the Bombay High Court granted Nitin Gadkari leave to sue Meta, Google, X, and unnamed accounts over deepfakes he says brand him the architect and beneficiary of India's ethanol-blending programme."
+   }
+  ]
+ }
+}

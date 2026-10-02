@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-10-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 478,
+  "output_tokens": 1246,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the venue of the August 2026 Saudi–Turkey–Pakistan collective defence pact and its key terms and background.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, Saudi Arabia, Turkey and Pakistan signed a trilateral collective defence agreement. In which city was it signed?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Mecca",
+     "Riyadh",
+     "Ankara",
+     "Islamabad"
+    ],
+    "answer": 0,
+    "explain": "The agreement was signed in Mecca on Friday 7 August 2026. New Delhi said it is following the agreement closely, having earlier warned that Saudi-Pakistani defence cooperation could affect Indian security.",
+    "source": "Signed in Mecca on Friday, the agreement says an armed attack on one will be treated as an attack on all three."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the defence agreement signed by Saudi Arabia, Turkey and Pakistan in August 2026:",
+    "items": [
+     "It provides that an armed attack on any one of the three will be treated as an attack on all three.",
+     "The precise military obligations of each signatory have been made public.",
+     "It builds on a bilateral defence pact that Saudi Arabia and Pakistan signed in September 2025."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the story says the precise military obligations remain undisclosed. Turkey's entry adds NATO's second-largest military and a defence industry already supplying Saudi drones.",
+    "source": "The precise military obligations remain undisclosed."
+   }
+  ]
+ }
+}

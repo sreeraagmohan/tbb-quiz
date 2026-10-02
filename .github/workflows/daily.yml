@@ -1,0 +1,64 @@
+name: Daily questions
+
+# TBB goes out at 01:00 UTC (06:30 IST). This runs at 02:30 UTC (08:00 IST),
+# adds questions for any new stories, and redeploys the site via docs/.
+on:
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-questions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the Anthropic SDK
+        run: pip install anthropic
+
+      - name: Fetch issues and split them into stories
+        run: |
+          python scripts/fetch_issues.py
+          python scripts/extract_stories.py
+
+      - name: Write and check questions for new stories
+        run: |
+          python scripts/generate_questions.py write
+          python scripts/generate_questions.py check
+          python scripts/generate_questions.py collect
+
+      - name: Weekly repeat check (Sundays)
+        run: |
+          if [ "$(date -u +%u)" = "7" ]; then python scripts/generate_questions.py dedupe; fi
+
+      - name: Build the site
+        run: |
+          python scripts/build_questions.py
+          python scripts/build_site.py
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "tbb-quiz bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs app
+          if git diff --cached --quiet; then
+            echo "No new questions today."
+          else
+            git commit -m "Daily questions: $(date -u +%F)"
+            git push
+          fi

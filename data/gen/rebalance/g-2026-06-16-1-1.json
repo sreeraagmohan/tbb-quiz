@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-06-16-1-1",
+ "story_id": "2026-06-16-1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–US trade negotiations as of June 2026:",
+  "items": [
+   "The US pause on higher reciprocal tariffs runs for 150 days and expires on 24 July 2026.",
+   "The draft interim framework includes a reciprocal safeguard clause allowing either side to adjust tariffs if the other changes its commitments."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements are correct. Washington's 150-day pause ends on 24 July, and the draft framework carries a reciprocal safeguard clause. Both governments want an interim deal in place before the deadline, while work continues on the broader Bilateral Trade Agreement.",
+  "source": "The real deadline is July 24 when Washington's 150-day pause on higher reciprocal tariffs expires."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–US trade negotiations as of June 2026:",
+  "items": [
+   "The US pause on higher reciprocal tariffs runs for 90 days and expires on 24 July 2026.",
+   "The draft interim framework includes a safeguard clause allowing only the US to adjust tariffs if India changes its commitments."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Neither statement is correct. Washington's pause on higher reciprocal tariffs runs for 150 days, not 90, and the draft framework's safeguard clause is reciprocal, allowing either side to adjust tariffs if the other changes its commitments. Both governments want an interim deal in place before the 24 July deadline, while work continues on the broader Bilateral Trade Agreement.",
+  "source": "The draft framework also includes a reciprocal safeguard clause allowing either side to adjust tariffs if the other changes its commitments."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3437,
+  "output_tokens": 720,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "id": "g-2026-05-14-2-3",
+ "story_id": "2026-05-14-2",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to India's shipbuilding push, as reported in May 2026:",
+  "items": [
+   "Target year for India to be among the world's top five shipbuilders — 2047",
+   "Corpus of the Maritime Development Fund — USD 2.9 billion",
+   "New vessels India needs by 2042, as projected by the MoPSW — 734"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third pair is wrong because the MoPSW projects that India needs 437 new vessels by 2042, not 734. The government has also overhauled the Merchant Shipping Act and launched a Shipbuilding Financial Assistance Programme to cut contract costs.",
+  "source": "The MoPSW projects that India needs 437 new vessels by 2042."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to India's shipbuilding push, as reported in May 2026:",
+  "items": [
+   "Target year for India to be among the world's top five shipbuilders: 2030",
+   "Corpus of the Maritime Development Fund: USD 9.2 billion",
+   "New vessels India needs by 2042, as projected by the MoPSW: 734"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three pairs are wrong: India aims to be among the top five shipbuilders by 2047, not 2030; the Maritime Development Fund is worth USD 2.9 billion, not USD 9.2 billion; and the MoPSW projects a need for 437 new vessels by 2042, not 734. The government has also overhauled the Merchant Shipping Act and launched a Shipbuilding Financial Assistance Programme to cut contract costs.",
+  "source": "New Delhi wants India in the world's top five shipbuilders by 2047."
+ },
+ "passed": false,
+ "reasons": [
+  "pairs need 3 'A — B' items"
+ ],
+ "usage": {
+  "input_tokens": 984,
+  "output_tokens": 531,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1080
+ }
+}

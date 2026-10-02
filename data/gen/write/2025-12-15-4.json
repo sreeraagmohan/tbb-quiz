@@ -1,0 +1,33 @@
+{
+ "story_id": "2025-12-15-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 565,
+  "output_tokens": 1030,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly an accident and crime story; tested only the institutional angle, the panchayat's statutory sealing power under the Goa Panchayat Raj Act.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In December 2025, after a deadly fire at a nightclub in Arpora, north Goa, investigators said the village panchayat had failed to use its power to seal the illegally operating premises. Under which law is the local body empowered to seal such premises?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Goa Panchayat Raj Act",
+     "Goa Municipalities Act",
+     "Disaster Management Act",
+     "Bharatiya Nyaya Sanhita"
+    ],
+    "answer": 0,
+    "explain": "Investigators cited Section 72-A of the Goa Panchayat Raj Act, which empowers the local body to seal premises such as the nightclub, which lacked a valid construction licence and occupancy certificate. Its trade licence had expired in March 2024, yet the panchayat did not seal it before the fire on 6 December 2025 that killed 25 people.",
+    "source": "“Under Section 72-A of the Goa Panchayat Raj Act, the local body is empowered to seal such premises."
+   }
+  ]
+ }
+}

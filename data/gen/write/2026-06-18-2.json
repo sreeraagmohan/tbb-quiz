@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-18-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 401,
+  "output_tokens": 929,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "The story is mostly a platform dispute with no law, court or provision named. One question tests the stated terms and the reason for the June 2026 Telegram restriction.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, the Union government temporarily restricted Telegram in India. Consider the following statements about this action:",
+    "items": [
+     "The government cited cheating networks targeting the NEET-UG re-examination.",
+     "The paper leak scandal that preceded the re-examination affected about 2.3 million students.",
+     "Telegram was ordered to disable message editing for Indian users until 22 June 2026."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. The platform restriction ran until 22 June, but the order to disable message editing for Indian users ran until 30 June. Telegram sued, calling the restrictions unconstitutional and grossly disproportionate.",
+    "source": "Telegram was also ordered to disable message editing for Indian users until 30 June."
+   }
+  ]
+ }
+}

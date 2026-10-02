@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-08-17-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 749,
+  "output_tokens": 2289,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the AMCA engine race (Reliance–Rolls-Royce vs Safran–GTRE), Tejas engine dependence on GE, and the August 2026 loitering munitions contracts.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about engine development for India's Advanced Medium Combat Aircraft (AMCA), as of August 2026:",
+    "items": [
+     "In August 2026, Reliance and Rolls-Royce signed a contract to build the engine for the AMCA.",
+     "France's Safran has proposed a joint venture with the Gas Turbine Research Establishment (GTRE) to develop a higher-thrust engine for later versions of the AMCA.",
+     "The Centre opened the AMCA programme to private firms in 2025."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The Reliance–Rolls-Royce announcement of 14 August 2026 was only a statement of intent, with no contract signed and no money or ownership split disclosed. The AMCA is India's planned fifth-generation stealth jet, with a prototype due around 2028.",
+    "source": "The August 14 announcement is a statement of intent, with no contract signed yet."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As of August 2026, India's Tejas fighter relies on engines supplied by which company?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "General Electric",
+     "Rolls-Royce",
+     "Safran",
+     "Pratt & Whitney"
+    ],
+    "answer": 0,
+    "explain": "Decades of Indian effort to build a high-thrust jet engine have fallen short, so even the Tejas depends on General Electric (GE) engines. This gap is why the AMCA engine contest between Reliance–Rolls-Royce and Safran–GTRE matters.",
+    "source": "India builds airframes, missiles, and radar, but decades of effort to produce a high-thrust jet engine have fallen short, leaving even the current Tejas fighter reliant on engines from General Electric (GE)."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, India signed contracts worth INR 1,577 crore with Tata Advanced Systems and NIBE for the Army under Atmanirbhar Bharat rules. What were these contracts for?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Loitering munitions",
+     "Military airlifters",
+     "Jet engines",
+     "Air defence radars"
+    ],
+    "answer": 0,
+    "explain": "Loitering munitions are drones that hover over a battlefield before diving into a target. Separately, the Ministry of Defence floated a INR 1 trillion tender to replace its ageing Soviet-era airlifters.",
+    "source": "On the same day, India inked INR 1,577 crore (USD 165 million) in contracts with Tata Advanced Systems and NIBE for loitering munitions, drones that hover over a battlefield before diving into a target, for the Army under its Atmanirbhar Bharat (self-reliant India) rules."
+   }
+  ]
+ }
+}

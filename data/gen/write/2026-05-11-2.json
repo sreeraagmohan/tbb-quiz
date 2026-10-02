@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-05-11-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 551,
+  "output_tokens": 1662,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the structure and timeline of the four labour codes, and the key worker provisions in the rules notified in May 2026.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, the central government notified the implementing rules for India's four labour codes. Consider the following statements about these codes:",
+    "items": [
+     "The Code on Wages was enacted in 2019, while the other three codes date from 2020.",
+     "Together, the four codes consolidate 29 existing labour laws into a single framework.",
+     "The four codes came into force only after their implementing rules were notified in May 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the codes came into force on 21 November 2025 but lacked the rules needed to function. Draft rules were published on 30 December 2025 for stakeholder feedback, and the final notification was the last procedural step before enforcement.",
+    "source": "All four came into force on November 21, 2025, but lacked the rules needed to actually function."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to provisions under the labour code rules notified by India in May 2026:",
+    "items": [
+     "Minimum share of basic pay in total salary — 50%",
+     "Cap on weekly working hours — 48 hours",
+     "Minimum age for entitlement to free health check-ups — 40 years"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct: basic pay must be at least 50% of total salary, weekly hours are capped at 48, and workers aged 40 and above get free health check-ups. The rules also make appointment letters mandatory and bring gig and platform workers into the social security net for the first time.",
+    "source": "Workers aged 40 and above are entitled to free health check-ups, and weekly working hours are capped at 48."
+   }
+  ]
+ }
+}

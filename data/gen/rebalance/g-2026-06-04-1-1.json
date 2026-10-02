@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-06-04-1-1",
+ "story_id": "2026-06-04-1",
+ "target": 0,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In June 2026, the Union government approved an INR 100 billion jet fuel stabilisation fund. Consider the following statements about it:",
+  "items": [
+   "It provides interest-free advances to oil marketing companies to cover under-recoveries on jet fuel.",
+   "The support lasts for 36 months or until the money is recovered.",
+   "It is a permanent subsidy paid directly to airlines."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 3 is wrong. The fund is not a permanent subsidy, and the advances go to oil marketing companies, not airlines, to cover the gap between global rates and the capped prices charged to carriers. Jet fuel makes up as much as 40% of airline operating costs, and West Asian airspace closures have pushed those costs up.",
+  "source": "The government will provide interest-free advances to oil marketing companies (OMCs)."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In June 2026, the Union government approved an INR 100 billion jet fuel stabilisation fund. Consider the following statements about it:",
+  "items": [
+   "It provides interest-free advances to oil marketing companies to cover under-recoveries on jet fuel.",
+   "The support lasts for 60 months or until the money is recovered.",
+   "It is a permanent subsidy paid directly to airlines."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Statements 2 and 3 are wrong. The support lasts for 36 months, not 60, and it is not a permanent subsidy to airlines but interest-free advances to oil marketing companies, which must repay the differential into the Consolidated Fund of India when prices drop. Jet fuel makes up as much as 40% of airline operating costs, and West Asian airspace closures have pushed those costs up.",
+  "source": "The support lasts for 36 months or until the cash is recovered."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3029,
+  "output_tokens": 673,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

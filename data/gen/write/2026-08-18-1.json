@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-18-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 779,
+  "output_tokens": 1599,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the August 2026 sweep against the Shahzad Bhatti Network and the law used for the arrests (UAPA); skipped the profile of Bhatti and the investigators' allegations.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the August 2026 security operation against the Shahzad Bhatti Network (SBN):",
+    "items": [
+     "Forces detained 253 people across 14 states in a coordinated sweep on 12 August 2026.",
+     "The Ministry of Home Affairs said the operation was timed to pre-empt attacks around Republic Day.",
+     "Grenades seized in the operation bore Pakistan Ordnance Factory markings, which the Ministry of Home Affairs cited as evidence of cross-border links."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the MHA said the sweep was timed to pre-empt attacks around the 15 August Independence Day holiday. The seizures also included IEDs, pistols and live cartridges, and the SBN now faces more than 80 FIRs.",
+    "source": "On August 12, forces detained 253 people across 14 states in a coordinated sweep against the Shahzad Bhatti Network (SBN)."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, under which law were arrests made in the crackdown on the Shahzad Bhatti Network, a Pakistan-based terror network?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Unlawful Activities (Prevention) Act",
+     "National Security Act",
+     "Arms Act",
+     "Explosive Substances Act"
+    ],
+    "answer": 0,
+    "explain": "The arrests were made under the UAPA, under which charges against the accused are deemed prima facie true and bail is an exception. The Maharashtra Anti-Terrorism Squad says the network recruits young people through online radicalisation.",
+    "source": "The arrests were made under the Unlawful Activities (Prevention) Act (UAPA), where charges against the accused deem to be prima facie true, and bail is an exception."
+   }
+  ]
+ }
+}

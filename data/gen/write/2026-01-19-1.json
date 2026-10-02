@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-01-19-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 446,
+  "output_tokens": 1876,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the January 2026 Amrit Bharat Express expansion: train type, launch facts and the routes flagged off.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Amrit Bharat Express trains:",
+    "items": [
+     "They are air-conditioned premium trains aimed at long-distance business travellers.",
+     "In January 2026, the Prime Minister flagged off five Amrit Bharat Express services across Assam and West Bengal.",
+     "Amrit Bharat trains have been running since December 2023."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong. Amrit Bharat trains are non-air conditioned, long-distance trains built for the bulk of rail travellers, with better basics like CCTV, charging points and modular toilets. Thirty such trains have run since December 2023, and the January 2026 launch is the next expansion wave.",
+    "source": "These are non-air conditioned, long-distance trains built for the bulk of Indian rail travellers."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of origin and destination for Amrit Bharat Express services flagged off in January 2026:",
+    "items": [
+     "Guwahati — Rohtak",
+     "Howrah — Delhi",
+     "Santragachi — Chennai"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three routes were among the five services launched. Two start from Assam (Guwahati–Rohtak and Dibrugarh–Lucknow), while three start from West Bengal (Howrah–Delhi, Sealdah–Varanasi and Santragachi–Chennai).",
+    "source": "Two services start from Assam (Northeast India)—Guwahati–Rohtak and Dibrugarh–Lucknow, while three launch from West Bengal (East India): Howrah–Delhi, Sealdah–Varanasi, and Santragachi–Chennai."
+   }
+  ]
+ }
+}

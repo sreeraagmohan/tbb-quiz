@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-03-13-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 768,
+  "output_tokens": 1222,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Largely a crime story; tested only the durable background on the National Conference, Article 370 and the 2019 reorganisation of Jammu and Kashmir.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, former Jammu and Kashmir chief minister Farooq Abdullah survived an assassination attempt in Jammu. Consider the following statements about the region's political background:",
+    "items": [
+     "The Jammu and Kashmir National Conference was founded in 1932 by Sheikh Abdullah.",
+     "Article 370, revoked by Parliament in 2019, had granted the region its own constitution and special autonomy.",
+     "After the 2019 revocation, Jammu and Kashmir was split into two union territories under a lieutenant governor appointed by New Delhi."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements are correct: Sheikh Abdullah founded the National Conference in 1932, and the 2019 revocation of Article 370 split the region into two union territories under direct central administration. Farooq Abdullah's son, Omar Abdullah, is the union territory's current chief minister.",
+    "source": "In 2019, the Indian parliament revoked Article 370, which had granted the region its own constitution and special autonomy."
+   }
+  ]
+ }
+}

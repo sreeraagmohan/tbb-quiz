@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-06-08-1-2",
+ "story_id": "2026-06-08-1",
+ "target": 1,
+ "original": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements in the context of Putin's June 2026 remarks on India and US sanctions:",
+  "items": [
+   "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States law penalising significant transactions with Russia.",
+   "India and Russia jointly developed the Su-57 stealth fighter, which Russia is now offering to sell.",
+   "The 50% US tariff on Indian goods is partly a penalty for Indian purchases of Russian oil."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. A joint India–Russia development programme for the Su-57 was proposed earlier but never materialised, and Russia now offers the jet for sale. The questions Putin answered concerned CAATSA exposure from buying the Su-57 or the S-500 air defence system.",
+  "source": "A joint development programme was proposed earlier but never materialised."
+ },
+ "rewritten": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements in the context of Putin's June 2026 remarks on India and US sanctions:",
+  "items": [
+   "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States law penalising significant transactions with Iran.",
+   "A joint development programme for the Su-57 stealth fighter was proposed earlier but never materialised, and Russia is now ready to sell the jet.",
+   "The 50% US tariff on Indian goods is partly a penalty for Indian purchases of Russian oil."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong. The story describes CAATSA as the United States law penalising significant transactions with Russia, not Iran. Putin was answering questions on whether India risked CAATSA exposure by procuring the Su-57 or the S-500 air defence system.",
+  "source": "the United States law penalising significant transactions with Russia"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3417,
+  "output_tokens": 979,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

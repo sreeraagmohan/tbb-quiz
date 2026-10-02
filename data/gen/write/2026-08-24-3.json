@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-24-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 513,
+  "output_tokens": 1542,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the notified Mobile Phone Manufacturing Scheme: ministry, outlay, eligibility thresholds and incentive structure.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Mobile Phone Manufacturing Scheme, whose detailed rules were notified in August 2026:",
+    "items": [
+     "The rules were notified by the Ministry of Electronics and Information Technology for a five-year scheme with an outlay of INR 625 billion.",
+     "To qualify under the Indian-brand track, a company needs an annual turnover of at least INR 100 billion.",
+     "Companies in both tracks can earn an additional 1.5% by using Indian components in at least 25% of their phones."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Indian brands need INR 10 billion in turnover, while the INR 100 billion threshold applies to large manufacturers. The Cabinet approved the broad framework alongside Semicon 2.0 in July 2026, and the notification sets the turnover, ownership, design and sourcing requirements.",
+    "source": "On Friday, the Ministry of Electronics and Information Technology notified detailed rules for the five-year, INR 625 billion (USD 6.5 billion) Mobile Phone Manufacturing Scheme."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the Indian-brand track of the Mobile Phone Manufacturing Scheme notified in August 2026, what additional incentive is offered for domestic design and research, over the base 5%?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "3%",
+     "1.5%",
+     "2.25%",
+     "4%"
+    ],
+    "answer": 0,
+    "explain": "Indian brands receive 5% on eligible sales plus 3% for domestic design and research. To count as Indian brands, they must be majority-owned and controlled by citizens and hold their trademarks and intellectual property locally.",
+    "source": "Indian brands need INR 10 billion (USD 104 million) and receive 5%, plus 3% for domestic design and research."
+   }
+  ]
+ }
+}

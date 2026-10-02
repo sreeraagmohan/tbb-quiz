@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-27-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 240,
+  "output_tokens": 129,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a single company's factory opening with no scheme, policy or institutional angle to test.",
+  "questions": []
+ }
+}

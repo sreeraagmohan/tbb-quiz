@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-22-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 601,
+  "output_tokens": 1574,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the Model Code of Conduct complaint to the Election Commission and its context, including the Lok Sabha defeat of the women's reservation bill.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, a group of citizens complained about the Prime Minister's national address of 18 April. Consider the following statements:",
+    "items": [
+     "The complaint alleged that the address violated the Model Code of Conduct in force ahead of elections in Tamil Nadu and West Bengal.",
+     "The address was delivered a day after the women's reservation bill was defeated in the Rajya Sabha.",
+     "The complainants sought equal airtime for opposition parties on public broadcasters if the speech was pre-approved."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong: the women's reservation bill was defeated in the Lok Sabha, not the Rajya Sabha. The complainants alleged that publicly funded platforms were used for partisan electioneering days before polling on 23 April.",
+    "source": "A day after the women's reservation bill was defeated in the Lok Sabha"
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, over 700 citizens alleged that the Prime Minister's national address violated the Model Code of Conduct. With which body was this complaint filed?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Election Commission",
+     "Press Council of India",
+     "Prasar Bharati Board",
+     "Supreme Court of India"
+    ],
+    "answer": 0,
+    "explain": "The complaint, filed on 20 April 2026, asked the Election Commission to investigate the address. The Communist Party of India and CPI(M) lodged separate complaints.",
+    "source": "Over 700 citizens filed a complaint to the Election Commission alleging that Prime Minister Modi's April 18 national address violated the Model Code of Conduct (MCC)"
+   }
+  ]
+ }
+}

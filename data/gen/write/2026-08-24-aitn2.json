@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-24-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 286,
+  "output_tokens": 1283,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the automatic-route relaxation for minority stakes from land-bordering countries and where the reported investors are based.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's revised foreign direct investment (FDI) rules for land-bordering countries, as reported in August 2026:",
+    "items": [
+     "Investors from land-bordering countries holding non-controlling stakes of up to 10 per cent can use the automatic route without prior government approval.",
+     "The investment proposals reported under the revised rules up to August 20, 2026 came from investors based in land-bordering countries."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the Commerce Ministry said the reported investors are based in third countries such as Mauritius, the United States, Singapore and the Cayman Islands. The 29 proposals, worth nearly INR 49 billion, span IT, artificial intelligence, manufacturing, pharmaceuticals and data centres.",
+    "source": "The reform, which we covered here, lets investors with non-controlling stakes of up to 10 per cent from land-bordering countries use the automatic route, dropping the prior government approval that was required for such investment."
+   }
+  ]
+ }
+}

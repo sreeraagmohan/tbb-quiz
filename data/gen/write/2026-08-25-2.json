@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-25-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 590,
+  "output_tokens": 1306,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the scrapping of the Parandur airport project and its design and site features; skipped the investor conclave figures and the speculative replacement site.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, the Tamil Nadu government scrapped a proposed greenfield airport meant to serve as Chennai's second airport. Where was this airport to be built?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Parandur",
+     "Hosur",
+     "Thoothukudi",
+     "Kovilpatti"
+    ],
+    "answer": 0,
+    "explain": "Chief Minister Joseph Vijay told the Assembly on 24 August 2026 that the state was scrapping the INR 274 billion Parandur project, a site he had opposed while campaigning. The state has named alternative areas but no final site or timetable.",
+    "source": "Tamil Nadu Chief Minister Joseph Vijay told the Assembly on Monday that the state is scrapping the INR 274 billion (USD 2.86 billion) Parandur project, a site he had opposed on the campaign trail before becoming Chief Minister in May."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Parandur airport project, which Tamil Nadu scrapped in August 2026:",
+    "items": [
+     "It was designed to handle 100 million passengers a year.",
+     "It had not yet received central clearance when it was scrapped.",
+     "Nearly half of the proposed site was irrigated farmland."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the project had central clearance secured, with land acquisition underway and a dedicated metro line planned. It drew sustained farmer protests because nearly half the site was irrigated farmland and about a quarter water bodies.",
+    "source": "Parandur was designed for 100 million passengers a year, with central clearance secured, land acquisition underway, and a dedicated metro line drawn to reach it."
+   }
+  ]
+ }
+}

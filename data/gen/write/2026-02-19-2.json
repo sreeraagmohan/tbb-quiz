@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-19-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 654,
+  "output_tokens": 1609,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the February 2026 easing of post-2020 curbs on Chinese suppliers for power-transmission equipment and the 2030 non-fossil capacity goal.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, India began easing restrictions on Chinese suppliers in public procurement. Consider the following statements:",
+    "items": [
+     "The restrictions, imposed after a 2020 border clash, required Chinese bidders on public contracts to register with a government committee and secure political and security clearances.",
+     "Under the easing, state-run firms can import critical power-transmission components from China without the standard government clearance.",
+     "The easing responds to a projected 40% shortfall in transformers and reactors over the next three years."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements match the story. The 2020 curbs had effectively locked Chinese firms out of a government contract market estimated at over USD 700 billion, and the government has framed the change as a targeted waiver.",
+    "source": "State-run firms can now import critical power-transmission components from China without the standard government “Mother May I.”"
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Reporting on India's February 2026 easing of curbs on Chinese power equipment cited a national goal for non-fossil power capacity by 2030. What is that goal?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "500 GW",
+     "300 GW",
+     "450 GW",
+     "600 GW"
+    ],
+    "answer": 0,
+    "explain": "The story gives India's 2030 goal as 500 GW of non-fossil capacity. It says this goal is hard to meet without Chinese transformers and reactors.",
+    "source": "Without the Chinese hardware, the 2030 goal of 500 GW non-fossil capacity is little more than a pipe dream."
+   }
+  ]
+ }
+}

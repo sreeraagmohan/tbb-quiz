@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-30-2-1",
+ "story_id": "2026-03-30-2",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the measures taken by the Reserve Bank of India (RBI) in March 2026 to support the rupee:",
+  "items": [
+   "The RBI ordered banks to cap net open onshore positions at USD 100 million by April 10, 2026.",
+   "Under the rules existing before the order, banks could set net open position limits of up to 25% of total capital.",
+   "To comply with the new cap, banks must buy dollars in the domestic market."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because, to comply, banks must sell dollars in the domestic market, not buy them. This helps the RBI defend the rupee without dipping into its dollar reserves. The order came after the rupee hit a record low of 94.79 against the USD in March 2026.",
+  "source": "The Reserve Bank of India (RBI) moved to shield the rupee on Friday, ordering banks to cap net open onshore positions at USD 100 million by April 10, intending to kill the offshore-onshore arbitrage trade that is stressing the currency."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the measures taken by the Reserve Bank of India (RBI) in March 2026 to support the rupee:",
+  "items": [
+   "The RBI ordered banks to cap net open onshore positions at USD 100 million by April 10, 2026.",
+   "Under the rules existing before the order, banks could set net open position limits of up to 25% of total capital.",
+   "To comply with the new cap, banks must sell dollars in the domestic market."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the RBI set a USD 100 million cap on net open onshore positions by April 10, existing rules allowed limits up to 25% of total capital, and banks must sell dollars domestically to comply. This selling helps the RBI defend the rupee without dipping into its dollar reserves, after the rupee hit a record low of 94.79 against the USD in March 2026.",
+  "source": "To comply, banks must now sell dollars in the domestic market, which gives the RBI a boost in its efforts to defend the rupee without having to dip into its dollar reserves."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3492,
+  "output_tokens": 602,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

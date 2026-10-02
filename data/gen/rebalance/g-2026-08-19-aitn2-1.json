@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-19-aitn2-1",
+ "story_id": "2026-08-19-aitn2",
+ "target": 0,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, President Droupadi Murmu granted assent to the Mines and Minerals (Development and Regulation) Amendment Act, 2026. Consider the following statements about the Act:",
+  "items": [
+   "It bars states from imposing taxes, cesses or other levies on mineral rights and mineral bearing land except under conditions set by the Centre.",
+   "States must refund levies on mineral rights that they had already received before the law took effect.",
+   "It overturns a 2024 Supreme Court ruling that let states tax mineral rights."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 2 is wrong: payments already received by states will not be refunded, though levies not collected before the law takes effect become invalid. The Act reverses the 2024 Supreme Court ruling and restores the Centre's control over levies on mineral rights.",
+  "source": "Levies not collected before the law takes effect will become invalid, while payments already received by states will not be refunded."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, President Droupadi Murmu granted assent to the Mines and Minerals (Development and Regulation) Amendment Act, 2026. Consider the following statements about the Act:",
+  "items": [
+   "It bars states from imposing taxes, cesses or other levies on mineral rights and mineral bearing land except under conditions set by the Centre.",
+   "States must refund levies on mineral rights that they had already received before the law took effect.",
+   "It overturns a 2019 Supreme Court ruling that let states tax mineral rights."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because payments already received by states will not be refunded, and statement 3 is wrong because the Act overturns a 2024 Supreme Court ruling, not a 2019 one. Only statement 1 is correct, as the Act bars state levies on mineral rights except under conditions set by the Centre.",
+  "source": "The Act overturns a 2024 Supreme Court ruling that let states tax mineral rights"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2190,
+  "output_tokens": 868,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

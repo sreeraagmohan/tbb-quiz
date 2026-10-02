@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-03-23-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 445,
+  "output_tokens": 845,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly a sector story; tested only the policy fact of airfare caps being lifted and the deregulated status of fares.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In March 2026, India scrapped temporary caps on domestic airfares. Consider the following statements:",
+    "items": [
+     "The caps had been imposed during IndiGo's operational disruption in December 2025.",
+     "Domestic airfares in India are technically deregulated, though the government intervenes during crises."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The caps, lifted from 23 March 2026, dated from IndiGo's meltdown in December 2025, and fares are formally deregulated even though New Delhi steps in during crises. The Ministry of Civil Aviation still warned carriers to keep fares commensurate with market conditions.",
+    "source": "India will scrap temporary domestic airfare caps starting today (March 23), ending a period of state-mandated pricing that began during IndiGo’s operational meltdown last December."
+   }
+  ]
+ }
+}

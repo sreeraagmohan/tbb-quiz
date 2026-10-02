@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-13-1-1",
+ "story_id": "2026-07-13-1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Prime Minister Narendra Modi's visit to New Zealand in July 2026:",
+  "items": [
+   "India and New Zealand elevated bilateral ties to a Strategic Partnership in Auckland.",
+   "Both sides set a target to double two-way trade in goods and services to NZD 7 billion by 2030.",
+   "New Zealand nominated counter-terrorism as its priority pillar under India's Indo-Pacific Oceans Initiative."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "New Zealand chose maritime security, not counter-terrorism, as its priority pillar under the IPOI. Counter-terrorism was covered by a separate Joint Working Group. The visit was the first by an Indian prime minister to New Zealand in 40 years.",
+  "source": "New Zealand nominated maritime security as its priority pillar under India's Indo-Pacific Oceans Initiative (IPOI)."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Prime Minister Narendra Modi's visit to New Zealand in July 2026:",
+  "items": [
+   "India and New Zealand elevated bilateral ties to a Strategic Partnership in Auckland.",
+   "Both sides set a target to double two-way trade in goods and services to NZD 7 billion by 2030.",
+   "New Zealand nominated maritime security as its priority pillar under India's Indo-Pacific Oceans Initiative."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct. The ties were elevated to a Strategic Partnership in Auckland, the trade target is NZD 7 billion by 2030, and New Zealand chose maritime security as its IPOI priority pillar. The visit was the first by an Indian prime minister to New Zealand in 40 years.",
+  "source": "New Zealand nominated maritime security as its priority pillar under India's Indo-Pacific Oceans Initiative (IPOI)."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3876,
+  "output_tokens": 677,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

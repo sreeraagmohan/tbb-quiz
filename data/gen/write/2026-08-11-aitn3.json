@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-11-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 281,
+  "output_tokens": 1412,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the new Indian envoy to Dhaka and the date of Hasina's exile in India; skipped her planned return, which is only a stated intention.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Bangladesh relations as of August 2026:",
+    "items": [
+     "On 10 August 2026, Bangladeshi Prime Minister Tarique Rahman met Dinesh Trivedi, India's newly appointed High Commissioner to Dhaka.",
+     "Former Bangladeshi prime minister Sheikh Hasina has lived in India since fleeing Bangladesh in August 2025."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because Hasina fled to India in August 2024, not 2025. At the meeting Rahman renewed Dhaka's call for her extradition and, for the first time, explicitly tied warmer ties to conditions being met.",
+    "source": "Bangladeshi Prime Minister Tarique Rahman told India's newly appointed High Commissioner to Dhaka, Dinesh Trivedi, on Monday that a \"conducive environment\" is needed to boost bilateral ties."
+   }
+  ]
+ }
+}

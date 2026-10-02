@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-06-24-1-1",
+ "story_id": "2026-06-24-1",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about WhatsApp Pay and the Unified Payments Interface (UPI), as reported in June 2026:",
+  "items": [
+   "The Reserve Bank of India had capped WhatsApp Pay at 100 million users, a ceiling lifted in late 2024.",
+   "In May 2026, WhatsApp Pay handled 0.65% of UPI transactions, ranking ninth.",
+   "PhonePe and Google Pay together account for nearly 80% of UPI transactions."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The 100 million user cap was imposed by the National Payments Corporation of India (NPCI), not the RBI, to stop WhatsApp Pay swamping the system. Even after the cap was lifted, WhatsApp Pay stayed marginal in India, which is Meta's biggest market with close to 500 million users.",
+  "source": "The constraint used to be regulatory: the National Payments Corporation of India (NPCI) capped WhatsApp Pay at 100 million users to stop it swamping the system."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about WhatsApp Pay and the Unified Payments Interface (UPI), as reported in June 2026:",
+  "items": [
+   "The Reserve Bank of India had capped WhatsApp Pay at 100 million users, a ceiling lifted in late 2024.",
+   "In May 2026, WhatsApp Pay handled 0.65% of UPI transactions, ranking fifth.",
+   "PhonePe and Google Pay together account for nearly 60% of UPI transactions."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three are wrong: the 100 million user cap was imposed by the National Payments Corporation of India (NPCI), not the RBI; WhatsApp Pay ranked ninth, not fifth, with 0.65% of UPI transactions in May 2026; and PhonePe and Google Pay split nearly 80% of UPI, not 60%. Even after the cap was lifted, WhatsApp Pay stayed marginal in India, Meta's biggest market with close to 500 million users.",
+  "source": "Meta counts close to 500 million users in India, its biggest market, yet WhatsApp Pay handled just 0.65% of Unified Payments Interface (UPI) transactions in May 2026, ranking ninth."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4493,
+  "output_tokens": 926,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

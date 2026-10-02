@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-05-26-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 949,
+  "output_tokens": 1920,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the Assam UCC Bill's key provisions, the constitutional basis of a UCC (Article 44) and the earlier states that have enacted one.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Uniform Civil Code (UCC), Assam, 2026 Bill tabled in the Assam Legislative Assembly in May 2026:",
+    "items": [
+     "It would replace religion-specific personal laws for all residents except Scheduled Tribes.",
+     "It provides for up to seven years' imprisonment for bigamy and polygamy.",
+     "It requires all live-in relationships to be registered within one month."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are provisions of the Bill. It also sets the minimum marriage age at 21 for men and 18 for women, and makes registration of all marriages and divorces compulsory.",
+    "source": "The Bill requires all live-in relationships to be registered within one month."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "A Uniform Civil Code, which Assam sought to enact through a Bill tabled in May 2026, is enshrined as a Directive Principle of State Policy under which Article of the Constitution of India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Article 44",
+     "Article 21",
+     "Article 25",
+     "Article 32"
+    ],
+    "answer": 0,
+    "explain": "The UCC is a directive principle under Article 44. The BJP-led central government has long promised a national UCC but has never tabled one in Parliament.",
+    "source": "enshrined as a directive principle under Article 44 of the Constitution, but has never tabled one in Parliament."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In May 2026, Assam tabled a Bill that would make it the third Indian state to enact a Uniform Civil Code. Which two states had enacted one before it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Uttarakhand and Gujarat",
+     "Gujarat and Maharashtra",
+     "Uttarakhand and Madhya Pradesh",
+     "Madhya Pradesh and Rajasthan"
+    ],
+    "answer": 0,
+    "explain": "Uttarakhand enacted a UCC in 2024 and Gujarat in March 2026. Assam would be the first state where a UCC affects a large Muslim population, making it a test of enforceability.",
+    "source": "If passed, Assam would become the third Indian state to enact a UCC, after Uttarakhand in 2024 and Gujarat in March this year."
+   }
+  ]
+ }
+}

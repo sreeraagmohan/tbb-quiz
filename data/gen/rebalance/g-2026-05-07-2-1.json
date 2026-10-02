@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-07-2-1",
+ "story_id": "2026-05-07-2",
+ "target": 1,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the leadership of the Central Board of Film Certification (CBFC) as of May 2026:",
+  "items": [
+   "Shashi Shekhar Vempati was appointed CBFC chairperson for a three-year term.",
+   "Prasoon Joshi had led the CBFC since August 2017, succeeding Pahlaj Nihalani.",
+   "Vempati received the Padma Shri, India's third-highest civilian honour, in January 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The third statement is wrong because the Padma Shri is India's fourth-highest civilian honour, not the third. Vempati, a former CEO of Rajya Sabha TV and Prasar Bharati, replaced Joshi, whose tenure focused on digitising the board's certification process.",
+  "source": "He previously served as CEO of Rajya Sabha TV and Prasar Bharati, and received a Padma Shri, India’s fourth-highest civilian honour, in January 2026."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the leadership of the Central Board of Film Certification (CBFC) as of May 2026:",
+  "items": [
+   "Vempati received the Padma Shri, India's third-highest civilian honour, in January 2026.",
+   "Shashi Shekhar Vempati was appointed CBFC chairperson for a three-year term.",
+   "Prasoon Joshi had led the CBFC since August 2017, succeeding Pahlaj Nihalani."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the story describes the Padma Shri as India's fourth-highest civilian honour, not the third. Vempati, a former CEO of Rajya Sabha TV and Prasar Bharati, replaced Joshi, whose tenure focused on digitising the board's certification process.",
+  "source": "He previously served as CEO of Rajya Sabha TV and Prasar Bharati, and received a Padma Shri, India’s fourth-highest civilian honour, in January 2026."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3828,
+  "output_tokens": 679,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

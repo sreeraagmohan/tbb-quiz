@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-07-01-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 815,
+  "output_tokens": 1731,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Corporate deal with a policy angle; tested Vizhinjam's ownership and concession structure and its geographic advantages as a transhipment hub.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, Adani Ports agreed to sell a 49% stake in the company operating Vizhinjam Port to MSC Group. Consider the following statements about Vizhinjam Port:",
+    "items": [
+     "It is owned by the Government of Kerala through a state entity, Vizhinjam International Seaport Limited.",
+     "Adani runs it under a 40-year build-operate-transfer concession held by a subsidiary.",
+     "Under the concession agreement, only an ownership change above 49% needs the Kerala government's approval."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the concession requires Kerala's approval for any ownership change above 25%, so the 49% sale needs the state's consent. The deal values the hub at USD 2.85 billion and is the largest foreign private investment in Indian port infrastructure.",
+    "source": "Under the concession agreement, any ownership change above 25% needs the Kerala government's approval, and as the asset's owner the state has a real say."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Kerala's Vizhinjam Port, as described in July 2026:",
+    "items": [
+     "It sits about 10 nautical miles off the main east-west shipping lane.",
+     "Its natural draft of 18 to 20 metres needs no dredging."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. Vizhinjam is India's only deep-water terminal directly on the main east-west lane, and its depth lets it take mega-vessels most Indian ports cannot. Roughly 75% of India's transhipment cargo is currently routed through Colombo, Singapore and Jebel Ali.",
+    "source": "The port is India's only deep-water terminal sitting directly on the main east-west shipping lane, about 10 nautical miles off it, with an 18 to 20 metre natural draft that needs no dredging."
+   }
+  ]
+ }
+}

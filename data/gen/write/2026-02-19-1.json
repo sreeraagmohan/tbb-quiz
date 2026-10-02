@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-19-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 637,
+  "output_tokens": 1897,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the design of India's proposed AI Commons and the Economic Survey's AI-OS idea; summit outcomes are still at proposal stage.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, India pitched an 'AI Commons' at the first AI summit held on Global South soil. Consider the following statements about the proposal:",
+    "items": [
+     "It envisages a shared pool of multilingual models, open datasets and compute resources.",
+     "It proposes a funding facility to which nations would contribute data, compute or use-case development instead of building everything independently.",
+     "It builds on the Economic Survey's case that India should prioritise building frontier mega-models."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. The Economic Survey argued India should skip the mega-models and build small open-weight systems for real use cases. The AI Commons aims at affordable, locally relevant AI for public services, education and rural economies across the Global South.",
+    "source": "The pitch: An AI Commons, a shared pool of multilingual models, open datasets, and compute resources designed for economies that can't afford Big Tech's price tag."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Economic Survey released in early 2026 proposed layering an 'AI-OS' onto which existing Indian digital infrastructure?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India Stack",
+     "BharatNet",
+     "GSTN",
+     "National Knowledge Network"
+    ],
+    "answer": 0,
+    "explain": "The Survey suggested layering an AI-OS onto India Stack so that startups would not have to spend billions on compute. India cites Aadhaar, UPI and India Stack as proof that open, interoperable digital infrastructure can scale to billions.",
+    "source": "layer an \"AI-OS\" onto India Stack so startups aren't burning billions on compute"
+   }
+  ]
+ }
+}

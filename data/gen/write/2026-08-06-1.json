@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-06-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 723,
+  "output_tokens": 2169,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the August 2026 export-only inventory framework for foreign-invested e-commerce: its scope, the Exporter-on-Record mechanism and seller safeguards.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the government operationalised a framework on inventory holding by foreign-invested e-commerce companies in India. Consider the following statements about it:",
+    "items": [
+     "Foreign-invested e-commerce companies may hold inventory in India only if every unit is bound for export.",
+     "The framework also relaxes the domestic ban on foreign-owned inventory-led e-commerce.",
+     "Exporters-on-Record must pay Indian sellers on a fixed timeline regardless of whether the overseas buyer has paid."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the framework applies to exports alone and the domestic ban on foreign-owned inventory-led e-commerce is unchanged. It follows an earlier amendment to India's FDI policy, with Amazon and Flipkart seen as the main beneficiaries.",
+    "source": "This follows an earlier amendment to India's foreign direct investment (FDI) policy and applies to exports alone; the domestic ban on foreign-owned inventory-led e-commerce is unchanged."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the e-commerce export inventory framework operationalised in August 2026, which entity buys goods from Indian sellers after an overseas order is confirmed and exports them under its own name?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Exporter-on-Record",
+     "Seller-on-Record",
+     "Importer-on-Record",
+     "Consignee-on-Record"
+    ],
+    "answer": 0,
+    "explain": "The registered Exporter-on-Record buys from Indian Sellers-on-Record only after an overseas order is confirmed and exports the goods in its own name. It handles customs paperwork and destination-country compliance, and can also offer testing, certification, packaging, labelling and returns.",
+    "source": "Companies must route exports through a registered Exporter-on-Record (EOR), which buys from Indian Sellers-on-Record (SORs) only after an overseas order is confirmed, then exports the goods under its own name."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the export-only e-commerce inventory framework operationalised in India in August 2026:",
+    "items": [
+     "Export rebates must be passed through to Indian sellers in proportion to each seller's free-on-board (FOB) value.",
+     "Export inventory must be kept in a separate, digitally tracked repository and cannot be diverted into the Indian market."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both safeguards are part of the framework, which also gives sellers visibility into final sale prices, order status and shipment tracking. Returned goods must be re-exported, sent back to the seller or disposed of under the rules, and Exporters-on-Record face annual compliance certification.",
+    "source": "Export inventory must be kept in a separate, digitally tracked repository and cannot be diverted into the Indian market."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-08-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 196,
+  "output_tokens": 1016,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the venue of the second JDCC meeting and the 2018 memorandum that underpins India–Rwanda defence ties.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Rwanda defence cooperation, as reported in July 2026:",
+    "items": [
+     "The second meeting of the India–Rwanda Joint Defence Cooperation Committee was held in Kigali.",
+     "The defence partnership rests on a defence cooperation memorandum signed in July 2018 during Prime Minister Modi's visit to Rwanda."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The second Joint Defence Cooperation Committee meeting was held in New Delhi, not Kigali. Kigali was where the 2018 memorandum was signed. The two sides agreed to deepen cooperation in military training, joint exercises, medical services and defence industries.",
+    "source": "The partnership rests on a defence cooperation memorandum signed in July 2018 during Modi's visit to Kigali."
+   }
+  ]
+ }
+}

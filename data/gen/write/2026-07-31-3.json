@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-07-31-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 497,
+  "output_tokens": 1928,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Bharat Maritime Insurance Pool's first sovereign-backed P&I policy, what P&I covers, and the pool's key figures.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Bharat Maritime Insurance Pool (BMIP):",
+    "items": [
+     "In July 2026, New India Assurance issued the first sovereign-backed Protection and Indemnity (P&I) policy under BMIP to Shipping Corporation of India.",
+     "Protection and Indemnity (P&I) insurance primarily protects the physical hull of the insured vessel.",
+     "The Union Cabinet approved BMIP in April 2026 after the West Asian war drove insurers from Gulf routes."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Hull insurance protects the ship, while P&I covers third-party liabilities such as crew injuries, cargo damage, pollution and wreck removal. The pool aims to bring maritime risk onto India's own balance sheet, with the sovereign guarantee carrying the catastrophic layer.",
+    "source": "New India Assurance issued the first sovereign-backed Protection and Indemnity (P&I) policy under the Bharat Maritime Insurance Pool (BMIP) to Shipping Corporation of India on Thursday."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India's maritime insurance, as of July 2026:",
+    "items": [
+     "Cover provided by the first BMIP P&I policy — up to USD 1.5 billion",
+     "Cargo and hull war-risk policies issued under BMIP since May 2026 — 1,608",
+     "War-risk premiums on some Red Sea routes after renewed Houthi attacks — 35–40% of vessel value"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong. Red Sea war-risk premiums have climbed to 1–2% of vessel value; 35–40% is the fall in BMIP premiums from the conflict peak that the government claims, without disclosing its benchmark.",
+    "source": "War-risk premiums on some Red Sea routes have climbed to 1–2% of vessel value following renewed Houthi attacks."
+   }
+  ]
+ }
+}

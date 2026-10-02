@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-09-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 272,
+  "output_tokens": 909,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests which regulator absorbs the airport revenue impact of the April 2026 landing-charge cut, a durable institutional fact.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In April 2026, India's Civil Aviation Ministry cut landing and parking charges at all domestic airports by 25% for three months. Which body will adjust any resulting airport revenue shortfalls in the next five-year tariff cycle?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Airports Economic Regulatory Authority",
+     "Directorate General of Civil Aviation",
+     "Airports Authority of India",
+     "Bureau of Civil Aviation Security"
+    ],
+    "answer": 0,
+    "explain": "The Airports Economic Regulatory Authority will offset any revenue shortfall from the cut in the next five-year tariff cycle. The cut is expected to save airlines roughly INR 400 crore and is part of measures to shield carriers from the West Asia crisis, during which New Delhi capped the pass-through of fuel price rises to domestic airlines at 25%.",
+    "source": "The Airports Economic Regulatory Authority will adjust any airport revenue shortfalls in the next five-year tariff cycle."
+   }
+  ]
+ }
+}

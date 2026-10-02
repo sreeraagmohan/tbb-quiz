@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-24-1-1",
+ "story_id": "2026-03-24-1",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the Indian rupee fell to a record low against the US dollar amid the West Asia conflict. Consider the following statements:",
+  "items": [
+   "The Reserve Bank of India cut rates by a cumulative 125 basis points during 2025.",
+   "Forward dollar sales of nearly USD 100 billion by the Reserve Bank of India helped cushion the rupee's fall.",
+   "Since US-Israeli strikes on Iran began, the rupee depreciated more sharply than the Thai baht and the South Korean won."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong. The rupee weakened about 3% over the period, while the Thai baht fell 4.9% and the South Korean won 3.9%, so the rupee fared better than these peers. The 2025 rate cuts were enabled by inflation at historic lows, and a sustained oil shock now threatens to reverse that easing.",
+  "source": "The RBI spent 2025 cutting rates by 125 basis points to support growth, enabled by inflation running at historic lows."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the Indian rupee fell to a record low against the US dollar amid the West Asia conflict. Consider the following statements:",
+  "items": [
+   "The Reserve Bank of India cut rates by a cumulative 125 basis points during 2025.",
+   "Forward dollar sales of nearly USD 100 billion by the Reserve Bank of India helped cushion the rupee's fall.",
+   "Since US-Israeli strikes on Iran began, the rupee depreciated less sharply than the Thai baht and the South Korean won."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the RBI cut rates by 125 basis points in 2025, its forward dollar sales of nearly USD 100 billion cushioned the fall, and the rupee's roughly 3% decline was smaller than the Thai baht's 4.9% and the South Korean won's 3.9%. The rupee nonetheless hit a fresh all-time low of 93.94 against the US dollar, with foreign investors pulling USD 9.6 billion from Indian equities in March 2026.",
+  "source": "The rupee has actually fared better than peers – the Thai baht is down 4.9%, and the South Korean won 3.9% over the same period."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3566,
+  "output_tokens": 710,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

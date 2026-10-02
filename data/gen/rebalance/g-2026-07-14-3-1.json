@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-07-14-3-1",
+ "story_id": "2026-07-14-3",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the interim India-US trade pact of February 2026:",
+  "items": [
+   "Under the pact, Washington offered an 18% tariff track for Indian exports.",
+   "The pact was unwound by a Supreme Court ruling in May 2026."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "The Supreme Court ruling that unwound the pact came in March 2026, weeks after it was struck, not in May. In return for the 18% track, India was to lower trade barriers and buy more American goods. A temporary 10% tariff was due to lapse on 24 July 2026.",
+  "source": "The interim pact in February involved India lowering trade barriers and buying more American goods, while Washington offered an 18% tariff track for Indian exports (we covered it here)."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the interim India-US trade pact of February 2026:",
+  "items": [
+   "Under the pact, Washington offered a 10% tariff track for Indian exports.",
+   "The pact was unwound by a Supreme Court ruling in May 2026."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both statements are wrong: Washington offered an 18% tariff track, not 10%, and the Supreme Court ruling that unwound the pact came in March 2026, not May. The 10% figure is the temporary tariff now in place, which lapses on 24 July 2026.",
+  "source": "The Supreme Court ruling in March unwound it weeks later, and a temporary 10% tariff now lapses on July 24."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2775,
+  "output_tokens": 628,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

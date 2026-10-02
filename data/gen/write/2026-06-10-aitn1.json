@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-10-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 295,
+  "output_tokens": 284,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a condolence-style phone call that produced no agreement, scheme or other durable, checkable outcome worth testing.",
+  "questions": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-11-1-1",
+ "story_id": "2026-02-11-1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In February 2026, India's Ministry of External Affairs announced a three-day visit by French President Emmanuel Macron. Consider the following statements:",
+  "items": [
+   "The India–France strategic partnership dates back to 1998.",
+   "Macron was scheduled to arrive in Mumbai to launch the India-France Year of Innovation.",
+   "The AI Impact Summit was scheduled to be held in Mumbai on 19 February 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because Macron was to head from Mumbai to New Delhi for the AI Impact Summit on 19 February. France stayed a consistent partner even when India faced international sanctions, and the relationship rests on strategic autonomy.",
+  "source": "Macron will arrive in Mumbai to launch the India-France Year of Innovation before heading to New Delhi for the AI Impact Summit on February 19"
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In February 2026, India's Ministry of External Affairs announced a three-day visit by French President Emmanuel Macron. Consider the following statements:",
+  "items": [
+   "The India–France strategic partnership dates back to 1998.",
+   "Macron was scheduled to arrive in Mumbai to launch the India-France Year of Innovation.",
+   "The AI Impact Summit was scheduled to be held in New Delhi on 19 February 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the partnership dates back to 1998, and Macron was to arrive in Mumbai to launch the India-France Year of Innovation before heading to New Delhi for the AI Impact Summit on 19 February. France stayed a consistent partner even when India faced international sanctions, and the relationship rests on strategic autonomy.",
+  "source": "Macron will arrive in Mumbai to launch the India-France Year of Innovation before heading to New Delhi for the AI Impact Summit on February 19"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3119,
+  "output_tokens": 522,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

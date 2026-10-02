@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-25-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 387,
+  "output_tokens": 848,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the meaning of an Arria-formula meeting, a durable UN Security Council concept; avoided the Pakistani minister's title and the rhetoric.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In June 2026, India's Permanent Representative to the United Nations accused Pakistan of politicising an 'Arria-formula meeting' it co-organised with China. What is an Arria-formula meeting?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "An informal session of the UN Security Council",
+     "A formal plenary session of the UN General Assembly",
+     "A closed hearing of the International Court of Justice",
+     "An annual review session of the UN Human Rights Council"
+    ],
+    "answer": 0,
+    "explain": "The story describes an Arria-formula meeting as an informal Security Council session. At the 23 June 2026 meeting, India repeated that Kashmir is an internal matter and renewed its call for Security Council reform and a review of outdated resolutions.",
+    "source": "accused Pakistan of politicising an Arria-formula meeting, an informal Security Council session"
+   }
+  ]
+ }
+}

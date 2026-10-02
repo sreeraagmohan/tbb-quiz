@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-24-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 542,
+  "output_tokens": 2294,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the July 2026 decision to lock in E20, fuel blend composition and the programme's gains, and the 2021 roadmap's protection-grade provision.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, the Union government announced it would continue supplying E20 petrol nationwide. Consider the following statements about the decision:",
+    "items": [
+     "The government said it will not restore E10 or ethanol-free petrol.",
+     "The government decided to move to ethanol blends above 20%.",
+     "The government conceded a 3% to 5% mileage loss in some vehicles designed for E10."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because no decision has been made on moving above 20% ethanol. The government said supplying several blends nationwide would be too costly and complex, and cited service records of over 200 million two-wheelers and 30 million cars showing no widespread engine damage.",
+    "source": "The government stated that it will not restore E10 or ethanol-free petrol and says supplying several blends nationwide would be too costly and complex."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India's ethanol blending programme as of July 2026:",
+    "items": [
+     "E20 — 20% ethanol and 80% petrol",
+     "E10 — 10% ethanol",
+     "Foreign exchange saved by the programme — INR 1.97 lakh crore"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "E20 contains 20% ethanol and 80% petrol, E10 contains 10% ethanol, and the programme has saved INR 1.97 lakh crore in foreign exchange. It has also displaced 31.6 million tonnes of crude and transferred INR 1.66 lakh crore to farmers.",
+    "source": "The programme has saved INR 1.97 lakh crore (USD 20.5 billion) in foreign exchange, displaced 31.6 million tonnes of crude, and transferred INR 1.66 lakh crore (USD 17.3 billion) to farmers."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "India's 2021 ethanol blending roadmap recorded the automobile industry's insistence that which fuel remain available as a \"protection grade\" during the transition?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "E10 petrol",
+     "E15 petrol",
+     "E27 petrol",
+     "E100 fuel"
+    ],
+    "answer": 0,
+    "explain": "The 2021 roadmap noted the industry wanted E10 kept available as a protection grade. In July 2026 the government declined to restore E10, after blending reached 20% between November 2025 and June 2026, five years ahead of the original target.",
+    "source": "India’s 2021 roadmap recorded the automobile industry’s insistence that E10 remain available as a “protection grade” during the transition."
+   }
+  ]
+ }
+}

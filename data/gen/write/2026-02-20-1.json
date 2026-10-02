@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-20-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 612,
+  "output_tokens": 1580,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the November 2025 rare earth permanent magnet programme and the composition of NdFeB magnets.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's push to manufacture rare earth permanent magnets, as of February 2026:",
+    "items": [
+     "In November 2025, the government approved a USD 800 million programme to build an end-to-end rare earth permanent magnet manufacturing ecosystem.",
+     "Up to five private sector partners are to be selected through global competitive bidding.",
+     "India's consumption of these magnets is expected to double by 2040."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong because India's consumption is expected to double by 2030, not 2040. The private partners will be supported by capital subsidies and production-linked incentives, and the Budget 2026-27 added dedicated rare earth corridors.",
+    "source": "In November 2025, New Delhi approved an USD 800 million programme to build an end-to-end rare earth permanent magnet manufacturing ecosystem."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "NdFeB permanent magnets, used in electric vehicles, wind turbines and modern weapons systems, are made of which elements?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Neodymium, iron and boron",
+     "Niobium, iron and bismuth",
+     "Neodymium, nickel and boron",
+     "Samarium, cobalt and iron"
+    ],
+    "answer": 0,
+    "explain": "NdFeB stands for neodymium-iron-boron. China controls 90% of global processing of these materials, which left India's defence and green energy supply chains exposed when China restricted shipments in 2025.",
+    "source": "Neodymium-iron-boron (NdFeB) magnets are inside every electric vehicle, wind turbine, and modern weapons system."
+   }
+  ]
+ }
+}

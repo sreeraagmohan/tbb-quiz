@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-04-20-2-2",
+ "story_id": "2026-04-20-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Strait of Hormuz crisis in 2026:",
+  "items": [
+   "In late March 2026, Iran granted transit rights through the Strait to five countries, including India and Pakistan.",
+   "The US–Iran ceasefire of 8 April 2026 was brokered by Qatar."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the 8 April ceasefire was brokered by Pakistan, not Qatar. The five countries given transit rights were China, Russia, India, Iraq and Pakistan.",
+  "source": "In late March, Iran granted transit rights to five countries: China, Russia, India, Iraq, and Pakistan."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Strait of Hormuz crisis in 2026:",
+  "items": [
+   "In late March 2026, Iran granted transit rights through the Strait to five countries, including India and Saudi Arabia.",
+   "The US–Iran ceasefire of 8 April 2026 was brokered by Qatar."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the five countries granted transit rights in late March 2026 were China, Russia, India, Iraq and Pakistan, not Saudi Arabia. Statement 2 is wrong because the 8 April ceasefire was brokered by Pakistan, not Qatar. Iran considers the US naval blockade of its ports a violation of that ceasefire.",
+  "source": "In late March, Iran granted transit rights to five countries: China, Russia, India, Iraq, and Pakistan."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 5243,
+  "output_tokens": 840,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

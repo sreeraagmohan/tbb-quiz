@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-11-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 329,
+  "output_tokens": 127,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a planned protest by an activist group that depends on a minister resigning, with no institutional decision, law or durable fact to test.",
+  "questions": []
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-08-14-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 586,
+  "output_tokens": 1873,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the August 2026 Medium Transport Aircraft tender: its scope, the An-32 fleet it replaces, and the industry partnerships announced.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Medium Transport Aircraft (MTA) tender issued by the Ministry of Defence in August 2026:",
+    "items": [
+     "It seeks 60 transport aircraft with an 18-30 tonne cargo capacity.",
+     "The tender is valued at INR 1 trillion.",
+     "It invites Indian companies to partner with global manufacturers to build the aircraft."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the tender issued on 12 August 2026. Selection could take more than two years given the scale of the technical and commercial evaluation.",
+    "source": "Issued on August 12, the Medium Transport Aircraft (MTA) programme invites Indian companies to partner with global manufacturers to build 60 transport aircraft with an 18-30 tonne cargo capacity."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The Medium Transport Aircraft programme, for which a tender was floated in August 2026, is intended to replace which Indian Air Force fleet?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Antonov An-32",
+     "Ilyushin Il-76",
+     "Boeing C-17 Globemaster III",
+     "Dornier Do 228"
+    ],
+    "answer": 0,
+    "explain": "The new aircraft will replace the Antonov An-32 fleet, which has been in service for three decades. An An-32 was involved in a fatal crash in June 2026 that killed five personnel.",
+    "source": "The aircraft will replace the Indian Air Force's Antonov An-32 fleet, in service for three decades and involved in a fatal crash in June that killed five personnel."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to partnerships announced for India's Medium Transport Aircraft tender in August 2026:",
+    "items": [
+     "Tata Advanced Systems Limited — Lockheed Martin",
+     "Mahindra Defense — Embraer",
+     "KC-390 Millennium — Lockheed Martin"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The KC-390 Millennium is Embraer's aircraft, not Lockheed Martin's. Lockheed Martin, partnered with TASL, is pitching the C-130J Super Hercules.",
+    "source": "TASL has tied up with Lockheed Martin to pitch its C-130J Super Hercules, and Mahindra Defense has teamed up with Embraer, which has pitched its KC-390 Millennium aircraft to India."
+   }
+  ]
+ }
+}

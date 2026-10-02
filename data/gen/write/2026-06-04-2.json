@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-04-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 516,
+  "output_tokens": 1387,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the June 2026 USTR forced-labour tariff proposal against India and the Xinjiang cotton ban under the UFLPA. Section 301 appears only in Sound smarter, so it is not tested.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, the United States Trade Representative (USTR) proposed additional tariffs on Indian imports over forced labour. Consider the following statements about the proposal:",
+    "items": [
+     "The USTR found that India had failed to impose and enforce a ban on imports made with forced labour.",
+     "The proposed additional tariff on Indian imports is 25%.",
+     "India was the only economy named in the USTR finding."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the first statement is correct. The proposed additional tariff is 12.5%, not 25%, and India was named among 60 economies, not alone. The Commerce Ministry stressed the tariffs are not final, with public comments due by 6 July and a hearing on 7 July.",
+    "source": "The United States Trade Representative (USTR) has proposed an additional 12.5% tariff on Indian imports, naming India among 60 economies it says have failed to curb goods made with forced labour."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The USTR report of June 2026 on forced labour singled out cotton from which region, whose products the US already bars under its Uyghur Forced Labor Prevention Act?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Xinjiang",
+     "Tibet",
+     "Inner Mongolia",
+     "Yunnan"
+    ],
+    "answer": 0,
+    "explain": "The report singled out cotton from China's Xinjiang region, already barred by the US under the UFLPA. Washington's concern is that such forced-labour inputs pass unchecked into India and then move through its supply chains to the US.",
+    "source": "The report singles out cotton from China’s Xinjiang region, which the US already bars under its Uyghur Forced Labor Prevention Act (UFLPA)."
+   }
+  ]
+ }
+}

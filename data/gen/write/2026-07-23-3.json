@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-23-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 469,
+  "output_tokens": 1712,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the Tarapur SMR site approval, the private-participation limits of the SHANTI Act and the small reactor and capacity targets.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, the Atomic Energy Commission approved which site for India's first 220 MW and 55 MW small modular reactors?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Tarapur, Maharashtra",
+     "Kudankulam, Tamil Nadu",
+     "Kaiga, Karnataka",
+     "Rawatbhata, Rajasthan"
+    ],
+    "answer": 0,
+    "explain": "The Atomic Energy Commission approved Tarapur in Maharashtra for both small modular reactor designs. The Bhabha Atomic Research Centre is developing both models.",
+    "source": "The Atomic Energy Commission approved Tarapur in Maharashtra for India’s first 220 MW and 55 MW small modular reactors."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's 2025 nuclear law, the SHANTI Act, as reported in July 2026:",
+    "items": [
+     "It permits licensed private participation in nuclear equipment manufacturing.",
+     "It opens the management of nuclear waste to licensed private companies.",
+     "Fuel-cycle activities remain under government control."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: nuclear waste, like fuel-cycle activities and security, stays under government control. The Act allows licensed private participation in plant operation, generation and manufacturing, and Adani, Tata Power and Reliance have shown interest.",
+    "source": "But fuel-cycle activities, nuclear waste and security remain under government control."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India's nuclear energy targets, as reported in July 2026:",
+    "items": [
+     "Indigenous small reactors to be operating by 2033 — at least five",
+     "Funding backing the small reactor programme — INR 200 billion",
+     "Nuclear capacity goal for 2047 — 100 GW"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "India wants at least five indigenous small reactors running by 2033, backed by INR 200 billion (USD 2.3 billion). Its wider goal is to lift nuclear capacity from 8.8 GW to 100 GW by 2047.",
+    "source": "India wants at least five indigenous small reactors operating by 2033, backed by INR 200 billion (USD 2.3 billion)."
+   }
+  ]
+ }
+}

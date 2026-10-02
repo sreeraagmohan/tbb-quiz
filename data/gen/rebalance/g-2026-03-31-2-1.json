@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-31-2-1",
+ "story_id": "2026-03-31-2",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, India proposed amendments to its IT rules concerning internet platforms. Consider the following statements:",
+  "items": [
+   "Safe harbour is the legal shield that protects platforms from liability for user-posted content.",
+   "Under the rules in force before the proposal, IT ministry advisories on deepfake labelling were already legally binding on platforms.",
+   "The proposed amendment would treat non-compliance with ministry advisories as a failure to meet safe harbour conditions."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. Under the current rules, the IT ministry's advisories function as guidance without legal teeth, and the proposal seeks to make them binding by linking them to safe harbour. The draft rules were published for public feedback, with comments open until 14 April 2026.",
+  "source": "The proposed amendment would treat non-compliance as a failure to meet safe harbour conditions, the legal shield that protects platforms from liability for user-posted content."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, India proposed amendments to its IT rules concerning internet platforms. Consider the following statements:",
+  "items": [
+   "Safe harbour is the legal shield that protects platforms from liability for user-posted content.",
+   "Under the rules in force before the proposal, IT ministry advisories on deepfake labelling functioned as guidance without legal teeth.",
+   "The proposed amendment would treat non-compliance with ministry advisories as a failure to meet safe harbour conditions."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct. Under the current rules, the IT ministry's advisories are guidance without legal teeth, and the proposal would make them binding by linking compliance to safe harbour, the shield protecting platforms from liability for user content. The draft rules were published for public feedback, with comments open until 14 April 2026.",
+  "source": "Under the current rules, the IT ministry's advisories on issues like deepfake labelling and content takedowns function as guidance without legal teeth."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3190,
+  "output_tokens": 654,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-08-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 893,
+  "output_tokens": 2467,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the BrahMos and Astra package, the non-defence outcomes of Modi's July 2026 Jakarta visit, and Indonesia's trade rank within ASEAN.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the defence package India signed with Indonesia in July 2026:",
+    "items": [
+     "Indonesia became the third confirmed buyer of BrahMos, after the Philippines and Vietnam.",
+     "The Astra missiles in the package are short-range surface-to-air missiles.",
+     "Indonesia will buy in stages, starting with the missiles and supporting infrastructure."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the story describes Astra as beyond-visual-range air-to-air missiles that will be integrated onto Indonesia's Russian-made Sukhoi fighter jets. The package is worth around USD 630 million and includes BrahMos, which India and Russia developed jointly.",
+    "source": "Indonesia becomes the third confirmed buyer of BrahMos, after the Philippines and Vietnam."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to outcomes of Prime Minister Modi's state visit to Indonesia in July 2026:",
+    "items": [
+     "Steel Authority of India — Joint venture with Krakatau Steel for a stainless-steel slab facility",
+     "IIM Bangalore — First overseas campus at the Singhasari Special Economic Zone",
+     "Unified Payments Interface — Integration with Indonesia's payment system"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the outcomes described in the story. The two sides exchanged 14 agreements covering critical minerals and rare earths, steel, health, space and telecommunications.",
+    "source": "A Steel Authority of India (SAIL) joint venture with Krakatau Steel will build a stainless-steel slab facility in Indonesia, India's Unified Payments Interface (UPI) will integrate with Indonesia's payment system, and the Indian Institute of Management (IIM) Bangalore will open its first overseas campus at the Singhasari Special Economic Zone."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "India–Indonesia bilateral trade reached USD 28.15 billion in 2024-25. Where did this place Indonesia among India's trading partners within ASEAN?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Second-largest",
+     "Largest",
+     "Third-largest",
+     "Fourth-largest"
+    ],
+    "answer": 0,
+    "explain": "With trade of USD 28.15 billion in 2024-25, Indonesia was India's second-largest trading partner within ASEAN. During the same visit, President Prabowo backed India's 2026 BRICS presidency.",
+    "source": "Bilateral trade reached USD 28.15 billion in 2024-25, making Indonesia India's second-largest trading partner within the Association of Southeast Asian Nations (ASEAN)."
+   }
+  ]
+ }
+}

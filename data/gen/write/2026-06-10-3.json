@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-10-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 606,
+  "output_tokens": 1738,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the replacement of MGNREGA by VB–G RAM G from 1 July 2026: the 125-day guarantee, the change in cost-sharing and funding model, and the new wage-delay and overspend provisions.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB–G RAM G), set to replace MGNREGA from 1 July 2026:",
+    "items": [
+     "It raises guaranteed annual wage employment per rural household from 100 to 125 days.",
+     "It retains MGNREGA's demand-driven model, under which the Centre funds any surge in work.",
+     "States must bear at least 40% of the cost under the new model."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong. The new model drops demand-driven funding and uses a normative allocation determined by the Centre. Under MGNREGA, New Delhi had footed the entire wage bill.",
+    "source": "Unlike MGNREGA, which was demand-driven with the Centre funding any surge in work, the new model sets a normative allocation determined by the Centre."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "How many days of guaranteed annual wage employment per rural household does the VB–G RAM G law provide, replacing MGNREGA from 1 July 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "125 days",
+     "100 days",
+     "150 days",
+     "120 days"
+    ],
+    "answer": 0,
+    "explain": "The new law raises the guarantee for unskilled manual labour from MGNREGA's 100 days to 125 days. In June 2026, Rural Development Minister Shivraj Singh Chouhan met state ministers to prepare for the launch.",
+    "source": "The new law increases guaranteed annual wage employment from 100 to 125 days per rural household for unskilled manual labour."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the VB–G RAM G law, which replaces MGNREGA from 1 July 2026:",
+    "items": [
+     "It adds compensation for delayed wages.",
+     "Expenditure beyond sanctioned limits is shared equally between the Centre and the states."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The second statement is wrong because spending beyond sanctioned limits falls entirely on state budgets. TBB argues that capping central funds passes the fiscal burden to the states.",
+    "source": "Expenditure beyond sanctioned limits falls entirely on state budgets."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-31-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 621,
+  "output_tokens": 2052,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the scale of solar curtailment, transmission roadmap timeline and the Rajasthan connectivity backlog; skips developer revenue speculation.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about solar power curtailment in India, as reported in July 2026:",
+    "items": [
+     "Transmission bottlenecks led to over 8,000 GWh, or about 11%, of solar output being wasted between April and June 2026.",
+     "About 21 GW of India's solar capacity relies on temporary grid hookups while dedicated transmission lines are built.",
+     "India's USD 83 billion transmission roadmap is meant to close the gap between generation and grid capacity by 2030."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: the USD 83 billion transmission roadmap runs through 2036, while 2030 is the deadline for reaching 500 GW of non-fossil capacity. Solar parks are being commissioned far faster than high-voltage lines can be built to evacuate the power.",
+    "source": "New Delhi is deploying an USD 83 billion transmission roadmap through 2036 to address the gap between generation and grid capacity."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In 2026, the Central Transmission Utility (CTUIL) admitted it lacked the infrastructure for nearly half of 130 GW of renewable connectivity applications in which state?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Rajasthan",
+     "Gujarat",
+     "Karnataka",
+     "Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explain": "CTUIL said it could not provide infrastructure for nearly half of the 130 GW of connectivity applications in Rajasthan, which TBB describes as India's solar powerhouse. Such transmission delays threaten India's target of expanding clean capacity from 296 GW to 500 GW by 2030.",
+    "source": "the Central Transmission Utility (CTUIL) admitted it lacks the infrastructure for nearly half of the 130 GW of connectivity applications in Rajasthan, India’s solar powerhouse"
+   }
+  ]
+ }
+}

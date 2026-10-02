@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-22-1-2",
+ "story_id": "2026-07-22-1",
+ "target": 0,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "In July 2026, the government updated Parliament on the PLI scheme for automobiles and auto components. Consider the following pairs:",
+  "items": [
+   "Scheme outlay — INR 25,938 crore",
+   "Jobs created by March 31, 2026 — 67,820",
+   "Units across which incentives were disbursed — 225"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three pairs match the figures given to Parliament. Manufacturers had also invested INR 44,326 crore, and the government had disbursed INR 2,386 crore in incentives.",
+  "source": "The government has disbursed INR 2,386 crore (USD 248 million) in incentives across 225 units."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "In July 2026, the government updated Parliament on the PLI scheme for automobiles and auto components. Consider the following pairs:",
+  "items": [
+   "Scheme outlay — INR 18,100 crore",
+   "Jobs created by March 31, 2026 — 67,820",
+   "Investment by manufacturers by March 31, 2026 — INR 5,180 crore"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Only pair 2 is correct. The scheme's outlay is INR 25,938 crore, not INR 18,100 crore (the budget of the ACC battery programme), and manufacturers had invested INR 44,326 crore, not INR 5,180 crore (the investment reported by ACC beneficiaries). The government had disbursed INR 2,386 crore in incentives across 225 units.",
+  "source": "Under the INR 25,938-crore (USD 2.7-billion) Production Linked Incentive (PLI) scheme for automobiles and auto components, manufacturers had invested INR 44,326 crore (USD 4.6 billion) and created 67,820 jobs by March 31, 2026."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3476,
+  "output_tokens": 886,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

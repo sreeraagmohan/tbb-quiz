@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-08-31-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 751,
+  "output_tokens": 1949,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the elevation to a Comprehensive Strategic Partnership, the 2030 trade target and PTA status, the UPI–UZQR payment link, and uranium and trade figures.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Uzbekistan summit held in August 2026:",
+    "items": [
+     "The two countries elevated their ties to a Comprehensive Strategic Partnership.",
+     "The two countries set a bilateral trade target of USD 5 billion by 2030.",
+     "Negotiations on a Preferential Trade Agreement began after a feasibility study was completed."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "A feasibility study has been completed and could lead to a Preferential Trade Agreement, but negotiations have not begun. The USD 5 billion target for 2030 compares with trade of USD 1.3 billion and needs roughly 31 per cent annual growth for five years.",
+    "source": "Prime Minister Narendra Modi and Uzbek President Shavkat Mirziyoyev elevated ties to a Comprehensive Strategic Partnership on Sunday and reported progress on a long-term uranium supply arrangement."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under an agreement signed between India and Uzbekistan in August 2026, Indian Unified Payments Interface (UPI) apps will be able to scan which payment codes?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "UZQR codes",
+     "Bakong codes",
+     "PromptPay codes",
+     "PayNow codes"
+    ],
+    "answer": 0,
+    "explain": "The agreement allows Indian UPI apps to scan Uzbekistan's UZQR payment codes. It was one of 11 instruments signed, alongside deals on mineral resources and financial dialogue.",
+    "source": "Among 11 signed instruments were deals on mineral resources and financial dialogue, plus an agreement allowing Indian Unified Payments Interface apps to scan Uzbekistan’s UZQR payment codes."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India–Uzbekistan economic ties, as reported in August 2026:",
+    "items": [
+     "2019 uranium supply contract — 1,100 metric tonnes through 2026",
+     "Uzbekistan's imports from India — USD 164.6 million",
+     "Growth in bilateral trade in 2025 — 33.3 per cent"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Uzbekistan imported USD 1.15 billion from India; USD 164.6 million is the value of its exports to India, which makes trade lopsided. The latest talks point to a successor uranium arrangement but disclosed no quantity, price or timetable.",
+    "source": "A 2019 contract already covers 1,100 metric tonnes of Uzbek uranium through 2026."
+   }
+  ]
+ }
+}

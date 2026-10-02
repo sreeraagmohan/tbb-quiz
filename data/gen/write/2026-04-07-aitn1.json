@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-07-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 269,
+  "output_tokens": 910,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Shipping update with little durable content; one geography question on the chokepoint the Indian LPG tankers crossed.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, the Indian-flagged LPG tankers Green Sanvi and Green Asha made news for safely crossing which maritime chokepoint during a conflict that began in February 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Bab-el-Mandeb",
+     "Strait of Malacca",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "The two tankers cleared the Strait of Hormuz, bringing to eight the Indian gas carriers that had crossed it since the conflict began on 28 February 2026. Green Sanvi carried about 46,650 tonnes of LPG to Mumbai and Green Asha about 20,000 tonnes to Dahej in Gujarat.",
+    "source": "Two more Indian-flagged LPG tankers, Green Sanvi and Green Asha, have cleared the Strait of Hormuz, bringing the total number of Indian gas carriers to navigate the chokepoint to eight since the conflict began on February 28."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-03-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 417,
+  "output_tokens": 1538,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India's position as a sugar producer, the output-consumption gap and export approval, and the states where mills shut early.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's sugar sector, as reported in April 2026:",
+    "items": [
+     "India is the world's second-largest producer of sugar.",
+     "India's expected sugar output for the season under way exceeds its annual domestic consumption.",
+     "The government had approved exports of 2 million tons of sugar, expecting a surplus."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. India expects only 28 million tons this season against annual consumption of 29 million tons, so output falls short of demand for the second year running. The 2 million tons of exports were approved on a surplus that never arrived, and the national stockpile is now shrinking.",
+    "source": "The government recently greenlit 2 million tons in exports, betting on a surplus that never arrived."
+   },
+   {
+    "topic": "Agriculture",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, almost all sugar mills had shut down for the season weeks ahead of schedule because of poor crops in which pair of sugar-rich states?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Maharashtra and Karnataka",
+     "Punjab and Haryana",
+     "Kerala and Odisha",
+     "Assam and West Bengal"
+    ],
+    "answer": 0,
+    "explain": "Poor cane crops forced mills in Maharashtra and Karnataka to close early. As a result, India expects 28 million tons of sugar against a forecast of 31 million tons.",
+    "source": "In the sugar-rich states of Maharashtra and Karnataka, almost all mills have already shut down for the season weeks ahead of schedule."
+   }
+  ]
+ }
+}

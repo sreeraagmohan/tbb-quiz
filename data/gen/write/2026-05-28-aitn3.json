@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-28-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 234,
+  "output_tokens": 823,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the route, specifications and refuelling site of India's first indigenous hydrogen fuel cell train, approved in May 2026.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, Indian Railways approved its first indigenous hydrogen fuel cell trainset. Consider the following statements about it:",
+    "items": [
+     "It is a 10-car unit with a capacity of 1,200 KW.",
+     "It is set to run on the Jind–Sonipat section in Haryana.",
+     "Its hydrogen storage and refuelling facility is located at Sonipat."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because the locally built, licensed hydrogen storage and refuelling facility is at Jind, not Sonipat. The train emits only water vapour and will run at up to 75 kmph, placing India among the few countries piloting hydrogen-powered rail, alongside Germany, Japan, China and the United States.",
+    "source": "A locally built hydrogen storage and refuelling facility is already licensed and in place at Jind."
+   }
+  ]
+ }
+}

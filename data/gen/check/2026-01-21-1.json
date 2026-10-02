@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-21-1",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   3,
+   1,
+   0,
+   2
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": false,
+    "problem": "The explanation states as fact that India \"presents BRICS as a payments and trade platform rather than a geopolitical alliance.\" In the story this characterisation appears only in the \"Sound smarter (TBB analysis)\" section, as the newsletter's reading of India's messaging. It is not reported fact, so it should be attributed to the analysis. The rest of the explanation (Rio de Janeiro, 2025 declaration, India hosting 2026) matches the story."
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 2508,
+  "output_tokens": 290,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-29-aitn2-1",
+ "story_id": "2026-07-29-aitn2",
+ "target": 1,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's first direct commercial container freight train to Nepal, which arrived in July 2026:",
+  "items": [
+   "It ran from Kolkata Port to Biratnagar, Nepal's industrial hub near the border with Bihar.",
+   "Its cargo had to be transshipped at the India–Nepal border before entering Nepal.",
+   "It used the Jogbani–Biratnagar broad-gauge link inaugurated in 2023."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. The 40-wagon train, carrying canola, travelled under the revised India–Nepal Rail Transit Protocol without any transshipment at the border. The service follows a revised bilateral agreement signed in November 2025, and New Delhi expects it to cut cargo handling, transit times and logistics costs.",
+  "source": "The 40-wagon train, carrying canola, travelled under the revised India–Nepal Rail Transit Protocol without requiring transshipment at the border."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's first direct commercial container freight train to Nepal, which arrived in July 2026:",
+  "items": [
+   "Its cargo had to be transshipped at the India–Nepal border before entering Nepal.",
+   "It ran from Kolkata Port to Biratnagar, Nepal's industrial hub near the border with Bihar.",
+   "It used the Jogbani–Biratnagar broad-gauge link inaugurated in 2023."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong. The story says the 40-wagon train, carrying canola, travelled under the revised India–Nepal Rail Transit Protocol without requiring transshipment at the border. The service follows a revised bilateral agreement signed in November 2025, and New Delhi expects it to cut cargo handling, transit times and logistics costs.",
+  "source": "The 40-wagon train, carrying canola, travelled under the revised India–Nepal Rail Transit Protocol without requiring transshipment at the border."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2345,
+  "output_tokens": 611,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

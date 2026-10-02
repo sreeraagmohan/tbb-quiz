@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-18-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 284,
+  "output_tokens": 930,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the change in silver's import policy status, its coverage, and the preceding duty hike, all of which are trade policy measures linked to forex pressure.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, India changed its import policy for silver. Consider the following statements:",
+    "items": [
+     "Silver imports were moved from the \"free\" to the \"restricted\" category, so importers now need prior government approval.",
+     "The new rules cover only silver jewellery, leaving silver bars of 99.9% purity freely importable.",
+     "The move followed an increase in the duty on gold and silver from 6% to 15% announced earlier the same week."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong. The rules cover silver bars of 99.9% purity and all other semi-manufactured forms, which together made up more than 90% of silver imports the previous fiscal year. The measures aim to curb precious metals imports amid pressure on foreign exchange reserves from the Strait of Hormuz crisis.",
+    "source": "On Saturday, India reclassified silver imports from \"free\" to \"restricted\" with immediate effect, requiring importers to obtain prior government approval before bringing in shipments."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-04-2-1",
+ "story_id": "2026-05-04-2",
+ "target": 0,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, Ecuador's Foreign Minister Gabriela Sommerfeld Rosero concluded a visit to New Delhi. Consider the following statements about the visit and India–Ecuador ties:",
+  "items": [
+   "Ecuador joined both the International Solar Alliance and the International Big Cat Alliance.",
+   "India pledged INR 12 crore in development grants to be spread over five years.",
+   "Pharmaceuticals were among India's main imports from Ecuador in 2023–24."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third statement is wrong. India exports pharmaceuticals, vehicles and steel to Ecuador and imports crude oil, gold and cocoa from it. Bilateral trade stood at USD 1.26 billion in 2023–24.",
+  "source": "Ecuador joined the International Solar Alliance (ISA) and the International Big Cat Alliance (IBCA)."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, Ecuador's Foreign Minister Gabriela Sommerfeld Rosero concluded a visit to New Delhi. Consider the following statements about the visit and India–Ecuador ties:",
+  "items": [
+   "Ecuador joined both the International Solar Alliance and the International Big Cat Alliance.",
+   "India pledged INR 12 crore in development grants to be spread over ten years.",
+   "Pharmaceuticals were among India's main imports from Ecuador in 2023–24."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Statements 2 and 3 are wrong: India pledged INR 12 crore (USD 1.4 million) over five years, not ten, and pharmaceuticals are an Indian export to Ecuador, while India imports crude oil, gold and cocoa. Only statement 1 is correct, and bilateral trade stood at USD 1.26 billion in 2023–24.",
+  "source": "India pledged INR 12 crore (USD 1.4 million) in development grants over five years."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3321,
+  "output_tokens": 663,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

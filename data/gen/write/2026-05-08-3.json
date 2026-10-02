@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-05-08-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 748,
+  "output_tokens": 1805,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "NITI Aayog school education report of May 2026: tested institution vs enrolment shares and the GER and dropout figures.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the NITI Aayog report on school education released in May 2026:",
+    "items": [
+     "Government schools make up 68.1% of all schools in India.",
+     "Private schools make up 38.8% of all schools in India.",
+     "Only 5.4% of schools offer continuous education from Grade 1 to 12."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: private schools are 23.1% of institutions, and 38.8% is their share of enrolment. Government schools, though 68.1% of all schools, now enrol only 49.24% of students, down from 71% in 2005.",
+    "source": "Private schools, at 23.1% of institutions, now account for 38.8% of enrolment."
+   },
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to school education data in the NITI Aayog report released in May 2026:",
+    "items": [
+     "Gross Enrolment Ratio at primary level — 90.9%",
+     "Gross Enrolment Ratio at higher secondary level — 58.4%",
+     "Schools with zero student enrolment that still receive funding — nearly 80,000"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The report flagged nearly 8,000 schools, not 80,000, with zero enrolment that still get funding and staff because of outdated records. The fall in GER from 90.9% at primary to 58.4% at higher secondary means nearly four in ten children leave before finishing school.",
+    "source": "The Gross Enrolment Ratio (GER) drops from 90.9% at primary level to 58.4% at higher secondary."
+   }
+  ]
+ }
+}

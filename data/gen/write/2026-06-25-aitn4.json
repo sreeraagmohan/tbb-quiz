@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-25-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 292,
+  "output_tokens": 785,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the main provisions of the RBI's June 2026 draft guidelines on AI and model risk in banks.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, the Reserve Bank of India released draft guidelines on model risk, including artificial intelligence, in banks. Consider the following statements about the draft:",
+    "items": [
+     "Every lender would have to adopt a board-approved framework covering all models, with AI and machine learning explicitly in scope.",
+     "Models sourced from third parties would be exempt from independent validation.",
+     "Generative AI that interacts with customers would carry extra cybersecurity controls."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the draft subjects third-party models to independent validation rather than exempting them. The draft also requires human oversight of AI used in automated decisions, and the RBI invited feedback by 24 July.",
+    "source": "Third-party models would face independent validation, AI used in automated decisions would need human oversight, and generative AI that interacts with customers would carry extra cybersecurity controls."
+   }
+  ]
+ }
+}

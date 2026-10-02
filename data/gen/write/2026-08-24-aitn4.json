@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-24-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 292,
+  "output_tokens": 1302,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the format and venue of the 25th India–China Special Representatives talks; skipped Xi's visit as it is only expected.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the 25th round of India–China Special Representatives talks held in August 2026:",
+    "items": [
+     "India was represented by its National Security Advisor and China by its Foreign Minister.",
+     "The talks were held in New Delhi, weeks ahead of the BRICS summit."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "NSA Ajit Doval met Chinese Foreign Minister Wang Yi in Beijing, not New Delhi. New Delhi is where Xi Jinping was expected for the BRICS summit on 12-13 September 2026. The Special Representatives mechanism is the main forum for the unresolved border, and this was the first such meeting in a year.",
+    "source": "National Security Advisor Ajit Doval arrives in Beijing on Monday for the 25th round of Special Representatives (SR) talks with Chinese Foreign Minister Wang Yi, the first such meeting in a year and the main forum for the two countries' unresolved border."
+   }
+  ]
+ }
+}

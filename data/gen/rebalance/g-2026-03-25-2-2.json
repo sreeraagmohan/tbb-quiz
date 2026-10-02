@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-25-2-2",
+ "story_id": "2026-03-25-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Middle East crisis as reported in March 2026:",
+  "items": [
+   "The Modi–Trump call in March 2026 was the first between the two leaders since the US and Israel launched coordinated strikes against Iran on 28 February 2026.",
+   "The Strait of Hormuz handles 40% of India's crude oil imports.",
+   "Iran's parliamentary speaker Ghalibaf confirmed that negotiations with the US had taken place."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: Ghalibaf denied that any negotiations had taken place and called reports of talks an attempt to manipulate oil markets. Modi told parliament the crisis had triggered unprecedented challenges, given that 40% of India's crude imports pass through the Strait.",
+  "source": "The Strait handles 40% of India's crude oil imports"
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Middle East crisis as reported in March 2026:",
+  "items": [
+   "The Modi–Trump call in March 2026 was the first between the two leaders since the US and Israel launched coordinated strikes against Iran on 28 February 2026.",
+   "The Strait of Hormuz handles 40% of India's crude oil imports.",
+   "Iran's parliamentary speaker Ghalibaf denied that any negotiations with the US had taken place, calling reports of talks an attempt to manipulate oil markets."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the call was the leaders' first since the 28 February strikes, the Strait carries 40% of India's crude imports, and Ghalibaf denied any talks had occurred. Trump had postponed planned strikes on Iran's power plants, citing 'productive' talks with Tehran.",
+  "source": "Iran's parliamentary speaker Ghalibaf denied any negotiations had taken place, calling reports of talks an attempt to manipulate oil markets."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3211,
+  "output_tokens": 692,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

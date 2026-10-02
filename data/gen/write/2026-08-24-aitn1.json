@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-24-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 277,
+  "output_tokens": 1212,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the venue of the BRICS Communications Ministers' meeting where India and Brazil signed a telecom MoU; the Mexico PTA signing is only expected.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, India signed a telecom and technology Memorandum of Understanding with Brazil, covering artificial intelligence, 5G and 6G, and cybersecurity, at the BRICS Communications Ministers' meeting held in which Indian city?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Pune",
+     "Hyderabad",
+     "Bengaluru",
+     "Chennai"
+    ],
+    "answer": 0,
+    "explain": "Communications Minister Jyotiraditya Scindia signed the MoU with Brazil at the BRICS Communications Ministers' meeting in Pune. Separately, India and Mexico finalised the Terms of Reference for a preferential trade agreement after Mexico imposed tariffs of up to 50 per cent on goods from non-preferential partners.",
+    "source": "signed a telecom and technology Memorandum of Understanding (MoU) with Brazil, covering artificial intelligence, 5G and 6G, and cybersecurity, at the BRICS Communications Ministers' meeting in Pune."
+   }
+  ]
+ }
+}

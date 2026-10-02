@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-22-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 560,
+  "output_tokens": 1676,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the trade relationship facts and negotiation timeline, plus the Republic Day 2026 chief guests. Skips the signing itself, which was only expected.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–European Union trade relations, as of January 2026:",
+    "items": [
+     "Negotiations on an EU-India free trade agreement first began in 2007 and restarted in June 2022 after collapsing.",
+     "The EU is India's largest trading partner, with goods trade of about USD 130 billion in 2024.",
+     "India ranks fifth among the EU's trading partners."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "India ranks ninth for the EU, not fifth, while the EU is India's largest trading partner. The proposed agreement would link a market of nearly 2 billion people covering roughly a quarter of global GDP.",
+    "source": "The EU is India’s largest trading partner (USD 130 billion in goods in 2024)."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Who were the chief guests at India's Republic Day parade on 26 January 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "The Presidents of the European Commission and the European Council",
+     "The President of France and the Chancellor of Germany",
+     "The President of the European Parliament and the EU foreign policy chief",
+     "The UN Secretary-General and the WTO Director-General"
+    ],
+    "answer": 0,
+    "explain": "European Commission President Ursula von der Leyen and European Council President Antonio Costa were the chief guests. Their visit was timed ahead of the 27 January EU-India summit, where the free trade agreement was expected to be signed.",
+    "source": "She and European Council President Antonio Costa will also attend India’s Republic Day (January 26) parade as chief guests."
+   }
+  ]
+ }
+}

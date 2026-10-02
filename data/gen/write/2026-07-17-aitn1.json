@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-17-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 206,
+  "output_tokens": 1200,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Malvan commissioning: its class, builder and shallow-water anti-submarine role.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, the Indian Navy announced the commissioning of Malvan. Consider the following statements about it:",
+    "items": [
+     "It is the second vessel of the Mahe class of Anti-Submarine Warfare Shallow Water Craft.",
+     "It was built at Cochin Shipyard Limited in Kochi with over 80 per cent indigenous content.",
+     "It is designed mainly for anti-submarine operations in deep ocean waters."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. Malvan is built for anti-submarine work in shallow coastal waters, where larger warships cannot operate effectively. It was scheduled to be commissioned on 22 July 2026.",
+    "source": "Built at Cochin Shipyard Limited in Kochi with over 80 per cent indigenous content, the craft is designed for anti-submarine work in shallow coastal waters, where larger warships cannot operate effectively."
+   }
+  ]
+ }
+}

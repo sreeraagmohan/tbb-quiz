@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-03-04-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 292,
+  "output_tokens": 1325,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Short lead on the Strait of Hormuz shutdown; tested the strait's oil share and what caused the halt, skipping the volatile vessel counts.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In early March 2026, shipping through the Strait of Hormuz was effectively halted. Consider the following statements about this disruption:",
+    "items": [
+     "About a fifth of the world's oil flows through the strait.",
+     "The halt was caused primarily by a naval blockade of the strait.",
+     "Major shipping lines such as Maersk and Hapag-Lloyd suspended transits."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the strait was shut not by a naval blockade but by the market, as insurers cancelled war risk coverage and the IRGC threatened to fire on passing ships. Transit fell 81% in a single week, with around 150 vessels, including oil and LNG tankers, at anchor in and around the strait.",
+    "source": "Not by a naval blockade, but by the market itself: insurers have cancelled war risk coverage for vessels in the Gulf, the Islamic Revolutionary Guard Corps (IRGC) has threatened to fire on any ship that tries to pass, and major shipping lines including Maersk and Hapag-Lloyd have suspended transits."
+   }
+  ]
+ }
+}

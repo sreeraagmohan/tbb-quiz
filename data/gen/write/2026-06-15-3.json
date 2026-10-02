@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-15-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 541,
+  "output_tokens": 1836,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the May 2026 CPI data and its drivers, the rupee's record low with the FPI tax exemption, and the monsoon's share of annual rainfall.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's retail inflation data for May 2026, released in June 2026:",
+    "items": [
+     "Retail inflation rose to 3.93%, the highest level under the newly revamped consumer price index series.",
+     "Food inflation eased compared with April 2026.",
+     "Fuel price hikes by state-owned oil firms pushed up transport inflation."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because food inflation accelerated to 4.78% in May from 4.20% in April. State-owned oil firms raised fuel prices four times in May, lifting transport inflation to 1.75%.",
+    "source": "Food inflation also accelerated to 4.78% from April's 4.20%."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Indian rupee and related policy measures in May–June 2026:",
+    "items": [
+     "The rupee fell to a record low of 96.96 against the US dollar in May 2026.",
+     "To attract dollars, foreign portfolio investors were exempted from income and capital gains tax on government securities."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "The rupee bottomed at 96.96 per US dollar on 20 May 2026, and the government and the RBI responded with dollar-attracting liquidity measures, including the FPI tax exemption. The escalation of the US-Iran conflict drove the fall, and the weaker currency is importing inflation into the economy.",
+    "source": "The escalation of the US-Iran conflict has battered the rupee, which bottomed at a record 96.96 against the US dollar on May 20."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, a developing El Niño was seen as a threat to India's June–September monsoon. Roughly what share of India's annual rainfall does this monsoon season provide?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "70%",
+     "50%",
+     "90%",
+     "30%"
+    ],
+    "answer": 0,
+    "explain": "The June–September monsoon provides 70% of India's annual rain, so an El Niño-driven shortfall matters for food prices. Food inflation had already risen to 4.78% in May 2026.",
+    "source": "A developing El Niño threatens the crucial June–September monsoon season, which provides 70% of India's annual rain."
+   }
+  ]
+ }
+}

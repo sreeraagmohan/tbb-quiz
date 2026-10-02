@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-07-2-1",
+ "story_id": "2026-08-07-2",
+ "target": 1,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about GOBARdhan, the national compressed biogas scheme approved by the Union Cabinet in August 2026:",
+  "items": [
+   "It runs from 2026-27 to 2035-36 under the Ministry of Petroleum and Natural Gas.",
+   "It fixes an administered compressed biogas price of INR 2,110 per million BTUs for at least ten years.",
+   "It aims to raise domestic compressed biogas output roughly threefold over the coming decade."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The scheme aims to raise domestic output nearly tenfold, not threefold, over the decade. Its INR 237 billion outlay rests on offtake certainty, with a fixed price and a notified blending obligation guaranteeing producers a buyer.",
+  "source": "It also fixes an administered CBG price of INR 2,110 per million British thermal units (BTUs) for at least ten years."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about GOBARdhan, the national compressed biogas scheme approved by the Union Cabinet in August 2026:",
+  "items": [
+   "It runs from 2026-27 to 2035-36 under the Ministry of New and Renewable Energy.",
+   "It fixes an administered compressed biogas price of INR 2,110 per million BTUs for at least ten years.",
+   "It aims to raise domestic compressed biogas output nearly tenfold over the coming decade."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the scheme runs under the Ministry of Petroleum and Natural Gas, not the Ministry of New and Renewable Energy. Statements 2 and 3 are correct. Its INR 237 billion outlay rests on offtake certainty, with a fixed price and a notified blending obligation guaranteeing producers a buyer.",
+  "source": "runs from the 2026-27 financial year to 2035-36 under the Ministry of Petroleum and Natural Gas"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4134,
+  "output_tokens": 802,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

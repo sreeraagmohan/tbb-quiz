@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-05-06-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 481,
+  "output_tokens": 2139,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Cabinet-approved cotton mission: outlay, duration and ginning target, the Kasturi Cotton Bharat branding, and the pest behind falling yields.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the cotton mission approved by the Union Cabinet in May 2026:",
+    "items": [
+     "It has an outlay of INR 5,659 crore over five years.",
+     "It was launched against the backdrop of India's cotton production falling to a 17-year low.",
+     "It aims to modernise 5,000 ginning and processing facilities."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The mission targets the modernisation of 2,000 ginning and processing facilities, not 5,000, to cut contaminants in the supply chain. The INR 5,659 crore, five-year mission responds to a 17-year production low that has pushed India into record-high imports.",
+    "source": "The Union Cabinet approved a INR 5,659 crore (USD 594 million) five-year mission on Tuesday to rescue India’s wilting cotton sector from a 17-year production low."
+   },
+   {
+    "topic": "Agriculture",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the cotton mission approved by the Union Cabinet in May 2026, 'Kasturi Cotton Bharat' is being expanded. What is it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "A branding initiative to improve traceability of Indian cotton",
+     "A climate-resilient Bt cotton seed variety for rainfed areas",
+     "A price support scheme for small cotton farmers",
+     "An export credit facility for cotton textile mills"
+    ],
+    "answer": 0,
+    "explain": "The mission expands Kasturi Cotton Bharat branding for better traceability, alongside modernising 2,000 ginning and processing facilities. TBB notes that traceability matters for multinational buyers facing ESG audits in the US and EU.",
+    "source": "expanding the Kasturi Cotton Bharat branding for better traceability"
+   },
+   {
+    "topic": "Agriculture",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, while approving a cotton mission, the government cited a pest's growing immunity to Bt cotton as a cause of stagnating yields. Which pest is it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Pink Bollworm",
+     "Fall Armyworm",
+     "Brown Planthopper",
+     "Desert Locust"
+    ],
+    "answer": 0,
+    "explain": "The Pink Bollworm's growing immunity to Bt cotton, together with outdated seeds and erratic monsoons, has stalled yields. As a result India, traditionally a cotton exporter, has turned to record-high imports to feed its mills.",
+    "source": "Outdated seeds, erratic monsoons, and the Pink Bollworm’s growing immunity to Bt cotton have forced India – traditionally an exporter – into record-high imports to feed its domestic mills."
+   }
+  ]
+ }
+}

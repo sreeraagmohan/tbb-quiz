@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-09-23-1-1",
+ "story_id": "2026-09-23-1",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In September 2026, the Telecom Regulatory Authority of India (TRAI) issued a mandate on mobile tariff plans. Consider the following statements about it:",
+  "items": [
+   "It requires operators to offer more voice-and-text-only prepaid plans at reduced tariffs.",
+   "Operators must offer such an option matching every validity period of 90 days or less in their bundled voice, text and data plans.",
+   "Operators must also provide a calendar-month renewal option and at least one longer-duration plan."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the matching requirement covers every validity period of 30 days or less, not 90 days. The rules target low-income consumers and those who do not need mobile data, who had limited short-term choices.",
+  "source": "Operators must offer an option matching every validity period of 30 days or less in their bundled voice, text, and data plans, alongside a calendar-month renewal option and at least one longer-duration plan."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In September 2026, the Telecom Regulatory Authority of India (TRAI) issued a mandate on mobile tariff plans. Consider the following statements about it:",
+  "items": [
+   "It requires operators to offer more voice-and-text-only postpaid plans at reduced tariffs.",
+   "Operators must offer such an option matching every validity period of 30 days or less in their bundled voice, text and data plans.",
+   "Operators must also provide a calendar-month renewal option and at least one longer-duration plan."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because TRAI mandated more voice-and-text-only prepaid plans at reduced tariffs, not postpaid plans. The rules target low-income consumers and those who do not need mobile data, who had limited short-term choices.",
+  "source": "the Telecom Regulatory Authority of India (TRAI) mandated more voice-and-text-only prepaid plans at reduced tariffs."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2764,
+  "output_tokens": 764,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-26-1-1",
+ "story_id": "2026-08-26-1",
+ "target": 3,
+ "original": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the decision on DRDO missile technology announced in August 2026:",
+  "items": [
+   "The Defence Minister approved transfers of DRDO technology for every conventional missile to qualified Indian companies.",
+   "The announcement named the specific missile systems and manufacturers that would receive the technology.",
+   "DRDO had transferred Astra Mk-I and its associated systems to Bharat Dynamics Limited in 2022."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the announcement names no systems, manufacturers, timetable or selection process, and firms must first pass certification. Until now, missile production after development has typically gone through state-owned Bharat Dynamics Limited.",
+  "source": "On Tuesday, Defence Minister Rajnath Singh approved transfers of Defence Research and Development Organisation (DRDO) technology for every conventional missile to qualified Indian companies."
+ },
+ "rewritten": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the decision on DRDO missile technology announced in August 2026:",
+  "items": [
+   "The Defence Minister approved transfers of DRDO technology for every conventional missile to qualified Indian companies.",
+   "The announcement did not name the specific missile systems, manufacturers or timetable for the transfers.",
+   "DRDO had transferred Astra Mk-I and its associated systems to Bharat Dynamics Limited in 2022."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the approval covers every conventional missile, the announcement names no systems, manufacturers, timetable or selection process, and Astra Mk-I went to Bharat Dynamics Limited in 2022. Until now, missile production after development has typically gone through state-owned Bharat Dynamics Limited.",
+  "source": "The announcement names no systems, manufacturers, timetable or selection process."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2825,
+  "output_tokens": 631,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

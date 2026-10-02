@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-19-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 225,
+  "output_tokens": 871,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the notifying body, the list's sequence number and its item composition for the sixth Positive Indigenisation List.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Positive Indigenisation List notified by the Ministry of Defence in August 2026:",
+    "items": [
+     "It was notified by the Department of Defence Production.",
+     "It was the fifth such Positive Indigenisation List.",
+     "Of the 405 items it covers, 16 are used by the Coast Guard and the rest by defence public sector companies."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because this was the sixth Positive Indigenisation List. It covers 389 items for defence public sector companies and 16 for the Coast Guard, with an estimated business potential of INR 30.7 billion, and once developed domestically these items will be bought from Indian suppliers.",
+    "source": "It includes 389 items used by defence public sector companies and 16 used by the Coast Guard, spanning aircraft, armoured vehicles, warships, missiles, and defence electronics."
+   }
+  ]
+ }
+}

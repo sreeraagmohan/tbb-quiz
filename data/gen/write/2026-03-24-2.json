@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-24-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 625,
+  "output_tokens": 1591,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Corporate Laws (Amendment) Bill, 2026: its parliamentary route, buyback and merger provisions, and the expanded audit oversight role of NFRA.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Corporate Laws (Amendment) Bill, 2026, introduced in March 2026:",
+    "items": [
+     "It was introduced in the Lok Sabha, and the Finance Minister proposed referring it to a Joint Parliamentary Committee.",
+     "It would allow eligible firms to conduct up to three share buybacks a year.",
+     "Fast-track mergers would be simplified where shareholders holding at least 75% in both firms approve."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the bill allows two buybacks a year, up from one, with a six-month cooling-off gap. The bill also plans to decriminalise select compliance lapses, replacing jail risk with civil penalties.",
+    "source": "Eligible firms may conduct two share buybacks annually, up from one, with a six-month cooling-off gap."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the Corporate Laws (Amendment) Bill, 2026, introduced in March 2026, which body would gain broader powers, including a wider definition of professional misconduct for auditors?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "National Financial Reporting Authority",
+     "Securities and Exchange Board of India",
+     "Institute of Chartered Accountants of India",
+     "Comptroller and Auditor General of India"
+    ],
+    "answer": 0,
+    "explain": "The bill widens the National Financial Reporting Authority's powers so that auditor misconduct covers lapses tied to company law violations. This stronger audit enforcement balances the faster buybacks and mergers the bill permits.",
+    "source": "The National Financial Reporting Authority would gain broader powers, including a wider definition of “professional misconduct” for auditors tied to company law violations."
+   }
+  ]
+ }
+}

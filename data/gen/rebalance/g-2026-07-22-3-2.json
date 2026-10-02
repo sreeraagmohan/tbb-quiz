@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-22-3-2",
+ "story_id": "2026-07-22-3",
+ "target": 3,
+ "original": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Qdenga, the dengue vaccine approved in India in July 2026:",
+  "items": [
+   "It is a live, attenuated tetravalent vaccine manufactured by Germany's Takeda GmbH.",
+   "It is administered as a single dose to people aged 4 to 60.",
+   "It holds World Health Organization prequalification."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The second statement is wrong because the schedule is two doses given three months apart. The vaccine is already approved in 42 countries, with more than 24 million doses distributed globally.",
+  "source": "The schedule is two doses given three months apart."
+ },
+ "rewritten": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Qdenga, the dengue vaccine approved in India in July 2026:",
+  "items": [
+   "It is a live, attenuated tetravalent vaccine manufactured by India's Panacea Biotec.",
+   "It is administered as a single dose to people aged 4 to 60.",
+   "It holds approval in 24 countries."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong: the vaccine is manufactured by Germany's Takeda GmbH, the schedule is two doses given three months apart, and it holds approval in 42 countries (24 million is the number of doses distributed). Panacea Biotec is a domestic developer with its own dengue candidate still in trials.",
+  "source": "Qdenga already holds approval in 42 countries and World Health Organization (WHO) prequalification, with more than 24 million doses distributed globally."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2875,
+  "output_tokens": 944,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

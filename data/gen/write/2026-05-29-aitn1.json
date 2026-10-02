@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-05-29-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 247,
+  "output_tokens": 806,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly goodwill remarks and an unscheduled visit; only the venue of the May 2026 Quad Foreign Ministers' Meeting is a firm, testable fact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, Australian Foreign Minister Penny Wong met Prime Minister Modi on the sidelines of the Quad Foreign Ministers' Meeting. Where was that meeting held?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "New Delhi",
+     "Tokyo",
+     "Canberra",
+     "Washington, DC"
+    ],
+    "answer": 0,
+    "explain": "The Quad Foreign Ministers' Meeting took place in New Delhi, where Penny Wong met Prime Minister Modi on the sidelines. In the same week, Anthony Albanese told the Australian Parliament he would soon host Modi for a second visit to Australia.",
+    "source": "Foreign Minister Penny Wong met Prime Minister Modi on the sidelines of the Quad Foreign Ministers' Meeting in New Delhi"
+   }
+  ]
+ }
+}

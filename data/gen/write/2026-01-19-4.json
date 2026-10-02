@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-01-19-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 463,
+  "output_tokens": 1435,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly political messaging; tested only the checkable facts on the BMC result, Mamata Banerjee's tenure and the states with assembly elections due in 2026.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements in the context of political developments in January 2026:",
+    "items": [
+     "In the Brihanmumbai Municipal Corporation (BMC) elections, the BJP won an outright majority of the corporation's 227 seats.",
+     "Mamata Banerjee has run West Bengal since 2011, winning three straight mandates.",
+     "Puducherry was among the places with assembly elections due within a few months."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong. The BJP won 89 of the BMC's 227 seats, a strong showing but short of a majority. Assembly elections were due in Assam, West Bengal, Puducherry, Tamil Nadu and Kerala, and Mamata Banerjee had governed West Bengal since 2011.",
+    "source": "Modi’s Bharatiya Janata Party (BJP) is riding momentum after a strong showing in the Brihanmumbai Municipal Corporation (BMC), Mumbai’s powerful municipal body, where it won 89 of 227 seats."
+   }
+  ]
+ }
+}

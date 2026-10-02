@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-21-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 531,
+  "output_tokens": 1419,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the April 2026 India–South Korea summit outcomes (trade target, CEPA upgrade, new ministerial committee) and the location of the POSCO–JSW steel joint venture.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–South Korea summit held in April 2026:",
+    "items": [
+     "The two sides pledged to double bilateral trade to USD 54 billion by 2030.",
+     "They agreed to fast-track talks to upgrade the Comprehensive Economic Partnership Agreement, a trade pact dating from 2010.",
+     "They established a ministerial-level economic cooperation committee for the first time."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are stated in the story. Prime Minister Modi and President Lee Jae Myung announced the trade target alongside a 250+ person business delegation, and India hopes the CEPA upgrade will narrow its trade deficit while Seoul seeks deeper market access.",
+    "source": "On Monday, Indian Prime Minister Modi and South Korean President Lee Jae Myung pledged to double bilateral trade to USD 54 billion by 2030, anchored by a 250+ person business delegation and an upgrade of their 2010 trade pact."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, South Korea's POSCO and India's JSW finalised a USD 1.09 billion joint venture for a steel plant in which Indian state?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Odisha",
+     "Jharkhand",
+     "Chhattisgarh",
+     "Karnataka"
+    ],
+    "answer": 0,
+    "explain": "The POSCO–JSW joint venture is for a steel plant in Odisha. It was finalised during the India–South Korea summit, where 20 other MOUs covering shipbuilding, semiconductors and green energy were also signed.",
+    "source": "South Korea’s POSCO and India’s JSW finalised a USD 1.09 billion joint venture for a steel plant in Odisha."
+   }
+  ]
+ }
+}

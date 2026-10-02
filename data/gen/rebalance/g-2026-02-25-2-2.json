@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-25-2-2",
+ "story_id": "2026-02-25-2",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the proposal to rename Kerala as 'Keralam', approved by the Union Cabinet in February 2026:",
+  "items": [
+   "After the Cabinet approval, the President refers the bill to the Kerala legislature for its views before Parliament votes on it.",
+   "The rename is sought on linguistic grounds, so that the Constitution reflects the state's Malayalam name.",
+   "The resolution demanding the rename was passed in 2024 by a BJP-led Kerala state government."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: the 2024 resolution was passed by Kerala's CPI(M) government, and the BJP-led Centre approved it nearly two years later. With the state and the Centre aligned, the rename is expected to go through.",
+  "source": "Tuesday's Cabinet approval kicks off a constitutional formality: the President refers the bill to Kerala's legislature for their views, then Parliament votes."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the proposal to rename Kerala as 'Keralam', approved by the Union Cabinet in February 2026:",
+  "items": [
+   "After the Cabinet approval, the President refers the bill to the Kerala legislature for its views before Parliament votes on it.",
+   "The rename is sought on linguistic grounds, so that the Constitution reflects the state's Malayalam name.",
+   "The resolution demanding the rename was passed in 2024 by Kerala's CPI(M) government."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the CPI(M) government passed the resolution in 2024 on linguistic grounds, and the Cabinet approval now leads to the President referring the bill to Kerala's legislature before Parliament votes. The BJP-led Centre approved it nearly two years later, and with both state and Centre aligned the rename is expected to go through.",
+  "source": "The CPI(M) government passed the original resolution in 2024 on linguistic grounds, arguing the Constitution should reflect the state's Malayalam name."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3362,
+  "output_tokens": 643,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

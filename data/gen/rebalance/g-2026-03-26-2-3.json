@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-03-26-2-3",
+ "story_id": "2026-03-26-2",
+ "target": 3,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's updated NDC approved by the Union Cabinet in March 2026:",
+  "items": [
+   "It explicitly prioritises mangrove restoration and glacier monitoring in the Himalayas.",
+   "Compared with earlier NDC updates, it places less emphasis on adaptation and climate-resilient infrastructure."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong: unlike previous updates, this NDC leans heavily into climate-resilient infrastructure. It also prioritises state-level Heat Action Plans to buffer the economy against extreme weather.",
+  "source": "It explicitly prioritizes mangrove restoration, glacier monitoring in the Himalayas, and state-level Heat Action Plans to buffer the economy against extreme weather."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's updated NDC approved by the Union Cabinet in March 2026:",
+  "items": [
+   "It explicitly prioritises mangrove restoration, glacier monitoring in the Himalayas and a single national-level Heat Action Plan in place of state-level plans.",
+   "Compared with earlier NDC updates, it places less emphasis on adaptation and climate-resilient infrastructure."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the NDC prioritises state-level Heat Action Plans, not a single national-level plan. Statement 2 is wrong because, unlike previous updates, this NDC leans heavily into climate-resilient infrastructure. The aim of these adaptation measures is to buffer the economy against extreme weather.",
+  "source": "It explicitly prioritizes mangrove restoration, glacier monitoring in the Himalayas, and state-level Heat Action Plans to buffer the economy against extreme weather."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2922,
+  "output_tokens": 1068,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

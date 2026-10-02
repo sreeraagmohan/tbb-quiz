@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-13-aitn1-1",
+ "story_id": "2026-07-13-aitn1",
+ "target": 3,
+ "original": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about INS Mahendragiri, commissioned by the Indian Navy in July 2026:",
+  "items": [
+   "It was built by Mazagaon Dock Shipbuilders Limited.",
+   "It was commissioned into the Western Fleet at Visakhapatnam.",
+   "It carries over 75% indigenous content."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "INS Mahendragiri joined the Eastern Fleet, not the Western Fleet, at Visakhapatnam. It is the sixth Project 17A stealth frigate. Designed by the Navy's Warship Design Bureau, it can be fitted with the BrahMos cruise missile.",
+  "source": "The Indian Navy commissioned INS Mahendragiri, the sixth Project 17A stealth frigate, into its Eastern Fleet at Visakhapatnam on Saturday, July 11."
+ },
+ "rewritten": {
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about INS Mahendragiri, commissioned by the Indian Navy in July 2026:",
+  "items": [
+   "It was built by Mazagaon Dock Shipbuilders Limited.",
+   "It was commissioned into the Eastern Fleet at Visakhapatnam.",
+   "It carries over 75% indigenous content."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: INS Mahendragiri was built by Mazagaon Dock Shipbuilders Limited, joined the Eastern Fleet at Visakhapatnam and carries over 75% indigenous content. It is the sixth Project 17A stealth frigate and can be fitted with the BrahMos cruise missile.",
+  "source": "The Indian Navy commissioned INS Mahendragiri, the sixth Project 17A stealth frigate, into its Eastern Fleet at Visakhapatnam on Saturday, July 11."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3116,
+  "output_tokens": 655,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

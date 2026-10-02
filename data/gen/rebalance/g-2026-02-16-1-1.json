@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-16-1-1",
+ "story_id": "2026-02-16-1",
+ "target": 1,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Bangladesh general election held in February 2026:",
+  "items": [
+   "The Bangladesh Nationalist Party (BNP) defeated an 11-party Islamist alliance in the first elections held since the 2024 uprising.",
+   "BNP leader Tarique Rahman is the son of former Prime Minister Sheikh Hasina.",
+   "Dhaka is seeking Sheikh Hasina's extradition from India for crimes against humanity."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because Tarique Rahman is the son of the late former Prime Minister Khaleda Zia, and he returned after 17 years in self-exile. Hasina's extradition remains a sore point because New Delhi is still sheltering her.",
+  "source": "Leader Tarique Rahman – son of the late former Prime Minister Khaleda Zia – now inherits a fractured nation after 17 years in self-exile."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Bangladesh general election held in February 2026:",
+  "items": [
+   "The Bangladesh Nationalist Party (BNP) defeated a 9-party Islamist alliance in the first elections held since the 2024 uprising.",
+   "BNP leader Tarique Rahman is the son of the late former Prime Minister Khaleda Zia.",
+   "Dhaka is seeking Sheikh Hasina's extradition from India for crimes against humanity."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the BNP crushed an 11-party Islamist alliance, not a 9-party one, in the first elections since the 2024 uprising. Statements 2 and 3 are correct, and Hasina's extradition remains a sore point because New Delhi is still sheltering her.",
+  "source": "The Bangladesh Nationalist Party (BNP) secured a landslide victory Friday in the first elections since the 2024 uprising, crushing an 11-party Islamist alliance."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3229,
+  "output_tokens": 780,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

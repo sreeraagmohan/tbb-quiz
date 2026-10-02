@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-31-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 187,
+  "output_tokens": 1095,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the August 2026 IST rules: the 180-day compliance window and NavIC-based domestic time distribution.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Government of India notified rules making Indian Standard Time (IST) the common reference for legal, administrative, commercial and official purposes. Consider the following statements:",
+    "items": [
+     "Organisations have been given 180 days to adapt their systems to the rules.",
+     "The government is building domestic time-distribution infrastructure using NavIC and other Indian sources to reduce reliance on foreign satellites."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements match the story. Organisations get a 180-day window to comply, and the government is building time-distribution infrastructure on NavIC, India's satellite navigation system, and other Indian sources. The aim is to cut critical systems' dependence on foreign satellites for timing.",
+    "source": "The government is also building domestic time-distribution infrastructure using NavIC, India's satellite navigation system, and other Indian sources, reducing critical systems' reliance on foreign satellites."
+   }
+  ]
+ }
+}

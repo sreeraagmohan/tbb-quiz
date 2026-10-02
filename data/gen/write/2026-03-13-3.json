@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-03-13-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 532,
+  "output_tokens": 814,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Talks on safe passage are unconfirmed and contested, so the deal is not tested. One question covers India's stated dependence on Middle East energy.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In March 2026, India held talks with Iran on the safe passage of Indian vessels through the Strait of Hormuz. Consider the following statements about India's energy dependence as reported at the time:",
+    "items": [
+     "The Middle East supplies about 80% of India's crude oil.",
+     "India relies on the Middle East for nearly all of its LPG."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The Middle East accounts for 40% of India's crude, not 80%, but nearly all of its LPG. With limited strategic reserves, any bottleneck in the Persian Gulf is an immediate economic threat to India.",
+    "source": "It relies on the Middle East for 40% of its crude and nearly all its LPG."
+   }
+  ]
+ }
+}

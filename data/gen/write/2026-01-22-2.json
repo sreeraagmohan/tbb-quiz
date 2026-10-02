@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-22-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 661,
+  "output_tokens": 1220,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India's non-family posting designation for Bangladesh ahead of its first post-Hasina elections, the ICC's T20 World Cup ruling, and Hasina's in-absentia conviction.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Bangladesh developments in January 2026:",
+    "items": [
+     "India designated Bangladesh a \"non-family posting\" and decided to withdraw the families and dependents of its officials there ahead of Dhaka's general elections.",
+     "The Bangladesh general elections will be the first since the ouster of Sheikh Hasina's government in July 2024.",
+     "The ICC accepted Bangladesh's request to move its 2026 Men's T20 World Cup matches away from India."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong because the ICC rejected Bangladesh's request to move its matches away from India. The non-family posting status is rare in the Indian Foreign Service and is applied where security concerns make it unsafe for dependents to stay.",
+    "source": "India has decided to withdraw the families and dependents of its officials in Bangladesh ahead of Dhaka’s general elections, designating it a “non-family posting.”"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "As of January 2026, former Bangladesh Prime Minister Sheikh Hasina, sheltered in India since her ouster, had been convicted in absentia of which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Crimes against humanity",
+     "Sedition against the state",
+     "Corruption in public office",
+     "Electoral fraud"
+    ],
+    "answer": 0,
+    "explain": "Hasina was convicted in absentia of crimes against humanity after her government fell in 2024 following widespread protests. India's decision to shelter her has angered many Bangladeshis and strained bilateral ties.",
+    "source": "who was later convicted in absentia of crimes against humanity by the interim government"
+   }
+  ]
+ }
+}

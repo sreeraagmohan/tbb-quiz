@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-24-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1030,
+  "output_tokens": 1598,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the fast-track courts announced for exam paper leaks and the Supreme Court requirement that internet suspension orders be published; the protest movement and hunger strike are less durable.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, Prime Minister Narendra Modi announced fast-track courts to prosecute those behind exam paper leaks. Consider the following statements:",
+    "items": [
+     "Fast-track courts are dedicated benches designed to bypass India's overburdened judicial system.",
+     "Such courts have previously been used for terrorism, money laundering, and crimes against women and children.",
+     "The announcement was accompanied by a published court count, start date and draft legislation."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because no start date, court count or draft legislation was published. Modi also promised a tougher law against paper leaks and said the Cabinet would take up the issue.",
+    "source": "Fast-track courts are dedicated benches designed to bypass India's overburdened judicial system, previously used for terrorism, money laundering, and crimes against women and children."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, after mobile internet was suspended around Delhi's Jantar Mantar protest site, the Internet Freedom Foundation cited an earlier Supreme Court ruling. What does that ruling require of internet suspension orders?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Each order must be published with written reasons",
+     "Each order must be approved by Parliament",
+     "Each order must be signed by the President",
+     "Each order must be issued by a High Court"
+    ],
+    "answer": 0,
+    "explain": "The ruling requires every suspension order to be published with written reasons. The Internet Freedom Foundation noted that no such order had been published by the Home Ministry, the Department of Telecommunications, the Delhi government or Delhi Police.",
+    "source": "An earlier Supreme Court ruling requires every such order to be published with written reasons."
+   }
+  ]
+ }
+}

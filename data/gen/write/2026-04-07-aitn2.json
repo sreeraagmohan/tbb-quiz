@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-07-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 201,
+  "output_tokens": 746,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the statute invoked in March 2026 to prioritise LPG output during the supply squeeze.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, amid strained LPG supplies, the Government of India directed refineries to maximise cooking gas output by invoking which law?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Essential Commodities Act",
+     "Disaster Management Act",
+     "Energy Conservation Act",
+     "Foreign Trade (Development and Regulation) Act"
+    ],
+    "answer": 0,
+    "explain": "The government invoked the Essential Commodities Act in early March 2026 to direct refineries to maximise cooking gas output. It also capped commercial LPG supply at 20% of normal, while India coordinated passage of its vessels through Iranian-monitored waters.",
+    "source": "directed refineries to maximise cooking gas output after invoking the Essential Commodities Act in early March."
+   }
+  ]
+ }
+}

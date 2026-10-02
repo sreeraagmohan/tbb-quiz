@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-03-16-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 226,
+  "output_tokens": 763,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the phasing in the March 2026 assembly election schedule, the one structural detail that sets one state apart.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, the Election Commission of India announced assembly elections in five states and Union Territories. Which of the following was scheduled to vote in two phases?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "West Bengal",
+     "Tamil Nadu",
+     "Kerala",
+     "Assam"
+    ],
+    "answer": 0,
+    "explain": "West Bengal was the only one of the five to vote in two phases, on April 23 and 29. Assam, Kerala and Puducherry voted on April 9 and Tamil Nadu on April 23. Counting for all five was set for May 4, and the Model Code of Conduct took effect on announcement.",
+    "source": "Assam, Kerala, and Puducherry vote on April 9; Tamil Nadu on April 23; West Bengal in two phases on April 23 and 29."
+   }
+  ]
+ }
+}

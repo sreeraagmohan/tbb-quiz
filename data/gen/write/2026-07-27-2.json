@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-27-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 793,
+  "output_tokens": 2177,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the legal basis, tiers and scope of the US forced-labour duty, DGFT's role, and the tariff-rate quota offer that excluded India.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the additional duty imposed by the United States on imports in July 2026 over forced-labour enforcement:",
+    "items": [
+     "The duty followed an investigation under Section 301 of the US Trade Act, 1974.",
+     "India was placed in the 12.5% tier because it had not prohibited forced-labour imports.",
+     "Generic pharmaceuticals and smartphones from India fall outside the new duty."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "India was placed in the 10% tier, not the 12.5% tier, because it had notified a ban on forced-labour imports before the duty took effect. Roughly 45% of India's exports to the US, including generic pharmaceuticals and smartphones, are outside the new duty.",
+    "source": "The United States Trade Representative (USTR) investigated 60 economies under Section 301 of the US Trade Act, 1974, over failures to block imports made with forced labour."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, which Indian body notified a prohibition on imports made with forced labour, which qualified India for the lower US duty tier?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Directorate General of Foreign Trade",
+     "Central Board of Indirect Taxes and Customs",
+     "Directorate General of Trade Remedies",
+     "Ministry of Labour and Employment"
+    ],
+    "answer": 0,
+    "explain": "The DGFT notified the prohibition on 13 July 2026, four days after the USTR hearings closed. No goods are yet being stopped at the border, because the DGFT has still to open investigations and name products.",
+    "source": "India's Directorate General of Foreign Trade (DGFT) notified such a prohibition on July 13, four days after the hearings closed."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the treatment of economies under the US forced-labour duty announced in July 2026:",
+    "items": [
+     "Indonesia — Tariff-rate quota linked to purchases of American cotton and textile inputs",
+     "India — Tariff-rate quota linked to purchases of American cotton and textile inputs",
+     "Sri Lanka — 10% duty tier"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "India is not on the tariff-rate quota list. The quotas go to Bangladesh, Cambodia, Indonesia and Malaysia, and the Commerce Ministry says it is pursuing the mechanism in Bilateral Trade Agreement talks. Sri Lanka is among the 17 economies in the 10% tier.",
+    "source": "USTR will set up tariff-rate quotas for Bangladesh, Cambodia, Indonesia, and Malaysia, running an initial three years."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-19-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 633,
+  "output_tokens": 1400,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the March 2026 MNRE extension of ALMM to ingots and wafers and the phased localisation timeline and conditions.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, the Ministry of New and Renewable Energy extended the Approved List of Models and Manufacturers (ALMM) framework to which part of the solar supply chain, with domestic sourcing mandatory from 1 June 2028?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Solar ingots and wafers",
+     "Solar modules",
+     "Solar cells",
+     "Polysilicon"
+    ],
+    "answer": 0,
+    "explain": "MNRE announced on 18 March 2026 that all clean energy projects must use domestically manufactured ingots and wafers from 1 June 2028. Locally assembled modules are already required in state-backed projects, and domestic cells become mandatory from June 2026.",
+    "source": "India will require all clean energy projects to use domestically manufactured solar ingots and wafers from 1 June 2028."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's solar manufacturing localisation push, as of March 2026:",
+    "items": [
+     "Domestically made solar cells become mandatory across all projects from June 2026.",
+     "India's domestic ingot and wafer manufacturing capacity is roughly 15 GW.",
+     "The ALMM list for ingots and wafers will not be issued until at least three independent manufacturers with a combined 15 GW capacity are operational."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: domestic ingot and wafer capacity sits at roughly 2 GW, all built under the PLI scheme; 15 GW is the combined capacity threshold required before the ALMM list is issued. India still relies almost entirely on Chinese imports for cells, ingots, wafers and polysilicon.",
+    "source": "Domestic ingot and wafer capacity sits at roughly 2 GW, all of it built under PLI."
+   }
+  ]
+ }
+}

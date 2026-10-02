@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-17-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 579,
+  "output_tokens": 2333,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the body that cleared caste enumeration, the design of the caste question and Aadhaar provision, and the phased rollout dates of Census 2027.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Census 2027 will include caste enumeration for the first time since independence. Which body cleared this decision in 2025?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Cabinet Committee on Political Affairs",
+     "Cabinet Committee on Economic Affairs",
+     "Cabinet Committee on Security",
+     "Cabinet Committee on Appointments"
+    ],
+    "answer": 0,
+    "explain": "The Cabinet Committee on Political Affairs cleared caste enumeration for Census 2027 in 2025. The move followed Opposition pressure after Bihar's state-level caste survey suggested backward communities make up two-thirds of its population.",
+    "source": "The decision, cleared by the Cabinet Committee on Political Affairs last year"
+   },
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Census 2027 questionnaire, as reported in August 2026:",
+    "items": [
+     "It marks the first inclusion of caste in the national headcount since independence.",
+     "Question 10 uses an open-ended format for self-declaration of caste and tribe.",
+     "Respondents are required to provide their Aadhaar number."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: respondents are asked to provide Aadhaar, voter ID and mobile numbers voluntarily, not compulsorily. The 40-question form also tracks digital literacy, parental details, bank account holdings and Covid-19 vaccination sites.",
+    "source": "Respondents are also asked to voluntarily provide their Aadhaar, voter ID, and mobile numbers."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the rollout of Census 2027:",
+    "items": [
+     "Enumeration began on 17 August 2026 in Ladakh, Jammu & Kashmir and Himachal Pradesh.",
+     "The nationwide survey is scheduled for February 2027 and will use a new mobile application for digital data collection."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements match the story: the first phase began on 17 August 2026 in Ladakh, Jammu & Kashmir and Himachal Pradesh, and the nationwide survey follows in February 2027. Data will be collected digitally through a new mobile application.",
+    "source": "The nationwide survey follows in February 2027, utilizing a new mobile application for digital data collection."
+   }
+  ]
+ }
+}

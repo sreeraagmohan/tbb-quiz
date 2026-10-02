@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-03-13-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 271,
+  "output_tokens": 1190,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the regulator behind the March 2026 warning on weight-loss drug promotion and the scope of that warning.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In March 2026, India warned drugmakers against directly or indirectly advertising prescription weight-loss drugs. Consider the following statements:",
+    "items": [
+     "The warning was issued by the Central Drugs Standard Control Organisation (CDSCO).",
+     "The regulator said that 'awareness campaigns' about such drugs fall outside the scope of its restrictions."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The CDSCO issued the warning and said that even 'awareness campaigns', influencer promotions or exaggerated claims of effectiveness could trigger action. Prescription medicines cannot be marketed to the public under Indian law, and cheaper generic versions of semaglutide were expected once Novo Nordisk's Indian patent expired later in March 2026.",
+    "source": "The Central Drugs Standard Control Organisation (CDSCO) said even “awareness campaigns,” influencer promotions or claims exaggerating drug effectiveness could trigger action."
+   }
+  ]
+ }
+}

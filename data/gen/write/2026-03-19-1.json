@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-19-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 565,
+  "output_tokens": 1560,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "A new Cabinet-approved scheme. The questions test its outlay, scale, per-acre support and state selection, and the programme it builds on.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, the Union Cabinet approved the Bharat Audyogik Vikas Yojna (BHAVYA). Consider the following statements about it:",
+    "items": [
+     "It allocates USD 3.6 billion to develop 100 plug-and-play industrial parks.",
+     "Parks ranging from 100 to 1,000 acres can receive financial assistance of up to USD 100,000 per acre.",
+     "Funding will be shared equally among all states, without any competitive selection."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because states must compete with reform-oriented, investment-ready proposals to win funding. The parks are meant to be fully serviced sites with roads, utilities, drainage, common treatment facilities and ICT networks, built through partnerships between the Centre, states and private developers.",
+    "source": "On Wednesday, the Cabinet approved the Bharat Audyogik Vikas Yojna (BHAVYA), allocating USD 3.6 billion to develop 100 plug-and-play industrial parks nationwide."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The BHAVYA industrial parks scheme, approved by the Union Cabinet in March 2026, builds on which existing programme?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "National Industrial Corridor Development Programme",
+     "Sagarmala Programme",
+     "Bharatmala Pariyojana",
+     "Smart Cities Mission"
+    ],
+    "answer": 0,
+    "explain": "BHAVYA builds on the National Industrial Corridor Development Programme, which already has 20 projects across 13 states. The scheme is part of New Delhi's strategy of large infrastructure spending to draw in private investment and lift industrial growth.",
+    "source": "The scheme builds on the National Industrial Corridor Development Programme, which already has 20 projects across 13 states"
+   }
+  ]
+ }
+}

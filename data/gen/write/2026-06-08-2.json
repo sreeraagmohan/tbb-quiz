@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-08-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 491,
+  "output_tokens": 1522,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official GDP release for FY2025–26: tested the headline and component growth figures, and the RBI's FY2026–27 projection.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's GDP data for FY2025–26, as reported in June 2026:",
+    "items": [
+     "GDP grew 7.8% in the January–March 2026 quarter, and full-year growth was 7.7%.",
+     "Among the drivers cited, private investment grew faster than construction.",
+     "Agriculture grew faster than government expenditure."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Agriculture grew 3.6%, which is slower than the 4.9% contributed by government expenditure, so statement 3 is wrong. Private investment rose 10.8%, its fastest pace in roughly three years, ahead of construction at 8.4%.",
+    "source": "Agriculture recovered to 3.6% growth, supporting rural incomes."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As of June 2026, what growth rate did the Reserve Bank of India project for the Indian economy in FY2026–27?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "6.6%",
+     "7.7%",
+     "7.8%",
+     "8.4%"
+    ],
+    "answer": 0,
+    "explain": "The RBI expects growth to slow to 6.6% in FY2026–27, down from 7.7% in FY2025–26. Inflation, elevated oil prices, geopolitical friction and monsoon risk cloud the outlook, and household consumption has yet to fully fire.",
+    "source": "The Reserve Bank of India (RBI) sees growth slowing to 6.6% this fiscal year."
+   }
+  ]
+ }
+}

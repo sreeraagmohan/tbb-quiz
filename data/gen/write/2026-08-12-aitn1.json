@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-12-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 222,
+  "output_tokens": 1028,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief item; tested the durable fact that India hosts the 2026 BRICS summit, with the payments-linkage agenda as context.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, the RBI Governor said cross-border payments would be a key focus at the 2026 BRICS summit. Which country is hosting that summit?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India",
+     "Brazil",
+     "South Africa",
+     "Russia"
+    ],
+    "answer": 0,
+    "explain": "India is hosting the 2026 BRICS summit. Ahead of it, RBI Governor Sanjay Malhotra said BRICS members are discussing linking fast payment systems and central bank digital currencies to lower cross-border transaction costs, while India keeps pushing the use of the rupee in bilateral trade.",
+    "source": "Speaking ahead of the 2026 BRICS summit hosted by India"
+   }
+  ]
+ }
+}

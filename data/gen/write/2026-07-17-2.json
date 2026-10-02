@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-17-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 551,
+  "output_tokens": 1878,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Cabinet-approved NIPU-2026 policy design, India's urea import dependence and its supply route through the Strait of Hormuz.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, the Union Cabinet approved the National Investment Policy for Urea-2026 (NIPU-2026). Consider the following statements about it:",
+    "items": [
+     "It replaces a 2012 framework that had expired in 2019.",
+     "It offers investors a guaranteed return on equity of 12% to 16%.",
+     "It converts fixed costs to rupees from the first year of a plant's operation."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: fixed costs are converted to rupees only after four years, which shields investors from currency volatility. The policy targets new gas-based plants to cut India's reliance on costly urea imports.",
+    "source": "To lure private capital, the government is offering a guaranteed 12% to 16% return on equity and shielding investors from currency volatility by converting fixed costs to rupees after four years."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As of July 2026, India's biggest supplier of imported urea shipped its cargoes through which strait?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Bab-el-Mandeb",
+     "Strait of Malacca",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "Oman is India's biggest urea supplier, and its shipments pass through the Strait of Hormuz. The West Asia conflict disrupted these supplies and at one point pushed prices to nearly double their pre-conflict level.",
+    "source": "Oman is the biggest supplier and shipments go through the Strait of Hormuz."
+   },
+   {
+    "topic": "Agriculture",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India's urea sector, as reported when NIPU-2026 was approved in July 2026:",
+    "items": [
+     "Share of annual urea requirement imported — 26%",
+     "Existing urea manufacturing units — 33",
+     "Estimated saving per plant compared with the old policy — over INR 250 crore"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. India imports 26% of its urea, and NIPU-2026 aims to add new gas-based plants to the existing 33 units. The government estimates savings of over INR 250 crore per plant compared with the old policy.",
+    "source": "India imports 26% of its annual urea requirement."
+   }
+  ]
+ }
+}

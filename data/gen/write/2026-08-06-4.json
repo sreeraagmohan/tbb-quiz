@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-06-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 622,
+  "output_tokens": 1631,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the parliamentary committee's August 2026 demand on Meta and the durable concept of safe harbour for intermediaries; skips the unconfirmed apology details.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, a parliamentary panel threatened to withdraw Meta's legal immunity in India over Facebook's removal of a video posted by Prime Minister Modi. Consider the following statements:",
+    "items": [
+     "The demand came from the Parliamentary Standing Committee on Communications and Information Technology, which sought an unconditional apology from Meta's chief executive.",
+     "The committee was chaired by Nishikant Dubey.",
+     "Meta publicly confirmed an apology that specifically named the removed video."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong: the apology, as reported, names no video, and Meta has issued no public confirmation. The committee met on August 3 and gave Zuckerberg three days to apologise, failing which safe harbour immunity may be withdrawn.",
+    "source": "The Parliamentary Standing Committee on Communications and Information Technology met on August 3 and sought an unconditional apology from Zuckerberg within three days over Facebook's brief removal of a video posted by Prime Minister Modi."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, a parliamentary committee warned that Meta could lose its 'safe harbour' protection in India. What does safe harbour protection provide to online platforms?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Exemption from liability for content posted by their users",
+     "Exemption from income tax on digital advertising revenue",
+     "Exemption from rules requiring local storage of data",
+     "Exemption from competition law scrutiny of their mergers"
+    ],
+    "answer": 0,
+    "explain": "Safe harbour shields platforms from liability for content their users post. The committee argued that removing the Prime Minister's post was a publisher's act, and officials told a Meta delegation the company no longer qualifies as an intermediary because it selects who receives content.",
+    "source": "Safe harbour shields platforms from liability for content posted by users."
+   }
+  ]
+ }
+}

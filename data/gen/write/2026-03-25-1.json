@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-03-25-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 567,
+  "output_tokens": 2202,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the religions covered by the Constitution (Scheduled Castes) Order, 1950, the details of the March 2026 ruling, and the status of the commissions on Dalit converts.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, the Supreme Court held that, under the Constitution (Scheduled Castes) Order, 1950, Scheduled Caste status is restricted to persons professing which religions?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Hindus, Sikhs and Buddhists",
+     "Hindus and Sikhs only",
+     "Hindus, Sikhs, Buddhists and Jains",
+     "Hindus, Sikhs, Buddhists and Christians"
+    ],
+    "answer": 0,
+    "explain": "The bench held that SC status under the 1950 Order is limited to Hindus, Sikhs and Buddhists, so converting to Christianity or Islam ends it. The court reasoned that the caste system is alien to Christianity and Islam.",
+    "source": "Justices Prashant Kumar Mishra and Manmohan held that SC status is restricted to Hindus, Sikhs, and Buddhists under the Constitution (Scheduled Castes) Order, 1950."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Supreme Court ruling of March 2026 on conversion and Scheduled Caste status:",
+    "items": [
+     "The ruling was delivered by a bench of Justices Prashant Kumar Mishra and Manmohan.",
+     "The case involved an Andhra Pradesh pastor who had been practising Christianity for over a decade.",
+     "The court held that protections under the Scheduled Castes and Scheduled Tribe (Prevention of Atrocities) Act continue to apply to a convert."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong: the court held that once a person converts and practises another faith, protections under the Atrocities Act cease to apply. The court said legal remedies for caste-based discrimination cannot follow a convert.",
+    "source": "Once a person converts and practices another faith – as in the case of an Andhra Pradesh pastor who had been practising Christianity for over a decade – protections under the Scheduled Castes and Scheduled Tribe (Prevention of Atrocities) Act cease to apply."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about commissions on extending Scheduled Caste status to Dalit Christians and Muslims, as of March 2026:",
+    "items": [
+     "A commission in 2007 recommended delinking Scheduled Caste status from religion.",
+     "A commission appointed in 2022 to revisit the question submitted its report in October 2025."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The 2022 commission's report was due in October 2025 but had not been submitted. The Modi government opposes extending SC status to Dalit Christians and Muslims and has dismissed the 2007 recommendation as flawed.",
+    "source": "A new commission was appointed in 2022 to revisit the question; its report, due October 2025, has not been submitted."
+   }
+  ]
+ }
+}

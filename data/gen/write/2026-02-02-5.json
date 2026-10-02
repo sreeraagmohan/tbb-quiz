@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-02-02-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 574,
+  "output_tokens": 635,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story is about refiners only considering Venezuelan crude, which is speculative and depends on future US Treasury rules, with mostly company-level detail and no concluded policy or agreement to test.",
+  "questions": []
+ }
+}

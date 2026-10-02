@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-16-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 279,
+  "output_tokens": 787,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the E20 milestone and the ministry responsible for fuel-dispensing decisions; Gadkari's pricing remark is commentary and is not tested.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about ethanol-blended petrol in India as of July 2026:",
+    "items": [
+     "India had reached 20% ethanol blending, with E20 sold at every fuel station in the country.",
+     "Union Road Transport Minister Nitin Gadkari said that whether pumps should dispense multiple blends was a matter for his own ministry to decide."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "India hit 20% blending, and E20 is now available at every fuel station. Gadkari said the question of multiple blends sits with the Petroleum Ministry and declined to comment. He repeated the government's position that every E10-compliant vehicle can run on E20.",
+    "source": "India has hit 20% ethanol blending, with E20 now sold at every fuel station in the country."
+   }
+  ]
+ }
+}

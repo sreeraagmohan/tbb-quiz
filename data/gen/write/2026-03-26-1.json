@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-03-26-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 470,
+  "output_tokens": 1519,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the coal flexibilisation target (minimum load 55% to 40%) and the CEA cost comparison and solar curtailment mechanism; skips the Ember dollar estimate.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, India delayed by a year its plan to make coal-fired power plants ramp down when solar generation peaks. The plan requires retrofits so that these plants can cut their minimum operating level to which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "40%",
+     "55%",
+     "25%",
+     "70%"
+    ],
+    "answer": 0,
+    "explain": "The retrofits would cut coal plants' minimum use rate to 40% from the current 55%. The plan stalled because the federal regulator has yet to approve a framework on who pays for the retrofits.",
+    "source": "Coal plants need expensive retrofits to cut their minimum use rate to 40% from 55%, but no one has agreed on who pays."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In March 2026, India postponed its plan for flexible operation of coal-fired power plants. Consider the following statements:",
+    "items": [
+     "The Central Electricity Authority estimates that retrofitting coal plants for flexible operation is at least ten times cheaper per kilowatt-hour than battery storage.",
+     "When coal plants cannot ramp down, grid operators curtail solar output and compensate solar generators for the lost revenue."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The CEA puts the retrofit cost at INR 0.28 to INR 0.60 per kilowatt-hour against INR 5.76 to INR 6.04 for battery storage, and the compensation paid to curtailed solar generators is funded through higher electricity tariffs.",
+    "source": "Retrofitting would add just INR 0.28 to INR 0.60 per kilowatt-hour to tariffs, versus INR 5.76 to INR 6.04 for battery storage, making flexible coal at least ten times cheaper, according to the Central Electricity Authority."
+   }
+  ]
+ }
+}

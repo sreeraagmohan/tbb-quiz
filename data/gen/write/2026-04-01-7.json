@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-01-7",
+ "error": null,
+ "usage": {
+  "input_tokens": 363,
+  "output_tokens": 614,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly opinion on the pre-election freebie race. The only durable fact tested is the 2022 Supreme Court reference to the Election Commission.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In 2022, the Supreme Court flagged the problem of electoral freebies and asked which body to act on it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Election Commission",
+     "Finance Commission",
+     "NITI Aayog",
+     "Reserve Bank of India"
+    ],
+    "answer": 0,
+    "explain": "The Supreme Court flagged the freebie problem in 2022 and asked the Election Commission to act. By the 2026 state election cycle, TBB noted that the practice had spread from Tamil Nadu to parties across states, including the BJP.",
+    "source": "The Supreme Court flagged the freebie problem in 2022 and asked the Election Commission to act."
+   }
+  ]
+ }
+}

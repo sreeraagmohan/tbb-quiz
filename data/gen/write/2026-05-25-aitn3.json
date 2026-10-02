@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-25-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 284,
+  "output_tokens": 1305,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the Agni-1 launch site, missile class, range and command, a classic Prelims defence target; the Suryastra flag-off is used as context.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, India test-launched the nuclear-capable Agni-1 missile. Consider the following statements about it:",
+    "items": [
+     "It was launched from Chandipur, Odisha, under the Strategic Forces Command.",
+     "It is an intermediate-range ballistic missile.",
+     "It has a range of 700–1,200 km."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the story describes the Agni-1 as a short-range ballistic missile, not an intermediate-range one. In the same week, Defence Minister Rajnath Singh flagged off Suryastra, India's first 300 km Universal Rocket Launching System.",
+    "source": "India successfully test-launched the nuclear-capable Agni-1 short-range ballistic missile from Chandipur, Odisha on Thursday, validating all operational parameters under the Strategic Forces Command."
+   }
+  ]
+ }
+}

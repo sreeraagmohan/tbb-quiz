@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-01-22-2-1",
+ "story_id": "2026-01-22-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Bangladesh developments in January 2026:",
+  "items": [
+   "India designated Bangladesh a \"non-family posting\" and decided to withdraw the families and dependents of its officials there ahead of Dhaka's general elections.",
+   "The Bangladesh general elections will be the first since the ouster of Sheikh Hasina's government in July 2024.",
+   "The ICC accepted Bangladesh's request to move its 2026 Men's T20 World Cup matches away from India."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The third statement is wrong because the ICC rejected Bangladesh's request to move its matches away from India. The non-family posting status is rare in the Indian Foreign Service and is applied where security concerns make it unsafe for dependents to stay.",
+  "source": "India has decided to withdraw the families and dependents of its officials in Bangladesh ahead of Dhaka’s general elections, designating it a “non-family posting.”"
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Bangladesh developments in January 2026:",
+  "items": [
+   "India designated Bangladesh a \"non-family posting\" and decided to withdraw the families and dependents of its officials there ahead of Dhaka's general elections.",
+   "The Bangladesh general elections will be the first since the ouster of Sheikh Hasina's government in July 2024.",
+   "The ICC rejected Bangladesh's request to move its 2026 Men's T20 World Cup matches away from India."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: India declared Bangladesh a non-family posting ahead of polls that are the first since Sheikh Hasina's ouster in July 2024, and the ICC rejected Bangladesh's request to shift its T20 World Cup matches away from India. The non-family posting status is rare in the Indian Foreign Service and is applied where security concerns make it unsafe for dependents to stay.",
+  "source": "The ICC rejected Bangladesh’s request to move its 2026 Men’s T20 World Cup matches away from India, citing risks to teams and staff."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3570,
+  "output_tokens": 793,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

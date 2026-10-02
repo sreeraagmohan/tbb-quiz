@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-27-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 457,
+  "output_tokens": 1719,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Republic Day 2026 chief guests against earlier years and the office held by António Costa. The FTA announcement was only 'likely', so it is skipped.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of India's Republic Day parade years and their chief guests:",
+    "items": [
+     "2024 — Emmanuel Macron",
+     "2025 — Prabowo Subianto",
+     "2026 — Ursula von der Leyen and António Costa"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct. France's Macron was the chief guest in 2024 and Indonesia's Prabowo in 2025. In January 2026 the EU's two top leaders attended together, marking a shift from big bilateral partners to a bloc.",
+    "source": "European Commission President Ursula von der Leyen and European Council President António Costa attended as guests of honour yesterday."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "António Costa attended India's Republic Day parade in January 2026 as a guest of honour. Which office did he hold at the time?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "President of the European Council",
+     "President of the European Commission",
+     "President of the European Parliament",
+     "EU High Representative for Foreign Affairs"
+    ],
+    "answer": 0,
+    "explain": "Costa attended as European Council President, alongside European Commission President Ursula von der Leyen. The two then attended the EU-India Summit in New Delhi the following day.",
+    "source": "European Commission President Ursula von der Leyen and European Council President António Costa attended as guests of honour yesterday."
+   }
+  ]
+ }
+}

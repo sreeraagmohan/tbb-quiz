@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-04-16-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 498,
+  "output_tokens": 1316,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official export data for FY26 with a trade-policy angle: the shift in markets, FTA-led growth and the India–US tariff framework.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's gem and jewellery exports in the financial year 2025-26, as reported in April 2026:",
+    "items": [
+     "Exports declined during the year, marking the sector's worst performance since 2011.",
+     "The United States remained India's largest jewellery export market.",
+     "Under the India–US trade framework, diamonds and coloured gemstones attract zero duty."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the UAE overtook the US as India's top jewellery export market. Exports fell 3.32% to USD 27.72 billion, mainly because of US tariff pressure. The trade framework restores gems and jewellery tariffs to 18%, with zero duty on diamonds and coloured gemstones.",
+    "source": "The UAE has overtaken the US as India's top jewellery export market."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to growth in India's gem and jewellery exports in FY 2025-26:",
+    "items": [
+     "Exports to the UAE — 22%",
+     "Exports to Australia — 38%",
+     "Silver jewellery exports — 6.27%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Silver jewellery exports surged 52%. The 6.27% figure belongs to studded gold jewellery. The growth in exports to the UAE and Australia was propped up by free trade agreements.",
+    "source": "Silver jewellery took the trend, surging 52% on rising affordability and global demand."
+   }
+  ]
+ }
+}

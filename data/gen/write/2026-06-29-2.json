@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-29-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 671,
+  "output_tokens": 2211,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Seychelles visit (independence day, National Assembly address), its deliverables, and the earlier Assumption Island agreement.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Prime Minister Narendra Modi visited Seychelles. Consider the following statements about the visit:",
+    "items": [
+     "The visit coincided with Seychelles' 50th independence day, at which Modi was the guest of honour.",
+     "Modi became the first Indian prime minister to address the National Assembly of Seychelles."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. Modi attended as guest of honour for the island nation's 50th independence day and addressed its National Assembly, the first Indian prime minister to do so. It was his second visit to Seychelles, after 2015.",
+    "source": "Modi also addressed the National Assembly, the first Indian prime minister to do so."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to Prime Minister Modi's visit to Seychelles in June 2026:",
+    "items": [
+     "Lespwar — Fast Patrol Vessel handed over by India",
+     "Line of credit extended by India — USD 130 million",
+     "Number of agreements signed — Twelve"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "India signed eight agreements, not twelve, spanning areas including digital payments, health, space and extradition. The other two pairs are correct. Lespwar means Hope in Creole, and the civilian anchors included MoUs on UPI and Jan Aushadhi.",
+    "source": "India signed eight agreements spanning digital payments, health, agriculture, shipping, space, capacity building, and extradition, and extended a line of credit worth USD 130 million."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Ahead of Prime Minister Modi's June 2026 visit to Seychelles, an India–Seychelles agreement of 2015, renegotiated in 2018, to build military facilities on which island had been rejected by the Seychelles parliament?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Assumption Island",
+     "Agaléga Island",
+     "Diego Garcia",
+     "Minicoy Island"
+    ],
+    "answer": 0,
+    "explain": "The Assumption Island deal was rejected by the opposition-controlled parliament over sovereignty concerns and reluctance to take sides in the India-China Indian Ocean contest. China has been courting Seychelles since at least 2011.",
+    "source": "A 2015 agreement to build military facilities on Assumption Island, renegotiated in 2018, was rejected by the opposition-controlled parliament over sovereignty concerns and reluctance to take sides in the India-China Indian Ocean contest."
+   }
+  ]
+ }
+}

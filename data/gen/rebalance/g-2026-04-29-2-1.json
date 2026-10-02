@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-29-2-1",
+ "story_id": "2026-04-29-2",
+ "target": 0,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to aviation turbine fuel (ATF) in India as of April 2026:",
+  "items": [
+   "Excise duty on ATF — 11%",
+   "Value Added Tax on ATF in Delhi — 29%",
+   "Cap on April's domestic ATF base price hike — 25%"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Delhi charges 25% VAT on ATF; 29% is Tamil Nadu's rate. The excise duty is 11%, and the government capped April's domestic base price hike at 25% even as international fuel prices rose by over 100%.",
+  "source": "Delhi charges 25% VAT on ATF, Tamil Nadu 29%."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to aviation turbine fuel (ATF) in India as of April 2026:",
+  "items": [
+   "Excise duty on ATF — 11%",
+   "Value Added Tax on ATF in Delhi — 29%",
+   "Cap on April's domestic ATF base price hike — 100%"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Only the first pair is correct, since the excise duty on ATF is 11%. Pair 2 is wrong because Delhi charges 25% VAT on ATF (29% is Tamil Nadu's rate), and pair 3 is wrong because the government capped April's domestic base price hike at 25%, while over 100% was the rise in international fuel prices. With state assembly elections underway, the Federation of Indian Airlines has sought a temporary suspension of the excise duty and cuts in state VAT rates.",
+  "source": "With state assembly elections underway, the government capped April's domestic ATF base price hike at 25% while international fuel prices rose by over 100%."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3127,
+  "output_tokens": 766,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

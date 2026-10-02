@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-18-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 215,
+  "output_tokens": 743,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the international body involved in the Qatar Post–India Post UPI remittance link, a durable fact about UPI's cross-border expansion.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, customers in Qatar became able to send money from Qatar Post outlets directly to UPI-enabled bank accounts in India. Apart from Qatar Post, India Post and NPCI International Payments, which international body helped develop this service?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Universal Postal Union",
+     "International Telecommunication Union",
+     "Bank for International Settlements",
+     "World Trade Organization"
+    ],
+    "answer": 0,
+    "explain": "The Universal Postal Union was one of the four parties that developed the service, alongside Qatar Post, India Post and NPCI International Payments. Senders give the recipient's UPI ID, and recipients must activate foreign inward remittances in their UPI app. India Post is working on similar corridors with other postal operators.",
+    "source": "The service was developed by Qatar Post, India Post, the Universal Postal Union and NPCI International Payments."
+   }
+  ]
+ }
+}

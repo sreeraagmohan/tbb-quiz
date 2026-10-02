@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-03-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 839,
+  "output_tokens": 2290,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the UNICORN defence project, the summit's venue and AI deliverables, and the headline economic figures of the India-Japan relationship.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, India and Japan agreed on the remaining technical details of the UNICORN project. What is UNICORN?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "An integrated mast for Indian Navy ships",
+     "A hypersonic cruise missile for the Indian Army",
+     "A maritime patrol aircraft for the Coast Guard",
+     "A satellite navigation system for the Air Force"
+    ],
+    "answer": 0,
+    "explain": "The Unified Complex Radio Antenna (UNICORN) is an integrated ship mast for the Indian Navy that the two countries have been co-developing. The agreement came alongside India and Japan's first defence co-development agreement, signed during the 16th India-Japan Annual Summit.",
+    "source": "The two governments reached agreement in principle on the remaining technical details of the Unified Complex Radio Antenna (UNICORN) project, an integrated ship mast for the Indian Navy that both sides have been co-developing."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the 16th India-Japan Annual Summit held in July 2026:",
+    "items": [
+     "Prime Minister Narendra Modi and Prime Minister Sanae Takaichi signed the first India-Japan defence co-development agreement in Tokyo.",
+     "The two sides set a target of sending 500 skilled Indian AI professionals to Japan by 2030.",
+     "A research pact on large language models was backed between IIT Bombay and Japan's National Institute of Informatics."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The defence co-development agreement was signed in New Delhi, where Takaichi was on a three-day official visit, not in Tokyo. The two countries also became strategic partners on AI research and development, covering data centres, compute and semiconductors.",
+    "source": "The two sides set a target of sending 500 skilled Indian AI professionals to Japan by 2030 and backed new tie-ups between Indian firms and Japanese counterparts"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India-Japan economic ties as reported in July 2026:",
+    "items": [
+     "India-Japan bilateral trade in 2025-26 — USD 27.5 billion",
+     "Japan's pledged investment in India by the mid-2030s — over USD 61 billion",
+     "Stake acquired by Japan in Yes Bank — 20%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct: trade reached USD 27.5 billion in the last financial year, Japan pledged to more than double investment to over USD 61 billion, and it took a 20% stake in Yes Bank for USD 1.6 billion. Japan also backs the Mumbai-Ahmedabad high-speed rail corridor.",
+    "source": "Bilateral trade reached USD 27.5 billion in the last financial year, and Modi's Tokyo visit last year secured a Japanese pledge to more than double investment in India to over USD 61 billion by the mid-2030s."
+   }
+  ]
+ }
+}

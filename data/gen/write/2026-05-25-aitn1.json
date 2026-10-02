@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-25-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 271,
+  "output_tokens": 872,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4410
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests when the India–Canada CEPA talks were launched and the bilateral trade target. The ministerial visit itself is not tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, Commerce Minister Piyush Goyal visited Canada for the next round of talks on the India–Canada Comprehensive Economic Partnership Agreement (CEPA). Consider the following statements:",
+    "items": [
+     "Negotiations for the India–Canada CEPA were launched during Canadian Prime Minister Mark Carney's visit to India in March 2026.",
+     "India and Canada are targeting bilateral trade of USD 50 billion by 2030."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The CEPA talks began during Carney's visit to India in March 2026, and the two sides aim to reach USD 50 billion in trade by 2030. Bilateral trade stood at only around USD 8 billion in FY2025–26.",
+    "source": "Bilateral trade stood at around USD 8 billion in FY2025–26, with both sides targeting USD 50 billion by 2030."
+   }
+  ]
+ }
+}

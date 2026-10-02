@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-10-01-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 595,
+  "output_tokens": 2134,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the outlay, target, implementation and storage details of Green Energy Corridor phase three, plus the 2035-36 non-fossil capacity target.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about phase three of the Green Energy Corridor Scheme, approved by the Union Cabinet in 2026:",
+    "items": [
+     "It has an outlay of INR 1.9 trillion to upgrade state power grids and integrate renewable energy.",
+     "It aims to move 135 gigawatts of renewable capacity from remote areas to the main grid by 2032-33.",
+     "Its implementation will be overseen by a central public sector transmission company rather than state utilities."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: state transmission utilities will oversee implementation, and new transmission projects will be competitively tendered. The corridor builds lines and substations to connect renewable generation to the grid.",
+    "source": "State transmission utilities will oversee implementation."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the Green Energy Corridor Scheme as reported in October 2026:",
+    "items": [
+     "Renewable capacity targeted by phase two — 20 gigawatts",
+     "Battery storage included in phase three — 50 gigawatt-hours",
+     "Direct central financial support for phase three — INR 540 billion"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the story. Phase two, approved in 2022, targeted 20 GW, while phase three adds 50 GWh of battery storage to ease congestion and supply power outside solar hours, backed by INR 540 billion of central support to keep tariffs low.",
+    "source": "That’s a big jump compared to the 20 gigawatts targeted by phase two, approved in 2022."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "According to reporting on the Green Energy Corridor phase three approval in 2026, what is India's target for non-fossil power capacity by 2035-36?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "900 gigawatts",
+     "500 gigawatts",
+     "600 gigawatts",
+     "1,000 gigawatts"
+    ],
+    "answer": 0,
+    "explain": "India targets 900 GW of non-fossil capacity by 2035-36, and the corridor expansion is meant to support it. In July 2026, transmission bottlenecks left about 12 GW of solar capacity unable to run at full output.",
+    "source": "The expansion aligns with India’s target of hitting 900 gigawatts of non-fossil capacity by 2035-2036, while boosting domestic battery manufacturing and grid management supply chains."
+   }
+  ]
+ }
+}

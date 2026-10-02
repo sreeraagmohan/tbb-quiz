@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-02-11-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 660,
+  "output_tokens": 2294,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests India's critical minerals policy timeline, China's share of India's magnet supply, and the partner countries in the February 2026 minerals talks.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's policy push on critical minerals and rare-earths, as reported in February 2026:",
+    "items": [
+     "In 2023, India classified more than 20 minerals as critical to its aim of self-reliance.",
+     "The USD 800mn incentive scheme approved in November 2025 targets 6,000 tonnes of permanent magnets annually within three years.",
+     "The Union Budget 2026-27 announced Dedicated Rare-Earth Corridors to cluster mining, processing, R&D and manufacturing."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the scheme targets 6,000 tonnes of permanent magnets annually within seven years, not three. The rare-earth corridors aim to shorten timelines, ease approvals and give investors predictable infrastructure.",
+    "source": "In November 2025, it approved an USD 800mn incentive scheme targeting 6,000 tonnes of permanent magnets annually within seven years."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As reported in February 2026, roughly what share of India's magnets is supplied by China?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Nearly 90%",
+     "Nearly 50%",
+     "Nearly 25%",
+     "Nearly 70%"
+    ],
+    "answer": 0,
+    "explain": "China dominates rare-earth processing and supplies nearly 90% of India's magnets. Magnets are central to EVs, renewables, grid storage and defence electronics, which is why India is seeking alternative partners.",
+    "source": "Today, that supply chain runs largely through China, which dominates rare-earth processing and supplies nearly 90% of India’s magnets."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In February 2026, India was reported to be in talks to jointly explore, extract, process and recycle lithium and rare-earths with which group of countries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Brazil, Canada, France and Netherlands",
+     "Australia, Chile, Japan and Germany",
+     "Argentina, Canada, Japan and Netherlands",
+     "Brazil, Australia, Germany and France"
+    ],
+    "answer": 0,
+    "explain": "New Delhi is talking to Brazil, Canada, France and the Netherlands. Brazil and Canada bring mining depth, while France and the Netherlands add processing technology, advanced manufacturing and long-term capital.",
+    "source": "New Delhi is in talks with Brazil, Canada, France, and Netherlands to jointly explore, extract, process, and recycle lithium and rare-earths."
+   }
+  ]
+ }
+}

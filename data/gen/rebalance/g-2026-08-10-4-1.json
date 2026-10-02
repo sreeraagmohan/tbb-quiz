@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-10-4-1",
+ "story_id": "2026-08-10-4",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026, passed by Parliament in August 2026:",
+  "items": [
+   "It mandates that mediation in delayed-payment disputes must be completed within 90 days.",
+   "If a buyer's challenge to an arbitral award is pending for more than six months, courts must release at least 50 per cent of the awarded amount to the MSE supplier.",
+   "It raises the share of an arbitral award that a buyer must deposit with the court when challenging it from 50 per cent to 75 per cent."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: buyers already had to deposit 75 per cent of an award, but its release to the supplier was left to judicial discretion. The bill adds a floor of 50 per cent release once a challenge has been pending for over six months.",
+  "source": "Now, if the challenge sits pending for more than six months, courts must release at least 50 per cent of the awarded amount to the MSE supplier upfront."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Micro, Small and Medium Enterprises Development (Amendment) Bill, 2026, passed by Parliament in August 2026:",
+  "items": [
+   "It mandates that mediation in delayed-payment disputes must be completed within 90 days.",
+   "If a buyer's challenge to an arbitral award is pending for more than six months, courts must release at least 50 per cent of the awarded amount to the MSE supplier.",
+   "Even before the amendment, a buyer challenging an arbitral award had to deposit 75 per cent of it with the court, but its release to the supplier was left to judicial discretion."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the bill mandates that mediation be completed within 90 days and adds a floor of 50 per cent release once a challenge has been pending for over six months. The 75 per cent deposit requirement already existed, but release of that money was previously at judicial discretion.",
+  "source": "Buyers challenging an arbitral award already had to deposit 75 per cent of it with the court, but release of that money to the supplier was left to judicial discretion."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3880,
+  "output_tokens": 706,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-31-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 299,
+  "output_tokens": 1026,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the KABIL lithium project in Argentina, the India–Chile CEPA upgrade and the venue of the India-Argentina Joint Trade Committee.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, India's Commerce Secretary held trade talks in Chile and Argentina. Consider the following statements:",
+    "items": [
+     "State-owned miner KABIL's Catamarca lithium project is the first by an Indian company in Argentina.",
+     "India and Chile are negotiating a Comprehensive Economic Partnership Agreement to upgrade a preferential pact in force since 2007.",
+     "The fourth India-Argentina Joint Trade Committee was held in Santiago."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. The fourth India-Argentina Joint Trade Committee was held in Buenos Aires, while Santiago was where the Commerce Secretary advanced the CEPA talks with Chile. India's trade with Argentina topped USD 6.5 billion in 2025, up 17 per cent.",
+    "source": "Days earlier in Buenos Aires he led the fourth India-Argentina Joint Trade Committee, where state-owned miner KABIL reported progress on its Catamarca lithium project, the first by an Indian company in Argentina."
+   }
+  ]
+ }
+}

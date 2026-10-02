@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-09-28-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 546,
+  "output_tokens": 1585,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the September 2026 emergency order on captive coal plants, the causes of the power shortfall, and the depletion of coal stocks.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, India ordered 112 coal-fired captive power plants to maximise generation from October to December and sell surplus electricity to the grid. Consider the following statements in this context:",
+    "items": [
+     "The order covers plants supplying industries such as steel mills and aluminium smelters.",
+     "Weaker rainfall reduced hydroelectric generation, forcing coal plants to compensate.",
+     "Nighttime electricity shortages in September 2026 were lower than the shortfalls of the preceding summer."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. Nighttime shortages reached 7.7 gigawatts in September, exceeding the summer shortfalls. Earlier, in March, disrupted gas supplies had prompted preparations to force imported-coal plants to raise generation.",
+    "source": "Nighttime electricity shortages reached 7.7 gigawatts in September, exceeding this year’s summer shortfalls."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "By late September 2026, power-station coal stocks in India had fallen sharply since the end of August. Roughly how many days' supply did they hold without replenishment?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "About seven days",
+     "About fifteen days",
+     "About twenty-one days",
+     "About thirty days"
+    ],
+    "answer": 0,
+    "explain": "Coal stocks at power stations fell 24% between end-August and 26 September, leaving roughly seven days' supply. Relief was uneven: cooler weather and extra power purchases helped Kerala avoid cuts on September 24–25.",
+    "source": "Power-station coal stocks fell 24% between end-August and 26 September, leaving roughly seven days’ supply without replenishment."
+   }
+  ]
+ }
+}

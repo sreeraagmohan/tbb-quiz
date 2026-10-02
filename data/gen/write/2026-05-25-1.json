@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-25-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 641,
+  "output_tokens": 1631,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US tariff legal shift (Section 122 and Section 301) and the Quad membership. The diplomatic mood and the energy pitch are skipped as soft.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about US trade measures affecting India, as of May 2026:",
+    "items": [
+     "The US Supreme Court scrapped the \"Liberation Day\" tariffs, which had been the original basis for the India–US trade deal.",
+     "After the ruling, Washington imposed a flat duty of 18% under Section 122.",
+     "The US launched Section 301 investigations into Indian trade practices."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the flat duty under Section 122 is 10%, not 18%. India–US trade talks stalled after the Supreme Court ruling, and US negotiators were expected in India in June 2026.",
+    "source": "Washington pivoted to a 10% flat duty under Section 122 and launched Section 301 investigations into Indian trade practices"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, US Secretary of State Marco Rubio was due to attend a Quad foreign ministers' meeting. Which group of countries makes up the Quad?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India, the US, Australia and Japan",
+     "India, the US, Australia and South Korea",
+     "India, the US, Japan and the Philippines",
+     "India, the US, the UK and Australia"
+    ],
+    "answer": 0,
+    "explain": "Rubio was to meet his counterparts from India, Australia and Japan at the Quad ministerial meeting. Despite the trade friction, the security imperative in the Indo-Pacific remains what holds the India–US partnership together.",
+    "source": "Rubio heads into a Quad ministerial meeting on Tuesday with counterparts from India, Australia, and Japan."
+   }
+  ]
+ }
+}

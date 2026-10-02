@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-03-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 482,
+  "output_tokens": 870,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Regulatory action on a planned app feature with little durable content; tested only which ministry issued the directive.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, which Union ministry directed Meta to explain why regulatory action should not be taken over WhatsApp's planned username feature?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Ministry of Electronics and Information Technology",
+     "Ministry of Information and Broadcasting",
+     "Ministry of Home Affairs",
+     "Ministry of Communications"
+    ],
+    "answer": 0,
+    "explain": "MeITY gave Meta three days to respond and asked it to hold off on launching the feature in India until consultations are complete. The ministry's concern was that usernames would let users start conversations without revealing their phone numbers, enabling anonymous communication.",
+    "source": "On Wednesday, the Ministry of Electronics and Information Technology (MeITY) directed Meta to explain within three days why regulatory action should not be taken and asked the company to hold off on rolling out the feature in India until consultations are complete."
+   }
+  ]
+ }
+}

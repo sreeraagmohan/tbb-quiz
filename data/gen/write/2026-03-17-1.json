@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-03-17-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 805,
+  "output_tokens": 2281,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the tanker seizure by the Coast Guard, India's LPG import sources and the LPG carriers cleared through Hormuz; skips the contested swap claims.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, India intercepted three tankers, the Asphalt Star, Al Jafzia and Stellar Ruby, which later figured in India–Iran talks. Consider the following statements about them:",
+    "items": [
+     "They were intercepted by the Indian Coast Guard about 100 nautical miles off Mumbai.",
+     "All three vessels fly the Iranian flag.",
+     "They were alleged to have falsified their identities and conducted illegal ship-to-ship fuel transfers."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Only Stellar Ruby flies an Iranian flag; the other two are registered in Nicaragua and Mali. In March 2026, Iran's ambassador met Indian foreign ministry officials to seek their release as India negotiated safe passage through the Strait of Hormuz.",
+    "source": "India's Coast Guard intercepted the Asphalt Star, Al Jafzia and Stellar Ruby about 100 nautical miles off Mumbai in early February, alleging they had falsified their identities and conducted illegal ship-to-ship fuel transfers."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "During the Strait of Hormuz disruption of March 2026, almost all of India's LPG imports came from which two countries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Qatar and the UAE",
+     "Saudi Arabia and Kuwait",
+     "Iran and Iraq",
+     "Oman and Bahrain"
+    ],
+    "answer": 0,
+    "explain": "Almost all of India's LPG imports come from Qatar and the UAE, and there is no bypass route for them. That made cooking gas the bottleneck, while crude imports were largely rerouted via Russian supplies and alternative Gulf ports.",
+    "source": "Almost all of India's LPG imports come from Qatar and the UAE, and there is no bypass for it."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, Shivalik and Nanda Devi were in the news. What were they?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Indian LPG carriers allowed through the Strait of Hormuz",
+     "Tankers seized by the Coast Guard off Mumbai",
+     "Indian Navy frigates sent to force open the strait",
+     "Crude tankers rerouted to carry Russian oil"
+    ],
+    "answer": 0,
+    "explain": "Tehran let the two Indian LPG carriers through the strait, and Jaishankar cited them as proof that talking had yielded results. Six more LPG-laden vessels remained stuck in the Gulf, and India avoided Trump's call to send warships.",
+    "source": "Tehran recently let two Indian LPG carriers, Shivalik and Nanda Devi, through the strait."
+   }
+  ]
+ }
+}

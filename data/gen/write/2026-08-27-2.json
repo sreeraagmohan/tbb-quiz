@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-27-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 592,
+  "output_tokens": 1446,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the terms of the Rolls-Royce engine offer for the AMCA, the rival Safran–GTRE proposal and the single-crystal blade technology. All of this is an offer, not a signed deal.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, Rolls-Royce offered India a full transfer of technology on the engine for the Advanced Medium Combat Aircraft (AMCA). Consider the following statements about the offer:",
+    "items": [
+     "India would keep the intellectual property rights on the engine.",
+     "The offer runs through a UK inter-governmental agreement and falls outside the US International Traffic in Arms Regulations (ITAR).",
+     "The rival bidder, France's Safran, has proposed co-development with Hindustan Aeronautics Limited."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because Safran has proposed co-development with the Gas Turbine Research Establishment (GTRE), India's state engine lab. Staying outside ITAR matters because those rules let Washington block the export, sale or upgrade of any weapon carrying American technology.",
+    "source": "Rolls-Royce is up against France's Safran, which has proposed co-development with the Gas Turbine Research Establishment (GTRE), India's state engine lab."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, during talks on an engine for the AMCA fighter, India was pressing Rolls-Royce for the hardest jet-engine technology of all, which lets an engine run hotter and so produce more thrust. Which technology is this?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Single-crystal turbine blade",
+     "Thrust-vectoring exhaust nozzle",
+     "Ceramic thermal barrier tile",
+     "Variable-geometry air intake"
+    ],
+    "answer": 0,
+    "explain": "The story names the single-crystal turbine blade as the piece India wants most, because it lets an engine run hotter and push harder. India builds airframes, missiles and radar, but has long struggled to build a high-thrust jet engine, and the Tejas relies on GE engines whose deliveries have run late.",
+    "source": "India is pressing for the hardest piece of all: the single-crystal turbine blade which lets an engine run hotter and therefore push harder."
+   }
+  ]
+ }
+}

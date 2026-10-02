@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-08-18-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 616,
+  "output_tokens": 1958,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the August 2026 MQ 9B Sea Guardian lease (service, duration, bridge to the purchased fleet), the contracting company, and Great Nicobar's location near the Malacca Strait.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the MQ 9B Sea Guardian lease contract signed by India's defence ministry in August 2026:",
+    "items": [
+     "The two drones were leased for the Indian Air Force.",
+     "The drones will provide maritime surveillance for 30 months.",
+     "India has separately purchased 31 MQ 9B drones from the United States, with first deliveries expected in January 2029."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong because the two drones were leased for the Navy, not the Air Force. The 30-month lease expires around February 2029, making it a bridge to the 31 purchased MQ 9B drones whose deliveries begin in January 2029.",
+    "source": "On Monday, the defence ministry signed an INR 1,943 crore (USD 203 million) contract with General Atomics to lease two MQ 9B Sea Guardian drones for the Navy."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, India's defence ministry signed a contract to lease two MQ 9B Sea Guardian drones for the Navy from which company?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "General Atomics",
+     "Lockheed Martin",
+     "Northrop Grumman",
+     "Boeing"
+    ],
+    "answer": 0,
+    "explain": "The INR 1,943 crore (USD 203 million) contract was signed with General Atomics. The high altitude, long endurance drones can stay airborne longer than ships or crewed aircraft, giving more continuous coverage of Chinese activity in the Indian Ocean.",
+    "source": "On Monday, the defence ministry signed an INR 1,943 crore (USD 203 million) contract with General Atomics to lease two MQ 9B Sea Guardian drones for the Navy."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "India plans to develop Great Nicobar as a major transshipment and logistics hub near the approaches to which strait?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Malacca Strait",
+     "Strait of Hormuz",
+     "Palk Strait",
+     "Bab-el-Mandeb Strait"
+    ],
+    "answer": 0,
+    "explain": "Great Nicobar lies near the approaches to the Malacca Strait. As of August 2026, the port, intended to draw cargo away from Colombo, Singapore and Port Klang, was still awaiting final Cabinet approval.",
+    "source": "New Delhi also plans to turn Great Nicobar into a major transshipment and logistics hub near the approaches to the Malacca Strait."
+   }
+  ]
+ }
+}

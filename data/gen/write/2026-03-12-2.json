@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-12-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 534,
+  "output_tokens": 1726,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Unconfirmed corporate announcement with a thin policy angle. Tested the stated features of the announced Texas refinery and the location of Reliance's Jamnagar complex.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, US President Donald Trump announced that Reliance Industries would fund a new oil refinery in Brownsville, Texas. Consider the following statements about this announcement:",
+    "items": [
+     "The facility is designed to exclusively process American shale oil.",
+     "The USD 300 billion figure attached to the project reflects its construction costs.",
+     "Reliance Industries confirmed its role as an equity investor soon after the announcement."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the first statement is correct. The USD 300 billion figure reflects 20 years of projected output, not construction costs, and Reliance stayed silent, disclosing neither the investment size nor whether its role is an equity stake, offtake agreement or partnership. It would be the first new US oil refinery in 50 years.",
+    "source": "though the USD 300 billion figure reflects 20 years of projected output, not construction costs."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Reliance Industries' Jamnagar refining complex, described in March 2026 as the world's largest, is located in which Indian state?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Gujarat",
+     "Maharashtra",
+     "Odisha",
+     "Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explain": "The Jamnagar complex is in Gujarat and can process 1.4 million barrels of crude daily. As of March 2026, Reliance held no overseas refining assets.",
+    "source": "Reliance operates the world’s largest refining complex in Jamnagar, Gujarat, capable of processing 1.4 million barrels of crude daily."
+   }
+  ]
+ }
+}

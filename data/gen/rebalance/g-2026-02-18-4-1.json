@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-18-4-1",
+ "story_id": "2026-02-18-4",
+ "target": 1,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the National Green Tribunal (NGT) ruling of February 2026 on the Great Nicobar mega-project:",
+  "items": [
+   "The NGT dismissed challenges to the environmental clearance granted to the project in 2022.",
+   "The project is planned near Galathea Bay, a biodiversity hotspot.",
+   "In clearing the project, the NGT relied on a report of the Central Pollution Control Board."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because the NGT relied on a High-Powered Committee, not the Central Pollution Control Board, to declare that adequate safeguards are in place. The INR 900 billion project can proceed subject to full and strict compliance with approval conditions, though critics warn of harm to nesting leatherback turtles.",
+  "source": "On Monday, the NGT dismissed challenges to the 2022 environmental clearance, relying on a High-Powered Committee to declare that adequate safeguards are already in place."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the National Green Tribunal (NGT) ruling of February 2026 on the Great Nicobar mega-project:",
+  "items": [
+   "In clearing the project, the NGT relied on a report of the Central Pollution Control Board.",
+   "The NGT dismissed challenges to the environmental clearance granted to the project in 2022.",
+   "The project is planned near Galathea Bay, a biodiversity hotspot."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the NGT relied on a High-Powered Committee, not the Central Pollution Control Board, to declare that adequate safeguards are in place. The INR 900 billion project can proceed subject to full and strict compliance with approval conditions, though critics warn of harm to nesting leatherback turtles.",
+  "source": "On Monday, the NGT dismissed challenges to the 2022 environmental clearance, relying on a High-Powered Committee to declare that adequate safeguards are already in place."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3235,
+  "output_tokens": 620,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

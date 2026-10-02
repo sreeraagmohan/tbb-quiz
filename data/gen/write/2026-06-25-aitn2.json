@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-25-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 330,
+  "output_tokens": 1262,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The visit produced no signed outcome, so the question tests only the negotiators and the stated aim of an interim deal under the India-US BTA.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, US Trade Representative Jamieson Greer visited New Delhi for trade negotiations with India. Consider the following statements:",
+    "items": [
+     "Greer held talks with India's Commerce and Industry Minister Piyush Goyal.",
+     "The visit was framed as a step towards finalising an interim agreement, consistent with a joint statement of 7 February 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. Greer held multiple rounds of talks with Piyush Goyal from 22 to 24 June 2026, and both sides cast the interim deal as a milestone towards a comprehensive Bilateral Trade Agreement. The talks covered market access, digital trade, supply chain resilience and the reduction of non-tariff barriers.",
+    "source": "The visit was framed as a step towards finalising an interim agreement, consistent with the joint statement of 7 February, that both sides cast as a milestone towards a comprehensive BTA delivering tangible benefits for businesses, farmers, workers, and consumers in both countries."
+   }
+  ]
+ }
+}

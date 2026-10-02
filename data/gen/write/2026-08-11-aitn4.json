@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-11-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 271,
+  "output_tokens": 1041,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests TRAI's August 2026 extension of the 1601 numbering series: sectors covered, allocation rules and the existing BFSI framework.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the Telecom Regulatory Authority of India (TRAI) directed telecom providers to roll out 1601-series numbers for more sectors. Consider the following statements about this direction:",
+    "items": [
+     "It covers service and transactional calls made by utilities, courier and logistics companies, with onboarding to be completed within 90 days.",
+     "The numbers will be allocated to aggregators, who may route calls on behalf of several businesses.",
+     "The 1601-series framework was already in use by banking, financial services and insurance firms."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong. The numbers go directly to verified entities, not to intermediaries or aggregators, and cannot be used for promotional calls. The aim is to help consumers tell legitimate business calls apart from fraudsters who impersonate firms using ordinary 10-digit numbers.",
+    "source": "Numbers will be allocated directly to verified entities rather than intermediaries or aggregators, and cannot be used for promotional calls."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-02-03-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 539,
+  "output_tokens": 1066,
+  "cache_creation_input_tokens": 4410,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The Alipay+ link is still only at the talks stage, so the question tests the settled facts: UPI's corridor model, NPCI's role and the 2020 ban.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In February 2026, reports said India was in talks with Ant International to link UPI with Alipay+ for overseas use. Consider the following statements about the context of these talks:",
+    "items": [
+     "UPI has already been taken abroad through bilateral corridors with countries including Singapore and the United Arab Emirates.",
+     "Under the corridor model, the National Payments Corporation of India ties up with local payment networks and regulators market by market.",
+     "Alibaba's consumer apps, including Alipay, have been banned in India since 2023."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because Alibaba's consumer apps, including Alipay, have been banned in India since 2020, not 2023. Linking UPI to Alipay+ would shift its expansion from slow bilateral corridors to a single platform integration spanning multiple countries.",
+    "source": "UPI has already been taken abroad through bilateral corridors with countries like Singapore and the United Arab Emirates."
+   }
+  ]
+ }
+}

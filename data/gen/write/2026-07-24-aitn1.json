@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-24-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 250,
+  "output_tokens": 1174,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the maiden flight-test of DRDO's Kusha long-range surface-to-air missile: the missile type and the test site.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Kusha missile, which had its maiden flight-test in July 2026:",
+    "items": [
+     "It is a long-range surface-to-air missile developed by the Defence Research and Development Organisation (DRDO).",
+     "Its maiden flight-test was conducted from APJ Abdul Kalam Island off the coast of Odisha."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "DRDO flight-tested the Kusha long-range surface-to-air missile from APJ Abdul Kalam Island off Odisha on 23 July 2026, intercepting an electronic target that simulated a high-speed, high-altitude threat. DRDO says the system can engage fighter jets, missiles, drones and large aircraft, and its missiles, radars and command centre were developed by DRDO laboratories and industry partners.",
+    "source": "The Defence Research and Development Organisation (DRDO) conducted the maiden flight-test of the Kusha long-range surface-to-air missile from APJ Abdul Kalam Island off Odisha on July 23, 2026, intercepting an electronic target simulating a high-speed, high-altitude aerial threat."
+   }
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-08-06-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 1001,
+  "output_tokens": 1695,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the E20 rollout timeline and chloride limit, and the nature of SIAM's withdrawn letter; skipped company names and contested sample figures.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's E20 ethanol-blended petrol programme, as reported in August 2026:",
+    "items": [
+     "E20 replaced the older E10 blend nationwide in 2025, five years ahead of a 2030 target.",
+     "E20-ready cars first reached showrooms in 2023.",
+     "The Centre's precautionary ceiling for chloride in blending ethanol is 350 parts per million."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The Centre's precautionary chloride ceiling for blending ethanol is 3 ppm. The 350 ppm figure is what SIAM's letter reported at the pump. Because E20-ready cars arrived only in 2023, most vehicles on the road were built for weaker blends.",
+    "source": "E20 replaced the older E10 blend nationwide in 2025, five years ahead of a 2030 target"
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Society of Indian Automobile Manufacturers (SIAM) withdrew a letter on E20 fuel quality. Consider the following statements:",
+    "items": [
+     "The letter had been sent to the petroleum ministry and linked part failures to high chloride levels in E20.",
+     "In withdrawing the letter, SIAM retracted its claim that contaminated fuel was corroding vehicle parts."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "SIAM did not take back the contamination claim. It pulled the letter so that the reported figures could be authenticated through wider data collection. The July 28 letter had blamed chloride corrosion for failures in fuel injectors, fuel pumps and EGR valves.",
+    "source": "SIAM did not take back the contamination claim."
+   }
+  ]
+ }
+}

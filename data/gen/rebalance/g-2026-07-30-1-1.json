@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-30-1-1",
+ "story_id": "2026-07-30-1",
+ "target": 1,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In July 2026, the Lok Sabha passed the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026. Consider the following statements about the bill:",
+  "items": [
+   "Appeals against a Special Fast Track Court order lie only to the High Court, heard by a bench of two judges.",
+   "It sets a two-month limit for investigation and a three-month deadline for trial.",
+   "With its passage by the Lok Sabha, the bill became law."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The third statement is wrong because the bill, passed by voice vote in the Lok Sabha, still needs the Rajya Sabha and presidential assent. High Court appeals must be disposed of within three months, and no other appeal or revision is available.",
+  "source": "The bill still needs the Rajya Sabha and presidential assent."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In July 2026, the Lok Sabha passed the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026. Consider the following statements about the bill:",
+  "items": [
+   "Appeals against a Special Fast Track Court order lie only to the High Court, heard by a bench of three judges.",
+   "It sets a two-month limit for investigation and a three-month deadline for trial.",
+   "Despite its passage by the Lok Sabha, the bill still needs the Rajya Sabha and presidential assent to become law."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "The first statement is wrong because appeals against a Special Fast Track Court order go only to the High Court and are heard by a bench of two judges, not three. Such appeals must be disposed of within three months, and no other appeal or revision is available.",
+  "source": "Appeals against a Special Fast Track Court order will go only to the High Court, heard by a bench of two judges and disposed of within three months."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3355,
+  "output_tokens": 814,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

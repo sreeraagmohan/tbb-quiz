@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-03-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 495,
+  "output_tokens": 924,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the shift from AQI-triggered to fixed-calendar winter curbs in Delhi and the key measures announced in July 2026.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, the Delhi government announced measures to tackle winter air pollution. Consider the following statements about these measures:",
+    "items": [
+     "Restrictions between November 1 and February 28 will apply only on days when the AQI crosses a specified threshold.",
+     "Public and private offices must move 50% of their staff to remote work between November 1 and January 31.",
+     "Parking fees will be doubled to discourage the use of private vehicles."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the curbs will run continuously from November 1 to February 28 regardless of the AQI, replacing the earlier practice of acting only after air quality deteriorated. The package also includes staggered government office hours, a ban on non-essential outdoor civil construction and cash incentives for scrapping old vehicles for EVs.",
+    "source": "Now, curbs will run continuously from November 1 to February 28, regardless of the AQI."
+   }
+  ]
+ }
+}

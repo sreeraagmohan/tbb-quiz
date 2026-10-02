@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-30-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 558,
+  "output_tokens": 1451,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the Economic Survey's central framing of economic statecraft and its three global scenarios with their probabilities and policy prescription.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "According to the Economic Survey released in January 2026, the global economy is shifting from efficiency-driven multilateralism towards which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Economic statecraft",
+     "Managed globalisation",
+     "Regional protectionism",
+     "Strategic decoupling"
+    ],
+    "answer": 0,
+    "explain": "The Survey says the world is moving to economic statecraft, where economic means are used to achieve political ends. It expects less trust, more shocks and thinner margins in this new order.",
+    "source": "The global economy is shifting from efficiency-driven multilateralism to economic statecraft, economic means are used to achieve political ends."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the global scenarios and prescriptions in India's Economic Survey released in January 2026:",
+    "items": [
+     "It assigns a 40–45% probability each to 'managed disorder' and 'disorderly multipolar breakdown'.",
+     "It describes a 'systemic shock cascade' as a financial rupture that would be milder than the 2008 crisis.",
+     "It recommends moving from import substitution to indispensability."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the Survey gives the systemic shock cascade a 10–20% probability and says it would be worse than 2008, driven by AI-infrastructure excess meeting a geopolitical shock. Its prescription also includes earning hard currency and diversifying trade and payments.",
+    "source": "A financial rupture. Think AI-infrastructure excess meets geopolitical shock; worse than 2008."
+   }
+  ]
+ }
+}

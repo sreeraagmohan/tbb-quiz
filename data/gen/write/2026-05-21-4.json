@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-21-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 524,
+  "output_tokens": 1521,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the government's incentives and the market's size, plus the anchor investor. Skipped the city-wise debut plans, which are still expected rather than done.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about municipal bonds in India, as reported in May 2026:",
+    "items": [
+     "Indian municipal bonds had raised only INR 45 billion over the previous nine years.",
+     "The government is offering 2% interest subsidies to encourage municipal bond issues.",
+     "The government is offering incentives of INR 10 billion for large municipal bond issues."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The incentive for large issues is INR 1 billion (USD 10 million), not INR 10 billion. The incentive is meant to revive a stagnant market that raised only INR 45 billion in nine years. Regulators are also tightening disclosure rules because investors worry about opaque local accounting.",
+    "source": "the government is offering INR 1 billion (USD 10 million) incentives for large issues and 2% interest subsidies"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In May 2026, which state-backed institution was reported to be stepping in as an anchor investor for debut municipal bond issues by Indian cities?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "National Bank for Financing Infrastructure and Development",
+     "National Bank for Agriculture and Rural Development",
+     "Small Industries Development Bank of India",
+     "Export-Import Bank of India"
+    ],
+    "answer": 0,
+    "explain": "The National Bank for Financing Infrastructure and Development and commercial banks are acting as anchor investors. Close to a dozen cities, including at least seven in Maharashtra, are preparing debut issues. New rules will also allow refinancing of old loans and higher rates for retail investors.",
+    "source": "Key players like the state-backed National Bank for Financing Infrastructure and Development and commercial banks are stepping in as anchor investors."
+   }
+  ]
+ }
+}

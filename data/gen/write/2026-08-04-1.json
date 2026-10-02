@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-04-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 886,
+  "output_tokens": 2043,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the draft V2V mandate (ministry, rules amended, dates, C-V2X band) and the separate AIS-209 framework for two-wheeled ambulances.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, a draft notification proposed mandatory Vehicle-to-Vehicle (V2V) communication systems in new vehicles in India. Consider the following statements about it:",
+    "items": [
+     "It was issued by the Ministry of Road Transport and Highways as an amendment to the Central Motor Vehicles Rules.",
+     "It proposes that fitment of V2V systems becomes compulsory from October 1, 2027.",
+     "The technology it specifies, Cellular Vehicle-to-Everything (C-V2X), runs on the 5.9 GHz band that the Department of Telecommunications had exempted from licensing."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because compulsory fitment starts from October 1, 2028. October 1, 2027 is only the date from which vehicles that carry a V2V system must conform to AIS-230. The system broadcasts position, speed, direction and braking status over radio, so it reaches vehicles that cameras and radar cannot see.",
+    "source": "From October 1, 2028, fitment becomes compulsory."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, the Ministry of Road Transport and Highways proposed a first regulatory framework for two-wheeled road ambulances. Which Automotive Industry Standard does the framework adopt?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "AIS-209",
+     "AIS-230",
+     "AIS-140",
+     "AIS-156"
+    ],
+    "answer": 0,
+    "explain": "The framework adopts AIS-209 for L2-category machines fitted with a stretcher or patient-conveyance unit, from October 1, 2027. AIS-230 is the standard for the separate V2V communication mandate. The ambulances are aimed at rural, remote and hilly areas, and each state decides where they may operate.",
+    "source": "The same day, the ministry proposed a first regulatory framework for two-wheeled road ambulances, adopting standard AIS-209 for L2-category machines fitted with a stretcher or patient-conveyance unit, also from October 1, 2027."
+   }
+  ]
+ }
+}

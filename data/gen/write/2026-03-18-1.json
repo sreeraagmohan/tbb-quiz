@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-03-18-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 620,
+  "output_tokens": 1186,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested India's diplomatic stance on Pakistan's March 2026 Kabul strikes, which is durable IR context. Skipped casualty figures and the disputed details about the target.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, Pakistan carried out airstrikes in Kabul that hit the Omid Addiction Treatment Hospital. Consider the following statements about the international response:",
+    "items": [
+     "India based its condemnation on sovereignty and civilian harm, without addressing whether the Taliban harbours militants.",
+     "India was the only country to condemn Pakistan's actions outright.",
+     "India sent a special envoy to shuttle between Kabul and Islamabad."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. China, not India, had a special envoy shuttling between the two sides for a week, while India issued statements rather than brokering a solution. MEA spokesperson Randhir Jaiswal accused Pakistan of trying to dress up a massacre as a military operation.",
+    "source": "Meanwhile, China has had a special envoy shuttling between the two sides for a week."
+   }
+  ]
+ }
+}

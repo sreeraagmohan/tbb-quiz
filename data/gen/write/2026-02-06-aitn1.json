@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-02-06-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 181,
+  "output_tokens": 259,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the under-16 social media limit is only a proposal in a private member's bill and possible state measures, with no enacted law, rule or ruling to test.",
+  "questions": []
+ }
+}

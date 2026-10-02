@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-21-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 517,
+  "output_tokens": 1580,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the national non-fossil targets and storage VGF support, plus the location of the 7 GWh battery project; the Rajasthan coal projection and the permit review are projections, so they were skipped.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's power sector, as reported in January 2026:",
+    "items": [
+     "India is targeting 500 GW of non-fossil fuel capacity by 2030.",
+     "The government says non-fossil sources crossed 50% of India's installed power capacity in June 2025.",
+     "Viability Gap Funding support for battery storage covers up to 60% of capital expenditure."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because Viability Gap Funding for storage covers up to 40% of capex, not 60%. Even with the 500 GW target and the 50% milestone, coal remains central in the interim because wind and solar cannot yet guarantee round-the-clock supply.",
+    "source": "New Delhi is still targeting 500 GW of non-fossil capacity by 2030 and says non-fossil sources crossed 50% of installed capacity in June 2025."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In January 2026, GoodEnough Energy announced the commissioning of a 7 GWh battery storage system, which it claimed was India's largest. In which state is it located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Uttar Pradesh",
+     "Rajasthan",
+     "Gujarat",
+     "Tamil Nadu"
+    ],
+    "answer": 0,
+    "explain": "GoodEnough Energy commissioned the 7 GWh system in Uttar Pradesh. The story presents it as a sign that batteries are moving from a niche add-on to the backbone of the grid, as renewables struggle to meet peak-hour demand.",
+    "source": "A day later, GoodEnough Energy announced that it had commissioned a 7 GWh battery storage system in Uttar Pradesh, claiming it to be India’s largest."
+   }
+  ]
+ }
+}

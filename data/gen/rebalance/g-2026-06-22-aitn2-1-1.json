@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-06-22-aitn2-1-1",
+ "story_id": "2026-06-22-aitn2-1",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, six of the nine Lok Sabha MPs of the Shiv Sena (UBT) joined the faction led by Eknath Shinde. Consider the following statements:",
+  "items": [
+   "Six of nine MPs meets the two-thirds threshold that shields the group from disqualification under India's anti-defection law.",
+   "The Thackeray camp signalled it would approach the Supreme Court directly, bypassing the Lok Sabha Speaker."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong: the Thackeray camp said it would first seek disqualification before the Lok Sabha Speaker, and only failing that go to the Supreme Court. The anti-defection law otherwise unseats lawmakers who switch parties, which is why the number six mattered.",
+  "source": "six of nine is the two-thirds threshold that shields the group from disqualification under India's anti-defection law, which otherwise unseats lawmakers who switch parties."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, six of the nine Lok Sabha MPs of the Shiv Sena (UBT) joined the faction led by Eknath Shinde. Consider the following statements:",
+  "items": [
+   "Six of nine MPs falls short of the two-thirds threshold needed to shield the group from disqualification under India's anti-defection law.",
+   "The Thackeray camp signalled it would approach the Supreme Court directly, bypassing the Lok Sabha Speaker."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both statements are wrong. The story says six of nine is exactly the two-thirds threshold that shields the group from disqualification, and the Thackeray camp will first seek disqualification before the Lok Sabha Speaker, turning to the Supreme Court only if that fails. The crossover is the second major rebellion against Thackeray since Shinde split the undivided Shiv Sena in 2022.",
+  "source": "six of nine is the two-thirds threshold that shields the group from disqualification under India's anti-defection law, which otherwise unseats lawmakers who switch parties."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2830,
+  "output_tokens": 800,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

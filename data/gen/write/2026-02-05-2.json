@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-05-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 820,
+  "output_tokens": 1771,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the end of President's Rule in Manipur with the new Chief Minister and the composition and plans of the new government.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, who was sworn in as Chief Minister of Manipur, ending a year of President's Rule in the state?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Yumnam Khemchand Singh",
+     "N. Biren Singh",
+     "Nemcha Kipgen",
+     "Losii Dikho"
+    ],
+    "answer": 0,
+    "explain": "Yumnam Khemchand Singh, a Meitei veteran pitched as a bridge-builder, took office on 4 February 2026. N. Biren Singh is the former Chief Minister who resigned, while Nemcha Kipgen and Losii Dikho became Deputy Chief Ministers.",
+    "source": "Yesterday, Yumnam Khemchand Singh was sworn in as Chief Minister, ending direct administration from New Delhi."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Manipur government sworn in in February 2026:",
+    "items": [
+     "It has two Deputy Chief Ministers, one from the Kuki-Zo community and one from the Naga community.",
+     "Nemcha Kipgen is the first Kuki woman to serve as Deputy Chief Minister.",
+     "The Chief Minister's 100-day roadmap includes reviving CM da Haisi, a citizen grievance platform."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct: Nemcha Kipgen (Kuki-Zo) and Losii Dikho (Naga) are the two Deputy Chief Ministers, and CM da Haisi means \"Let's tell the CM\". The roadmap also covers resettlement of displaced persons and power-sharing after ethnic violence that began in May 2023.",
+    "source": "His 100-day roadmap includes the resettlement of displaced persons, active power-sharing, and reviving the citizen grievance platform, CM da Haisi (“Let’s tell the CM”)."
+   }
+  ]
+ }
+}

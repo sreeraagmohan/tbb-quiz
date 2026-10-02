@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-13-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 458,
+  "output_tokens": 1544,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the April 2026 export windfall tax revision on diesel, related domestic measures, and the main destination of March diesel exports. The ATF 'doubling' is avoided because the story contradicts itself on it.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the windfall taxes on fuel exports revised by the Ministry of Finance in April 2026:",
+    "items": [
+     "The windfall tax on diesel exports was raised from 21.5 to 55.5 rupees per litre.",
+     "Alongside the export taxes, the government raised excise duties on fuel to curb domestic consumption.",
+     "The windfall levy on these exports was first introduced in March 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because New Delhi cut excise duties and capped monthly ATF price hikes to shield the domestic economy. The initial levy came on 26 March 2026 to curb an export surge, and the 11 April revision raised the tax on ATF exports from 29.5 to 42 rupees.",
+    "source": "Effective immediately, the tax on diesel jumped from 21.5 to 55.5 rupees per litre, while ATF rose from 29.5 to 42 rupees."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, Indian refiners raised diesel exports by 20%, which prompted higher windfall taxes in April 2026. Which region were these exports mainly headed to?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Southeast Asia",
+     "Western Europe",
+     "East Africa",
+     "Latin America"
+    ],
+    "answer": 0,
+    "explain": "Refiners chased higher overseas margins, sending diesel exports mainly to Southeast Asia. With the West Asia crisis throttling global oil flows, the government responded with export taxes to keep domestic stocks secure.",
+    "source": "Indian refiners boosted diesel exports by 20% in March, primarily to Southeast Asia."
+   }
+  ]
+ }
+}

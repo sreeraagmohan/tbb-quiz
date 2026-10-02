@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-13-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 457,
+  "output_tokens": 1428,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the first-ever Indian fuel export to Russia, its routing, the source refinery and the US tariff bill; skips the speculative point about Russia's fuel crisis.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the petroleum shipment from India that reached Russia in early August 2026:",
+    "items": [
+     "It marked the first time Russia had imported fuel from India.",
+     "The cargo went through a ship-to-ship transfer off Egypt's Damietta port.",
+     "A US bill that names India among buyers of Russian oil authorises tariffs of up to 50% on such buyers."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong. The US bill names India among five countries and authorises tariffs of up to 100% on buyers of Russian oil. The 42,000-tonne cargo took a lengthy detour via Damietta, which suggests Russia's fuel shortage is severe enough to justify paying for supply from South Asia.",
+    "source": "The shipment marks the first time ever that Russia has imported fuel from India"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, Russia received its first-ever fuel import from India. Which refinery shipped the cargo?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Vadinar",
+     "Jamnagar",
+     "Paradip",
+     "Panipat"
+    ],
+    "answer": 0,
+    "explain": "The 42,000-tonne shipment came from the Vadinar refinery of Rosneft-backed Nayara Energy, according to data provider Kpler. Nayara has been under European Union sanctions since July 2025.",
+    "source": "A 42,000-tonne petroleum shipment from Nayara's Vadinar refinery reached Russia in early August, according to data provider Kpler."
+   }
+  ]
+ }
+}

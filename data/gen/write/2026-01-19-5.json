@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-01-19-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 527,
+  "output_tokens": 900,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the Board of Peace's UN mandate (scope and duration) and executive membership. India's response was still pending, so it is not tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In January 2026, US President Donald Trump invited Prime Minister Narendra Modi to join the 'Board of Peace'. Consider the following statements about the Board:",
+    "items": [
+     "The mandate approved by the UN Security Council in 2025 is limited to Gaza.",
+     "The UN Security Council mandate runs until 2030.",
+     "Its executive board includes Ajay Banga of the World Bank."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the Security Council mandate runs only until 2027, not 2030. The Board, with Trump at the helm, will oversee a technocratic Palestinian committee governing Gaza, and around 60 countries had been invited.",
+    "source": "The UN Security Council approved the board’s mandate in 2025, but it’s limited to Gaza and only until 2027."
+   }
+  ]
+ }
+}

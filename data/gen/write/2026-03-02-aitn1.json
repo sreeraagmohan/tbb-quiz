@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-03-02-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 176,
+  "output_tokens": 338,
+  "cache_creation_input_tokens": 4410,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped. This is a short scheduling item. CEPA, uranium and energy are only listed as topics on the table, with no concrete outcomes. The story also does not say where Hyderabad House is, so no question could be fully grounded in it.",
+  "questions": []
+ }
+}

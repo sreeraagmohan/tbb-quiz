@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-02-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 736,
+  "output_tokens": 2237,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–Oman CEPA's entry into force in June 2026: tariff coverage, services and mobility commitments, and Oman's SEZ build-out.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The India–Oman Comprehensive Economic Partnership Agreement (CEPA) entered into force in June 2026. On what share of goods shipped to Oman does it give Indian exporters duty-free access?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "99.38%",
+     "96.60%",
+     "90.15%",
+     "85.33%"
+    ],
+    "answer": 0,
+    "explain": "Indian exporters now get duty-free access on 99.38% of goods shipped to Oman, up from 15.33% under the earlier Most Favoured Nation regime. Oman's total import market is worth around USD 28 billion, leaving room for Indian exports to grow.",
+    "source": "giving Indian exporters duty-free access on 99.38% of goods shipped to Oman, a significant increase from 15.33% under the previous Most Favoured Nation (MFN) regime."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the India–Oman CEPA, which entered into force in June 2026:",
+    "items": [
+     "Services sub-sectors opened by Oman to Indian providers — 127",
+     "Cap on company-transferred workers — 50% of a firm's workforce",
+     "Bilateral trade in goods in FY 2025-26 — USD 28 billion"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Bilateral goods trade was USD 11.18 billion in FY 2025-26; USD 28 billion is the approximate size of Oman's total import market. Oman's 127 services sub-sectors are the most comprehensive offer any GCC country has made to India, and the transferee cap rose from 20% to 50%.",
+    "source": "Bilateral trade in goods hit USD11.18 billion in FY 2025-26."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements in the context of the India–Oman CEPA that entered into force in June 2026:",
+    "items": [
+     "Oman is building special economic zones in Duqm and Salalah as international logistics and manufacturing hubs.",
+     "Oman has made binding commitments granting market access to Indian engineers, doctors, IT professionals, teachers and consultants."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are stated in the story. Oman is pivoting away from hydrocarbon dependency and needs skilled professionals its domestic workforce cannot yet supply at scale, which makes the binding professional commitments a template for India's talks with other Gulf states.",
+    "source": "Oman has also made binding commitments for specific professional categories: engineers, doctors, IT professionals, teachers, and consultants, legally granting market access to Indian professionals."
+   }
+  ]
+ }
+}

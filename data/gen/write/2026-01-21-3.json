@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-21-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 490,
+  "output_tokens": 1624,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests CAQM's role in invoking GRAP and the January 2026 Stage IV cycle, including the November 2025 tightening and Stage III curbs that stayed in force.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In January 2026, Stage IV of the Graded Response Action Plan (GRAP) was invoked and then revoked in Delhi-NCR. Which body triggers these pollution restrictions across Delhi and neighbouring cities?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Commission for Air Quality Management",
+     "Central Pollution Control Board",
+     "Delhi Pollution Control Committee",
+     "National Green Tribunal"
+    ],
+    "answer": 0,
+    "explain": "The Commission for Air Quality Management (CAQM) is the federal panel that triggers GRAP restrictions across Delhi and neighbouring cities. It turned on Stage IV on 17 January 2026 and switched it off three days later as AQI improved to 378.",
+    "source": "a federal panel that triggers pollution restrictions across Delhi and neighbouring cities"
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Graded Response Action Plan (GRAP) in Delhi-NCR in January 2026:",
+    "items": [
+     "Stage IV was invoked on 17 January 2026 and revoked three days later.",
+     "Since November 2025, several GRAP measures have been moved into earlier stages.",
+     "With the revocation of Stage IV, Stage III restrictions on older vehicles were also lifted."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. Easing covered only Stage IV add-ons such as truck-entry curbs and hybrid schooling for senior students, while Stage III limits, including those on older vehicles, still apply. The November 2025 tightening means Stages I to III now carry heavier curbs than before.",
+    "source": "Stage III limits still apply, including restrictions on older vehicles"
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-14-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 823,
+  "output_tokens": 1127,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly airline route cuts; tested only the durable infrastructure facts on the new Navi Mumbai and Noida airports.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's new airports, as of May 2026:",
+    "items": [
+     "Navi Mumbai International Airport began commercial operations in December 2025.",
+     "Noida International Airport in the Delhi-NCR began commercial services in March 2026, the month it was inaugurated.",
+     "Both airports are designed with an eventual capacity exceeding 70 million passengers each."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong. Noida International Airport was inaugurated in March 2026, but its commercial services begin in June 2026. The airports are opening just as Indian carriers cut international flights because of the Pakistan and Iran airspace closures and high jet fuel prices.",
+    "source": "Noida International Airport in the Delhi-National Capital Region (NCR) was inaugurated in March and begins commercial services in June."
+   }
+  ]
+ }
+}

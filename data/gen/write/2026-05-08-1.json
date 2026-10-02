@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-08-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 568,
+  "output_tokens": 1467,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the structurally significant May 2026 assembly results: the BJP's first win in West Bengal and TVK topping the Tamil Nadu assembly.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the assembly election results announced in May 2026:",
+    "items": [
+     "The Bharatiya Janata Party won West Bengal for the first time, securing 206 of the state's 294 seats.",
+     "The Tamilaga Vetri Kazhagam won an outright majority on its own in the Tamil Nadu assembly.",
+     "In Tamil Nadu, the Congress joined a coalition with the Tamilaga Vetri Kazhagam after leaving the DMK-led alliance."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because TVK topped the assembly but fell short of a majority, forcing a hasty coalition with the Congress, which was poached from the DMK-led alliance. In West Bengal, at least four people were killed in post-poll violence after the BJP's win.",
+    "source": "At least four people were killed after the Bharatiya Janata Party (BJP) secured West Bengal for the first time, winning 206 of 294 seats."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Which party became the first non-Dravidian party since the 1960s to emerge as the largest party in the Tamil Nadu assembly in the elections of May 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Tamilaga Vetri Kazhagam",
+     "Bharatiya Janata Party",
+     "Indian National Congress",
+     "Pattali Makkal Katchi"
+    ],
+    "answer": 0,
+    "explain": "Vijay's two-year-old Tamilaga Vetri Kazhagam topped the assembly, becoming the first non-Dravidian party to do so since the 1960s. Vijay met the Governor on 6 May 2026 to stake his claim to form the government.",
+    "source": "TVK became the first non-Dravidian party to top the assembly since the 1960s."
+   }
+  ]
+ }
+}

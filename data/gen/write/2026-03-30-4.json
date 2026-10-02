@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-03-30-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 504,
+  "output_tokens": 2189,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the March 2026 defence approvals: service-wise allocation of platforms, the separate Tunguska contract with Russia, and the record FY 2025-26 approval and contract totals.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In March 2026, India approved USD 25 billion in military purchases. Consider the following pairs of items and the service they were approved for:",
+    "items": [
+     "S-400 missile systems — Indian Air Force",
+     "Dhanush guns — Indian Air Force",
+     "Su-30 engine overhauls — Indian Army"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the S-400 pair is correct. Dhanush guns went to the Army, and Su-30 engine overhauls went to the Air Force. The package was India's second major defence approval in as many months.",
+    "source": "The Air Force gets S-400s, medium transport aircraft, unmanned attack drones, and Su-30 engine overhauls."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, alongside a USD 25 billion package of defence approvals, India signed a separate USD 47 million contract with Russia. Which system did this contract cover?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Tunguska air defence systems",
+     "Pantsir air defence systems",
+     "Igla-S air defence systems",
+     "Buk air defence systems"
+    ],
+    "answer": 0,
+    "explain": "The separate USD 47 million contract with Moscow covers Tunguska air defence systems. It was signed alongside approvals that also included Russian S-400 missile systems for the Air Force.",
+    "source": "A separate USD 47 million contract was also signed with Moscow, covering Tunguska air defence systems."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's defence procurement in the fiscal year 2025-26, as reported in March 2026:",
+    "items": [
+     "India approved 55 proposals worth 6.73 trillion rupees (USD 71 billion), a historic high.",
+     "India signed contracts for 503 proposals amounting to 6.73 trillion rupees."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong. The contracts signed for 503 proposals amounted to 2.28 trillion rupees, while 6.73 trillion rupees was the value of the 55 approved proposals. The spending follows the four-day clash with Pakistan in 2025, which exposed gaps in drone saturation, battlefield communications and rapid deployment.",
+    "source": "In all, India has approved 55 proposals worth 6.73 trillion rupees (USD 71 billion) and signed contracts for another 503 proposals amounting to 2.28 trillion rupees in this fiscal year, marking a historic high."
+   }
+  ]
+ }
+}

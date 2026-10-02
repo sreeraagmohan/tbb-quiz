@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-28-1",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": false,
+    "problem": "The explanation says the EUR 500 million and the steel quota were what India got \"instead\" of CBAM leeway. The story does not present them as a substitute or trade-off; it simply reports them alongside the CBAM outcome. The rest of the explanation (statement 1 wrong, only a promise to keep talking about technicalities) matches the story."
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 3127,
+  "output_tokens": 249,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

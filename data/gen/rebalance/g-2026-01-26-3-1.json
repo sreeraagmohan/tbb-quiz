@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-01-26-3-1",
+ "story_id": "2026-01-26-3",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In January 2026, bank unions gave notice of a nationwide strike to demand a five-day work week. Consider the following statements:",
+  "items": [
+   "The United Forum of Bank Unions is a coalition of nine bank staff unions.",
+   "The Indian Banks' Association negotiates on behalf of banks in wage settlements.",
+   "Since 2015, all Saturdays have been holidays for banks in India."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong. In 2015 banks moved to the 2nd and 4th Saturdays off, and the unions are still seeking all Saturdays off. They say the IBA agreed to this in a March 2024 wage settlement, but government sign-off is pending.",
+  "source": "In 2015, banks shifted to 2nd and 4th Saturdays off."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In January 2026, bank unions gave notice of a nationwide strike to demand a five-day work week. Consider the following statements:",
+  "items": [
+   "Since 2015, all Saturdays have been holidays for banks in India.",
+   "The United Forum of Bank Unions is a coalition of nine bank staff unions.",
+   "The Indian Banks' Association negotiates on behalf of banks in wage settlements."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong. In 2015 banks moved to the 2nd and 4th Saturdays off, and the unions are still seeking all Saturdays off. They say the IBA agreed to this in a March 2024 wage settlement, but government sign-off is pending.",
+  "source": "In 2015, banks shifted to 2nd and 4th Saturdays off."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3062,
+  "output_tokens": 569,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

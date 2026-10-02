@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-01-20-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 479,
+  "output_tokens": 1482,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the trade target and LNG deal from the January 2026 India–UAE joint statement, and the location of the Dholera project.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In January 2026, the President of the UAE, Sheikh Mohamed bin Zayed Al Nahyan, visited New Delhi and met PM Narendra Modi. Consider the following statements about the deliverables listed in the joint statement:",
+    "items": [
+     "The two sides aimed to push bilateral trade to USD 200 billion by 2032.",
+     "The two sides concluded a 20-year LNG supply agreement."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The LNG supply agreement runs for 10 years, not 20. The deliverables also covered AI and supercomputing cooperation and payments connectivity, during a visit scheduled to last less than two hours.",
+    "source": "The MEA joint statement is packed with deliverables, including pushing trade to USD 200bn by 2032, investment promotion (including Gujarat’s Dholera project), cooperation on AI and supercomputing, payments connectivity, and a 10-year LNG supply agreement."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The India–UAE joint statement of January 2026 included investment promotion in the Dholera project. In which Indian state is Dholera located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Gujarat",
+     "Maharashtra",
+     "Rajasthan",
+     "Madhya Pradesh"
+    ],
+    "answer": 0,
+    "explain": "The joint statement refers to Gujarat’s Dholera project under investment promotion. The UAE is a top-tier Gulf partner for India in trade, energy and investment.",
+    "source": "pushing trade to USD 200bn by 2032, investment promotion (including Gujarat’s Dholera project)"
+   }
+  ]
+ }
+}

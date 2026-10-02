@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-13-2-1",
+ "story_id": "2026-04-13-2",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's rice export policy as of April 2026:",
+  "items": [
+   "India renewed a six-month waiver on mandatory inspection certificates for rice exports to non-EU European countries.",
+   "The waiver was first introduced in October 2024.",
+   "India's rice exports reached USD 12.95 billion in 2024-25, up 62% since 2014."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the waiver was first introduced in October 2025, not 2024. The renewal on 10 April 2026 clears the way for faster shipments to buyers across Eastern Europe and Eurasia.",
+  "source": "Last Friday, New Delhi renewed a six-month waiver on mandatory inspection certificates for rice exports to non-EU European countries, extending a policy first introduced in October 2025."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's rice export policy as of April 2026:",
+  "items": [
+   "India renewed a six-month waiver on mandatory inspection certificates for rice exports to non-EU European countries.",
+   "The waiver was first introduced in October 2025.",
+   "India's rice exports reached USD 12.95 billion in 2024-25, up 62% since 2014."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct. In April 2026 India renewed the six-month waiver, extending a policy first introduced in October 2025, and rice exports hit USD 12.95 billion in 2024-25, up 62% since 2014. The Export Inspection Council certificate remains compulsory for EU member states, the UK, Iceland, Liechtenstein, Norway and Switzerland.",
+  "source": "Last Friday, New Delhi renewed a six-month waiver on mandatory inspection certificates for rice exports to non-EU European countries, extending a policy first introduced in October 2025."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2670,
+  "output_tokens": 837,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

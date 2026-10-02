@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-04-14-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 282,
+  "output_tokens": 762,
+  "cache_creation_input_tokens": 4410,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the 2019 halt and the temporary waiver behind India's resumption of Iranian crude imports in April 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In April 2026, two very large crude carriers loaded with Iranian oil reached Indian ports. Consider the following statements:",
+    "items": [
+     "India had stopped buying Iranian crude in May 2019 under US pressure.",
+     "Indian refiners resumed purchases under a permanent US sanctions waiver."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the US sanctions waiver was temporary and was due to expire on 19 April 2026. The cargoes were the first Iranian oil to reach Indian ports in seven years, arriving as the US began enforcing a naval blockade of Iranian ports.",
+    "source": "India stopped buying Iranian crude in May 2019 under US pressure."
+   }
+  ]
+ }
+}

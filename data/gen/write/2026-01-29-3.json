@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-01-29-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 525,
+  "output_tokens": 222,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story covers an opposition party's political report built from selective indicators, not an official release, scheme or institutional decision.",
+  "questions": []
+ }
+}

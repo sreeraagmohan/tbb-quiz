@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-27-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 619,
+  "output_tokens": 2192,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the outcomes of the August 2026 Special Representatives talks and the three reopened Himalayan border trade posts.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–China boundary talks held in August 2026:",
+    "items": [
+     "The talks were held in Beijing between the two countries' Special Representatives on the boundary question, NSA Ajit Doval and Foreign Minister Wang Yi.",
+     "The two sides announced two military hotlines in the eastern and middle sectors of the border.",
+     "The two sides agreed on troop reductions and a timetable for boundary delimitation."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: no map, troop reductions or timetable emerged from the talks. The two sides added two meeting points for senior commanders and two hotlines, and set up expert groups on an 'Early and Substantial Harvest' of delimitation and on border management.",
+    "source": "No map, troop reductions or timetable emerged."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, India and China reopened all three Himalayan border trade posts between them. Which of the following was not among them?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Zoji La",
+     "Nathu La",
+     "Shipki La",
+     "Lipulekh"
+    ],
+    "answer": 0,
+    "explain": "The three reopened trade posts are Nathu La, Shipki La and Lipulekh. Their reopening, alongside the Kailash Mansarovar pilgrimage, is part of the thaw that followed the 2024 patrolling deal.",
+    "source": "reopened all three Himalayan border trade posts, at Nathu La, Shipki La, and Lipulekh, from early August"
+   }
+  ]
+ }
+}

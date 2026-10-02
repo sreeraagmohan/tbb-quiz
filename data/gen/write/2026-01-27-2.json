@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-27-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 618,
+  "output_tokens": 1559,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the background to the India–Canada rupture and thaw, and the CEPA trade target; the uranium deal and Carney visit are only expected, so they are not tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Canada relations, as reported in January 2026:",
+    "items": [
+     "Ties froze in 2023 after then-PM Justin Trudeau alleged Indian involvement in the killing of Sikh separatist Hardeep Singh Nijjar.",
+     "Narendra Modi attended the 2025 G7 summit held in Canada.",
+     "Mark Carney took office as Prime Minister of Canada in March 2024."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Carney took office in March 2025, not March 2024, and has pursued normalisation with India since then. India denies the Nijjar allegation, and Canadian ministers have visited New Delhi often since the 2025 G7.",
+    "source": "Since taking office in March 2025, Carney has focused on normalisation, not closure."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In January 2026, India and Canada said formal negotiations on a Comprehensive Economic Partnership Agreement (CEPA) would restart in March after a two-year pause. Both governments say the pact could help more than double bilateral trade to what level by 2030?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "USD 30 billion",
+     "USD 50 billion",
+     "USD 100 billion",
+     "USD 15 billion"
+    ],
+    "answer": 0,
+    "explain": "Both governments say CEPA could help bilateral trade reach USD 30 billion by 2030. The restart of talks was announced by Indian High Commissioner to Canada Dinesh Patnaik.",
+    "source": "Both governments say the pact could help more than double bilateral trade to USD 30 billion by 2030."
+   }
+  ]
+ }
+}

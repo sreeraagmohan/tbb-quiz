@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-23-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 607,
+  "output_tokens": 1687,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the two India–Germany agreements signed in Berlin in April 2026 and the Tarang Shakti air exercise.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, India and Germany signed defence agreements in Berlin. Consider the following statements:",
+    "items": [
+     "One agreement is a roadmap for co-developing and co-producing defence equipment in niche technologies.",
+     "A separate arrangement covers cooperation in UN Peacekeeping Training.",
+     "The India-EU Security and Defence Partnership was signed at the same Berlin meeting."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Rajnath Singh and Boris Pistorius signed the Defence Industrial Cooperation Roadmap and a UN Peacekeeping Training arrangement. The India-EU Security and Defence Partnership was signed earlier, in January 2026, and Singh cited it as the wider frame. TBB reads the roadmap as turning Germany from a vendor into a manufacturing partner.",
+    "source": "a roadmap for co-developing and co-producing defence equipment in niche technologies, and a separate arrangement for cooperation in UN Peacekeeping Training."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, India invited the German Air Force to take part in Tarang Shakti in September 2026. What is Tarang Shakti?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "A multilateral air exercise hosted by India",
+     "A bilateral naval exercise of India and Germany",
+     "A multilateral army exercise hosted by Germany",
+     "A trilateral coast guard exercise of India and the EU"
+    ],
+    "answer": 0,
+    "explain": "Tarang Shakti is India's multilateral air exercise. Its 2024 edition drew air forces from 11 countries, including France, the UK, the US, Australia, Japan and the UAE, with 18 others as observers.",
+    "source": "Singh invited the German Air Force to join Tarang Shakti, India's multilateral air exercise, this September."
+   }
+  ]
+ }
+}

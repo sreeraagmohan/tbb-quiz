@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-01-27-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 578,
+  "output_tokens": 809,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly US party politics and a leaked recording; only the August 2025 US tariff action on India is a durable, testable fact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2025, the United States doubled tariffs on Indian goods to 50%. The additional 25% tariff was imposed over which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India's imports of Russian crude oil",
+     "India's levy of a digital services tax",
+     "India's high duties on US motorcycles",
+     "India's restrictions on US dairy imports"
+    ],
+    "answer": 0,
+    "explain": "The extra 25% tariff was tied to India's purchases of Russian crude, taking the total to 50%. In January 2026, a leaked recording had Senator Ted Cruz saying he was battling the White House to accept a trade deal with India.",
+    "source": "In August 2025, Trump doubled tariffs on Indian goods to 50%, adding a 25% tariff over India’s Russian crude imports."
+   }
+  ]
+ }
+}

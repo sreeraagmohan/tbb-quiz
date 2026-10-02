@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-06-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 566,
+  "output_tokens": 1584,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the launch details of Bharat Taxi and its cooperative ownership model under the Cooperation ministry; skips pilot traction figures, which will change.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Bharat Taxi, launched in February 2026:",
+    "items": [
+     "It was launched by the Union Minister of Cooperation.",
+     "It uses surge pricing, with drivers keeping a fixed share of each fare.",
+     "Before launch, it ran a pilot in Delhi-NCR and Gujarat."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Bharat Taxi is a zero-commission, surge-free platform where drivers receive the full fare and any surplus goes back to members. Amit Shah, Union Home and Cooperation Minister, launched it on 5 February 2026 after a two-month pilot in Delhi-NCR and Gujarat.",
+    "source": "On Thursday, Union Home and Cooperation Minister Amit Shah launched Bharat Taxi, pitching it as a driver-owned, zero-commission ride-hailing platform."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The Bharat Taxi ride-hailing platform, launched in India in February 2026, is structured as which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "A driver-owned cooperative",
+     "An investor-owned aggregator",
+     "A subscription-based SaaS marketplace",
+     "A government-run public sector undertaking"
+    ],
+    "answer": 0,
+    "explain": "Bharat Taxi makes drivers members rather than users. Fees fund operations and welfare, and the surplus flows back to drivers. This sets it apart from investor-owned aggregators like Uber and Ola and from SaaS marketplaces like Rapido, where drivers pay for access but do not share in profits.",
+    "source": "Cooperative models like Bharat Taxi make drivers members, not users."
+   }
+  ]
+ }
+}

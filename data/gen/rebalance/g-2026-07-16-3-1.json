@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-16-3-1",
+ "story_id": "2026-07-16-3",
+ "target": 3,
+ "original": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In July 2026, the Union Cabinet approved Semicon 2.0. Consider the following statements:",
+  "items": [
+   "Semicon 2.0 has an outlay of USD 13.3 billion (INR 1.275 trillion) and covers chip design, equipment, materials, fabrication, packaging, research and skills.",
+   "The 2021 semiconductor mission approved 12 manufacturing units and 24 design projects.",
+   "No facility approved under the 2021 semiconductor mission had begun commercial production by July 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because three facilities under the 2021 mission are already producing commercially. Semicon 2.0 shifts the focus from landing factories to building the ecosystem around them.",
+  "source": "The 2021 semiconductor mission has approved 12 manufacturing units and 24 design projects; three facilities are already producing commercially."
+ },
+ "rewritten": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In July 2026, the Union Cabinet approved Semicon 2.0. Consider the following statements:",
+  "items": [
+   "Semicon 2.0 has an outlay of USD 13.3 billion (INR 1.275 trillion) and covers chip design, equipment, materials, fabrication, packaging, research and skills.",
+   "The 2021 semiconductor mission approved 12 manufacturing units and 24 design projects.",
+   "Three facilities approved under the 2021 semiconductor mission were already producing commercially by July 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: Semicon 2.0 is a USD 13.3 billion programme spanning design to skills, and the 2021 mission approved 12 manufacturing units and 24 design projects, with three facilities already producing commercially. Semicon 2.0 shifts the focus from landing factories to building the ecosystem around them.",
+  "source": "The 2021 semiconductor mission has approved 12 manufacturing units and 24 design projects; three facilities are already producing commercially."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3125,
+  "output_tokens": 661,
+  "cache_creation_input_tokens": 1878,
+  "cache_read_input_tokens": 0
+ }
+}

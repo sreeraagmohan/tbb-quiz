@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-01-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 273,
+  "output_tokens": 708,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Editor's note sets out the April 2026 assembly election schedule; tested the polling and counting dates, skipping the freebie commentary.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the assembly elections held in five states and Union Territories in April 2026:",
+    "items": [
+     "Kerala, Assam and Puducherry voted on the same day.",
+     "West Bengal voted in a single phase.",
+     "Results for all five assemblies were scheduled to be declared on the same day."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "West Bengal voted in two phases, on April 23 and 29, so statement 2 is wrong. Kerala, Assam and Puducherry voted on April 9, Tamil Nadu on April 23, and results for all five were due on May 4, with roughly 174 million voters covered.",
+    "source": "West Bengal votes in two phases on April 23 and 29."
+   }
+  ]
+ }
+}

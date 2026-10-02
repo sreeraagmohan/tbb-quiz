@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-01-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 301,
+  "output_tokens": 1115,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the CAFE-III fuel-economy norms notified by the Ministry of Power: their period, target tightening and the dual test procedures.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, the Ministry of Power notified the Corporate Average Fuel Economy (CAFE)-III norms for passenger cars. Consider the following statements about them:",
+    "items": [
+     "They apply from April 2027 to March 2032 and tighten fleet targets by 16.7 per cent over the period.",
+     "The UN-developed Worldwide Harmonised Light Vehicles Test Procedure (WLTP) is stricter than India's Modified Indian Driving Cycle (MIDC).",
+     "The factor for converting targets between the MIDC and WLTP tests was notified along with the norms."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the conversion factor between the two tests has yet to be notified. From April 2027, carmakers must report results under both the MIDC, India's standard fuel-economy test, and the stricter WLTP.",
+    "source": "The rules apply from April 1, 2027, to March 31, 2032, and tighten fleet targets by 16.7 per cent over the period."
+   }
+  ]
+ }
+}

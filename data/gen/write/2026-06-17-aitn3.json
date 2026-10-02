@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-17-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 206,
+  "output_tokens": 785,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the venue of the June 2026 G7 summit outreach session; the bilateral outcomes only reaffirmed existing tracks.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Prime Minister Narendra Modi addressed the outreach session of the G7 summit held at which of the following places?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Evian, France",
+     "Kananaskis, Canada",
+     "Hiroshima, Japan",
+     "Apulia, Italy"
+    ],
+    "answer": 0,
+    "explain": "Modi addressed the G7 outreach session in Evian, France, on rebuilding international solidarity. On the sidelines, he held bilaterals with the UAE, the United Kingdom and Canada, including a push for early entry into force of the India-UK trade deal.",
+    "source": "Modi addressed the G7 outreach session in Evian, France, on rebuilding international solidarity, then held bilaterals with the UAE, the United Kingdom, and Canada."
+   }
+  ]
+ }
+}

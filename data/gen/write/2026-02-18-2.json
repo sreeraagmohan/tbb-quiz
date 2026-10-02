@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-02-18-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 486,
+  "output_tokens": 1915,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India's data-centre incentives and Global AI Commons proposal, plus the investment projection and the Economic Survey's stance, from the February 2026 India AI Impact Summit.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's artificial intelligence policy as outlined around the India AI Impact Summit in February 2026:",
+    "items": [
+     "India is pushing a \"Global AI Commons\", a shared repository of AI use-cases.",
+     "Data centres are being designated as \"Strategic National Infrastructure\".",
+     "Companies setting up data centres are offered tax holidays until 2047."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are stated in the story. The Global AI Commons aims to shape global AI norms around affordability rather than raw model power, and the data-centre incentives support a full-stack domestic AI cycle.",
+    "source": "By designating data centres as “Strategic National Infrastructure” and offering tax holidays until 2047, New Delhi is building an AI ecosystem with a focus on frugal, sector-specific applications rather than resource-heavy chatbots."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's AI strategy as of February 2026:",
+    "items": [
+     "At the India AI Impact Summit, the IT Minister projected USD 200 billion in AI and data infrastructure investment over the next two years.",
+     "The Economic Survey 2025-26 backs a race to build frontier AI models for global prestige."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong: the Economic Survey 2025-26 explicitly rejects the prestige race of frontier models and favours frugal, sector-specific applications. Of the projected USD 200 billion, USD 70 billion was already committed.",
+    "source": "IT Minister Ashwini Vaishnaw projected USD 200 billion in AI and data infrastructure investment over the next two years (USD 70B already committed) on Tuesday at the India AI Impact Summit."
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-13-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 782,
+  "output_tokens": 1885,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Strategic Partnership outcomes, the IPOI pillar, the trade target, the deliverables and the Global Biofuels Alliance link from Modi's July 2026 New Zealand visit.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Prime Minister Narendra Modi's visit to New Zealand in July 2026:",
+    "items": [
+     "India and New Zealand elevated bilateral ties to a Strategic Partnership in Auckland.",
+     "Both sides set a target to double two-way trade in goods and services to NZD 7 billion by 2030.",
+     "New Zealand nominated counter-terrorism as its priority pillar under India's Indo-Pacific Oceans Initiative."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "New Zealand chose maritime security, not counter-terrorism, as its priority pillar under the IPOI. Counter-terrorism was covered by a separate Joint Working Group. The visit was the first by an Indian prime minister to New Zealand in 40 years.",
+    "source": "New Zealand nominated maritime security as its priority pillar under India's Indo-Pacific Oceans Initiative (IPOI)."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, New Zealand joined which initiative that was launched at the 2023 G20 New Delhi summit?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Global Biofuels Alliance",
+     "International Solar Alliance",
+     "Global Methane Pledge",
+     "Coalition for Disaster Resilient Infrastructure"
+    ],
+    "answer": 0,
+    "explain": "New Zealand joined the Global Biofuels Alliance, which was launched at the 2023 G20 summit in New Delhi. It did so alongside a pledge of USD 20 billion in Indian investment over 15 years.",
+    "source": "joined the Global Biofuels Alliance, an initiative launched at the 2023 G20 New Delhi summit."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the India–New Zealand summit held in July 2026:",
+    "items": [
+     "Agreements signed during the visit — Ten",
+     "Indian investment pledged by New Zealand — USD 20 billion over 15 years",
+     "Pillars in the Roadmap to 2030 — Five"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct. The two governments signed ten agreements and issued eight announcements, and the Roadmap to 2030 covers political, security, trade, cultural and multilateral cooperation. The defence agreements included a mutual logistics support pact between the two navies.",
+    "source": "The two governments signed ten agreements and issued eight announcements."
+   }
+  ]
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-01-30-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 541,
+  "output_tokens": 2140,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Economic Survey's urban data point, its diagnosis of land use as the main bottleneck, and its proposed statutory plan for million-plus cities.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "According to the Economic Survey released in January 2026, India's top 10 cities generate roughly what share of the country's GDP?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Nearly 28%",
+     "Barely 9%",
+     "Nearly 18%",
+     "Nearly 38%"
+    ],
+    "answer": 0,
+    "explain": "The Survey says the top 10 cities generate nearly 28% of GDP while housing barely 9% of the population. It adds that none of them yet functions as a true global node like Singapore or London.",
+    "source": "India’s top 10 cities generate nearly 28% of GDP with barely 9% of the population"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Which of the following did the Economic Survey released in January 2026 identify as the single biggest bottleneck for Indian cities?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Restrictive land use rules",
+     "Shortage of skilled workers",
+     "Weak municipal tax collection",
+     "Limited foreign investment"
+    ],
+    "answer": 0,
+    "explain": "The Survey names restrictive land use as the single biggest urban bottleneck, because existing rules keep cities short and wide. It says Indian cities have the talent, but the physical environment caps growth, so it calls for building up, not out.",
+    "source": "Restrictive land use is the single biggest urban bottleneck."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the urban plan proposed in the Economic Survey released in January 2026:",
+    "items": [
+     "It recommends that all million-plus cities adopt a 20-year statutory spatial-economic plan.",
+     "It proposes that such a plan be refreshed every ten years.",
+     "Land-value capture is one of the plan's three non-negotiables."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the Survey says the plan should be refreshed every five years, not every ten. Its other two non-negotiables are transport-first design and annual housing targets. Land-value capture is meant to stop public infrastructure projects from creating private windfalls.",
+    "source": "All million-plus cities should adopt a 20-year statutory spatial-economic plan, refreshed every five years, with three non-negotiables: transport-first design, annual housing targets, and land-value capture so public infrastructure projects don't create private windfalls while city budgets stay stressed."
+   }
+  ]
+ }
+}

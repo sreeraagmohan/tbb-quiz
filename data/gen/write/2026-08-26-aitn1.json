@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-26-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 234,
+  "output_tokens": 1032,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the sanctioning agency, the Operation Economic Outcast label and the USD 119 million figure, which the story attributes to three firms rather than four.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the United States sanctioned four India-based firms for allegedly facilitating Iranian petroleum and petrochemical imports. Consider the following statements about these sanctions:",
+    "items": [
+     "The sanctions were imposed by the US State Department.",
+     "Washington alleged that all four firms together imported Iranian products worth USD 119 million.",
+     "The measures formed part of Operation Economic Outcast, which targeted nearly 60 entities, individuals and vessels."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because Washington attributes the USD 119 million in imports to three of the firms, not all four. Three Indian nationals were also sanctioned, as part of a wider campaign against Iran's military and energy trade.",
+    "source": "The measures form part of Operation Economic Outcast, which targeted nearly 60 entities, individuals and vessels linked to Iran’s military and energy trade."
+   }
+  ]
+ }
+}

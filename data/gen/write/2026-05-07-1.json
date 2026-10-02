@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-05-07-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 485,
+  "output_tokens": 2516,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the new partnership level, the trade and payments outcomes, and the maritime and defence commitments from To Lam's May 2026 India visit.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, during the India visit of Vietnamese President To Lam, India–Vietnam bilateral ties were elevated to which level?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Enhanced Comprehensive Strategic Partnership",
+     "Comprehensive Global Strategic Partnership",
+     "Special Strategic and Global Partnership",
+     "Comprehensive Strategic and Global Partnership"
+    ],
+    "answer": 0,
+    "explain": "The visit concluded on 7 May 2026 with ties raised to an Enhanced Comprehensive Strategic Partnership. TBB reads the upgrade as part of a middle-power effort to stay insulated from US-China friction.",
+    "source": "President To Lam of Vietnam wrapped up his India visit today, elevating bilateral ties to an Enhanced Comprehensive Strategic Partnership to insulate both nations from superpower friction."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the economic outcomes of the India–Vietnam summit held in May 2026:",
+    "items": [
+     "The two countries set a bilateral trade target of USD 25 billion by 2030.",
+     "India's UPI is to be linked with Vietnam's Fast Payment System.",
+     "The two sides pledged to complete the review of the ASEAN India Trade in Goods Agreement (AITIGA) by the end of 2028."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the leaders pledged to finish the AITIGA review by year-end, meaning the end of 2026, to fix trade imbalances. A critical minerals pact and the UPI linkage are central to reaching the USD 25 billion goal.",
+    "source": "They also pledged to finish the ASEAN India Trade in Goods Agreement (AITIGA) review by year-end to fix trade imbalances."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Vietnam maritime and defence commitments made in May 2026:",
+    "items": [
+     "The two countries committed to expanding oil and gas exploration in accordance with international law.",
+     "Defence cooperation will include regular joint hydrographic surveys and increased naval port calls."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both commitments were made. The reference to international law on oil and gas exploration is read as a nod to resisting Beijing's maritime claims in the South China Sea, and the two sides also agreed to move beyond buyer-seller roles to co-produce military technology.",
+    "source": "This includes regular joint hydrographic surveys and increased naval port calls to boost maritime awareness."
+   }
+  ]
+ }
+}

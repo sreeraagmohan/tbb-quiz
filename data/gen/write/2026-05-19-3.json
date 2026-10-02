@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-19-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 569,
+  "output_tokens": 1209,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the timeline and issuing body of the US waiver on Russian oil and India's import level; skipped officials' quotes and TBB's analysis of the trade-deal angle.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the US sanctions waiver on Russian oil and India's crude imports, as reported in May 2026:",
+    "items": [
+     "The US first issued the waiver in March 2026 to keep global oil prices stable.",
+     "In May 2026, the US Treasury Secretary announced a 30-day extension of the waiver for \"energy-vulnerable\" nations.",
+     "India's imports of Russian crude in May 2026 were expected to fall to their lowest level in several years."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: Russian crude imports were expected to reach 1.9 million barrels per day in May 2026, near record highs, after a brief dip in 2025 under US pressure. The waiver, issued in March and later valid until 16 May, was extended by Treasury Secretary Scott Bessent hours after India said it would keep buying Russian oil regardless.",
+    "source": "Russian imports are expected to hit 1.9 million barrels per day this month – near record highs."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-03-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 430,
+  "output_tokens": 1431,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the official FY26 defence export figure and the public versus private split, the durable data points in this release.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, India reported an all-time high in its defence exports for FY 2025-26. What was the value of these exports?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "INR 38,424 crore",
+     "INR 18,424 crore",
+     "INR 58,424 crore",
+     "INR 28,424 crore"
+    ],
+    "answer": 0,
+    "explain": "Defence exports reached INR 38,424 crore (USD 4.6 billion) in FY26, a 62.66% year-on-year jump. The story credits global volatility, in Ukraine and the Caucasus, and the Atmanirbhar Bharat push for the rise.",
+    "source": "India’s defence exports hit an all-time high of INR 38,424 crore (USD 4.6 billion) in FY26, marking a 62.66% year-on-year jump."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's defence exports in FY 2025-26:",
+    "items": [
+     "Exports by government-owned firms grew by about 151%, giving them more than half of the total.",
+     "Exports by private firms grew at a faster rate than those of government-owned firms.",
+     "The number of active defence exporters grew to 145."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Private firms grew 14%, far below the 151% leap by government-owned firms, which took a 54.84% share. India now ships defence hardware to more than 80 nations.",
+    "source": "Government-owned firms led the way, with exports leaping 151% to claim a 54.84% market share."
+   }
+  ]
+ }
+}

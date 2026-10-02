@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-03-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 329,
+  "output_tokens": 1356,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the India-Russia parliamentary contacts of April 2026 and India's hosting of the BRICS Parliamentary Forum as chair.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In April 2026, a Russian parliamentary delegation met Lok Sabha Speaker Om Birla and Rajya Sabha Deputy Chairman Harivansh in New Delhi. Consider the following statements:",
+    "items": [
+     "The Russian delegation was led by the First Deputy Chairperson of Russia's State Duma.",
+     "The two sides discussed restarting the India-Russia Inter-Parliamentary Commission, which last met in 2018.",
+     "India will host the BRICS Parliamentary Forum in 2026 as the bloc's chair."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong. The delegation was led by Vladimir Yakushev, First Deputy Chairperson of Russia's Federation Council, not the State Duma. The two sides also flagged artificial intelligence, space research and clean energy as new areas for cooperation.",
+    "source": "India will host the BRICS Parliamentary Forum this year as the bloc's chair."
+   }
+  ]
+ }
+}

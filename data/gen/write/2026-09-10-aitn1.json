@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-10-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 232,
+  "output_tokens": 1052,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the concrete outcomes of the September 2026 India–Sri Lanka defence meeting: the L70 gun grant, the bridges and the venue.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, Defence Minister Rajnath Singh met Sri Lankan President Anura Kumara Dissanayake. Consider the following statements about the outcomes:",
+    "items": [
+     "India agreed to upgrade six Indian-supplied L70 guns in Sri Lanka under an Indian grant.",
+     "The two sides inaugurated three bridges built by Indian defence forces.",
+     "The agreements were signed at a meeting held in New Delhi."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because the meeting and signing took place in Colombo, not New Delhi. The agreements also expand cooperation between the two countries' cadet corps and defence colleges, and Dissanayake said Sri Lankan territory would not be used against India's security interests.",
+    "source": "On Wednesday, Defence Minister Rajnath Singh met Sri Lankan President Anura Kumara Dissanayake in Colombo, and the two countries signed agreements to upgrade six Indian-supplied L70 guns under an Indian grant"
+   }
+  ]
+ }
+}

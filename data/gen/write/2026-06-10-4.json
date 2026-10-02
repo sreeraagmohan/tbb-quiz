@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-10-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 553,
+  "output_tokens": 1785,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Zojila Tunnel's location and its key project facts (length, highway, opening year, wider border tunnel push).",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In June 2026, Union Minister Nitin Gadkari witnessed the main tunnel breakthrough at the Zojila Tunnel Project. The tunnel connects which of the following places?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Baltal and Minamarg",
+     "Chenani and Nashri",
+     "Banihal and Qazigund",
+     "Manali and Sissu"
+    ],
+    "answer": 0,
+    "explain": "The bi-directional Zojila Tunnel links Baltal and Minamarg on National Highway-1 and sits above 2,900 metres. The Zojila Pass shuts every winter, for 73 days in 2026, cutting off Ladakh, and the tunnel is meant to give year-round civilian and military access.",
+    "source": "The 13.15-km, INR 6,800-crore (USD 715 million) bi-directional tunnel connects Baltal and Minamarg on National Highway-1."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Zojila Tunnel, whose main tunnel breakthrough took place in June 2026:",
+    "items": [
+     "It is a 13.15-km bi-directional tunnel on National Highway-1.",
+     "It is scheduled to open in 2028.",
+     "It is one of 31 border tunnels under construction in Jammu and Kashmir and Ladakh."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. The INR 6,800-crore tunnel runs 13.15 km on National Highway-1, is due to open in 2028, and belongs to a border tunnel push that accelerated after the 2020 Galwan clash. The highway is the main supply route for troops along the LAC and Siachen, and Pakistan targeted it during the 1999 Kargil war.",
+    "source": "This is one of 31 border tunnels under construction in Jammu and Kashmir and Ladakh."
+   }
+  ]
+ }
+}

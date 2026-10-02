@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-10-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 519,
+  "output_tokens": 1624,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the February 2026 three-hour deepfake takedown window and the elements of MeitY's August 2026 directive to Meta.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, the Ministry of Electronics and Information Technology (MeitY) set a window within which platforms must take down deepfakes. What was that window?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Three hours",
+     "24 hours",
+     "36 hours",
+     "72 hours"
+    ],
+    "answer": 0,
+    "explain": "MeitY gave platforms three hours to take down deepfakes in February 2026. This followed amendments to India's IT Intermediary Rules that tightened due-diligence requirements and raised platform accountability for AI-generated content.",
+    "source": "MeitY gave platforms a three hour window to take down deepfakes back in February"
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the Ministry of Electronics and Information Technology (MeitY) issued directions to Meta on content moderation. Consider the following statements:",
+    "items": [
+     "Meta was directed to submit a roadmap to curb deepfakes, propaganda and synthetic content across its platforms.",
+     "Meta was asked to strictly adhere to data-localisation rules and speed up the execution of government takedown requests.",
+     "In talks with ministry officials, Meta acknowledged technical gaps in handling child sex abuse material and deepfakes."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. MeitY also wants Meta to re-engineer its algorithms to throttle the reach of manipulated media, though TBB notes such automated filters can also catch legitimate speech, news and satire.",
+    "source": "Meta must strengthen moderation, accelerate the execution of government takedown requests, strictly adhere to data-localization rules, and re-engineer algorithms to actively throttle the reach of manipulated media."
+   }
+  ]
+ }
+}

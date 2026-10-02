@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-04-09-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 607,
+  "output_tokens": 2279,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the hydro projects approved in Arunachal Pradesh: the Lohit basin first, the local benefit-sharing terms and the capacities and flood-moderation budget.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, the Union government approved the 1,200 MW Kalai-II hydroelectric project in Arunachal Pradesh. It is the first hydropower project on which river?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Lohit",
+     "Kameng",
+     "Subansiri",
+     "Siang"
+    ],
+    "answer": 0,
+    "explain": "Kalai-II is the first hydropower project on the Lohit river, opening an entirely new basin. It sits in Anjaw, a border district, and is part of India's push to establish prior use across the Brahmaputra system.",
+    "source": "Kalai-II is the first hydropower project on the Lohit river, opening an entirely new basin."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In April 2026, the Union government approved the Kamala and Kalai-II hydroelectric projects in Arunachal Pradesh. Consider the following statements about the benefits to the state:",
+    "items": [
+     "Arunachal Pradesh holds a 26% equity stake in the Kamala project.",
+     "Arunachal Pradesh receives 12% free power from both plants.",
+     "An additional 1% of power is earmarked for a Local Area Development Fund."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct as stated in the approval terms. New Delhi is also funding over 225 km of roads and bridges across the two project sites.",
+    "source": "Arunachal Pradesh holds a 26% equity stake in the Kamala project and receives 12% free power from both plants, plus an additional 1% earmarked for a Local Area Development Fund."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the hydroelectric projects in Arunachal Pradesh approved in April 2026:",
+    "items": [
+     "Kamala project — 1,720 MW",
+     "Kalai-II project — 1,200 MW",
+     "Flood moderation component of the Kamala project — INR 40,175 crore"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The flood moderation component of the Kamala project has a dedicated budget of INR 4,744 crore. INR 40,175 crore is the total approved for both projects. The plants are meant to manage peak demand and steady a grid increasingly reliant on solar and wind.",
+    "source": "The Kamala project also provides flood moderation in the Brahmaputra Valley, with a dedicated budget of INR 4,744 crore for that component alone."
+   }
+  ]
+ }
+}

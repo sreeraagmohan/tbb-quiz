@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-15-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 229,
+  "output_tokens": 264,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an aircraft accident with only a routine court of inquiry. There is no scheme, policy or first-time event worth testing.",
+  "questions": []
+ }
+}

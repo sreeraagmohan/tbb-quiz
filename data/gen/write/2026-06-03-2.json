@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-03-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 524,
+  "output_tokens": 1648,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US tariff and sanctions history behind India's Venezuelan crude imports and India's rank among buyers in May 2026; the visit itself and the trade-leverage analysis are skipped.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Venezuela's interim President Delcy Rodriguez visited India in June 2026. Consider the following statements about India's imports of Venezuelan crude oil:",
+    "items": [
+     "India halted Venezuelan purchases in 2025 after the US imposed a 50% tariff on countries buying Venezuelan crude.",
+     "India's imports resumed in February 2026 after Washington eased sanctions following the capture of Nicolás Maduro.",
+     "Under the current arrangement, the US Treasury controls the proceeds and sets the commercial terms."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the US tariff that led India to halt purchases in 2025 was 25%, not 50%. Imports resumed in February 2026 once sanctions eased, with the US Treasury holding the proceeds.",
+    "source": "India halted Venezuelan purchases last year after Washington imposed a 25% tariff on countries buying Venezuelan crude."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In May 2026, India imported 427,000 barrels per day of Venezuelan crude and became its second-largest buyer. Which country was the largest buyer?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "United States",
+     "China",
+     "Spain",
+     "Turkey"
+    ],
+    "answer": 0,
+    "explain": "India's May 2026 purchases were second only to those of the US. With the West Asia crisis blocking 40% of India's usual crude imports, Venezuela became a distant but important source of supply.",
+    "source": "In May, India gobbled up 427,000 barrels per day, second only to the US."
+   }
+  ]
+ }
+}

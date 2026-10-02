@@ -1,0 +1,543 @@
+[
+ {
+  "id": "m09-01", "story_id": "2026-09-01-1", "topic": "Economy", "difficulty": 3, "format": "statements",
+  "prompt": "Consider the following statements about India's economic growth in April–June 2026:",
+  "items": [
+   "The economy grew 7.8%, faster than the RBI's own estimate of 7%.",
+   "Growth accelerated from the previous quarter's pace.",
+   "Bank lending grew at its fastest pace in more than a decade."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": ["Only one", "Only two", "All three", "None"],
+  "answer": 1,
+  "explain": "Growth eased from 8.6% in the previous quarter, so statement 2 is wrong. Private investment nearly doubled its pace to close to 12%, and bank credit expanded 18.3%.",
+  "source": "though it eased from the previous quarter's 8.6 per cent"
+ },
+ {
+  "id": "m09-02", "story_id": "2026-09-02-1", "topic": "Defence & Security", "difficulty": 1, "format": "single",
+  "prompt": "INS Nipun, commissioned by the Indian Navy in 2026, is designed mainly for:",
+  "options": [
+   "Rescuing the crews of submarines stranded on the seabed",
+   "Anti-submarine warfare in shallow coastal waters",
+   "Carrying fighter aircraft at sea",
+   "Laying naval mines"
+  ],
+  "answer": 0,
+  "explain": "It supports deep saturation dives and carries remotely operated systems for underwater work. The Navy presents India as the region's 'Preferred Submarine Rescue Partner', since few Indian Ocean navies can rescue a stranded crew.",
+  "source": "The Indian Navy has commissioned INS Nipun, an indigenously built vessel designed to reach and rescue the crews of submarines stranded on the seabed."
+ },
+ {
+  "id": "m09-03", "story_id": "2026-09-02-1", "topic": "Defence & Security", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about INS Nipun:",
+  "items": [
+   "It was built by Mazagon Dock Shipbuilders.",
+   "It is the second Diving Support Vessel of the Nistar class."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 1,
+  "explain": "INS Nipun was built by Hindustan Shipyard Limited. It joins its sister ship INS Nistar, giving the Navy two purpose-built platforms for diving, salvage and rescue.",
+  "source": "The ship is the second Diving Support Vessel of the Nistar class, built by Hindustan Shipyard Limited."
+ },
+ {
+  "id": "m09-04", "story_id": "2026-09-03-1", "topic": "Economy", "difficulty": 2, "format": "single",
+  "prompt": "In September 2026, India regained an A-category sovereign rating for the first time in more than 35 years. Which agency raised it?",
+  "options": ["Japan Credit Rating Agency (JCR)", "S&P Global Ratings", "Fitch Ratings", "Moody's"],
+  "answer": 0,
+  "explain": "JCR moved India from BBB+ to A- with a stable outlook, citing strong growth, lower deficits, healthier banks and robust external buffers. S&P kept India at BBB and Fitch at BBB-, and the big three's ratings are what price India's foreign borrowing.",
+  "source": "Japan Credit Rating Agency (JCR) raised India’s foreign and local-currency ratings from BBB+ to A-, with a stable outlook."
+ },
+ {
+  "id": "m09-05", "story_id": "2026-09-04-1", "topic": "Society", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements in the context of a Delhi High Court ruling on maternity rights in August 2026:",
+  "items": [
+   "Women returning from maternity leave must get the same job, or one equivalent in pay, authority and career prospects.",
+   "Mandated maternity leave in India was extended to 26 weeks in 2017.",
+   "The court directed the Centre to draft rules under the Industrial Relations Code."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 0,
+  "explain": "The court ordered the Centre to draft rules within six months under the Code on Social Security, covering reinstatement, crèches, complaints and retaliation. It treated a returning manager's loss of duties as discriminatory and awarded INR 1 million.",
+  "source": "In the judgement, Delhi High Court has ordered the Centre to draft rules within six months covering reinstatement, crèches, complaints and retaliation under the Code on Social Security."
+ },
+ {
+  "id": "m09-06", "story_id": "2026-09-04-2", "topic": "Economy", "difficulty": 2, "format": "single",
+  "prompt": "As reported in September 2026, India has stalled a proposed link between UPI and which payment network, over security and data concerns?",
+  "options": ["Alipay+", "PayNow", "Favara", "PIX"],
+  "answer": 0,
+  "explain": "Alipay+ belongs to Ant International, headquartered in Singapore since 2024, but officials fear data misuse, money laundering and cyberfraud. UPI already supports remittances with Nepal, merchant payments in Greece and transfers from Qatar.",
+  "source": "New Delhi has stalled a link between the Unified Payments Interface (UPI) and Alipay+ over security and data concerns."
+ },
+ {
+  "id": "m09-07", "story_id": "2026-09-04-4", "topic": "International Relations", "difficulty": 3, "format": "statements",
+  "prompt": "Consider the following statements about External Affairs Minister S. Jaishankar's visit to Kyiv in September 2026:",
+  "items": [
+   "It was the first standalone visit by an Indian foreign minister to Ukraine.",
+   "Jaishankar defended India's purchases of Russian oil during the visit.",
+   "Russia supplied 45% of India's crude imports in August 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 3,
+  "explain": "All three are correct. Jaishankar argued that oil purchases would not decide the war and asked Kyiv to respect India's responsibility to fuel 1.4 billion people; Zelenskyy replied that peace needs economic pressure as well as persuasion.",
+  "source": "he used the first standalone visit by an Indian foreign minister to Ukraine to defend Russian oil purchases"
+ },
+ {
+  "id": "m09-08", "story_id": "2026-09-04-aitn1", "topic": "Defence & Security", "difficulty": 1, "format": "single",
+  "prompt": "'Raksha', unveiled by Defence Minister Rajnath Singh in September 2026, is:",
+  "options": [
+   "A ten-year roadmap for India's defence diplomacy",
+   "An indigenous air-defence missile system",
+   "An insurance scheme for armed forces personnel",
+   "A joint naval exercise with Sri Lanka"
+  ],
+  "answer": 0,
+  "explain": "It prioritises security partnerships, joint exercises and training, Indian-made defence exports, and a larger role for India as a security provider and first responder in the Indian Ocean.",
+  "source": "Defence Minister Rajnath Singh unveiled Raksha, Hindi for “protection,” on Thursday, a ten-year roadmap for India’s defence diplomacy."
+ },
+ {
+  "id": "m09-09", "story_id": "2026-09-07-1", "topic": "International Relations", "difficulty": 2, "format": "single",
+  "prompt": "In September 2026, India and China held their first corps commander-level talks in the eastern sector. Where did they meet?",
+  "options": ["Wacha-Damai, Arunachal Pradesh", "Chushul-Moldo, Ladakh", "Nathu La, Sikkim", "Bum La, Arunachal Pradesh"],
+  "answer": 0,
+  "explain": "Since the 2020 Galwan clash these talks had been held only at Chushul-Moldo in Ladakh, on the western frontier. The LAC in Arunachal Pradesh is held by 3 Corps (Rangapahar, Nagaland) and 4 Corps (Tezpur, Assam).",
+  "source": "met his Chinese counterpart at the Wacha-Damai border point in Arunachal Pradesh"
+ },
+ {
+  "id": "m09-10", "story_id": "2026-09-07-2", "topic": "Society", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about Census 2027, as reported in September 2026:",
+  "items": [
+   "Census operations in Uttar Pradesh, Punjab and Goa were advanced to December 1 to avoid a clash with state elections.",
+   "Census 2027 asks fewer questions than the 2011 Census.",
+   "The census in Manipur has been deferred indefinitely."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 2,
+  "explain": "The all-digital census has 40 questions, 11 more than in 2011, including Aadhaar numbers and an open-ended caste question. Manipur was deferred citing ongoing violence.",
+  "source": "The all-digital census includes 40 questions – 11 more than in 2011"
+ },
+ {
+  "id": "m09-11", "story_id": "2026-09-07-aitn1", "topic": "International Relations", "difficulty": 2, "format": "single",
+  "prompt": "MAHASAGAR, India's maritime vision cited during the Defence Minister's September 2026 visit to Sri Lanka, stands for:",
+  "options": [
+   "Mutual and Holistic Advancement for Security and Growth Across Regions",
+   "Maritime Alliance for Harbour Security and Growth Across Regions",
+   "Mutual Assistance for Humanitarian Aid, Security and Growth Across Regions",
+   "Maritime and Holistic Approach to Security and Governance Across Regions"
+  ],
+  "answer": 0,
+  "explain": "Rajnath Singh's September 8–10 visit focused on maritime and defence cooperation under the Neighbourhood First policy and the MAHASAGAR vision.",
+  "source": "Prime Minister Narendra Modi's MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) vision"
+ },
+ {
+  "id": "m09-12", "story_id": "2026-09-07-aitn2", "topic": "Science & Tech", "difficulty": 1, "format": "single",
+  "prompt": "EOS-05, launched by ISRO in September 2026, is notable because it is:",
+  "options": [
+   "India's first imaging satellite to operate from geosynchronous orbit",
+   "India's first navigation satellite in low Earth orbit",
+   "India's first satellite launched on a privately built rocket",
+   "India's first satellite to measure ocean salinity"
+  ],
+  "answer": 0,
+  "explain": "From geosynchronous orbit it can watch the same area almost continuously instead of passing over every few days, which helps track cyclones, floods and borders in real time.",
+  "source": "launched EOS-05, India's first imaging satellite to operate from geosynchronous orbit"
+ },
+ {
+  "id": "m09-13", "story_id": "2026-09-08-1", "topic": "Defence & Security", "difficulty": 2, "format": "single",
+  "prompt": "As reported in September 2026, the Defence Acquisition Council approved procurement worth about INR 1.1 trillion. Roughly what share is earmarked for Indian manufacturers?",
+  "options": ["About 98%", "About 75%", "About 50%", "About 25%"],
+  "answer": 0,
+  "explain": "The list includes CBRN detection vehicles, self-propelled minelayers and Advanced Light Helicopters for the Army, Arudhra radars for the Navy, and a programme to build marine gas turbines in India.",
+  "source": "with roughly 98% earmarked for Indian manufacturers"
+ },
+ {
+  "id": "m09-14", "story_id": "2026-09-08-aitn1", "topic": "Geography", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the UN General Assembly's 'Correct the Map' resolution of 2026:",
+  "items": [
+   "India said its vote endorsed the Equal Earth map projection.",
+   "India voted in favour of the resolution."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 1,
+  "explain": "India backed the principle of projections that keep continents' relative sizes, but said its vote did not endorse the Equal Earth map because different maps serve different purposes. The United States cast the only vote against.",
+  "source": "New Delhi supported the principle but stressed that its vote did not endorse the Equal Earth map because different maps serve different purposes."
+ },
+ {
+  "id": "m09-15", "story_id": "2026-09-09-1", "topic": "Environment & Energy", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about road freight in India, as reported when NITI Aayog launched two electric-truck platforms in September 2026:",
+  "items": [
+   "Trucks are only 3–4% of India's vehicles but cause more than a third of transport-sector pollution.",
+   "Indian manufacturers lead India's market for heavy electric trucks."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 0,
+  "explain": "Chinese brands SANY and Foton hold more than half of India's small heavy electric-truck market, about 800 vehicles in 2025. NITI Aayog's two platforms are the Zero Emission Truck (ZET) Marketplace and the Platform for Aggregating Clean Transport (PACT).",
+  "source": "Trucks are only 3 to 4% of India's vehicles, but they cause more than a third of transport-sector pollution."
+ },
+ {
+  "id": "m09-16", "story_id": "2026-09-09-2", "topic": "Environment & Energy", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements, as of September 2026:",
+  "items": [
+   "The UK has recognised India's Carbon Credit Trading Scheme (CCTS) as a qualifying carbon pricing mechanism under its Carbon Border Adjustment Mechanism.",
+   "The UK's Carbon Border Adjustment Mechanism is set to start on January 1, 2027.",
+   "India's CCTS began trading in January 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 0,
+  "explain": "The CCTS is expected to begin trading in October 2026. With UK recognition, eligible exporters of iron and steel, aluminium and cement who pay carbon prices in India won't be taxed twice at the UK border.",
+  "source": "which is expected to begin trading in October 2026"
+ },
+ {
+  "id": "m09-17", "story_id": "2026-09-09-2", "topic": "Environment & Energy", "difficulty": 2, "format": "single",
+  "prompt": "In September 2026, HM Treasury notified which Indian body that the Carbon Credit Trading Scheme qualifies for relief under the UK's Carbon Border Adjustment Mechanism?",
+  "options": ["Bureau of Energy Efficiency", "Central Pollution Control Board", "Securities and Exchange Board of India", "Central Electricity Regulatory Commission"],
+  "answer": 0,
+  "explain": "Technical talks are still settling how Indian credits will be valued and what evidence UK importers need to claim deductions. CBAM was one of two issues that had held up the India–UK trade agreement.",
+  "source": "HM Treasury notified India’s Bureau of Energy Efficiency that CCTS meets qualifying criteria for carbon price relief under the UK’s Carbon Border Adjustment Mechanism (CBAM), set to roll out on January 1, 2027."
+ },
+ {
+  "id": "m09-18", "story_id": "2026-09-09-aitn4", "topic": "Economy", "difficulty": 1, "format": "single",
+  "prompt": "UPI's existing link with Singapore, cited by Prime Minister Modi in September 2026 as a model for remittances, is with which payment system?",
+  "options": ["PayNow", "Favara", "Alipay+", "PIX"],
+  "answer": 0,
+  "explain": "At the Global Fintech Fest in Mumbai, Modi called for UPI to connect with more countries' payment systems, prioritising diaspora and trade partners. UPI is live in 11 countries.",
+  "source": "He cited the existing link with Singapore’s PayNow as a model for faster, cheaper remittances."
+ },
+ {
+  "id": "m09-19", "story_id": "2026-09-10-1", "topic": "Economy", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the pricing of satellite broadband spectrum, as reported in September 2026:",
+  "items": [
+   "The Department of Telecommunications settled on a lower charge than TRAI recommended.",
+   "TRAI recommended a charge of 4% of adjusted gross revenue."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 1,
+  "explain": "The DoT set a higher charge, 5% of adjusted gross revenue, with a 1% discount for operators serving hard-to-reach areas. Final pricing needs Cabinet approval; Starlink, Eutelsat OneWeb and Jio-SES are the three contenders.",
+  "source": "The Telecom Regulatory Authority of India (TRAI) recommended 4% and held that line twice"
+ },
+ {
+  "id": "m09-20", "story_id": "2026-09-10-2", "topic": "Economy", "difficulty": 3, "format": "statements",
+  "prompt": "Consider the following statements about India's rules for crypto platforms, as of September 2026:",
+  "items": [
+   "Any crypto platform serving Indian customers must register with the Financial Intelligence Unit-India (FIU-IND), wherever it is based.",
+   "Registration brings a platform under the Prevention of Money Laundering Act.",
+   "Gains from crypto are taxed at a flat 30%, with no set-off for losses."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": ["Only one", "Only two", "All three", "None"],
+  "answer": 2,
+  "explain": "All three are correct. In September 2026 FIU-IND sent notices to 15 offshore exchanges that had not registered and moved to block their apps and websites. India also deducts 1% tax at source on crypto transfers.",
+  "source": "Registration brings it under the Prevention of Money Laundering Act"
+ },
+ {
+  "id": "m09-21", "story_id": "2026-09-10-aitn2", "topic": "Defence & Security", "difficulty": 1, "format": "single",
+  "prompt": "Veer Guardian 2026, which began at Air Force Station Jodhpur in September 2026, is an air exercise between India and:",
+  "options": ["Japan", "France", "United States", "Australia"],
+  "answer": 0,
+  "explain": "It ran until September 22, pairing India's Tejas, Su-30MKI and Rafale fighters with Japan's F-2A aircraft.",
+  "source": "the Indian Air Force and Japan Air Self-Defense Force began Veer Guardian 2026 at Air Force Station Jodhpur"
+ },
+ {
+  "id": "m09-22", "story_id": "2026-09-11-1", "topic": "Polity & Governance", "difficulty": 2, "format": "single",
+  "prompt": "Under India's amended e-commerce rules notified in September 2026, the 'genuine prior price' shown with a discount is defined as:",
+  "options": [
+   "The lowest price the item sold for in the previous 30 days",
+   "The maximum retail price printed on the pack",
+   "The average price over the previous 90 days",
+   "The price on the first day the item was listed"
+  ],
+  "answer": 0,
+  "explain": "The rule targets the inflate-then-slash tactic of festive sales. Platforms must also label sponsored listings and self-audit every year against the 2023 dark-patterns guidelines, from January 1, 2027.",
+  "source": "defined as the lowest the item sold for in the previous 30 days"
+ },
+ {
+  "id": "m09-23", "story_id": "2026-09-11-2", "topic": "Agriculture", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about India's sugarcane policy and the WTO, as reported in September 2026:",
+  "items": [
+   "Australia asked India to defend its sugarcane support policy at the WTO.",
+   "India's Fair and Remunerative Price is a ceiling on what mills may pay cane farmers.",
+   "India's WTO threshold for such support is 10% of crop value."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 2,
+  "explain": "The FRP is a floor price that mills must pay. Because it is set well above market rates, Australia puts India's support at 90–95% of crop value, against the 10% threshold.",
+  "source": "India's Fair and Remunerative Price (FRP), a government floor price mills must pay cane farmers"
+ },
+ {
+  "id": "m09-24", "story_id": "2026-09-14-1", "topic": "International Relations", "difficulty": 1, "format": "statements",
+  "prompt": "Consider the following statements about the BRICS summit of September 2026:",
+  "items": [
+   "It was Xi Jinping's first visit to India since 2014.",
+   "India hosted the summit in New Delhi."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 1,
+  "explain": "It was Xi's first visit since 2019. Meeting Xi on the sidelines, Modi said border peace remains the precondition for normal ties.",
+  "source": "marking Xi’s first visit to India since 2019"
+ },
+ {
+  "id": "m09-25", "story_id": "2026-09-14-aitn1", "topic": "International Relations", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the New Delhi Declaration adopted at the 2026 BRICS summit:",
+  "items": [
+   "It explicitly condemned military strikes against Iran.",
+   "Iran is a member of BRICS."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 1,
+  "explain": "The 2025 Rio declaration explicitly condemned strikes on Iran, a member of the bloc. The New Delhi text only expresses concern about attacks on civilian infrastructure and nuclear facilities, without naming Iran or the attackers.",
+  "source": "This year’s corresponding clauses express concern about attacks on civilian infrastructure and nuclear facilities without naming Iran or the attackers."
+ },
+ {
+  "id": "m09-26", "story_id": "2026-09-14-2", "topic": "Economy", "difficulty": 1, "format": "single",
+  "prompt": "In September 2026, the US Commerce Department finalised anti-dumping and countervailing duties of over 120% on which Indian exports?",
+  "options": ["Solar cells and panels", "Steel pipes", "Frozen shrimp", "Generic medicines"],
+  "answer": 0,
+  "explain": "The US bought more than 95% of India's solar cell and module exports. The US International Trade Commission votes on injury on 14 October; a yes would clear the way for duty orders in November.",
+  "source": "finalised a 123.04% anti-dumping margin and a 126.09% countervailing duty rate on Indian solar cells and panels"
+ },
+ {
+  "id": "m09-27", "story_id": "2026-09-14-aitn2", "topic": "International Relations", "difficulty": 2, "format": "single",
+  "prompt": "In September 2026, the European Commission sent the India–EU free trade agreement to which body for authorisation to sign and conclude it?",
+  "options": ["The Council of the European Union", "The European Parliament", "The European Council", "The Court of Justice of the European Union"],
+  "answer": 0,
+  "explain": "After the Council approves signature, the European Parliament must consent, the Council formally concludes the deal, and India ratifies it before it enters into force.",
+  "source": "the European Commission submitted the free trade agreement with India to the Council of the European Union for authorisation to sign and conclude it"
+ },
+ {
+  "id": "m09-28", "story_id": "2026-09-15-1", "topic": "Economy", "difficulty": 3, "format": "statements",
+  "prompt": "Consider the following statements about inflation data for August 2026:",
+  "items": [
+   "Retail inflation was higher than wholesale inflation.",
+   "The wholesale price figures are published by the Commerce Ministry.",
+   "The RBI held its policy rate at 5.25% in August 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 1,
+  "explain": "Wholesale inflation (9.92%) ran well above retail (4.82%), pushed by fuel-and-power prices up 22.93%. Retail figures come from the Statistics Ministry; RBI minutes showed some members open to a rate rise.",
+  "source": "India’s retail inflation rose to 4.82% in August, while wholesale inflation reached 9.92%."
+ },
+ {
+  "id": "m09-29", "story_id": "2026-09-16-1", "topic": "Geography", "difficulty": 2, "format": "single",
+  "prompt": "The Kishau Multipurpose Project, agreed by six states in September 2026, is a dam on which river?",
+  "options": ["Tons", "Sutlej", "Beas", "Ramganga"],
+  "answer": 0,
+  "explain": "The 232.6-metre dam on the Uttarakhand–Himachal border will store 1,562 million cubic metres, generate 660 MW and irrigate 97,000 hectares. A quarter of the flow is reserved for the Yamuna's environmental needs.",
+  "source": "a 232.6-metre concrete gravity dam on the Tons river along the Uttarakhand-Himachal border"
+ },
+ {
+  "id": "m09-30", "story_id": "2026-09-16-1", "topic": "Polity & Governance", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the Kishau Multipurpose Project agreement of September 2026:",
+  "items": [
+   "As a national project, about 90% of its funding comes from the Centre.",
+   "Delhi is not a party to the agreement."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 0,
+  "explain": "Delhi signed along with Uttar Pradesh, Uttarakhand, Himachal Pradesh, Rajasthan and Haryana, and is the biggest beneficiary. The Centre counts Kishau as the tenth water dispute settled since 2018, after Lakhwar (2018) and Renukaji (2019).",
+  "source": "As a national project, Kishau draws about 90% of its funding from the Centre, with the six states splitting the rest."
+ },
+ {
+  "id": "m09-31", "story_id": "2026-09-16-3", "topic": "Defence & Security", "difficulty": 2, "format": "single",
+  "prompt": "SAMAR 2.0, rolled out by DRDO with the Quality Council of India in September 2026, is meant to:",
+  "options": [
+   "Benchmark the manufacturing capability of domestic defence suppliers",
+   "Rate the combat readiness of Army units",
+   "Certify drones for civilian airspace",
+   "Screen start-ups for defence export licences"
+  ],
+  "answer": 0,
+  "explain": "At the same VIMARSH DRDO–industry meet, DRDO launched a framework to share software source code with licensed private firms. It has completed over 2,300 technology transfers to more than 1,100 Indian firms.",
+  "source": "DRDO rolled out the System for Advance Manufacturing Assessment and Rating (SAMAR) version 2.0 with the Quality Council of India to benchmark the manufacturing capability of domestic defence suppliers before handing over critical tech."
+ },
+ {
+  "id": "m09-32", "story_id": "2026-09-16-aitn1", "topic": "Defence & Security", "difficulty": 1, "format": "single",
+  "prompt": "The 22nd edition of Yudh Abhyas, which opened at Auli in Uttarakhand in September 2026, is an annual army exercise between India and:",
+  "options": ["United States", "Japan", "France", "Russia"],
+  "answer": 0,
+  "explain": "It also used the Mahajan Field Firing Range in Rajasthan, with 600 troops a side, and covered Integrated Battle Groups in mountains, drones and multi-domain warfare.",
+  "source": "The 22nd edition of Yudh Abhyas, the annual India-US army exercise, opened on Tuesday at Auli in Uttarakhand"
+ },
+ {
+  "id": "m09-33", "story_id": "2026-09-16-aitn2", "topic": "Economy", "difficulty": 3, "format": "statements",
+  "prompt": "Consider the following statements about UPI charges specified by the Finance Ministry in September 2026:",
+  "items": [
+   "A 0.4% merchant discount rate applies to eligible UPI merchant payments above INR 2,000.",
+   "Person-to-person UPI transfers now carry a fee.",
+   "Merchants may pass the fee on to customers."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": ["Only one", "Only two", "All three", "None"],
+  "answer": 0,
+  "explain": "Only the first is correct. Transfers between individuals stay free, and banks must ensure merchants don't pass fees on. The fee is capped at INR 300, and the ministry says 96% of merchant transactions are unaffected.",
+  "source": "Banks have been told to ensure merchants do not pass fees to customers, and payment apps cannot add platform or hidden charges."
+ },
+ {
+  "id": "m09-34", "story_id": "2026-09-17-2", "topic": "International Relations", "difficulty": 1, "format": "single",
+  "prompt": "In September 2026, which country's parliament passed legislation to implement its trade agreement with India, giving qualifying Indian goods zero tariffs across all product categories?",
+  "options": ["New Zealand", "Australia", "Canada", "Singapore"],
+  "answer": 0,
+  "explain": "The agreement was signed in April 2026. New Zealand is a small market, taking about 0.13% of India's goods exports in 2025–26.",
+  "source": "New Zealand’s Parliament passed legislation on Tuesday to implement its trade agreement with India."
+ },
+ {
+  "id": "m09-35", "story_id": "2026-09-17-aitn1", "topic": "Society", "difficulty": 1, "format": "single",
+  "prompt": "In September 2026, the Union Cabinet raised the monthly wage ceiling for mandatory EPFO coverage to:",
+  "options": ["INR 25,000", "INR 15,000", "INR 21,000", "INR 30,000"],
+  "answer": 0,
+  "explain": "It is the first change since September 2014, up from INR 15,000. The government expects more than 5.1 million more workers to come under mandatory provident fund, pension and insurance coverage.",
+  "source": "raised the wage ceiling for mandatory Employees' Provident Fund Organisation (EPFO) coverage from INR 15,000 (USD 158) to INR 25,000 (USD 263) a month"
+ },
+ {
+  "id": "m09-36", "story_id": "2026-09-18-1", "topic": "Science & Tech", "difficulty": 1, "format": "single",
+  "prompt": "Tata Electronics is building a semiconductor plant at Dholera, in which state?",
+  "options": ["Gujarat", "Maharashtra", "Karnataka", "Uttar Pradesh"],
+  "answer": 0,
+  "explain": "In September 2026 Electronics Minister Ashwini Vaishnaw said India had drawn INR 1 trillion in semiconductor commitments. Domestic value addition in electronics is only 18–20%.",
+  "source": "Tata Electronics, building a chip plant in Dholera, Gujarat, signed memoranda for a 147-hectare supplier park"
+ },
+ {
+  "id": "m09-37", "story_id": "2026-09-22-1", "topic": "Polity & Governance", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the Digital Communications Commission:",
+  "items": [
+   "The Department of Telecommunications dissolved it in September 2026, replacing it with the telecom secretary.",
+   "The satellite spectrum terms it cleared were set at a fixed share of revenue rather than by auction."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 2,
+  "explain": "Both are correct. Allocating spectrum at a fixed share of revenue is the method that priced 2G licences below market in 2008. With the inter-ministerial panel gone, the CAG, the courts and Parliament only catch problems after the fact.",
+  "source": "The satellite spectrum the DCC cleared was allocated at a fixed percentage of revenue, instead of being auctioned."
+ },
+ {
+  "id": "m09-38", "story_id": "2026-09-22-aitn1", "topic": "Defence & Security", "difficulty": 1, "format": "single",
+  "prompt": "KAL, flight-tested at the Pokhran range in September 2026, is:",
+  "options": [
+   "India's first indigenous long-range one-way attack drone",
+   "India's first hypersonic glide vehicle",
+   "An indigenous air-defence radar",
+   "A reusable small-satellite launcher"
+  ],
+  "answer": 0,
+  "explain": "Built by Noida-based IG Defence, it has a 1,000 km range, eight hours of endurance and a 50 kg payload, in the same loitering-munition class as Iranian-made Shahed drones.",
+  "source": "flight-tested KAL, India's first indigenous long-range one-way attack drone, at the Pokhran range on September 20"
+ },
+ {
+  "id": "m09-39", "story_id": "2026-09-24-1", "topic": "Environment & Energy", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about environmental clearances for ports, as changed in September 2026:",
+  "items": [
+   "They are now valid for 20 years, extendable to a maximum of 30.",
+   "The change followed the environment ministry's expert committee recommending 20 years."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 0,
+  "explain": "The expert committee had recommended 15 years plus a five-year extension. The final rule went further after the shipping ministry pushed for longer validity; Congress said it was meant for the Great Nicobar transshipment port.",
+  "source": "Its own expert committee had recommended 15 years plus a five-year extension, published as a draft in May."
+ },
+ {
+  "id": "m09-40", "story_id": "2026-09-24-1", "topic": "Geography", "difficulty": 2, "format": "single",
+  "prompt": "The proposed transshipment port of the Great Nicobar project is at:",
+  "options": ["Galathea Bay", "Port Blair", "Campbell Bay", "Kamorta"],
+  "answer": 0,
+  "explain": "The Great Nicobar project received its environmental clearance in November 2022 and is to be built in three phases over 30 years.",
+  "source": "The port at Galathea Bay is part of the wider Great Nicobar project, which received its EC in November 2022"
+ },
+ {
+  "id": "m09-41", "story_id": "2026-09-24-aitn2", "topic": "International Relations", "difficulty": 1, "format": "single",
+  "prompt": "The G20 summit in December 2026 is scheduled to be held in:",
+  "options": ["Miami", "Johannesburg", "New Delhi", "Rio de Janeiro"],
+  "answer": 0,
+  "explain": "Canada and India aim to conclude their trade negotiations by the summit, and Prime Minister Modi is expected to visit Canada around the same time.",
+  "source": "aim to conclude trade negotiations by the G20 summit in Miami on December 14 and 15"
+ },
+ {
+  "id": "m09-42", "story_id": "2026-09-25-1", "topic": "Polity & Governance", "difficulty": 2, "format": "single",
+  "prompt": "The Chief Election Commissioner of India can be removed from office:",
+  "options": [
+   "Only in the manner of a Supreme Court judge, by a special majority in both Houses of Parliament",
+   "By the President on the advice of the Prime Minister",
+   "By a simple-majority resolution of the Lok Sabha",
+   "By the other two Election Commissioners acting jointly"
+  ],
+  "answer": 0,
+  "explain": "That is why the Cockroach Janta Party's September 2026 demand that Chief Election Commissioner Gyanesh Kumar resign is hard to meet: the government cannot remove him on its own.",
+  "source": "A Chief Election Commissioner can be removed only the way a Supreme Court judge is, by a special majority in both houses of Parliament."
+ },
+ {
+  "id": "m09-43", "story_id": "2026-09-25-aitn1", "topic": "Defence & Security", "difficulty": 2, "format": "single",
+  "prompt": "Under Project 75(I), Germany's ThyssenKrupp Marine Systems will partner with which Indian shipyard to build six submarines?",
+  "options": ["Mazagon Dock Shipbuilders", "Hindustan Shipyard Limited", "Garden Reach Shipbuilders and Engineers", "Cochin Shipyard"],
+  "answer": 0,
+  "explain": "In September 2026 Germany said the estimated USD 8 billion deal for six conventional submarines awaits only India's internal approvals, including the Cabinet Committee on Security.",
+  "source": "Under Project 75(I), Germany's ThyssenKrupp Marine Systems (TKMS) will partner with state-owned Mazagon Dock Shipbuilders to build the submarines in India."
+ },
+ {
+  "id": "m09-44", "story_id": "2026-09-25-aitn2", "topic": "Agriculture", "difficulty": 1, "format": "single",
+  "prompt": "In September 2026, India cut the basic customs duty on crude sunflower oil to:",
+  "options": ["Zero", "5%", "10%", "20%"],
+  "answer": 0,
+  "explain": "Duty on crude soybean and palm oil fell from 10% to 5%, and duties on refined oils were also cut, after a sharp rise in international edible oil prices.",
+  "source": "The Centre has cut basic customs duty on crude sunflower oil from 10 per cent to zero, and on crude soybean and palm oil from 10 per cent to 5 per cent"
+ },
+ {
+  "id": "m09-45", "story_id": "2026-09-28-aitn1", "topic": "International Relations", "difficulty": 2, "format": "single",
+  "prompt": "In September 2026, India reserved third-party rights in a WTO dispute brought by which country against the EU's Carbon Border Adjustment Mechanism?",
+  "options": ["Russia", "China", "Brazil", "South Africa"],
+  "answer": 0,
+  "explain": "Third-party status lets India follow the case and present its views without being a principal party. Indian steel and aluminium exporters face carbon costs under the EU's CBAM.",
+  "source": "India has reserved third-party rights in Russia's World Trade Organization (WTO) case against the European Union's (EU) Carbon Border Adjustment Mechanism (CBAM)"
+ },
+ {
+  "id": "m09-46", "story_id": "2026-09-28-aitn3", "topic": "Environment & Energy", "difficulty": 2, "format": "single",
+  "prompt": "India's first port-based e-methanol plant, whose foundation stone was laid in September 2026, is at:",
+  "options": ["Deendayal Port, Kandla", "Paradip Port", "V.O. Chidambaranar Port, Thoothukudi", "Jawaharlal Nehru Port"],
+  "answer": 0,
+  "explain": "The INR 23 billion venture between Deendayal Port Authority and Assam Petro-Chemicals will make 150 tonnes a day of green shipping fuel from renewable power, water and biogenic carbon dioxide.",
+  "source": "laid the foundation stone for India's first port-based e-methanol plant, at Deendayal Port in Kandla, Gujarat"
+ },
+ {
+  "id": "m09-47", "story_id": "2026-09-28-aitn4", "topic": "Science & Tech", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about state funding for Agnikul's Agnibaan rocket in September 2026:",
+  "items": [
+   "The funding body, the Technology Development Board, is part of the Ministry of Electronics and Information Technology.",
+   "Agnikul plans to recover only the first stage of the rocket."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 3,
+  "explain": "The Technology Development Board is part of the Department of Science and Technology. Agnikul plans to recover the upper stage as well, using a restartable semi-cryogenic engine, unlike most reusable rockets.",
+  "source": "Most reusable rockets recover only the first stage, and Agnikul plans to recover the upper stage as well, using a restartable semi-cryogenic engine."
+ },
+ {
+  "id": "m09-48", "story_id": "2026-09-30-1", "topic": "Economy", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about US pharmaceutical tariffs, as of September 2026:",
+  "items": [
+   "Generic medicines are outside the US pharmaceutical tariff programme.",
+   "India was named among eligible suppliers of specialty medicines exempt from the tariffs."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 2,
+  "explain": "Both are correct. Trump's April 2026 order set a default 100% tariff on covered patented medicines; the September exemption covers specialty treatments such as rare-disease medicines, fertility drugs, and cell and gene therapies.",
+  "source": "Generic medicines, cheaper alternatives to original drugs, remain outside this tariff programme."
+ },
+ {
+  "id": "m09-49", "story_id": "2026-09-30-aitn1", "topic": "Environment & Energy", "difficulty": 2, "format": "single",
+  "prompt": "PRAMAAN certificates, first handed over in September 2026, are issued under which scheme?",
+  "options": ["Indian Forest and Wood Certification Scheme", "Green Credit Programme", "Carbon Credit Trading Scheme", "Ecomark Scheme"],
+  "answer": 0,
+  "explain": "The scheme was launched in December 2023, with audits by bodies accredited under the Quality Council of India. Exporters can use the certificates to meet deforestation-free sourcing rules abroad.",
+  "source": "Environment Minister Bhupender Yadav on Tuesday handed over the first PRAMAAN certificates under the Indian Forest and Wood Certification Scheme."
+ }
+]

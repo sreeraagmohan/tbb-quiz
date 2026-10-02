@@ -1,0 +1,78 @@
+{
+ "story_id": "2026-07-10-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1786,
+  "output_tokens": 3086,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India-Australia civil nuclear deal's history, the outcomes of the July 2026 Melbourne summit, and India's nuclear policy framework.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, India and Australia finalised the administrative arrangement enabling Australian uranium exports to India. Consider the following statements about India-Australia civil nuclear cooperation:",
+    "items": [
+     "The India-Australia civil nuclear cooperation agreement was signed in September 2014.",
+     "The Nuclear Suppliers Group granted India the waiver that opened the door to such trade in 2008.",
+     "Australian uranium can only fuel Indian reactors that are under International Atomic Energy Agency safeguards."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. Abbott and Modi signed the agreement in September 2014, after the 48-country NSG's 2008 waiver, and the fuel may only go to IAEA-safeguarded reactors. That condition helps explain why only a single trial shipment arrived, in 2017, before 2026.",
+    "source": "Tony Abbott and Modi signed the cooperation agreement in September 2014."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to outcomes of the third India-Australia Annual Summit, held in Melbourne in July 2026:",
+    "items": [
+     "Partnership on Cyber, Critical Technologies and Supply Chains (PACTS) — Replaces a 2020 framework",
+     "Joint Declaration on Defence and Security Cooperation — Replaces the 2009 declaration",
+     "Flinders University campus cleared by the UGC — Gurugram"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong. The UGC cleared Flinders University for Bengaluru, while Victoria University was cleared for Gurugram. The summit also set up an Annual Defence Ministers' Dialogue and agreed a Maritime Security Collaboration Roadmap.",
+    "source": "India's University Grants Commission cleared Flinders University for Bengaluru and Victoria University for Gurugram, and Australian institutions will return three Tamil Nadu antiquities."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's nuclear energy sector, as reported in July 2026:",
+    "items": [
+     "The SHANTI Act, passed in 2025, replaced the Atomic Energy Act of 1962 and opened the sector to private and foreign investment.",
+     "The Nuclear Energy Mission targets 100 GW of nuclear capacity by 2035."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the Nuclear Energy Mission's 100 GW target is set for 2047, not 2035. India currently has just under 9 GW across 25 reactors, supplying roughly 3% of electricity.",
+    "source": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act, passed in 2025, replaced the Atomic Energy Act of 1962 and opened the sector to private and foreign investment."
+   }
+  ]
+ }
+}

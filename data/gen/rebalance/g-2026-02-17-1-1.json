@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-17-1-1",
+ "story_id": "2026-02-17-1",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–South Korea Foreign Policy and Security Dialogue (FPSD):",
+  "items": [
+   "The 6th round of the dialogue was held in Seoul in February 2026.",
+   "The 2014 round of the dialogue focused on defence.",
+   "The 2023 round of the dialogue focused on economic security."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The 2023 round focused on post-COVID resilience. Economic security became the focus in the 2026 round. That round, held in Seoul, gave most weight to shipbuilding, critical minerals and AI.",
+  "source": "In 2014, it was about defence; by 2023, it was post-COVID resilience."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–South Korea Foreign Policy and Security Dialogue (FPSD):",
+  "items": [
+   "The 6th round of the dialogue was held in Seoul in February 2026.",
+   "The 2014 round of the dialogue focused on defence.",
+   "The 2023 round of the dialogue focused on post-COVID resilience."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct. The 6th FPSD concluded in Seoul in February 2026, and the story notes that the 2014 round was about defence while the 2023 round was about post-COVID resilience. In 2026 the focus shifted to economic security, with most weight on shipbuilding, critical minerals and AI.",
+  "source": "In 2014, it was about defence; by 2023, it was post-COVID resilience."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2449,
+  "output_tokens": 848,
+  "cache_creation_input_tokens": 1080,
+  "cache_read_input_tokens": 798
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-07-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 762,
+  "output_tokens": 1803,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the CBFC leadership change, its term and predecessors, the Padma Shri's rank, and the ministry behind Prasar Bharati appointments; the Jana Nayagan row is left as context.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the leadership of the Central Board of Film Certification (CBFC) as of May 2026:",
+    "items": [
+     "Shashi Shekhar Vempati was appointed CBFC chairperson for a three-year term.",
+     "Prasoon Joshi had led the CBFC since August 2017, succeeding Pahlaj Nihalani.",
+     "Vempati received the Padma Shri, India's third-highest civilian honour, in January 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong because the Padma Shri is India's fourth-highest civilian honour, not the third. Vempati, a former CEO of Rajya Sabha TV and Prasar Bharati, replaced Joshi, whose tenure focused on digitising the board's certification process.",
+    "source": "He previously served as CEO of Rajya Sabha TV and Prasar Bharati, and received a Padma Shri, India’s fourth-highest civilian honour, in January 2026."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, Prasoon Joshi was moved from the Central Board of Film Certification to head Prasar Bharati, India's public broadcaster. Which ministry made this move?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Ministry of Information and Broadcasting",
+     "Ministry of Culture",
+     "Ministry of Electronics and Information Technology",
+     "Ministry of Home Affairs"
+    ],
+    "answer": 0,
+    "explain": "The Information and Broadcasting Ministry moved Joshi to Prasar Bharati on 2 May 2026, creating the CBFC vacancy that Vempati filled. The two men have effectively traded chairs across the same two institutions.",
+    "source": "On May 2, the Information and Broadcasting (I&B) Ministry moved him to head Prasar Bharati, creating the vacancy Vempati now fills."
+   }
+  ]
+ }
+}

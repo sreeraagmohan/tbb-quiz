@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-13-aitn1-1",
+ "story_id": "2026-08-13-aitn1",
+ "target": 1,
+ "original": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, NASA invited ISRO to join its Moon Base programme. Consider the following statements:",
+  "items": [
+   "The invitation was extended at the ninth meeting of the India-US Civil Space Joint Working Group, held in Bengaluru.",
+   "The Moon Base programme aims to establish a sustained human presence near the north pole of the moon.",
+   "NISAR, a joint NASA-ISRO Earth observation satellite, was launched in July 2025."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the programme targets a sustained human presence near the moon's south pole, not the north pole. The two sides also agreed to advance talks on sharing open scientific data under the Artemis Accords.",
+  "source": "The invite was extended at the ninth meeting of the India-US Civil Space Joint Working Group at ISRO headquarters in Bengaluru on August 5 and 6."
+ },
+ "rewritten": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, NASA invited ISRO to join its Moon Base programme. Consider the following statements:",
+  "items": [
+   "The invitation was extended at the ninth meeting of the India-US Civil Space Joint Working Group, held at NASA headquarters in Washington, DC.",
+   "The Moon Base programme aims to establish a sustained human presence near the south pole of the moon.",
+   "NISAR, a joint NASA-ISRO Earth observation satellite, was launched in July 2025."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the ninth meeting of the India-US Civil Space Joint Working Group was held at ISRO headquarters in Bengaluru on 5 and 6 August 2026, not at NASA headquarters in Washington. The two sides also agreed to advance talks on sharing open scientific data under the Artemis Accords.",
+  "source": "The invite was extended at the ninth meeting of the India-US Civil Space Joint Working Group at ISRO headquarters in Bengaluru on August 5 and 6."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2430,
+  "output_tokens": 760,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-24-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 463,
+  "output_tokens": 1803,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the outcomes of the February 2026 AI Impact Summit: the voluntary Charter, the Global AI Impact Commons, open-source emphasis and the guiding philosophy.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the New Delhi Declaration adopted at the close of the AI Impact Summit in February 2026:",
+    "items": [
+     "Its centrepiece is a Charter for the Democratic Diffusion of AI that is binding on all signatory countries.",
+     "It proposes a Global AI Impact Commons, a repository to help countries replicate successful AI use cases across borders.",
+     "It champions open-source AI as an engine of economic and social development."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The Charter for the Democratic Diffusion of AI is voluntary, not binding, so statement 1 is wrong. The voluntary Global AI Impact Commons and the push for open-source AI are both part of the Declaration, which aims to make AI adoption benefit the Global South.",
+    "source": "The centerpiece is a voluntary Charter for the Democratic Diffusion of AI."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The New Delhi Declaration, adopted at the AI Impact Summit in February 2026, invoked which philosophy meaning \"the world is one family\"?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Vasudhaiva Kutumbakam",
+     "Sarvodaya",
+     "Antyodaya",
+     "Panchsheel"
+    ],
+    "answer": 0,
+    "explain": "The Declaration invoked Vasudhaiva Kutumbakam, the \"world is one family\" philosophy. In that spirit, it framed meaningful and affordable connectivity as a necessity for deploying AI rather than a luxury.",
+    "source": "Vasudhaiva Kutumbakam: Invoking the “world is one family” philosophy, the Declaration frames"
+   }
+  ]
+ }
+}

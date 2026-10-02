@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-22-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 837,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the durable facts of India's 8th WTO Trade Policy Review: its sequence, period covered and periodicity.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's Trade Policy Review at the World Trade Organization (WTO), which opened in July 2026:",
+    "items": [
+     "It was India's eighth Trade Policy Review and covered the period 2021 to 2025.",
+     "India's Trade Policy Review at the WTO is conducted every two years."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The review is India's 8th and covers 2021 to 2025, but it is held every five years, not every two. Members filed more than 900 written questions, and Commerce Secretary Rajesh Agarwal led India's delegation.",
+    "source": "The review, conducted every five years, covers 2021 to 2025."
+   }
+  ]
+ }
+}

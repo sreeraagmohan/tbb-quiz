@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-04-27-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 601,
+  "output_tokens": 2655,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the April 2026 US antidumping duty on Indian solar imports, the body that found injury, and the tariff-dodging claim behind the probe.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about US trade action on solar imports in April 2026:",
+    "items": [
+     "The US Commerce Department imposed a preliminary antidumping duty of 123.04% on Indian solar imports.",
+     "Laos faced a higher preliminary antidumping rate than Indonesia.",
+     "Combined with countervailing duties imposed in February 2026, the total tax burden on Indian solar exports exceeds 200%."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong: Indonesia faces 35.17% and Laos just 22.46%, both far below India's 123.04%. The blow is heavy because the US accounts for over 95% of India's solar cell and module exports.",
+    "source": "India’s rate dwarfs its peers, with Indonesia facing 35.17% and Laos just 22.46%."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In the US antidumping case on solar imports that led to duties on India in April 2026, which body ruled that these imports had 'materially injured' the US domestic industry?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "United States International Trade Commission",
+     "Office of the United States Trade Representative",
+     "United States Federal Trade Commission",
+     "United States Department of the Treasury"
+    ],
+    "answer": 0,
+    "explain": "The injury finding came from the United States International Trade Commission, while the Commerce Department set the preliminary duty rates. The probe began on a petition from US manufacturers in July 2025.",
+    "source": "The United States International Trade Commission (ITC) had ruled in August that these imports \"materially injured\" the US domestic industry."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "US manufacturers who petitioned in July 2025 for the antidumping probe that led to duties on Indian solar imports in April 2026 claimed that firms had moved to India and Indonesia to dodge tariffs previously imposed on which countries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Cambodia and Vietnam",
+     "Bangladesh and Sri Lanka",
+     "Japan and South Korea",
+     "Brazil and Mexico"
+    ],
+    "answer": 0,
+    "explain": "The petitioners alleged that firms relocated to India and Indonesia to escape earlier tariffs on Cambodia and Vietnam. The duties landed while an Indian delegation was in Washington trying to finalise an interim trade deal.",
+    "source": "A group of US manufacturers petitioned for the probe in July 2025, claiming firms relocated to India and Indonesia to dodge tariffs previously slapped on Cambodia and Vietnam."
+   }
+  ]
+ }
+}

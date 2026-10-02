@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-10-2-1",
+ "story_id": "2026-07-10-2",
+ "target": 0,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In May 2026, the Delhi High Court ruled on a trademark suit filed by bathroom fittings maker Hindware against Google. Consider the following statements about the ruling:",
+  "items": [
+   "It found Google liable for trademark infringement through its AdWords keyword system.",
+   "It accepted Google's defence that it was only a passive intermediary in the ad auction.",
+   "It ordered Google to pay around INR 3 million in damages plus costs."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The second statement is wrong because the court rejected the passive-intermediary defence, holding that Google actively profits from the auction system. Hindware sued after rivals bought \"Hindware\" as a keyword so that their ads appeared when consumers searched for the brand. In July 2026, Google appealed the ruling.",
+  "source": "The court rejected Google’s passive-intermediary defence, finding that it actively profits from the auction system and cannot wash its hands of resulting infringement."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In May 2026, the Delhi High Court ruled on a trademark suit filed by bathroom fittings maker Hindware against Google. Consider the following statements about the ruling:",
+  "items": [
+   "It found Google liable for trademark infringement through its AdWords keyword system.",
+   "It accepted Google's defence that it was only a passive intermediary in the ad auction.",
+   "It ordered Google to pay around INR 30 million in damages plus costs."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Only the first statement is correct. The second is wrong because the court rejected the passive-intermediary defence, holding that Google actively profits from the auction system, and the third is wrong because the damages were around INR 3 million (about USD 31,600), not INR 30 million. In July 2026, Google filed a 4,761-page appeal against the ruling.",
+  "source": "In May, Justice Mini Pushkarna ordered Google to pay around USD 31,600 (INR 3 million) in damages plus costs."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3022,
+  "output_tokens": 680,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

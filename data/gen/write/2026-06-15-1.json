@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-06-15-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 689,
+  "output_tokens": 2360,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests concrete outcomes of the June 2026 Modi-Macron meeting in Nice: the trade mechanism, security agreements, space and rail intents, and Bharat Innovates.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the meeting between Prime Minister Narendra Modi and President Emmanuel Macron in Nice in June 2026:",
+    "items": [
+     "It was their first meeting since India and France elevated ties to a Special Global Strategic Partnership.",
+     "The leaders agreed to a High-level Mechanism to double bilateral trade within five years.",
+     "A General Security Agreement on the exchange and protection of classified information was among the outcomes."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are stated in the story. The meeting produced 13 outcomes spanning defence, critical minerals, space and trade, and the leaders also pushed for early implementation of the India-European Union Free Trade Agreement.",
+    "source": "The leaders agreed to a High-level Mechanism to double bilateral trade within five years"
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India-France outcomes announced in Nice in June 2026:",
+    "items": [
+     "ISRO-CNES letter of intent — Human spaceflight",
+     "Economic Security Dialogue — Critical minerals supply chains",
+     "Declaration of intent — Small modular reactors"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The declaration of intent was on high-speed rail in India, so the third pair is wrong. Civil nuclear cooperation, including small and advanced modular reactors, was opened up by India's new SHANTI Act.",
+    "source": "The Indian Space Research Organisation (ISRO) and France's Centre National d'Études Spatiales signed a letter of intent on human spaceflight, and the two sides issued a declaration of intent on high-speed rail in India."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Prime Minister Narendra Modi and President Emmanuel Macron jointly inaugurated 'Bharat Innovates' in Nice. What is it?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India's first deep-tech showcase held abroad",
+     "A joint India-France critical minerals fund",
+     "A bilateral human spaceflight training centre",
+     "An India-EU free trade implementation body"
+    ],
+    "answer": 0,
+    "explain": "Bharat Innovates was India's first deep-tech showcase held abroad. It put 120 start-ups in front of more than 350 global investors on the sidelines of the leaders' meeting.",
+    "source": "On the sidelines, the leaders jointly inaugurated Bharat Innovates, India's first deep-tech showcase held abroad, putting 120 start-ups in front of more than 350 global investors."
+   }
+  ]
+ }
+}

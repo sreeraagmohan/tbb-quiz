@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-05-18-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 268,
+  "output_tokens": 818,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the steel safeguard hurdle delaying the India–UK FTA rollout, a concrete trade-policy fact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, the rollout of the India–UK free trade agreement was delayed. Which issue did India's Commerce Secretary cite as the hurdle?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "The UK's new steel import safeguards",
+     "The UK's new pharmaceutical import curbs",
+     "The UK's new textile import rules",
+     "The UK's new IT professional visa limits"
+    ],
+    "answer": 0,
+    "explain": "The UK's stricter steel safeguards were announced in March 2026, take effect from July 1, and had not been factored into negotiations. They sharply reduce tariff-free quotas and impose steep duties beyond them, which could dilute the market access Indian steelmakers expected.",
+    "source": "Commerce Secretary Rajesh Agrawal said the UK's stricter steel safeguards, announced in March and set to take effect from July 1, were not factored into negotiations."
+   }
+  ]
+ }
+}

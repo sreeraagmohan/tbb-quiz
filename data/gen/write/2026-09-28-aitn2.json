@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-28-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 279,
+  "output_tokens": 866,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly an enforcement directive. Tested the legal status of nicotine pouches and the court's rejection of the duty-free immunity claim.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the Union health ministry ordered state governments to crack down on the illegal sale of nicotine pouches. Consider the following statements:",
+    "items": [
+     "Nicotine pouches are unapproved and illegal under Indian drug laws.",
+     "An Indian court accepted the defence that airport duty-free shops are immune from domestic laws."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Nicotine pouches remain unapproved and illegal under Indian drug laws, even though they are sold online, in local shops and at duty-free outlets. Statement 2 is wrong because the court quashed the Adani Group's argument that its airport duty-free shops were immune from domestic laws. The federal drug advisory panel has also recommended a complete ban on approving any new nicotine formulations.",
+    "source": "Despite growing global popularity and availability via online channels, local shops, and duty-free outlets, nicotine pouches remain unapproved and illegal under Indian drug laws."
+   }
+  ]
+ }
+}

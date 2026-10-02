@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-15-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 330,
+  "output_tokens": 1160,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the structural outcome of the April 2026 Kerala Assembly election and the alliance alignment of the IUML.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, the Indian National Congress named V.D. Satheesan as Chief Minister of Kerala. Consider the following statements about the April 2026 Kerala Assembly elections and their outcome:",
+    "items": [
+     "The Congress-led United Democratic Front won 102 of the 140 Assembly seats.",
+     "The result ended a decade of Left Democratic Front rule under Pinarayi Vijayan.",
+     "The Indian Union Muslim League, which backed Satheesan, is a constituent of the Left Democratic Front."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because the story describes the IUML as the UDF's most influential alliance partner, not an LDF constituent. Satheesan, a six-time legislator from Paravur and Leader of the Opposition since 2021, was chosen over K.C. Venugopal and Ramesh Chennithala.",
+    "source": "ending 11 days of internal jockeying after the Congress-led United Democratic Front (UDF) swept the April assembly elections with 102 of 140 seats"
+   }
+  ]
+ }
+}

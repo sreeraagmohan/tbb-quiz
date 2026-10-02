@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-01-23-1-1",
+ "story_id": "2026-01-23-1",
+ "target": 0,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "IndiGo's flight operations were disrupted in December 2025. Consider the following statements about the regulatory action that followed, as reported in January 2026:",
+  "items": [
+   "The Directorate General of Civil Aviation (DGCA) levied a record penalty of INR 22.2 crore on IndiGo.",
+   "The DGCA demanded a bank guarantee of INR 50 crore from the airline.",
+   "IndiGo accounts for more than 80% of India's domestic air traffic."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The penalty and bank guarantee figures are correct. The third statement is wrong because IndiGo carries roughly 60-65% of domestic traffic, not over 80%. That share is still large enough that rivals could not absorb stranded passengers, and the Centre told the Delhi High Court it had asked the airline to dismiss a senior vice-president from its operations control centre.",
+  "source": "DGCA has already levied a record INR 22.2 crore (~USD 2.4 million) penalty and demanded a INR 50 crore (~USD 5.5 million) bank guarantee."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "IndiGo's flight operations were disrupted in December 2025. Consider the following statements about the regulatory action that followed, as reported in January 2026:",
+  "items": [
+   "The Directorate General of Civil Aviation (DGCA) levied a record penalty of INR 22.2 crore on IndiGo.",
+   "The DGCA demanded a bank guarantee of INR 100 crore from the airline.",
+   "IndiGo accounts for more than 80% of India's domestic air traffic."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Only the first statement is correct. The DGCA demanded a bank guarantee of INR 50 crore, not INR 100 crore, and IndiGo carries roughly 60-65% of domestic traffic, not over 80%. The Centre also told the Delhi High Court it had asked the airline to dismiss a senior vice-president from its operations control centre.",
+  "source": "DGCA has already levied a record INR 22.2 crore (~USD 2.4 million) penalty and demanded a INR 50 crore (~USD 5.5 million) bank guarantee."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2849,
+  "output_tokens": 689,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

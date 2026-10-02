@@ -1,0 +1,1063 @@
+[
+ {
+  "id": "g-2025-12-15-2-2",
+  "story_id": "2025-12-15-2",
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In December 2025, after GRAP Stage IV was invoked in Delhi-NCR, which body warned that further steps such as odd–even schemes could follow if 'Severe+' air quality persisted?",
+  "options": [
+   "Commission for Air Quality Management",
+   "National Green Tribunal",
+   "Central Pollution Control Board",
+   "Delhi Pollution Control Committee"
+  ],
+  "answer": 0,
+  "explain": "The Commission for Air Quality Management warned that wider closures, tighter vehicle curbs and even odd–even schemes could follow. GRAP Stage IV acts as an emergency brake and is usually rolled back once AQI stabilises.",
+  "source": "The Commission for Air Quality Management has warned more steps may follow if ‘Severe+’ sticks — wider closures, tighter vehicle curbs, even odd–even schemes.",
+  "reasons": [
+   "same fact as g-2026-01-21-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-01-20-1-2",
+  "story_id": "2026-01-20-1",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "The India–UAE joint statement of January 2026 included investment promotion in the Dholera project. In which Indian state is Dholera located?",
+  "options": [
+   "Gujarat",
+   "Maharashtra",
+   "Rajasthan",
+   "Madhya Pradesh"
+  ],
+  "answer": 0,
+  "explain": "The joint statement refers to Gujarat’s Dholera project under investment promotion. The UAE is a top-tier Gulf partner for India in trade, energy and investment.",
+  "source": "pushing trade to USD 200bn by 2032, investment promotion (including Gujarat’s Dholera project)",
+  "reasons": [
+   "same fact as m09-36"
+  ]
+ },
+ {
+  "id": "g-2026-01-21-1-2",
+  "story_id": "2026-01-21-1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In January 2026, the RBI proposed linking BRICS central bank digital currencies, building on a 2025 BRICS declaration that called for greater interoperability between members' payment systems. In which city was that 2025 declaration adopted?",
+  "options": [
+   "Rio de Janeiro",
+   "Johannesburg",
+   "Kazan",
+   "Durban"
+  ],
+  "answer": 0,
+  "explain": "The proposal flows from the 2025 BRICS declaration in Rio de Janeiro. India, which hosts the 2026 summit, presents BRICS as a payments and trade platform rather than a geopolitical alliance.",
+  "source": "The idea flows from the 2025 BRICS declaration in Rio de Janeiro, which called for greater interoperability between member countries’ payment systems.",
+  "reasons": [
+   "explanation: The explanation states as fact that India \"presents BRICS as a payments and trade platform rather than a geopolitical alliance.\" In the story this characterisation appears only in the \"Sound smarter (TBB analysis)\" section, as the newsletter's reading of India's messaging. It is not reported fact, so it should be attributed to the analysis. The rest of the explanation (Rio de Janeiro, 2025 declaration, India hosting 2026) matches the story."
+  ]
+ },
+ {
+  "id": "g-2026-01-27-1-2",
+  "story_id": "2026-01-27-1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "António Costa attended India's Republic Day parade in January 2026 as a guest of honour. Which office did he hold at the time?",
+  "options": [
+   "President of the European Council",
+   "President of the European Commission",
+   "President of the European Parliament",
+   "EU High Representative for Foreign Affairs"
+  ],
+  "answer": 0,
+  "explain": "Costa attended as European Council President, alongside European Commission President Ursula von der Leyen. The two then attended the EU-India Summit in New Delhi the following day.",
+  "source": "European Commission President Ursula von der Leyen and European Council President António Costa attended as guests of honour yesterday.",
+  "reasons": [
+   "same fact as g-2026-01-22-1-2"
+  ]
+ },
+ {
+  "id": "g-2026-01-28-1-2",
+  "story_id": "2026-01-28-1",
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the climate and steel provisions of the India–EU Free Trade Agreement concluded in January 2026:",
+  "items": [
+   "India secured an exemption from the EU's Carbon Border Adjustment Mechanism (CBAM) levy.",
+   "The EU agreed to provide India with EUR 500 million in support tied to emissions cuts.",
+   "The EU agreed to allow 1.6 million metric tons of duty-free steel exports from India."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong. India won no leeway on the CBAM levy, only a promise to keep talking about technicalities. The EUR 500 million in support and the duty-free steel quota were what India got instead.",
+  "source": "The EU agreed to provide India with EUR 500 million in support tied to emissions cuts and 1.6 million metric tons of duty-free steel exports to the EU.",
+  "reasons": [
+   "explanation: The explanation says the EUR 500 million and the steel quota were what India got \"instead\" of CBAM leeway. The story does not present them as a substitute or trade-off; it simply reports them alongside the CBAM outcome. The rest of the explanation (statement 1 wrong, only a promise to keep talking about technicalities) matches the story."
+  ]
+ },
+ {
+  "id": "g-2026-01-28-3-3",
+  "story_id": "2026-01-28-3",
+  "topic": "Defence & Security",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "Security Action For Europe (SAFE), mentioned in January 2026 in the context of India-EU ties, is best described as:",
+  "options": [
+   "An EU defence initiative India may explore joining",
+   "An EU trade facility for Indian critical minerals",
+   "An EU visa scheme for skilled Indian workers",
+   "An EU research fund for Indian semiconductor firms"
+  ],
+  "answer": 0,
+  "explain": "Under the India-EU Security and Defence Partnership, both sides agreed to explore Indian participation in EU defence initiatives, possibly including SAFE. TBB reads the wider framework as a de-risking alliance that values geopolitical stability as much as market access.",
+  "source": "including exploring possibilities for India to participate in EU defence initiatives, possibly including the EU’s Security Action For Europe",
+  "reasons": [
+   "same fact as g-2026-01-23-3-2"
+  ]
+ },
+ {
+  "id": "g-2026-01-30-3-1",
+  "story_id": "2026-01-30-3",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the approach to artificial intelligence set out in the Economic Survey presented in January 2026:",
+  "items": [
+   "It favours sector-specific, small, open-weight models over US- and China-style mega-models.",
+   "It argues that India's late entry into AI is a handicap that will leave it permanently behind early movers.",
+   "It proposes an \"AI-OS\" layered onto India Stack to give startups access to public data and shared compute."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. The Survey treats global AI hype as a cooling bubble and argues India's late entry could help it avoid the energy intensity and financial instability troubling early movers in the West. It also cites India's over 1 billion broadband users as a structural advantage.",
+  "source": "Instead, it backs sector-specific, small, open-weight models built for real use, not leaderboard glory.",
+  "reasons": [
+   "same fact as g-2026-02-19-1-2"
+  ]
+ },
+ {
+  "id": "g-2026-02-19-2-2",
+  "story_id": "2026-02-19-2",
+  "topic": "Environment & Energy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "Reporting on India's February 2026 easing of curbs on Chinese power equipment cited a national goal for non-fossil power capacity by 2030. What is that goal?",
+  "options": [
+   "500 GW",
+   "300 GW",
+   "450 GW",
+   "600 GW"
+  ],
+  "answer": 0,
+  "explain": "The story gives India's 2030 goal as 500 GW of non-fossil capacity. It says this goal is hard to meet without Chinese transformers and reactors.",
+  "source": "Without the Chinese hardware, the 2030 goal of 500 GW non-fossil capacity is little more than a pipe dream.",
+  "reasons": [
+   "same fact as g-2026-04-24-1-3"
+  ]
+ },
+ {
+  "id": "g-2026-02-23-2-1",
+  "story_id": "2026-02-23-2",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In February 2026, India joined Pax Silica, a US-led initiative. What is the primary focus of this initiative?",
+  "options": [
+   "Semiconductor and AI supply chains",
+   "Maritime security in the Indian Ocean",
+   "Climate finance for developing nations",
+   "Counter-terrorism intelligence sharing"
+  ],
+  "answer": 0,
+  "explain": "Pax Silica aims to ringfence semiconductor and AI supply chains from Chinese dominance. Its cooperation spans critical minerals, semiconductor fabrication and AI infrastructure.",
+  "source": "India has officially joined Pax Silica, a US-led initiative designed to ringfence semiconductor and AI supply chains from Chinese dominance, on Friday.",
+  "reasons": [
+   "same fact as s08"
+  ]
+ },
+ {
+  "id": "g-2026-02-26-2-3",
+  "story_id": "2026-02-26-2",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In late 2025, which international institution graded India's national accounts statistics a \"C\"?",
+  "options": [
+   "International Monetary Fund",
+   "World Bank",
+   "Asian Development Bank",
+   "World Trade Organization"
+  ],
+  "answer": 0,
+  "explain": "The IMF gave India's national accounts a \"C\" grade in late 2025. TBB notes this is a liability for a country marketing itself as a top investment destination, and the revised series aims to better reflect economic reality.",
+  "source": "The IMF graded India's national accounts a \"C\" in late 2025.",
+  "reasons": [
+   "explanation: The explanation says \"TBB notes\" that the C grade is a liability, but the story does not attribute that point to TBB. It appears in the main story under \"The reputational hit\". The labelled TBB analysis makes a different point: credible data is worth more than flattering data."
+  ]
+ },
+ {
+  "id": "g-2026-03-04-1-1",
+  "story_id": "2026-03-04-1",
+  "topic": "Geography",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In early March 2026, shipping through the Strait of Hormuz was effectively halted. Consider the following statements about this disruption:",
+  "items": [
+   "About a fifth of the world's oil flows through the strait.",
+   "The halt was caused primarily by a naval blockade of the strait.",
+   "Major shipping lines such as Maersk and Hapag-Lloyd suspended transits."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong: the strait was shut not by a naval blockade but by the market, as insurers cancelled war risk coverage and the IRGC threatened to fire on passing ships. Transit fell 81% in a single week, with around 150 vessels, including oil and LNG tankers, at anchor in and around the strait.",
+  "source": "Not by a naval blockade, but by the market itself: insurers have cancelled war risk coverage for vessels in the Gulf, the Islamic Revolutionary Guard Corps (IRGC) has threatened to fire on any ship that tries to pass, and major shipping lines including Maersk and Hapag-Lloyd have suspended transits.",
+  "reasons": [
+   "same fact as g-2026-03-09-2-2"
+  ]
+ },
+ {
+  "id": "g-2026-03-06-1-2",
+  "story_id": "2026-03-06-1",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about MILAN 2026, hosted by the Indian Navy in February 2026:",
+  "items": [
+   "It was held in Visakhapatnam alongside the International Fleet Review.",
+   "The name MILAN is Hindi for \"coming together\".",
+   "It brought together navies from over 70 countries."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three statements match the story: MILAN and the International Fleet Review were held in Visakhapatnam, and MILAN gathers navies from over 70 countries, including rivals. The Iranian frigate IRIS Dena took part and left India on 25 February 2026, before it was sunk off Sri Lanka.",
+  "source": "MILAN, Hindi for “coming together,” is the centrepiece of that vision, bringing together navies from over 70 countries, including nations on opposite sides of geopolitical fault lines.",
+  "reasons": [
+   "same fact as g-2026-04-20-2-3"
+  ]
+ },
+ {
+  "id": "g-2026-03-10-2-1",
+  "story_id": "2026-03-10-2",
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the Union government proposed a Standing Authority on Environment Impact Assessment (SAEIA). Consider the following statements:",
+  "items": [
+   "The SAEIA would consist of ex-officio members appointed by the central government.",
+   "The SAEIA would permanently replace the State Environment Impact Assessment Authorities.",
+   "The Environmental Impact Assessment framework under which approvals operate was introduced in 2006."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 3 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. The SAEIA would only temporarily take over the responsibilities of state-level appraisal authorities when they become inactive, for example when terms expire and new members are not appointed. The aim is to stop projects piling up in a clearance backlog.",
+  "source": "When state-level environmental appraisal authorities become inactive, the standing authority would temporarily take over their responsibilities.",
+  "reasons": [
+   "blind solver picked a different answer",
+   "not exactly one correct option",
+   "solver: options (a) and (c) are identical, so two options are correct",
+   "non-standard statement options",
+   "need exactly four distinct options"
+  ]
+ },
+ {
+  "id": "g-2026-03-13-2-2",
+  "story_id": "2026-03-13-2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In early 2026, the US Supreme Court struck down tariffs imposed by President Trump under which law?",
+  "options": [
+   "International Emergency Economic Powers Act",
+   "Section 122 of the Trade Act",
+   "Section 301 of the Trade Act",
+   "Section 232 of the Trade Expansion Act"
+  ],
+  "answer": 0,
+  "explain": "The Court struck down Trump's emergency tariffs under IEEPA, after which the White House pivoted to Section 122 for a temporary 15% global tariff. Section 301 is the replacement strategy for when that expires.",
+  "source": "This new development comes weeks after the Supreme Court struck down Trump’s emergency tariffs under IEEPA, which we covered here.",
+  "reasons": [
+   "same fact as g-2026-02-23-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-03-16-1-2",
+  "story_id": "2026-03-16-1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "The interim India–US trade framework agreed in February 2026 would lock in what tariff rate on Indian exports to the United States?",
+  "options": [
+   "18%",
+   "10%",
+   "15%",
+   "25%"
+  ],
+  "answer": 0,
+  "explain": "The framework would fix an 18% tariff on Indian exports. By March 2026 this was higher than the flat 10% duty the US was applying under Section 122, which gave New Delhi a reason to delay signing.",
+  "source": "The interim framework agreed in February (we covered it here) would lock in an 18% tariff on Indian exports.",
+  "reasons": [
+   "same fact as g-2026-02-03-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-03-16-3-2",
+  "story_id": "2026-03-16-3",
+  "topic": "Defence & Security",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "By March 2026, after the US sank an Iranian ship, India had allowed an Iranian naval vessel to dock at which Indian port?",
+  "options": [
+   "Kochi",
+   "Visakhapatnam",
+   "Chennai",
+   "Mumbai"
+  ],
+  "answer": 0,
+  "explain": "New Delhi allowed an Iranian naval vessel to dock in Kochi after the US sank another Iranian ship. This came even as India had bolstered ties with Israel, leaving New Delhi in an awkward balancing position.",
+  "source": "New Delhi allowed an Iranian naval vessel to dock in Kochi after the US sank another Iranian ship",
+  "reasons": [
+   "same fact as g-2026-03-09-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-03-20-2-1",
+  "story_id": "2026-03-20-2",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In March 2026, the Centre considered using emergency powers to make imported coal-based power plants run at full capacity. Under which provision can the Centre direct any power plant to operate according to its directions during extraordinary circumstances?",
+  "options": [
+   "Section 11 of the Electricity Act",
+   "Section 61 of the Electricity Act",
+   "Section 79 of the Electricity Act",
+   "Section 86 of the Electricity Act"
+  ],
+  "answer": 0,
+  "explain": "Section 11 lets the Centre direct any power plant to operate as directed in extraordinary circumstances, including threats to public order or for the sake of public interest. Because imported coal costs more, the government may let generators pass higher fuel costs to consumers or offer a financial cushion under the same section.",
+  "source": "Under Section 11 of the Electricity Act, the Centre can direct any power plant to operate according to its directions during extraordinary circumstances, which includes threats to public order or for the sake of public interest.",
+  "reasons": [
+   "same fact as g-2026-03-31-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-03-26-3-1",
+  "story_id": "2026-03-26-3",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In March 2026, the Union Cabinet approved Modified UDAN. Consider the following statements about it:",
+  "items": [
+   "It commits INR 28,840 crore over the next decade.",
+   "It plans to develop 100 airports from existing airstrips and build 200 helipads.",
+   "It extends viability gap funding for airlines on regional routes from three years to five years."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 3 is wrong because viability gap funding is extended from three to ten years, not five. Direct airline subsidies alone account for INR 10,043 crore of the outlay, with INR 12,159 crore earmarked for airport development.",
+  "source": "Modified UDAN extends viability gap funding from three to ten years, betting that longer subsidies will give routes time to build demand.",
+  "reasons": [
+   "same fact as s29"
+  ]
+ },
+ {
+  "id": "g-2026-03-31-2-2",
+  "story_id": "2026-03-31-2",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In February 2026, the Union government shortened the window within which internet platforms must take down flagged content. The window was reduced from 36 hours to:",
+  "options": [
+   "Three hours",
+   "Six hours",
+   "Twelve hours",
+   "Twenty-four hours"
+  ],
+  "answer": 0,
+  "explain": "The takedown window was compressed from 36 hours to three hours. At the same time, new disclosure and metadata requirements were introduced for AI-generated content.",
+  "source": "In February, the Modi government compressed the content takedown window from 36 hours to three hours",
+  "reasons": [
+   "same fact as g-2026-02-11-4-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-28-2-1",
+  "story_id": "2026-04-28-2",
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In March 2026, the Ministry of Power released an emergency playbook to prevent summer blackouts. Which provision of the Electricity Act did it invoke to force power plants to come online?",
+  "options": [
+   "Section 11",
+   "Section 62",
+   "Section 63",
+   "Section 135"
+  ],
+  "answer": 0,
+  "explain": "The playbook invoked Section 11 of the Electricity Act to force plants to come online and deferred maintenance on 10,000 MW of thermal plants until July. It was tested when peak demand hit a record 256.1 GW in April 2026.",
+  "source": "invoking Section 11 of the Electricity Act to force plants to come online",
+  "reasons": [
+   "same fact as g-2026-03-31-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-05-07-3-1",
+  "story_id": "2026-05-07-3",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to party positions in the 234-member Tamil Nadu Legislative Assembly after the election results of May 2026:",
+  "items": [
+   "Tamilaga Vettri Kazhagam (TVK) — 108 seats",
+   "All India Anna Dravida Munnetra Kazhagam (AIADMK) — 47 seats",
+   "Indian National Congress — 15 seats"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   " None"
+  ],
+  "answer": 1,
+  "explain": "Congress won five seats, not 15. TVK's 108 seats left it ten short of the 118 needed for a majority, which is why Congress's support and the AIADMK's 47 seats became decisive.",
+  "source": "TVK won 108 of 234 seats, ten short of the 118 needed for a majority.",
+  "reasons": [
+   "non-standard pairs options"
+  ]
+ },
+ {
+  "id": "g-2026-05-07-aitn1-1",
+  "story_id": "2026-05-07-aitn1",
+  "topic": "Polity & Governance",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "Following its landslide victory in the West Bengal Assembly election, announced in May 2026, which party was set to form a government in the state for the first time ever?",
+  "options": [
+   "Bharatiya Janata Party",
+   "All India Trinamool Congress",
+   "Communist Party of India (Marxist)",
+   "Indian National Congress"
+  ],
+  "answer": 0,
+  "explain": "The BJP won a landslide and was due to form its first ever West Bengal government once the new assembly was sworn in after Mamata Banerjee's term ended. Banerjee refused to resign and called the election rigged without evidence, and the state's Chief Electoral Officer called her allegations baseless.",
+  "source": "Banerjee's term expires on Thursday, after which the new assembly will be sworn in and the BJP will form its first ever West Bengal government.",
+  "reasons": [
+   "same fact as s17"
+  ]
+ },
+ {
+  "id": "g-2026-05-08-1-1",
+  "story_id": "2026-05-08-1",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the assembly election results announced in May 2026:",
+  "items": [
+   "The Bharatiya Janata Party won West Bengal for the first time, securing 206 of the state's 294 seats.",
+   "The Tamilaga Vetri Kazhagam won an outright majority on its own in the Tamil Nadu assembly.",
+   "In Tamil Nadu, the Congress joined a coalition with the Tamilaga Vetri Kazhagam after leaving the DMK-led alliance."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because TVK topped the assembly but fell short of a majority, forcing a hasty coalition with the Congress, which was poached from the DMK-led alliance. In West Bengal, at least four people were killed in post-poll violence after the BJP's win.",
+  "source": "At least four people were killed after the Bharatiya Janata Party (BJP) secured West Bengal for the first time, winning 206 of 294 seats.",
+  "reasons": [
+   "same fact as s17"
+  ]
+ },
+ {
+  "id": "g-2026-05-11-aitn1-1",
+  "story_id": "2026-05-11-aitn1",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the state assembly election outcomes announced in May 2026:",
+  "items": [
+   "In West Bengal, the BJP won 207 of 294 seats and Suvendu Adhikari became the state's first BJP chief minister.",
+   "In Tamil Nadu, the Tamilaga Vettri Kazhagam crossed the 118-seat majority mark on its own.",
+   "In Assam, the BJP-led National Democratic Alliance won 102 of 126 seats."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. The TVK won 108 seats and needed backing from the Congress, the VCK and the IUML to cross the 118-seat majority before Vijay took oath on 10 May 2026. In West Bengal, Mamata Banerjee refused to resign, prompting Governor RN Ravi to dissolve the assembly.",
+  "source": "His Tamilaga Vettri Kazhagam (TVK) won 108 seats but needed backing from the Indian National Congress, the Viduthalai Chiruthaigal Katchi (VCK) and the Indian Union Muslim League (IUML) to cross the 118-seat majority.",
+  "reasons": [
+   "same fact as s17"
+  ]
+ },
+ {
+  "id": "g-2026-05-18-2-1",
+  "story_id": "2026-05-18-2",
+  "topic": "Science & Tech",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In May 2026, Tata Electronics and the Dutch firm ASML signed an MoU to build India's first front-end 300-millimetre chip fabrication plant. Where is this plant to be located?",
+  "options": [
+   "Dholera, Gujarat",
+   "Sanand, Gujarat",
+   "Hosur, Tamil Nadu",
+   "Noida, Uttar Pradesh"
+  ],
+  "answer": 0,
+  "explain": "The MoU covers a fab in Dholera, Gujarat, where Tata Electronics plans to invest USD 11 billion to make chips for AI, automotive and mobile uses. ASML, the world's sole maker of advanced lithography machines, will supply its chipmaking tools and help ramp up production.",
+  "source": "Tata Electronics and Dutch semiconductor giant ASML signed an MoU on Saturday to build India's first front-end 300-millimetre chip fabrication plant in Dholera, Gujarat, during Prime Minister Narendra Modi's two-day visit to the Netherlands.",
+  "reasons": [
+   "same fact as m09-36"
+  ]
+ },
+ {
+  "id": "g-2026-05-18-4-2",
+  "story_id": "2026-05-18-4",
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "Ahead of the summer of 2026, the Ministry of Power forced plants running on imported coal, such as Tata's Mundra facility, to operate at full capacity. Which provision did it invoke?",
+  "options": [
+   "Section 11 of the Electricity Act",
+   "Section 62 of the Electricity Act",
+   "Section 3 of the Essential Commodities Act",
+   "Section 14 of the Energy Conservation Act"
+  ],
+  "answer": 0,
+  "explain": "The ministry invoked Section 11 of the Electricity Act to make imported-coal plants run at full capacity and avoid summer blackouts. Forecasts put temperatures in Delhi and North India 5°C above normal that week.",
+  "source": "It recently invoked Section 11 of the Electricity Act, forcing plants running on expensive imported coal, such as Tata's Mundra facility, to operate at full capacity to avoid summer blackouts (we covered it here).",
+  "reasons": [
+   "same fact as g-2026-03-31-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-05-19-aitn2-1",
+  "story_id": "2026-05-19-aitn2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In May 2026, during Vietnamese President To Lam's state visit to India, India–Vietnam relations were upgraded to which of the following?",
+  "options": [
+   "Enhanced Comprehensive Strategic Partnership",
+   "Comprehensive Global Strategic Partnership",
+   "Special and Privileged Strategic Partnership",
+   "Comprehensive Strategic and Global Partnership"
+  ],
+  "answer": 0,
+  "explain": "The two countries' Comprehensive Strategic Partnership, which turned 10 years old, was upgraded to an Enhanced Comprehensive Strategic Partnership during To Lam's state visit. Defence Minister Rajnath Singh's Vietnam leg later that month marked the anniversary, with a focus on military cooperation and maritime security.",
+  "source": "recently upgraded to an Enhanced Comprehensive Strategic Partnership during Vietnamese President To Lam's state visit to India earlier this month",
+  "reasons": [
+   "same fact as g-2026-05-07-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-05-21-2-3",
+  "story_id": "2026-05-21-2",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "According to figures cited by Defence Minister Rajnath Singh in May 2026, India's defence exports in FY 2025-26 were approximately:",
+  "options": [
+   "INR 40,000 crore",
+   "INR 50,000 crore",
+   "INR 1.54 lakh crore",
+   "INR 15,000 crore"
+  ],
+  "answer": 0,
+  "explain": "Defence exports were nearly INR 40,000 crore (USD 4.7 billion) in FY 2025-26, while INR 1.54 lakh crore was total defence production. Singh said exports will reach INR 50,000 crore within two years.",
+  "source": "India recorded approximately INR 1.54 lakh crore (USD 18 billion) in defence production and nearly INR 40,000 crore (USD 4.7 billion) in exports in FY 2025-26.",
+  "reasons": [
+   "same fact as g-2026-04-03-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-05-22-1-2",
+  "story_id": "2026-05-22-1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In 2026, after its \"Liberation Day\" tariffs were struck down, the United States opened investigations into Indian trade practices under which provision of US trade law?",
+  "options": [
+   "Section 301",
+   "Section 122",
+   "Section 232",
+   "Section 201"
+  ],
+  "answer": 0,
+  "explain": "Washington launched Section 301 investigations into Indian trade practices. Section 122 was the basis for the separate 10% flat duty. TBB notes that Section 301 action carries no expiry and no ceiling, which adds urgency to the trade talks.",
+  "source": "Washington pivoted to a 10% flat duty under Section 122 and launched Section 301 investigations into Indian trade practices",
+  "reasons": [
+   "same fact as g-2026-06-11-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-05-26-3-2",
+  "story_id": "2026-05-26-3",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "As of May 2026, almost all of India's LPG imports came from which two countries?",
+  "options": [
+   "Qatar and the UAE",
+   "Saudi Arabia and Kuwait",
+   "Iran and Oman",
+   "Iraq and Bahrain"
+  ],
+  "answer": 0,
+  "explain": "Almost all of India's LPG imports come from Qatar and the UAE, and these supplies cannot bypass the Strait of Hormuz. With the West Asia crisis choking supply, New Delhi is trying to source LPG from the US, Canada and Norway.",
+  "source": "Almost all of India's LPG imports come from Qatar and the UAE",
+  "reasons": [
+   "same fact as g-2026-03-17-1-2"
+  ]
+ },
+ {
+  "id": "g-2026-06-16-2-2",
+  "story_id": "2026-06-16-2",
+  "topic": "Economy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "As reported in June 2026, the Centre had raised the effective import duty on gold and silver to what level, in order to curb dollar outflows on bullion?",
+  "options": [
+   "15%",
+   "9%",
+   "10%",
+   "12%"
+  ],
+  "answer": 0,
+  "explain": "The effective duty on gold and silver imports was raised to 15% from 6% to curb dollar outflows on bullion. The merchandise trade deficit alone reached USD 28.21 billion in May 2026.",
+  "source": "The Centre had raised the effective gold and silver import duty to 15% from 6%, aimed at curbing dollar outflows on bullion",
+  "reasons": [
+   "same fact as g-2026-05-15-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-06-16-4-2",
+  "story_id": "2026-06-16-4",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In February 2026, India and France upgraded their bilateral ties to which of the following?",
+  "options": [
+   "Special Global Strategic Partnership",
+   "Comprehensive Global Strategic Partnership",
+   "Enhanced Strategic and Global Partnership",
+   "Special Strategic and Global Partnership"
+  ],
+  "answer": 0,
+  "explain": "The two countries upgraded ties to a Special Global Strategic Partnership in February 2026 and launched the India-France Year of Innovation 2026, which focuses on AI in health and digital science. The Innovation Roadmap 2030 followed in June 2026.",
+  "source": "The two countries upgraded ties to a “Special Global Strategic Partnership” in February this year and launched the “India-France Year of Innovation 2026,” focusing on AI in health and digital science.",
+  "reasons": [
+   "same fact as g-2026-02-18-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-06-25-aitn2-1",
+  "story_id": "2026-06-25-aitn2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, US Trade Representative Jamieson Greer visited New Delhi for trade negotiations with India. Consider the following statements:",
+  "items": [
+   "Greer held talks with India's Commerce and Industry Minister Piyush Goyal.",
+   "The visit was framed as a step towards finalising an interim agreement, consistent with a joint statement of 7 February 2026."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements are correct. Greer held multiple rounds of talks with Piyush Goyal from 22 to 24 June 2026, and both sides cast the interim deal as a milestone towards a comprehensive Bilateral Trade Agreement. The talks covered market access, digital trade, supply chain resilience and the reduction of non-tariff barriers.",
+  "source": "The visit was framed as a step towards finalising an interim agreement, consistent with the joint statement of 7 February, that both sides cast as a milestone towards a comprehensive BTA delivering tangible benefits for businesses, farmers, workers, and consumers in both countries.",
+  "reasons": [
+   "solver: trivial"
+  ]
+ },
+ {
+  "id": "g-2026-06-29-aitn1-1",
+  "story_id": "2026-06-29-aitn1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In June 2026, Prime Minister Narendra Modi and US President Donald Trump met on the sidelines of the G7 summit. Which country hosted that summit?",
+  "options": [
+   "France",
+   "Canada",
+   "Italy",
+   "Japan"
+  ],
+  "answer": 0,
+  "explain": "Modi and Trump met on the sidelines of the G7 summit in France, and Trump called the conversation very good. US Secretary of State Marco Rubio later said Trump was expected to visit India in early 2027.",
+  "source": "Modi and Trump met on the sidelines of the G7 summit in France last week",
+  "reasons": [
+   "same fact as g-2026-06-17-aitn3-1"
+  ]
+ },
+ {
+  "id": "g-2026-07-03-1-1",
+  "story_id": "2026-07-03-1",
+  "topic": "Defence & Security",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In July 2026, India and Japan agreed on the remaining technical details of the UNICORN project. What is UNICORN?",
+  "options": [
+   "An integrated mast for Indian Navy ships",
+   "A hypersonic cruise missile for the Indian Army",
+   "A maritime patrol aircraft for the Coast Guard",
+   "A satellite navigation system for the Air Force"
+  ],
+  "answer": 0,
+  "explain": "The Unified Complex Radio Antenna (UNICORN) is an integrated ship mast for the Indian Navy that the two countries have been co-developing. The agreement came alongside India and Japan's first defence co-development agreement, signed during the 16th India-Japan Annual Summit.",
+  "source": "The two governments reached agreement in principle on the remaining technical details of the Unified Complex Radio Antenna (UNICORN) project, an integrated ship mast for the Indian Navy that both sides have been co-developing.",
+  "reasons": [
+   "same fact as g-2026-08-21-1-2"
+  ]
+ },
+ {
+  "id": "g-2026-07-14-1-2",
+  "story_id": "2026-07-14-1",
+  "topic": "Economy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In May 2026, the Centre raised the import duty on gold from 6% to which rate?",
+  "options": [
+   "15%",
+   "10%",
+   "12.5%",
+   "20%"
+  ],
+  "answer": 0,
+  "explain": "The duty was raised to 15% two days after the Prime Minister asked citizens to pause gold purchases and foreign holidays for a year to conserve foreign exchange. Gold imports still jumped 47% in June 2026 to USD 1.96 billion.",
+  "source": "Two days later, the Centre raised the gold import duty from 6% to 15%.",
+  "reasons": [
+   "same fact as g-2026-05-15-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-07-17-2-2",
+  "story_id": "2026-07-17-2",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "As of July 2026, India's biggest supplier of imported urea shipped its cargoes through which strait?",
+  "options": [
+   "Strait of Hormuz",
+   "Bab-el-Mandeb",
+   "Strait of Malacca",
+   "Strait of Gibraltar"
+  ],
+  "answer": 0,
+  "explain": "Oman is India's biggest urea supplier, and its shipments pass through the Strait of Hormuz. The West Asia conflict disrupted these supplies and at one point pushed prices to nearly double their pre-conflict level.",
+  "source": "Oman is the biggest supplier and shipments go through the Strait of Hormuz.",
+  "reasons": [
+   "same fact as g-2026-03-31-4-2"
+  ]
+ },
+ {
+  "id": "g-2026-07-27-2-2",
+  "story_id": "2026-07-27-2",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In July 2026, which Indian body notified a prohibition on imports made with forced labour, which qualified India for the lower US duty tier?",
+  "options": [
+   "Directorate General of Foreign Trade",
+   "Central Board of Indirect Taxes and Customs",
+   "Directorate General of Trade Remedies",
+   "Ministry of Labour and Employment"
+  ],
+  "answer": 0,
+  "explain": "The DGFT notified the prohibition on 13 July 2026, four days after the USTR hearings closed. No goods are yet being stopped at the border, because the DGFT has still to open investigations and name products.",
+  "source": "India's Directorate General of Foreign Trade (DGFT) notified such a prohibition on July 13, four days after the hearings closed.",
+  "reasons": [
+   "same fact as g-2026-07-15-2-3"
+  ]
+ },
+ {
+  "id": "g-2026-07-30-1-2",
+  "story_id": "2026-07-30-1",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In July 2026, the CBI's first chargesheet in the NEET paper-leak investigation was taken on record by a special judge at which Delhi court complex?",
+  "options": [
+   "Rouse Avenue",
+   "Tis Hazari",
+   "Saket",
+   "Patiala House"
+  ],
+  "answer": 0,
+  "explain": "Special Judge Anu Grover Baliga took the chargesheet against 13 accused on record at Rouse Avenue. She noted that the witness statements and lists of documents had not come with it, and the CBI said the full record runs to about 20,000 pages.",
+  "source": "Special Judge Anu Grover Baliga took the chargesheet on record at Rouse Avenue on Wednesday",
+  "reasons": [
+   "solver: trivial venue recall"
+  ]
+ },
+ {
+  "id": "g-2026-07-31-2-2",
+  "story_id": "2026-07-31-2",
+  "topic": "Environment & Energy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In 2026, the Central Transmission Utility (CTUIL) admitted it lacked the infrastructure for nearly half of 130 GW of renewable connectivity applications in which state?",
+  "options": [
+   "Rajasthan",
+   "Gujarat",
+   "Karnataka",
+   "Andhra Pradesh"
+  ],
+  "answer": 0,
+  "explain": "CTUIL said it could not provide infrastructure for nearly half of the 130 GW of connectivity applications in Rajasthan, which TBB describes as India's solar powerhouse. Such transmission delays threaten India's target of expanding clean capacity from 296 GW to 500 GW by 2030.",
+  "source": "the Central Transmission Utility (CTUIL) admitted it lacks the infrastructure for nearly half of the 130 GW of connectivity applications in Rajasthan, India’s solar powerhouse",
+  "reasons": [
+   "explanation: \"which TBB describes as India's solar powerhouse\" is wrong. The story calls Rajasthan India's solar powerhouse in its main text, not in the TBB analysis. The 'Sound smarter (TBB analysis)' section does not mention Rajasthan at all."
+  ]
+ },
+ {
+  "id": "g-2026-08-10-3-1",
+  "story_id": "2026-08-10-3",
+  "topic": "Polity & Governance",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In February 2026, the Ministry of Electronics and Information Technology (MeitY) set a window within which platforms must take down deepfakes. What was that window?",
+  "options": [
+   "Three hours",
+   "24 hours",
+   "36 hours",
+   "72 hours"
+  ],
+  "answer": 0,
+  "explain": "MeitY gave platforms three hours to take down deepfakes in February 2026. This followed amendments to India's IT Intermediary Rules that tightened due-diligence requirements and raised platform accountability for AI-generated content.",
+  "source": "MeitY gave platforms a three hour window to take down deepfakes back in February",
+  "reasons": [
+   "explanation: The explanation says the February three-hour window \"followed amendments to India's IT Intermediary Rules\". The story does not say this. It says the August push directing Meta follows those recent amendments, and it mentions the February three-hour window separately."
+  ]
+ },
+ {
+  "id": "g-2026-08-18-2-3",
+  "story_id": "2026-08-18-2",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "India plans to develop Great Nicobar as a major transshipment and logistics hub near the approaches to which strait?",
+  "options": [
+   "Malacca Strait",
+   "Strait of Hormuz",
+   "Palk Strait",
+   "Bab-el-Mandeb Strait"
+  ],
+  "answer": 0,
+  "explain": "Great Nicobar lies near the approaches to the Malacca Strait. As of August 2026, the port, intended to draw cargo away from Colombo, Singapore and Port Klang, was still awaiting final Cabinet approval.",
+  "source": "New Delhi also plans to turn Great Nicobar into a major transshipment and logistics hub near the approaches to the Malacca Strait.",
+  "reasons": [
+   "same fact as g-2026-02-18-4-2"
+  ]
+ },
+ {
+  "id": "g-2026-08-24-4-3",
+  "story_id": "2026-08-24-4",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's petroleum refining sector, as reported in August 2026:",
+  "items": [
+   "India imports nearly 90% of the crude oil it refines.",
+   "India's refineries produce more fuel than the country consumes, making it a net exporter of refined products.",
+   "India already supplies the full fuel requirements of Nepal and Bhutan."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three are correct. India's 23 refineries produced 267 million tonnes, and exports of refined products reached roughly 61.4 million tonnes in FY 2025-26, which allowed India to keep supplying Nepal and Bhutan in full even through the West Asia crisis.",
+  "source": "Its 23 refineries produced 267 million tonnes last year, more than it consumes, making India a net exporter: exports reached roughly 61.4 million tonnes in FY 2025-26.",
+  "reasons": [
+   "explanation: The explanation says the export volumes \"allowed India to keep supplying Nepal and Bhutan in full even through the West Asia crisis\". The story draws no such causal link. It states separately that India is a net exporter (about 61.4 million tonnes in FY 2025-26) and that it already supplies Nepal and Bhutan in full, even through the West Asia crisis."
+  ]
+ },
+ {
+  "id": "g-2026-08-26-1-2",
+  "story_id": "2026-08-26-1",
+  "topic": "Defence & Security",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "Guided Pinaka rockets produced by the Indian private firm Solar Defence, cited in August 2026 as an example of private participation in missile production, were made for export to which country?",
+  "options": [
+   "Armenia",
+   "Philippines",
+   "Brazil",
+   "Vietnam"
+  ],
+  "answer": 0,
+  "explain": "Solar Defence produced guided Pinaka rockets for export to Armenia, showing private participation was already underway. In June 2026 the Defence Minister had warned that production capacity now matters as much as research.",
+  "source": "Solar Defence produced guided Pinaka rockets for export to Armenia",
+  "reasons": [
+   "same fact as g-2026-01-20-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-08-27-1-1",
+  "story_id": "2026-08-27-1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–China boundary talks held in August 2026:",
+  "items": [
+   "The talks were held in Beijing between the two countries' Special Representatives on the boundary question, NSA Ajit Doval and Foreign Minister Wang Yi.",
+   "The two sides announced two military hotlines in the eastern and middle sectors of the border.",
+   "The two sides agreed on troop reductions and a timetable for boundary delimitation."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: no map, troop reductions or timetable emerged from the talks. The two sides added two meeting points for senior commanders and two hotlines, and set up expert groups on an 'Early and Substantial Harvest' of delimitation and on border management.",
+  "source": "No map, troop reductions or timetable emerged.",
+  "reasons": [
+   "explanation: The explanation says the two sides \"set up expert groups\" at these talks. The story says both expert groups were proposed last year and still have to agree on their terms of reference, so they were not newly set up at the August 2026 talks."
+  ]
+ },
+ {
+  "id": "g-2026-08-28-1-1",
+  "story_id": "2026-08-28-1",
+  "topic": "Geography",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Kailash Mansarovar Yatra as of August 2026:",
+  "items": [
+   "The Ministry of External Affairs organises the Yatra through Lipulekh Pass in Uttarakhand and Nathu La Pass in Sikkim.",
+   "Participation through the official routes is capped at roughly 1,000 pilgrims a year, selected through a lottery.",
+   "Private operators taking pilgrims through Nepal face the same annual cap as the official routes."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because private operators through Nepal face no such cap. More than 13,500 pilgrims transited through Nepal's Rasuwagadhi crossing in the last fiscal year alone, which makes it the cheapest and most popular private route.",
+  "source": "The MEA organises the Yatra through two official routes, Lipulekh Pass in Uttarakhand and Nathu La Pass in Sikkim, but caps participation at roughly 1,000 pilgrims a year selected through a lottery.",
+  "reasons": [
+   "explanation: The explanation says the 13,500 transits \"makes it the cheapest and most popular private route.\" The story gives these as separate facts: Rasuwagadhi is the cheapest and most popular private route, and more than 13,500 pilgrims transited through it in the last fiscal year. The pilgrim numbers do not make the route cheapest."
+  ]
+ },
+ {
+  "id": "g-2026-08-28-aitn1-1",
+  "story_id": "2026-08-28-aitn1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In August 2026, Prime Minister Narendra Modi was scheduled to attend the 26th Shanghai Cooperation Organisation (SCO) summit on 31 August and 1 September 2026. In which city was this summit to be held?",
+  "options": [
+   "Bishkek",
+   "Tashkent",
+   "Astana",
+   "Dushanbe"
+  ],
+  "answer": 0,
+  "explain": "The 26th SCO summit was set for Bishkek, capital of the Kyrgyz Republic. Tashkent was the earlier leg of the trip, a state visit on 29-30 August for talks with Uzbek President Shavkat Mirziyoyev on trade, defence, critical minerals and energy.",
+  "source": "then flies to Bishkek for the 26th Shanghai Cooperation Organisation (SCO) summit on August 31 and September 1.",
+  "reasons": [
+   "same fact as s40"
+  ]
+ },
+ {
+  "id": "g-2026-09-09-aitn1-1",
+  "story_id": "2026-09-09-aitn1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "Which city was scheduled to host the BRICS summit on 12-13 September 2026?",
+  "options": [
+   "New Delhi",
+   "Rio de Janeiro",
+   "Kazan",
+   "Johannesburg"
+  ],
+  "answer": 0,
+  "explain": "India hosted the BRICS summit in New Delhi on 12-13 September 2026. Before it, the Commerce Ministry consulted Indian industry groups about Chinese restrictions on rare-earth magnets, battery technology, solar equipment and specialised power-transmission components.",
+  "source": "Ahead of the Brazil, Russia, India, China, and South Africa (BRICS) summit in New Delhi next week (12-13 September), the Commerce Ministry consulted Indian industry groups about Chinese restrictions on critical technology and components.",
+  "reasons": [
+   "explanation: The explanation says \"India hosted the BRICS summit in New Delhi on 12-13 September 2026\", as if the summit had already taken place. The story, dated 9 September, describes it as scheduled for next week (12-13 September) in New Delhi, not as having been held."
+  ]
+ },
+ {
+  "id": "g-2026-09-29-aitn1-1",
+  "story_id": "2026-09-29-aitn1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "As of September 2026, the US Trade Representative was investigating alleged excess capacity in Indian manufacturing under which provision of US law?",
+  "options": [
+   "Section 301 of the US Trade Act",
+   "Section 232 of the Trade Expansion Act",
+   "Section 201 of the US Trade Act",
+   "Section 122 of the US Trade Act"
+  ],
+  "answer": 0,
+  "explain": "The USTR's probe into alleged excess capacity in Indian manufacturing runs under Section 301 of the US Trade Act. It sits alongside the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which lets President Trump impose tariffs of up to 100 per cent on buyers of Russian oil and gas, a list that includes India.",
+  "source": "Separately, the USTR is investigating alleged excess capacity in Indian manufacturing under Section 301 of the US Trade Act.",
+  "reasons": [
+   "same fact as g-2026-06-11-1-1"
+  ]
+ }
+]

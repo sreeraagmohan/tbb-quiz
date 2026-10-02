@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-08-14-aitn1-1",
+ "story_id": "2026-08-14-aitn1",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, China extended anti-dumping duties on Indian single-mode optical fibre for another five years. Consider the following statements:",
+  "items": [
+   "China first imposed these duties in 2014 and previously renewed them for five years in 2020.",
+   "The extended duties apply at a single uniform rate to all Indian exporters."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the rates differ by exporter, ranging from 7.4 percent to 30.6 percent. China's Ministry of Commerce said a year-long expiry review found that removing the duties could allow dumping and harm to domestic producers to continue or recur.",
+  "source": "China first imposed the measures in 2014 and previously renewed them for five years in 2020."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, China extended anti-dumping duties on Indian single-mode optical fibre for another five years. Consider the following statements:",
+  "items": [
+   "China first imposed these duties in 2020, and the August 2026 extension is their first renewal.",
+   "The extended duties apply at rates that vary by exporter, with Sterlite Technologies facing a lower rate than Aksh Optifibre and Finolex Cables."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because China first imposed the measures in 2014 and previously renewed them for five years in 2020. Statement 2 is correct, as Sterlite Technologies faces 7.4 percent while Aksh Optifibre and Finolex Cables each face 30.6 percent. China's Ministry of Commerce said a year-long expiry review found that removing the duties could allow dumping and harm to domestic producers to continue or recur.",
+  "source": "The measures will remain in force from Friday at rates ranging between 7.4 percent and 30.6 percent depending on the exporter, with Sterlite Technologies subject to 7.4 percent and Aksh Optifibre and Finolex Cables each facing 30.6 per cent."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2275,
+  "output_tokens": 934,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

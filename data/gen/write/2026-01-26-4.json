@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-26-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 630,
+  "output_tokens": 1562,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the generic semaglutide approvals, the patent expiry and the use of Ozempic and Wegovy, plus India's share of global diabetics; company names and pricing skipped.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In January 2026, the Drugs Controller General of India cleared Sun Pharma, Dr. Reddy's and Alkem Laboratories to manufacture a generic version of which drug, the active ingredient in Novo Nordisk's Ozempic and Wegovy?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Semaglutide",
+     "Metformin",
+     "Sitagliptin",
+     "Insulin glargine"
+    ],
+    "answer": 0,
+    "explain": "Semaglutide is the active ingredient in both Ozempic and Wegovy. Indian firms are moving early so they are ready when Novo Nordisk's Indian patent on Ozempic expires in March 2026.",
+    "source": "Semaglutide is the active ingredient in Novo Nordisk’s Ozempic and Wegovy."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the semaglutide drugs in the news in January 2026:",
+    "items": [
+     "Novo Nordisk's Indian patent on Ozempic expires in March 2026.",
+     "Ozempic and Wegovy contain different active ingredients, one approved for diabetes and the other for weight management.",
+     "India accounts for roughly one in five diabetics globally."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong. Both drugs contain semaglutide and differ only in dosage, delivery and approved indications (diabetes versus weight management). Nomura expects generic semaglutide to cost around INR 3,600, less than half the current price of Ozempic in India.",
+    "source": "Both Ozempic and Wegovy contain semaglutide, but they differ in dosage, delivery, and approved indications (diabetes versus weight management)."
+   }
+  ]
+ }
+}

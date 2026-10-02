@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-05-07-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 246,
+  "output_tokens": 776,
+  "cache_creation_input_tokens": 4410,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the first-time event: the BJP forming its first ever West Bengal government after the 2026 Assembly election.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Following its landslide victory in the West Bengal Assembly election, announced in May 2026, which party was set to form a government in the state for the first time ever?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Bharatiya Janata Party",
+     "All India Trinamool Congress",
+     "Communist Party of India (Marxist)",
+     "Indian National Congress"
+    ],
+    "answer": 0,
+    "explain": "The BJP won a landslide and was due to form its first ever West Bengal government once the new assembly was sworn in after Mamata Banerjee's term ended. Banerjee refused to resign and called the election rigged without evidence, and the state's Chief Electoral Officer called her allegations baseless.",
+    "source": "Banerjee's term expires on Thursday, after which the new assembly will be sworn in and the BJP will form its first ever West Bengal government."
+   }
+  ]
+ }
+}

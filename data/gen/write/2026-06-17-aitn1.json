@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-17-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 277,
+  "output_tokens": 998,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the record rice stock, the wheat stock peak and the timing of India's removal of rice export curbs, from official data released in June 2026.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's foodgrain stocks and rice trade, based on official data released in June 2026:",
+    "items": [
+     "As of 1 June 2026, government rice reserves stood at a record level, about 15% higher than a year earlier.",
+     "As of 1 June 2026, government wheat stocks reached a ten-year peak.",
+     "India removed its last export curbs on rice in March 2025."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Wheat stocks of 53.41 million tonnes were a five-year peak, not a ten-year one, while rice reserves rose 15% to a record 68.43 million tonnes. India, which supplies around 40% of global rice exports, lifted its last curbs in March 2025, and the stocks cushion a below-average 2026 monsoon forecast.",
+    "source": "Government rice reserves climbed 15% year-on-year to a record 68.43 million tonnes as of 1 June, while wheat stocks reached a five-year peak of 53.41 million tonnes, official data showed on Tuesday."
+   }
+  ]
+ }
+}

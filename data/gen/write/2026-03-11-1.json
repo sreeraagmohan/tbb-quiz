@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-03-11-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1017,
+  "output_tokens": 1896,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Much of the story is a fast-changing supply situation; tested the force majeure priority order, LPG booking rules and import dependence, plus the gas-power and steel exposure figures.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, following supply disruptions caused by the West Asia conflict, India took steps to manage its gas supply. Consider the following statements:",
+    "items": [
+     "The government invoked force majeure and fully protected gas supplies to households and vehicles.",
+     "The minimum interval between LPG cylinder bookings was extended from 21 to 25 days to curb hoarding.",
+     "Imports meet about one-third of India's annual LPG consumption."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because imports fill two-thirds of India's annual LPG consumption, not one-third. Under the force majeure priority order, fertiliser plants, factories and commercial users receive only a fraction of their usual supply.",
+    "source": "To stop hoarding, the government also extended the minimum time between LPG cylinder bookings from 21 to 25 days, after some households that previously booked every 55 days started booking every 15."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India's energy and industrial position in March 2026:",
+    "items": [
+     "Share of India's steel output using gas-based production — about 6%",
+     "Typical capacity utilisation of gas-fired power plants — about 30%",
+     "Bids received for a 12,000 MWh gas-based power tender — zero"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Gas-fired power plants typically run at 6-10% capacity. Roughly 30% was the level they had been expected to reach in summer 2026. With no private bidders willing to commit while LNG was unavailable or too expensive, the workaround was to bring coal plants back online.",
+    "source": "This year, a tender for 12,000 MWh received zero bids as no private player is willing to commit with LNG either unavailable or too expensive."
+   }
+  ]
+ }
+}

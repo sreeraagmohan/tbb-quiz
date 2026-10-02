@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-05-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 269,
+  "output_tokens": 1423,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Supreme Court's directions on digital arrest scams: the RBI's mule account SOP, the MHA portal modules and the shared liability review.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the Supreme Court issued nationwide directions to combat digital arrest scams. Consider the following statements about these directions:",
+    "items": [
+     "The Reserve Bank of India was directed to frame a Standard Operating Procedure on mule accounts within four weeks.",
+     "States and Union Territories must operationalise grievance redressal and money restoration modules under the Ministry of Finance's cyber fraud portal.",
+     "The Centre's Inter-Departmental Committee was asked to examine a shared liability and victim compensation framework."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because the grievance redressal and money restoration modules sit under the Ministry of Home Affairs' cyber fraud portal, not a Ministry of Finance portal. States and Union Territories must also set up State Cyber Crime Coordination Centres within the same four-week window.",
+    "source": "States and Union Territories must operationalise grievance redressal and money restoration modules under the Ministry of Home Affairs' cyber fraud portal, and set up their State Cyber Crime Coordination Centres within the same window."
+   }
+  ]
+ }
+}

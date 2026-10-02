@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-11-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 480,
+  "output_tokens": 1679,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the February 2026 India-Greece Joint Declaration of Intent (venue, linked reform agendas, cooperation plans) and the five-year industrial cooperation plan.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, India and Greece signed a Joint Declaration of Intent on defence cooperation. Consider the following statements:",
+    "items": [
+     "It was signed at a meeting of the two defence ministers held in Athens.",
+     "It aligns India's Aatmanirbhar Bharat goals with Greece's Agenda 2030 military reforms.",
+     "It was accompanied by a 2026 Military Cooperation Plan for joint exercises."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong because Rajnath Singh and Nikolaos-Georgios Dendias met in New Delhi, not Athens. The other two are correct. The declaration aims at joint production of advanced military technology.",
+    "source": "Both nations signed a Joint Declaration of Intent to partner India’s Aatmanirbhar Bharat (self-reliance) goals with Greece’s Agenda 2030 military reforms."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In February 2026, India and Greece set in motion a plan for defence industrial cooperation. What is the duration of this plan?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Five years",
+     "Ten years",
+     "Three years",
+     "Seven years"
+    ],
+    "answer": 0,
+    "explain": "The defence ministers' meeting in New Delhi put a five-year plan for industrial cooperation in play. TBB reads the deepening ties with Greece, Turkey's main rival, as a counter-alignment as Turkey eyes a defence pact with Pakistan and Saudi Arabia.",
+    "source": "A five-year plan for industrial cooperation is now in play, alongside a 2026 Military Cooperation Plan for joint exercises."
+   }
+  ]
+ }
+}

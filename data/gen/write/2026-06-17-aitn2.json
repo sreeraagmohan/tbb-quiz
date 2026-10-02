@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-17-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 304,
+  "output_tokens": 1021,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Tests which body imposed the Telegram restriction and its terms, a narrow institutional fact about IT ministry powers and exam integrity.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, access to the Telegram messaging app was temporarily blocked in India ahead of the NEET-UG re-examination. Consider the following statements:",
+    "items": [
+     "The block on access to Telegram was imposed by the National Testing Agency.",
+     "Telegram's message-editing feature was disabled in India until 30 June 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The block was imposed by the Ministry of Electronics and Information Technology (MeitY). The National Testing Agency administers the exam and had flagged fraudsters selling fake papers on Telegram. Access was restricted until 22 June, and message editing stayed disabled until 30 June.",
+    "source": "The restriction runs until 22 June, with the platform's message-editing feature disabled in India until 30 June."
+   }
+  ]
+ }
+}

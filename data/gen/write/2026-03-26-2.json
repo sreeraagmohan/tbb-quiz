@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-03-26-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 491,
+  "output_tokens": 2333,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests India's updated NDC approved in March 2026: the headline intensity target, other 2035 targets with the EU comparison, and the adaptation focus.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, the Union Cabinet approved India's updated Nationally Determined Contribution (NDC). What reduction in emissions intensity by 2035, against 2005 levels, does it target?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "47%",
+     "45%",
+     "60%",
+     "50%"
+    ],
+    "answer": 0,
+    "explain": "The updated NDC targets a 47% cut in emissions intensity by 2035 from 2005 levels. Critics call this a marginal shift from the earlier goal of 45% by 2030.",
+    "source": "On Wednesday, the Union Cabinet approved India’s updated climate pledges, targeting a 47% reduction in emissions intensity by 2035 against 2005 levels."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to climate targets discussed when India approved its updated NDC in March 2026:",
+    "items": [
+     "India's non-fossil fuel share of power capacity by 2035 — 60%",
+     "India's carbon sink by 2035 — up to 4 billion tonnes",
+     "EU's binding absolute emissions reduction target for 2040 from 1990 levels — 90%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct: India commits to 60% non-fossil power capacity and a carbon sink of up to 4 billion tonnes by 2035, while the EU has a binding 90% absolute cut for 2040 from 1990 levels. Critics use the EU target to argue India's pledges are conservative.",
+    "source": "Beyond emissions intensity, India will commit to 60% non-fossil fuel power capacity and create a carbon sink of up to 4 billion tonnes by 2035 in its updated Nationally Determined Contribution (NDC)."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's updated NDC approved by the Union Cabinet in March 2026:",
+    "items": [
+     "It explicitly prioritises mangrove restoration and glacier monitoring in the Himalayas.",
+     "Compared with earlier NDC updates, it places less emphasis on adaptation and climate-resilient infrastructure."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong: unlike previous updates, this NDC leans heavily into climate-resilient infrastructure. It also prioritises state-level Heat Action Plans to buffer the economy against extreme weather.",
+    "source": "It explicitly prioritizes mangrove restoration, glacier monitoring in the Himalayas, and state-level Heat Action Plans to buffer the economy against extreme weather."
+   }
+  ]
+ }
+}

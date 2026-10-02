@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-20-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 601,
+  "output_tokens": 1398,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the anti-dumping process (DGTR recommends, Finance Ministry decides, reference-price mechanism) and the use of DASDA.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, India recommended anti-dumping duties on imports of DASDA from China. Consider the following statements about this recommendation:",
+    "items": [
+     "The recommendation was made by the Directorate General of Trade Remedies, which functions under the Commerce Ministry.",
+     "The Finance Ministry has three months to decide whether to impose the duty.",
+     "The proposed duty is a fixed percentage of import value, levied on every shipment regardless of its price."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the DGTR proposed a reference-price duty: importers pay the difference between the arrival price and USD 3,453 per ton only if shipments fall below that threshold. The complaint was filed by Deepak Nitrite, which controls roughly 60% of India's DASDA production.",
+    "source": "The Directorate General of Trade Remedies (DGTR), under the Commerce Ministry, proposed a reference-price duty: importers pay the difference between arrival price and USD 3,453 per ton if shipments fall below that threshold."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "DASDA (4,4-Diamino Stilbene-2,2-Disulphonic Acid), on whose Chinese imports India recommended anti-dumping duties in March 2026, is mainly used in which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Textile dyes and optical brighteners",
+     "Lithium-ion battery cathode materials",
+     "Nitrogenous fertilisers for paddy crops",
+     "Active ingredients in antibiotic drugs"
+    ],
+    "answer": 0,
+    "explain": "DASDA is an organic chemical used in textile dyes and optical brighteners. It feeds into optical brightening agents used across India's textile and paper industries, so downstream manufacturers will absorb the higher input cost first.",
+    "source": "an organic chemical used in textile dyes and optical brighteners, after finding evidence of dumped pricing."
+   }
+  ]
+ }
+}

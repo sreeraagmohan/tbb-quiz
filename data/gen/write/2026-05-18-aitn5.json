@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-05-18-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 318,
+  "output_tokens": 954,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India's first-ever Captagon seizure under Operation RAGEPILL, an enforcement first with a Gulf transit angle.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In May 2026, the Narcotics Control Bureau made India's first-ever interception of which drug, recovering it across Delhi and Mundra port under Operation RAGEPILL?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Captagon",
+     "Fentanyl",
+     "Mephedrone",
+     "Methaqualone"
+    ],
+    "answer": 0,
+    "explain": "The NCB seized 227 kilograms of Captagon, valued at INR 182 crore, in the country's first interception of the drug. It uncovered an international syndicate using India as a transit corridor to the Gulf. Captagon is a psychotropic stimulant that gained notoriety during the Syrian civil war.",
+    "source": "The Narcotics Control Bureau (NCB) seized 227 kilograms of Captagon in the country's first-ever interception of the drug, uncovering an international syndicate using India as a transit corridor to funnel the stimulant into Gulf nations."
+   }
+  ]
+ }
+}

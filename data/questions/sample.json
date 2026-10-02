@@ -1,0 +1,480 @@
+[
+ {
+  "id": "s01", "story_id": "2026-01-29-1", "topic": "Polity & Governance", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the Budget Session of Parliament:",
+  "items": [
+   "The Economic Survey reviews the past year, while the Union Budget sets out the government's spending priorities for the year ahead.",
+   "The Finance Bill and the Appropriation Bill are passed before the mid-session recess.",
+   "During the recess, Parliamentary Standing Committees scrutinise the budget ministry by ministry."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 2,
+  "explain": "The Finance Bill and Appropriation Bill are voted on in the second phase, from mid-March to early April, after Standing Committees have examined the budget during the recess. Without them, the government cannot legally tax or spend beyond bare essentials.",
+  "source": "Phase 2 (mid-March to early April): Parliament returns to vote. They debate and pass the Finance Bill and the Appropriation Bill."
+ },
+ {
+  "id": "s02", "story_id": "2026-01-29-1", "topic": "Economy", "difficulty": 1, "format": "single",
+  "prompt": "Why is the Union Budget presented on February 1, two months before the financial year begins?",
+  "options": [
+   "To give ministries and states time to plan before the financial year starts on April 1",
+   "Because Article 112 of the Constitution fixes the date",
+   "To align India's budget with the calendar year",
+   "To let the RBI set policy rates before the Budget"
+  ],
+  "answer": 0,
+  "explain": "An early Budget gives ministries and states time to plan before April 1. The April start is itself a colonial-era convention, tied to old revenue and harvest cycles.",
+  "source": "An early budget gives ministries and states time to plan before the fiscal year starts on April 1."
+ },
+ {
+  "id": "s03", "story_id": "2026-02-02-1", "topic": "Economy", "difficulty": 3, "format": "pairs",
+  "prompt": "Consider the following pairs relating to the Union Budget 2026-27:",
+  "items": [
+   "Fiscal deficit target — 4.3% of GDP",
+   "Debt-to-GDP target — 55.6%",
+   "Increase in capital expenditure — over 30%"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": ["Only one", "Only two", "All three", "None"],
+  "answer": 1,
+  "explain": "The fiscal deficit target was trimmed to 4.3% (from 4.4%) and debt-to-GDP to 55.6%. Capital expenditure rose a measured 9% to USD 133.1 billion; the 30%-plus jumps belong to the 2021-24 recovery years.",
+  "source": "Capital Expenditure: Increased to USD 133.1 billion, a disciplined 9% bump."
+ },
+ {
+  "id": "s04", "story_id": "2026-02-02-1", "topic": "Economy", "difficulty": 2, "format": "single",
+  "prompt": "The Union Budget 2026-27 announced a tax holiday until 2047 for which of the following?",
+  "options": [
+   "Foreign firms providing global cloud services, routed to Indian customers through a domestic reseller",
+   "Semiconductor fabrication plants set up before 2030",
+   "Startups registered in GIFT City",
+   "Electric-vehicle makers that localise battery production"
+  ],
+  "answer": 0,
+  "explain": "The holiday is meant to pull global cloud and data-centre investment into India. The Budget also introduced a 15% safe harbour on costs for related-party data-centre services, to cut transfer-pricing disputes.",
+  "source": "A tax holiday until 2047 was announced for foreign firms providing global cloud services."
+ },
+ {
+  "id": "s05", "story_id": "2026-02-02-4", "topic": "Polity & Governance", "difficulty": 1, "format": "single",
+  "prompt": "Under the UGC Equity Regulations 2026, paused by the Supreme Court in January 2026, every higher education institution had to set up:",
+  "options": [
+   "An Equal Opportunity Centre with an Equity Committee",
+   "A grievance tribunal headed by a retired judge",
+   "A social justice cell reporting to the state government",
+   "An anti-discrimination ombudsman appointed by the UGC"
+  ],
+  "answer": 0,
+  "explain": "The rules responded to a sharp rise in caste-discrimination complaints and replaced optional 2012 guidelines. An expert committee will now redraft them; until then, the 2012 framework applies.",
+  "source": "every higher education institution must now mandatorily establish an Equal Opportunity Centre (EOC) with an Equity Committee"
+ },
+ {
+  "id": "s06", "story_id": "2026-02-02-4", "topic": "Polity & Governance", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the Supreme Court's January 2026 order on the UGC Equity Regulations 2026:",
+  "items": [
+   "The 2026 regulations replaced 2012 guidelines whose implementation was optional.",
+   "The Court objected that the regulations' definition of discrimination was too broad."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 0,
+  "explain": "The Court found the definition too narrow, not too broad: it left General Category students without protection against gender or regional bias. It also flagged the removal of penalties for false complaints.",
+  "source": "The Court slammed the definition of discrimination as too narrow"
+ },
+ {
+  "id": "s07", "story_id": "2026-02-02-3", "topic": "Polity & Governance", "difficulty": 1, "format": "single",
+  "prompt": "In January 2026, Sunetra Pawar became Maharashtra's first woman Deputy Chief Minister. To take up the post, she resigned from:",
+  "options": ["The Rajya Sabha", "The Lok Sabha", "The Maharashtra Legislative Council", "The Baramati Municipal Council"],
+  "answer": 0,
+  "explain": "She stepped in after her husband, Deputy CM Ajit Pawar, died in a plane crash in Baramati. Her resignation left a Rajya Sabha vacancy for the BJP-led alliance to fill.",
+  "source": "To accept the appointment, she resigned from the Rajya Sabha seat she secured only last year."
+ },
+ {
+  "id": "s08", "story_id": "2026-02-02-2", "topic": "International Relations", "difficulty": 1, "format": "single",
+  "prompt": "'Pax Silica', which India was expected to join in early 2026, is:",
+  "options": [
+   "A US-led effort to shield semiconductor and AI supply chains from China",
+   "An EU framework for securing critical raw materials",
+   "A Quad initiative on undersea cables",
+   "A BRICS proposal for a common digital currency"
+  ],
+  "answer": 0,
+  "explain": "Jaishankar was expected to negotiate it on his February 2026 Washington trip, alongside the first US Critical Minerals Ministerial. TBB read it as India offering a win in the tech contest with China in return for tariff relief.",
+  "source": "He is also expected to negotiate Pax Silica, a US-led effort to wall off semiconductor and AI supply chains from Beijing."
+ },
+ {
+  "id": "s09", "story_id": "2026-03-02-1", "topic": "International Relations", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the draft India–EU Free Trade Agreement released in February 2026:",
+  "items": [
+   "A Most Favoured Nation clause stops either side from offering better tariff terms to third countries for five years.",
+   "India will cut tariffs on 99.5% of EU exports by value.",
+   "It aligns food-safety and plant-health measures with WTO standards."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 2,
+  "explain": "India cuts tariffs on 96.6% of EU exports by value; 99.5% is the EU's coverage of Indian goods. The MFN lock-in means any better deal India gives the UK or UAE flows to the EU automatically.",
+  "source": "India will slash tariffs on 96.6% of EU exports by value, while the EU reciprocates on 99.5% of Indian goods"
+ },
+ {
+  "id": "s10", "story_id": "2026-03-02-2", "topic": "International Relations", "difficulty": 1, "format": "single",
+  "prompt": "The Chabahar Port corridor, which India continues to back, links India with:",
+  "options": ["Iran and Afghanistan", "Iran and Turkmenistan", "Oman and Iran", "Iran and Armenia"],
+  "answer": 0,
+  "explain": "When the US and Israel struck Iran in early 2026, New Delhi urged restraint on all sides. It buys Israeli weapons, invests in Chabahar, and calls no one an enemy, keeping leverage with every side.",
+  "source": "India still backs the Chabahar Port corridor linking India, Iran and Afghanistan."
+ },
+ {
+  "id": "s11", "story_id": "2026-03-02-3", "topic": "Polity & Governance", "difficulty": 2, "format": "statements",
+  "prompt": "In February 2026, a Delhi trial court refused to frame charges against Arvind Kejriwal in the Delhi liquor policy case. Consider the following statements:",
+  "items": [
+   "The court's refusal to frame charges amounts to an acquittal.",
+   "The Enforcement Directorate's parallel money-laundering case continues."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 1,
+  "explain": "A discharge is not an acquittal. The CBI appealed to the Delhi High Court the same day, and the ED's money-laundering case stays alive.",
+  "source": "A discharge is not an acquittal."
+ },
+ {
+  "id": "s12", "story_id": "2026-04-01-4", "topic": "Polity & Governance", "difficulty": 3, "format": "pairs",
+  "prompt": "Consider the following pairs of welfare schemes and the state where they featured in the 2026 Assembly elections:",
+  "items": [
+   "Lakshmir Bhandar — West Bengal",
+   "Indira Guarantees — Kerala",
+   "Banglar Yuba-Sathi — Assam"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": ["Only one", "Only two", "All three", "None"],
+  "answer": 1,
+  "explain": "Banglar Yuba-Sathi is West Bengal's monthly allowance for unemployed youth, alongside Lakshmir Bhandar for women. Kerala's Congress-led UDF campaigned on five 'Indira Guarantees'.",
+  "source": "INR 1,500 (USD 18) monthly for unemployed youth under Banglar Yuba-Sathi"
+ },
+ {
+  "id": "s13", "story_id": "2026-04-01-aitn3", "topic": "Society", "difficulty": 1, "format": "single",
+  "prompt": "Which of the following is correct about Census 2027, whose first phase began in April 2026?",
+  "options": [
+   "It is India's first fully digital census and will collect caste data for the first time since independence",
+   "It begins with population enumeration, followed by houselisting in 2027",
+   "It follows the previous census, held in 2021",
+   "Its houselisting phase covers only urban households"
+  ],
+  "answer": 0,
+  "explain": "The houselisting phase (April to September 2026) records housing conditions and household assets. Population enumeration follows in early 2027. The last census was held in 2011.",
+  "source": "India will deploy more than three million officials from tomorrow to begin the first phase of Census 2027, its first fully digital headcount."
+ },
+ {
+  "id": "s14", "story_id": "2026-04-01-3", "topic": "Society", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about Kerala, as reported ahead of its 2026 Assembly election:",
+  "items": [
+   "The Gulf's share of Kerala's emigrants fell from 89.2% in 2018 to 80.5% in 2023.",
+   "In 2021, the LDF broke Kerala's tradition of alternating governments by winning a second consecutive term."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 2,
+  "explain": "Younger Keralites increasingly head to the US, UK and Canada instead of the Gulf. Kerala receives roughly a fifth of India's remittances, so this shift, and any West Asia conflict, hits its economy hardest.",
+  "source": "the Gulf's share of Kerala's emigrants has fallen from 89.2% in 2018 to 80.5% in 2023"
+ },
+ {
+  "id": "s15", "story_id": "2026-04-01-6", "topic": "Society", "difficulty": 1, "format": "single",
+  "prompt": "As reported in April 2026, India's female labour force participation rate is roughly:",
+  "options": ["25%", "35%", "47%", "60%"],
+  "answer": 1,
+  "explain": "At about 35%, it is half the rate for men and well below the global average of 47%. Goldman Sachs estimates closing the gap could add a full percentage point to India's potential growth, yet no major party's 2026 manifesto addressed it.",
+  "source": "female labour force participation, which at roughly 35% is half the rate of men and well below the global average of 47%"
+ },
+ {
+  "id": "s16", "story_id": "2026-04-01-2", "topic": "Economy", "difficulty": 2, "format": "single",
+  "prompt": "Under the latest Finance Commission formula, Tamil Nadu's share of central tax devolution has:",
+  "options": ["Fallen from 7.9% to 4.08%", "Risen from 4.08% to 7.9%", "Stayed roughly constant at about 4%", "Fallen from 10% to 7.9%"],
+  "answer": 0,
+  "explain": "The smaller share squeezes revenue for India's most industrialised state, where salaries, pensions and interest already take 60–68% of revenue receipts.",
+  "source": "Tamil Nadu's share of central tax devolution has also shrunk from 7.9% to 4.08% under the latest Finance Commission formula"
+ },
+ {
+  "id": "s17", "story_id": "2026-05-05-1", "topic": "Polity & Governance", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about the Assembly election results declared in May 2026:",
+  "items": [
+   "The BJP formed its first-ever government in West Bengal.",
+   "Tamilaga Vettri Kazhagam (TVK) won an outright majority in Tamil Nadu.",
+   "For the first time since 1977, no Left party governs any Indian state."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 2,
+  "explain": "TVK became the single largest party with 108 seats, ten short of the 118-seat majority mark. The UDF's win in Kerala ended the last Left government in India.",
+  "source": "No Left party now governs any Indian state for the first time since 1977."
+ },
+ {
+  "id": "s18", "story_id": "2026-05-05-3", "topic": "Polity & Governance", "difficulty": 1, "format": "single",
+  "prompt": "Which of the following is correct about the 2026 Tamil Nadu Assembly election?",
+  "options": [
+   "TVK won 108 seats, ten short of the 118-seat majority mark",
+   "The DMK emerged as the single largest party",
+   "Chief Minister M.K. Stalin retained his Kolathur seat",
+   "The BJP won five seats"
+  ],
+  "answer": 0,
+  "explain": "Actor Vijay's TVK, founded in February 2024, broke the DMK–AIADMK duopoly that had held since 1967. Stalin lost Kolathur to TVK's V.S. Babu, and turnout hit a record 85.1%.",
+  "source": "TVK won 108 seats with 38% of the vote share, ten short of the 118-seat majority mark."
+ },
+ {
+  "id": "s19", "story_id": "2026-05-05-2", "topic": "Geography", "difficulty": 1, "format": "single",
+  "prompt": "Which Indian state shares the longest border with Bangladesh?",
+  "options": ["West Bengal", "Assam", "Meghalaya", "Tripura"],
+  "answer": 0,
+  "explain": "West Bengal's border with Bangladesh runs 2,216 km. With West Bengal and Assam both under BJP chief ministers campaigning against infiltration, New Delhi has less room to soften its tone with Dhaka.",
+  "source": "West Bengal shares a 2,216 km border with Bangladesh, the longest of any Indian state."
+ },
+ {
+  "id": "s20", "story_id": "2026-05-05-5", "topic": "Polity & Governance", "difficulty": 2, "format": "single",
+  "prompt": "The Assam Agitation, which has shaped the state's politics on illegal immigration from Bangladesh, took place during:",
+  "options": ["1979–85", "1947–50", "1962–66", "1990–95"],
+  "answer": 0,
+  "explain": "Chief Minister Himanta Biswa Sarma has leaned on the issue harder than any predecessor. In 2026 the BJP-led NDA won a third straight term in Assam with a two-thirds majority.",
+  "source": "Illegal immigration from Bangladesh has shaped Assam's politics since the Assam Agitation of 1979-85."
+ },
+ {
+  "id": "s21", "story_id": "2026-05-05-6", "topic": "Polity & Governance", "difficulty": 2, "format": "single",
+  "prompt": "N. Rangaswamy, who returned as Chief Minister of Puducherry in 2026, leads which party?",
+  "options": ["All India N.R. Congress (AINRC)", "Dravida Munnetra Kazhagam (DMK)", "Pattali Makkal Katchi (PMK)", "Tamilaga Vettri Kazhagam (TVK)"],
+  "answer": 0,
+  "explain": "The AINRC won 12 seats and the BJP 4, giving the NDA exactly 16, the majority mark in the 30-member assembly. A single defection would change the arithmetic.",
+  "source": "Rangaswamy's All India N.R. Congress (AINRC) won 12 seats."
+ },
+ {
+  "id": "s22", "story_id": "2026-06-01-2", "topic": "Defence & Security", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about India's BrahMos deal with Vietnam, confirmed in May 2026:",
+  "items": [
+   "Vietnam is buying the land-based coastal defence variant, designed to strike ships at sea.",
+   "Vietnam is the first foreign buyer of BrahMos.",
+   "BrahMos flies at nearly three times the speed of sound."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 2,
+  "explain": "The Philippines became the first export buyer in 2022, and Indonesia signed up in March 2026. All three have maritime disputes with China in the South China Sea.",
+  "source": "The Philippines became the first export buyer in 2022"
+ },
+ {
+  "id": "s23", "story_id": "2026-06-01-1", "topic": "International Relations", "difficulty": 1, "format": "single",
+  "prompt": "The Shangri-La Dialogue, where the US called India a 'critical anchor' for Indo-Pacific stability in May 2026, is held in:",
+  "options": ["Singapore", "Jakarta", "Manila", "Kuala Lumpur"],
+  "answer": 0,
+  "explain": "US Secretary of War Pete Hegseth said a powerful India 'acting in its own self-interest' serves the regional balance of power. China's defence minister stayed away for a second year.",
+  "source": "at the Shangri-La Dialogue in Singapore on Saturday"
+ },
+ {
+  "id": "s24", "story_id": "2026-08-03-aitn1", "topic": "Economy", "difficulty": 2, "format": "single",
+  "prompt": "In July 2026, UPI was linked in real time with 'Favara', the instant payment system of:",
+  "options": ["Maldives", "Mauritius", "Nepal", "Sri Lanka"],
+  "answer": 0,
+  "explain": "The Maldives Monetary Authority switched on the link on July 30. In the first phase it covers only person-to-person transfers, sent in rufiyaa and received in rupees.",
+  "source": "The Maldives Monetary Authority (MMA) switched on a live link between its instant payment system, Favara, and the Unified Payments Interface (UPI), on July 30."
+ },
+ {
+  "id": "s25", "story_id": "2026-06-01-4", "topic": "Polity & Governance", "difficulty": 2, "format": "single",
+  "prompt": "In May 2026, the Delhi High Court held that Google infringes trademarks by auctioning rival brand names as ad keywords. The ruling was under:",
+  "options": ["The Trade Marks Act, 1999", "The Information Technology Act, 2000", "The Copyright Act, 1957", "The Competition Act, 2002"],
+  "answer": 0,
+  "explain": "Google argued that keywords are invisible back-end triggers and that it is a passive intermediary. The court held that even invisible use of a mark to divert traffic counts as use, and that Google actively sells the marks.",
+  "source": "counts as use under the Trade Marks Act, 1999"
+ },
+ {
+  "id": "s26", "story_id": "2026-06-01-aitn3", "topic": "Defence & Security", "difficulty": 1, "format": "single",
+  "prompt": "Who took charge as India's third Chief of Defence Staff (CDS) on 31 May 2026?",
+  "options": ["General NS Raja Subramani", "General Anil Chauhan", "General Upendra Dwivedi", "General Manoj Pande"],
+  "answer": 0,
+  "explain": "He succeeded General Anil Chauhan and was previously Vice Chief of the Army Staff. The CDS anchors tri-service integration, including the long-planned theatre commands.",
+  "source": "General NS Raja Subramani took charge as India's third Chief of Defence Staff (CDS) on 31 May, succeeding General Anil Chauhan."
+ },
+ {
+  "id": "s27", "story_id": "2026-06-01-aitn4", "topic": "Agriculture", "difficulty": 2, "format": "single",
+  "prompt": "The 11% import duty on cotton, waived from June to October 2026, is made up of Basic Customs Duty and:",
+  "options": ["Agriculture Infrastructure and Development Cess (AIDC)", "Integrated GST", "Social Welfare Surcharge", "Anti-dumping duty"],
+  "answer": 0,
+  "explain": "The waiver eases costs for textile mills in the lean months and lapses on 1 November, just as the new crop reaches market, so growers are protected at selling time.",
+  "source": "The levy bundles the Basic Customs Duty and the Agriculture Infrastructure and Development Cess (AIDC)"
+ },
+ {
+  "id": "s28", "story_id": "2026-07-06-1", "topic": "Environment & Energy", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about E20 fuel, as reported in July 2026:",
+  "items": [
+   "E20 is petrol blended with 20% ethanol, and has been mandatory since 2025.",
+   "Maruti Suzuki put the mileage loss from E20 at about 3–3.5%.",
+   "Retrofit kits for older, non-E20-certified cars are widely available."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 0,
+  "explain": "Maruti confirmed that no retrofit kit is on the market. The government's case rests on a lower crude-import bill, but drivers have seen no fall in pump prices, only lower mileage.",
+  "source": "confirmed no retrofitment kit is on the market"
+ },
+ {
+  "id": "s29", "story_id": "2026-07-06-aitn3", "topic": "Economy", "difficulty": 2, "format": "single",
+  "prompt": "The Modified UDAN Scheme, launched in July 2026, plans to:",
+  "options": [
+   "Develop 100 aerodromes from unserved airstrips and build 200 helipads",
+   "Privatise 25 regional airports by 2030",
+   "Cap airfares on all domestic routes under 500 km",
+   "Build 50 new greenfield international airports"
+  ],
+  "answer": 0,
+  "explain": "Approved in March 2026 with an outlay of about USD 3.05 billion over ten years, it continues subsidies for regional airlines and promotes indigenous aircraft such as HAL's Dhruv helicopter and Dornier planes.",
+  "source": "will develop 100 aerodromes from unserved airstrips, build 200 helipads"
+ },
+ {
+  "id": "s30", "story_id": "2026-07-06-aitn1", "topic": "International Relations", "difficulty": 1, "format": "single",
+  "prompt": "In July 2026, India launched its campaign for a non-permanent seat on the UN Security Council for the term:",
+  "options": ["2027–28", "2028–29", "2029–30", "2031–32"],
+  "answer": 1,
+  "explain": "External Affairs Minister S. Jaishankar launched the campaign in New York on July 13, after a tour of Qatar, Bahrain, Kuwait and Oman.",
+  "source": "launching India's campaign for a United Nations Security Council seat for 2028-29 in New York on July 13"
+ },
+ {
+  "id": "s31", "story_id": "2026-07-06-aitn5", "topic": "Geography", "difficulty": 1, "format": "single",
+  "prompt": "In July 2026, India lifted emergency curbs on natural gas allocation after LNG shipping resumed through which strait?",
+  "options": ["Strait of Hormuz", "Strait of Malacca", "Bab-el-Mandeb", "Strait of Gibraltar"],
+  "answer": 0,
+  "explain": "The curbs had prioritised essential sectors after Middle East suppliers declared force majeure during the regional conflict. With a ceasefire and imports normalising, market-based allocation is back.",
+  "source": "following a ceasefire and the reopening of shipping through the Strait of Hormuz"
+ },
+ {
+  "id": "s32", "story_id": "2026-07-06-2", "topic": "Polity & Governance", "difficulty": 2, "format": "single",
+  "prompt": "In July 2026, after a BBC investigation found Instagram ads promoting child sexual abuse material, which body opened its own separate investigation?",
+  "options": [
+   "National Commission for Protection of Child Rights (NCPCR)",
+   "National Human Rights Commission (NHRC)",
+   "Central Bureau of Investigation (CBI)",
+   "Press Council of India"
+  ],
+  "answer": 0,
+  "explain": "The Ministry of Electronics and IT also gave Meta a formal notice with a seven-day deadline to explain how the ads got past its systems. That is a fast escalation for a ministry that usually moves slowly from inquiry to public notice.",
+  "source": "India's child rights body, the National Commission for Protection of Child Rights (NCPCR), separately opened an investigation of its own the same day."
+ },
+ {
+  "id": "s33", "story_id": "2026-08-03-1", "topic": "Environment & Energy", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about Samudra Manthan, approved by the Union Cabinet in July 2026:",
+  "items": [
+   "It is the National Offshore Exploration Scheme, funding seismic surveys and deepwater drilling until FY 2030-31.",
+   "India's crude oil import dependence fell to 85.5% in FY 2025-26."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+  "answer": 0,
+  "explain": "Import dependence rose to a record 88.7% in FY 2025-26 (provisional), up from 85.5% four years earlier. Through the scheme, the state pays for the surveys and dry wells that private explorers would not fund.",
+  "source": "Import dependence still climbed to a record 88.7% in FY 2025-26 on provisional figures"
+ },
+ {
+  "id": "s34", "story_id": "2026-08-03-2", "topic": "Environment & Energy", "difficulty": 2, "format": "single",
+  "prompt": "The Omkareshwar floating solar park, home to most of India's existing floating solar capacity, is on which river?",
+  "options": ["Narmada", "Godavari", "Krishna", "Tapti"],
+  "answer": 0,
+  "explain": "India has built roughly 700 MW of floating solar, most of it at Omkareshwar in Madhya Pradesh. The new PM Surya Sarovar Yojana targets 5,000 MW more, each project with at least two hours of storage.",
+  "source": "most of it in the Omkareshwar park on the Narmada in Madhya Pradesh"
+ },
+ {
+  "id": "s35", "story_id": "2026-08-03-3", "topic": "Agriculture", "difficulty": 3, "format": "statements",
+  "prompt": "Consider the following statements about PM-KISAN:",
+  "items": [
+   "It was launched in 2019 and pays eligible farmer families INR 6,000 a year in three instalments.",
+   "In July 2026, the Cabinet extended it through FY 2030-31.",
+   "A NITI Aayog evaluation found over 92% of surveyed beneficiaries used the money for agricultural purposes."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": ["Only one", "Only two", "All three", "None"],
+  "answer": 2,
+  "explain": "The Cabinet approved INR 3.16 trillion for the extension. Each family still gets INR 500 a month, the same nominal amount as in 2019, so inflation keeps eroding its value.",
+  "source": "The Cabinet approved INR 3.16 trillion (USD 33.1 billion) to continue the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme through FY2030–31."
+ },
+ {
+  "id": "s36", "story_id": "2026-08-03-aitn2", "topic": "Geography", "difficulty": 1, "format": "single",
+  "prompt": "In August 2026, India and China resumed border trade after more than six years through which pass?",
+  "options": ["Nathu La", "Shipki La", "Lipulekh", "Bum La"],
+  "answer": 0,
+  "explain": "Nathu La is in Sikkim. Trade stopped in early 2020 during the pandemic and stayed shut through the Galwan standoff. The list of 36 approved commodities is unchanged.",
+  "source": "India and China reopened border trade through the Nathu La pass in Sikkim on Saturday, ending a suspension of more than six years."
+ },
+ {
+  "id": "s37", "story_id": "2026-09-01-2", "topic": "International Relations", "difficulty": 3, "format": "statements",
+  "prompt": "Consider the following statements about the Indus Waters Treaty:",
+  "items": [
+   "The Western Rivers under the treaty are the Ravi, Beas and Sutlej.",
+   "India suspended the treaty in April 2025 after the Pahalgam attack.",
+   "In August 2026, the Permanent Court of Arbitration ruled that the treaty remains fully in force."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": ["Only one", "Only two", "All three", "None"],
+  "answer": 1,
+  "explain": "The Western Rivers are the Indus, Jhelum and Chenab, reserved largely for Pakistan, with India allowed run-of-river hydropower. India rejected the ruling, calling the court 'illegally constituted', and says the treaty remains in abeyance.",
+  "source": "the Western Rivers: the Indus, Jhelum, and Chenab"
+ },
+ {
+  "id": "s38", "story_id": "2026-09-01-2", "topic": "Geography", "difficulty": 2, "format": "single",
+  "prompt": "The Ratle Hydro-Electric Project, singled out in the 2026 Indus Waters ruling, is on which river?",
+  "options": ["Chenab", "Jhelum", "Ravi", "Sutlej"],
+  "answer": 0,
+  "explain": "Ratle is an 850 MW run-of-river project. The court barred India from raising its dam wall or power intake above set levels until 90 days after a neutral expert rules, due by July 2027.",
+  "source": "the Ratle Hydro-Electric Plant, an 850-megawatt run-of-river project on the Chenab"
+ },
+ {
+  "id": "s39", "story_id": "2026-09-01-3", "topic": "Science & Tech", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about India's Semicon 2.0 scheme, notified in August 2026:",
+  "items": [
+   "Semicon 1.0, launched in 2022, focused mainly on landing fabrication plants.",
+   "The India Semiconductor Mission is the nodal agency for Semicon 2.0.",
+   "Semicon 2.0 is built on four pillars."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 0,
+  "explain": "Semicon 2.0 has six pillars: chip design, machines and materials, fabrication, assembly and packaging, research, and talent. It moves down the value chain to the choke points where export controls bite.",
+  "source": "issued notifications for all six pillars of the Semicon 2.0 scheme"
+ },
+ {
+  "id": "s40", "story_id": "2026-09-01-aitn1", "topic": "International Relations", "difficulty": 1, "format": "single",
+  "prompt": "The 26th Shanghai Cooperation Organisation (SCO) Summit, held on 31 August 2026, took place in:",
+  "options": ["Bishkek", "Astana", "Dushanbe", "Tianjin"],
+  "answer": 0,
+  "explain": "On the sidelines, Modi met the presidents of Iran, Russia and Kyrgyzstan and Armenia's prime minister. He invited Putin and Pezeshkian to the 18th BRICS Summit in New Delhi on 12–13 September.",
+  "source": "Prime Minister Narendra Modi held four bilateral meetings on the sidelines of the 26th Shanghai Cooperation Organisation (SCO) Summit in Bishkek on August 31, 2026."
+ },
+ {
+  "id": "s41", "story_id": "2026-09-01-aitn3", "topic": "International Relations", "difficulty": 2, "format": "single",
+  "prompt": "In 2026, India and Brazil reviewed the terms for widening India's Preferential Trade Agreement with which trade bloc?",
+  "options": ["MERCOSUR", "ASEAN", "The Andean Community", "The Pacific Alliance"],
+  "answer": 0,
+  "explain": "Both sides reaffirmed a target of USD 30 billion in bilateral trade by 2030, up from USD 15.07 billion in 2025-26. India pushed for wider access for its pharmaceuticals.",
+  "source": "reviewed the terms of reference for widening the India-MERCOSUR Preferential Trade Agreement"
+ },
+ {
+  "id": "s42", "story_id": "2026-09-29-1", "topic": "International Relations", "difficulty": 2, "format": "statements",
+  "prompt": "Consider the following statements about India–UAE economic ties, as of September 2026:",
+  "items": [
+   "The UAE is the seventh-largest source of foreign direct investment into India.",
+   "Bilateral trade crossed USD 200 billion in 2025-26.",
+   "The two countries have a Comprehensive Economic Partnership Agreement (CEPA) in force."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+  "answer": 2,
+  "explain": "Bilateral trade was USD 101.25 billion in 2025-26; USD 200 billion by 2032 is the new target. Commerce Minister Piyush Goyal credited the four-year-old CEPA with doubling trade.",
+  "source": "Bilateral trade reached USD 101.25 billion in the 2025-26 financial year."
+ },
+ {
+  "id": "s43", "story_id": "2026-09-29-aitn2", "topic": "Defence & Security", "difficulty": 1, "format": "single",
+  "prompt": "Exercise Tarang Shakti 2026, where US F-35 stealth fighters trained with the Indian Air Force for the first time, is being held in:",
+  "options": ["Jodhpur, Rajasthan", "Gwalior, Madhya Pradesh", "Hasimara, West Bengal", "Pune, Maharashtra"],
+  "answer": 0,
+  "explain": "The multinational exercise runs from 26 September to 12 October 2026, with Australia, the UAE, France, Germany, Sri Lanka and Bangladesh also taking part.",
+  "source": "Exercise Tarang Shakti 2026 in Jodhpur, Rajasthan"
+ },
+ {
+  "id": "s44", "story_id": "2026-09-29-2", "topic": "Economy", "difficulty": 2, "format": "single",
+  "prompt": "In India's industrial output data for August 2026, which sector contracted?",
+  "options": ["Mining", "Manufacturing", "Electricity and gas", "Capital goods"],
+  "answer": 0,
+  "explain": "Overall output grew 8%: manufacturing 9%, electricity and gas 12.3%, capital goods 16.9%. Mining shrank 5.6%. Everyday non-durables grew only 2.1%, a sign the boom is not reaching most households.",
+  "source": "Electricity and gas output rose 12.3%, while mining contracted 5.6%."
+ }
+]

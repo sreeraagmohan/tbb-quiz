@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-14-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 489,
+  "output_tokens": 1134,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly ongoing negotiations and denials; tested only the settled facts about the February 2026 interim pact and its unwinding.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the interim India-US trade pact of February 2026:",
+    "items": [
+     "Under the pact, Washington offered an 18% tariff track for Indian exports.",
+     "The pact was unwound by a Supreme Court ruling in May 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The Supreme Court ruling that unwound the pact came in March 2026, weeks after it was struck, not in May. In return for the 18% track, India was to lower trade barriers and buy more American goods. A temporary 10% tariff was due to lapse on 24 July 2026.",
+    "source": "The interim pact in February involved India lowering trade barriers and buying more American goods, while Washington offered an 18% tariff track for Indian exports (we covered it here)."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-16-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 518,
+  "output_tokens": 1559,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official WPI data for March 2026: tested its composition, the manufacturing weight and the main driver of the rise.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Wholesale Price Index (WPI) based inflation for March 2026:",
+    "items": [
+     "It was the highest reading since January 2023.",
+     "Fewer than half of the 22 industrial groups in the manufacturing sub-index posted price increases.",
+     "The manufacturing sub-index accounts for over 64% of the WPI."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because 16 of the 22 manufacturing groups posted hikes, led by metals, chemicals and textiles. WPI inflation rose to 3.88% in March 2026 from 2.13% in February, its highest level since January 2023.",
+    "source": "The manufacturing sub-index, comprising over 64% of the WPI, saw 16 of 22 industrial groups post hikes."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Which of the following was the main driver of the rise in India's WPI inflation in March 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Mineral oils",
+     "Electricity",
+     "Food articles",
+     "Non-food articles"
+    ],
+    "answer": 0,
+    "explain": "Mineral oils rose 8.77% and pushed the fuel and power index up 4.13%. Electricity prices fell 5.07%, and food and non-food articles eased month-on-month.",
+    "source": "The fuel and power index climbed 4.13%, supercharged by an 8.77% spike in mineral oils."
+   }
+  ]
+ }
+}

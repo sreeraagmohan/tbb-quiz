@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-22-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 496,
+  "output_tokens": 238,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story covers protests, clashes and political reactions to an exam leak, with no scheme, law, ruling or institutional decision that makes a durable Prelims fact.",
+  "questions": []
+ }
+}

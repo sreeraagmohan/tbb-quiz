@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-21-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 603,
+  "output_tokens": 381,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped. The story covers a protest, a hunger strike and political pressure on a minister, with no scheme, law, ruling or institutional outcome to test. Its durable facts, such as Ladakh's status and Wangchuk's artificial glaciers, are only background.",
+  "questions": []
+ }
+}

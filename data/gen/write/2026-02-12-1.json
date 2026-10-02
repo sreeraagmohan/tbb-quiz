@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-12-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 752,
+  "output_tokens": 1599,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Interim US–India trade framework still in flux; tested the factsheet revisions and the stated bilateral goods balance, avoiding the speculative refinery angle.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, the White House revised its factsheet on the interim US–India trade agreement within 24 hours of its release. Consider the following statements:",
+    "items": [
+     "Certain pulses, namely lentils and chickpeas, were deleted from the tariff-cut list in the revised factsheet.",
+     "The revised factsheet describes India's USD 500 billion purchase figure as a firm commitment to be met within five years.",
+     "The official joint statement explicitly links US tariff relief to India halting purchases of Russian oil."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the first is correct. The USD 500 billion figure was softened from a commitment to an intention, and the White House version has no timeline. It was the factsheet, not the joint statement, that linked tariff relief to Russian oil, since the joint statement is silent on it. Both sides call the deal an interim agreement, and it remains a framework until legal text is signed.",
+    "source": "(lentils and chickpeas) were deleted from the tariff-cut list"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "According to reporting on the interim US–India trade agreement in February 2026, what was the position of India's goods trade with the United States?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "A goods surplus of USD 41 billion",
+     "A goods deficit of USD 41 billion",
+     "A goods surplus of USD 100 billion",
+     "A goods deficit of USD 100 billion"
+    ],
+    "answer": 0,
+    "explain": "India runs a USD 41 billion goods surplus with the US. Importing USD 100 billion a year in American energy and technology under the stated purchase intention would flip India's trade balance, and the Indian private sector would have to bankroll it.",
+    "source": "Currently, India runs a USD 41 billion goods surplus with the US."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-23-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 588,
+  "output_tokens": 1201,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests what Pax Silica covers and its membership structure, including India's late entry.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, India joined Pax Silica, a US-led initiative. What is the primary focus of this initiative?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Semiconductor and AI supply chains",
+     "Maritime security in the Indian Ocean",
+     "Climate finance for developing nations",
+     "Counter-terrorism intelligence sharing"
+    ],
+    "answer": 0,
+    "explain": "Pax Silica aims to ringfence semiconductor and AI supply chains from Chinese dominance. Its cooperation spans critical minerals, semiconductor fabrication and AI infrastructure.",
+    "source": "India has officially joined Pax Silica, a US-led initiative designed to ringfence semiconductor and AI supply chains from Chinese dominance, on Friday."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Pax Silica, which India joined in February 2026:",
+    "items": [
+     "It was launched in December 2025 with India as one of its founding members.",
+     "The European Union and Taiwan participate in it as non-signatories.",
+     "Japan and the UAE are among its signatories."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "India was not part of the founding group when Pax Silica launched in December 2025, an absence linked to trade tensions with Washington. Signatories include Japan, South Korea, Singapore and the UAE, while the EU and Taiwan participate as non-signatories.",
+    "source": "Notably, India was not part of the founding group when Pax Silica launched in December 2025."
+   }
+  ]
+ }
+}

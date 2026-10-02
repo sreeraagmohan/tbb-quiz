@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-01-21-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 547,
+  "output_tokens": 949,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "State-level MoU with a private group; tested only the hub's location, capacity timeline and clean-power design in one question.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In January 2026, the Uttar Pradesh government signed a Memorandum of Understanding with AM Group on the sidelines of Davos to build an AI compute hub. Consider the following statements about the proposed hub:",
+    "items": [
+     "It is to be built in Greater Noida.",
+     "It aims to reach 1 gigawatt of compute capacity by 2028.",
+     "It is designed to run on carbon-free power blending solar, wind and pumped storage."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong. Phase One is slated for 2028, and the 1 gigawatt compute target is set for 2030. The roughly USD 25 billion staged project is meant to cut India's dependence on offshore compute capacity.",
+    "source": "By 2030, the facility aims to hit 1 gigawatt of compute capacity, positioning it among India’s largest digital infrastructure bets."
+   }
+  ]
+ }
+}

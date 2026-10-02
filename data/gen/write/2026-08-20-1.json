@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-20-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 760,
+  "output_tokens": 2202,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Ganges Water Sharing Treaty (1996 vs 1977), Bangladesh's accession to the 1992 UN Water Convention, and the direction of the National River Linking Project.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, Bangladesh said it would seek a guarantee clause in the renegotiated Ganges Water Sharing Treaty with India. Consider the following statements:",
+    "items": [
+     "The 1996 Ganges Water Sharing Treaty expires in December 2026.",
+     "The 1996 treaty carries a minimum-flow guarantee for Bangladesh.",
+     "The 1977 predecessor treaty assured Bangladesh a fixed share regardless of how much water India drew upstream."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the 1996 treaty dropped the minimum-flow guarantee that the 1977 treaty carried. Dhaka wants that guarantee restored and says it is ready to take the dispute to international forums.",
+    "source": "The 1996 Ganges Water Sharing Treaty between India and Bangladesh, which expires in December, dropped the minimum-flow guarantee that its 1977 predecessor carried."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the 1992 United Nations Water Convention, as reported in August 2026:",
+    "items": [
+     "Bangladesh joined it in June 2025, becoming the first South Asian country to do so.",
+     "India is a signatory to the convention."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong: India is not a signatory, so the convention gives Dhaka an international platform but no legal claim over how India uses shared water. India insists shared-river disputes stay bilateral.",
+    "source": "Dhaka also joined the 1992 United Nations Water Convention in June 2025, the first South Asian country to do so."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "India's National River Linking Project, cited in August 2026 as a concern behind Bangladesh's demand for a water guarantee, plans to divert Himalayan waters, including the Ganges, towards which part of India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Southwestern India",
+     "Northeastern India",
+     "Northwestern India",
+     "Eastern India"
+    ],
+    "answer": 0,
+    "explain": "The project plans to move Himalayan waters towards southwestern India. The links affecting Ganges flows remain at the feasibility-study stage, held up by protected forests and the absence of water-sharing deals with Nepal and Bhutan.",
+    "source": "Underlying the demand is India's National River Linking Project, which plans to divert Himalayan waters, including the Ganges, towards southwestern India."
+   }
+  ]
+ }
+}

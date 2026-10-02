@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-04-20-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 261,
+  "output_tokens": 158,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an industrial accident and routine FIR with no durable policy, legal or institutional fact suited to Prelims.",
+  "questions": []
+ }
+}

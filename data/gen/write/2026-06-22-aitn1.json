@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-22-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 372,
+  "output_tokens": 1388,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the location, technology source and the national gasification incentive target linked to India's first commercial-scale coal-to-ammonium nitrate plant.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, the Prime Minister laid the foundation stone for India's first commercial-scale coal-to-ammonium nitrate facility. Consider the following statements:",
+    "items": [
+     "The facility is located at Lakhanpur in Odisha's Jharsuguda district.",
+     "The plant will use coal gasification technology developed by Bharat Heavy Electricals Limited (BHEL).",
+     "The Centre's incentive scheme for coal and lignite gasification targets 50 projects."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong because the Centre's incentives of up to INR 460 billion target 25 gasification projects, not 50. The INR 250.16 billion plant at Lakhanpur will turn coal into synthesis gas to make 2,000 tonnes of ammonium nitrate a day, using BHEL technology.",
+    "source": "the Centre has approved incentives of up to INR 460 billion (USD 4.87 billion) to promote coal and lignite gasification, targeting 25 projects"
+   }
+  ]
+ }
+}

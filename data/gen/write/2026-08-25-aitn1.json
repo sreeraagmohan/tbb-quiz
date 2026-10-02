@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-25-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 271,
+  "output_tokens": 1005,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the two changes to the Medical Devices Rules, 2017: the licence exemption for outsourced sterilisation and the EU added to the clinical investigation waiver list.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Ministry of Health and Family Welfare notified amendments to the Medical Devices Rules, 2017. Consider the following statements about these amendments:",
+    "items": [
+     "Manufacturers that outsource product sterilisation no longer need a separate licence.",
+     "The European Union was added to the list of regulatory jurisdictions whose approvals qualify a device for a waiver of local clinical investigation."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both changes were notified together. Dropping the separate licence for outsourced sterilisation is meant to reduce duplication and paperwork. Adding the EU places it alongside the United States, United Kingdom, Australia, Canada and Japan, whose approvals already qualified for the clinical investigation waiver.",
+    "source": "A second change adds the European Union (EU) to the list of regulatory jurisdictions whose approvals qualify a device for a waiver of local clinical investigation, joining the United States, United Kingdom, Australia, Canada, and Japan."
+   }
+  ]
+ }
+}

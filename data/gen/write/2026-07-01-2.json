@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-07-01-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 575,
+  "output_tokens": 1918,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the record June 2026 FPI inflow under the Fully Accessible Route, the measures behind it, and India's push for inclusion in the Bloomberg Global Aggregate Bond Index.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about foreign investment in Indian government bonds in 2026:",
+    "items": [
+     "Foreign investors bought a record USD 3 billion of Indian government bonds under the Fully Accessible Route (FAR) in June 2026.",
+     "The June 2026 inflow under FAR was smaller than the net purchases made over January to May 2026.",
+     "In early June 2026, longer-dated sovereign debt was added to the FAR channel."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the USD 3 billion June inflow dwarfed the USD 1.7 billion of net purchases over the entire January to May period. The surge followed measures in early June that included exempting foreign portfolio investors from income and capital gains tax on government securities.",
+    "source": "This single-month inflow under the Fully Accessible Route (FAR) dwarfs the USD 1.7 billion net purchases seen over the entire January-May period."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, India was pushing for inclusion of its government bonds in the Bloomberg Global Aggregate Bond Index. Consider the following statements:",
+    "items": [
+     "Inclusion in the index could unlock an estimated USD 20-25 billion in passive inflows.",
+     "Cumbersome settlement and post-trade processes were cited as friction still holding back inclusion."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The story estimates USD 20-25 billion in passive inflows from inclusion, while noting that settlement and post-trade processes remain an obstacle even after the June tax and FAR changes.",
+    "source": "India is actively pushing for inclusion, which could unlock an estimated USD 20-25 billion in passive inflows."
+   }
+  ]
+ }
+}

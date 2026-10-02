@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-02-23-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 451,
+  "output_tokens": 1523,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–Brazil mining and minerals pact from Lula's February 2026 state visit and the bilateral trade figures and five-year target.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, India signed a landmark mining and minerals pact focused on iron ore and critical minerals during a state visit by the President of which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Brazil",
+     "Argentina",
+     "Chile",
+     "Australia"
+    ],
+    "answer": 0,
+    "explain": "Brazilian President Luiz Inácio Lula da Silva received a full state welcome at Rashtrapati Bhavan, and the minerals pact was central to the visit. It secures India's supply chain for its steel and manufacturing push while giving Brazil long-term, reliable demand.",
+    "source": "Central to this visit was a landmark mining and minerals pact focused on iron ore and critical minerals."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Brazil trade, as discussed during the Brazilian President's visit to India in February 2026:",
+    "items": [
+     "Bilateral trade between India and Brazil stood at USD 15.2 billion in 2025.",
+     "Prime Minister Modi set a USD 20 billion bilateral trade target to be met within ten years."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the USD 20 billion target is to be met within five years, not ten. Tech and digital collaboration are on the horizon, but raw commodities will anchor the relationship for now.",
+    "source": "Prime Minister Modi set an ambitious USD 20 billion trade target to be met within five years"
+   }
+  ]
+ }
+}

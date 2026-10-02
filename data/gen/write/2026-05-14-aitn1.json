@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-14-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 292,
+  "output_tokens": 770,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the statute invoked in the May 2026 NEET leak case and how the 2024 leak was handled differently.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, the National Testing Agency scrapped the National Eligibility cum Entrance Test (NEET) after its questions were leaked. Consider the following statements:",
+    "items": [
+     "The case was filed under the Public Examinations (Prevention of Unfair Means) Act, 2024.",
+     "When NEET questions were leaked in 2024, the government also cancelled the test."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The case was filed under the Public Examinations (Prevention of Unfair Means) Act, 2024, a law passed after the 2024 NEET leak. In 2024 the government did not cancel the test. In May 2026 the Centre handed the investigation to the CBI, which arrested five people across Jaipur, Gurugram and Nashik.",
+    "source": "The case was filed under the Public Examinations (Prevention of Unfair Means) Act, 2024, a law passed after NEET questions were similarly leaked in 2024."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-03-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 326,
+  "output_tokens": 965,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests Vikram-1's orbit and payload capacity and Skyroot's origins. The launch itself was only scheduled at issue date.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, Skyroot Aerospace set a launch window for the Vikram-1, the first attempt by an Indian private company to place a satellite in orbit. Consider the following statements:",
+    "items": [
+     "The Vikram-1 can carry payloads of up to 350 kilograms into geostationary orbit.",
+     "Skyroot Aerospace was founded by former ISRO engineers."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the Vikram-1 carries up to 350 kilograms into low Earth orbit, not geostationary orbit. Skyroot was founded by former ISRO engineers and became India's first space unicorn after raising USD 60 million in May 2026, as India targets a USD 44 billion space economy by 2033.",
+    "source": "The Vikram-1 stands seven storeys tall and can carry payloads of up to 350 kilograms into low Earth orbit."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-27-2-3",
+ "story_id": "2026-07-27-2",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the treatment of economies under the US forced-labour duty announced in July 2026:",
+  "items": [
+   "Indonesia — Tariff-rate quota linked to purchases of American cotton and textile inputs",
+   "India — Tariff-rate quota linked to purchases of American cotton and textile inputs",
+   "Sri Lanka — 10% duty tier"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "India is not on the tariff-rate quota list. The quotas go to Bangladesh, Cambodia, Indonesia and Malaysia, and the Commerce Ministry says it is pursuing the mechanism in Bilateral Trade Agreement talks. Sri Lanka is among the 17 economies in the 10% tier.",
+  "source": "USTR will set up tariff-rate quotas for Bangladesh, Cambodia, Indonesia, and Malaysia, running an initial three years."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the treatment of economies under the US forced-labour duty announced in July 2026:",
+  "items": [
+   "Indonesia — 12.5% duty tier",
+   "India — Tariff-rate quota linked to purchases of American cotton and textile inputs",
+   "Sri Lanka — Tariff-rate quota linked to purchases of American cotton and textile inputs"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "None of the pairs is correct: Indonesia is among the 17 economies in the 10% tier, not the 12.5% tier, and the tariff-rate quotas go only to Bangladesh, Cambodia, Indonesia and Malaysia, so neither India nor Sri Lanka has one. India's Commerce Ministry says it is pursuing the quota mechanism inside Bilateral Trade Agreement talks.",
+  "source": "USTR will set up tariff-rate quotas for Bangladesh, Cambodia, Indonesia, and Malaysia, running an initial three years."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3817,
+  "output_tokens": 1207,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

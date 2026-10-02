@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-04-1-2",
+ "story_id": "2026-05-04-1",
+ "target": 1,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about NITI Aayog:",
+  "items": [
+   "It replaced the Planning Commission in 2015.",
+   "Like the Planning Commission, it controls plan funds and has allocation leverage over states.",
+   "It has no statutory authority and no enforcement power."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong. Plan funds and allocation leverage over states belonged to the Planning Commission, while NITI Aayog is purely recommendatory with no budget. Several opposition-ruled states already boycott its meetings.",
+  "source": "NITI Aayog is purely recommendatory, with no budget, no statutory authority, and no enforcement power."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about NITI Aayog:",
+  "items": [
+   "Like the Planning Commission, it controls plan funds and has allocation leverage over states.",
+   "It replaced the Planning Commission in 2015.",
+   "It has no statutory authority and no enforcement power."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: plan funds and allocation leverage over states belonged to the Planning Commission, while NITI Aayog is purely recommendatory with no budget. Several opposition-ruled states already boycott its meetings, and ministries routinely sideline its reports.",
+  "source": "NITI Aayog is purely recommendatory, with no budget, no statutory authority, and no enforcement power."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3901,
+  "output_tokens": 617,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

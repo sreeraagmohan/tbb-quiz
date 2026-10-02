@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-02-17-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 208,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the item covers a planned delegation visit and an expected signing date for the US-India trade deal, with nothing yet decided or signed to test.",
+  "questions": []
+ }
+}

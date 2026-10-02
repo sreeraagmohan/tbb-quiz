@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-08-21-2-2",
+ "story_id": "2026-08-21-2",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's sugar supply position as reported in August 2026:",
+  "items": [
+   "The harvest forecast of 27.9 million metric tons is below India's annual consumption of 28.5 million metric tons.",
+   "Before halting exports in May 2026, India had shipped the entire 1.59 million metric tons of sugar it had approved for export."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong: India approved 1.59 million metric tons of exports but shipped only a little over 600,000 before halting trade in May. Output was initially expected at 30.95 million metric tons before the forecast was cut.",
+  "source": "The harvest is now forecast at 27.9 million, below annual consumption of 28.5 million."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's sugar supply position as reported in August 2026:",
+  "items": [
+   "Before halting exports in May 2026, India had shipped the entire 1.59 million metric tons of sugar it had approved for export.",
+   "The harvest forecast of 27.9 million metric tons is below India's annual consumption of 28.5 million metric tons."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: India approved 1.59 million metric tons of exports but shipped only more than 600,000 before halting trade in May. Output was initially expected at 30.95 million metric tons before the forecast was cut.",
+  "source": "The harvest is now forecast at 27.9 million, below annual consumption of 28.5 million."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2664,
+  "output_tokens": 785,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

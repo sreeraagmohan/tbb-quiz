@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-03-09-3-2",
+ "story_id": "2026-03-09-3",
+ "target": 3,
+ "original": {
+  "topic": "Defence & Security",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Iranian frigate IRIS Dena, sunk in March 2026:",
+  "items": [
+   "It was sunk by a US submarine about 40 miles off the Sri Lankan coast.",
+   "It had participated in India's MILAN 2026 naval exercises shortly before it was sunk."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "A US submarine sank the IRIS Dena off Sri Lanka on 4 March 2026 as part of Operation Epic Fury, just after it left India following the MILAN 2026 exercises. Sri Lankan authorities recovered 87 bodies from the strike.",
+  "source": "The IRIS Dena had just departed India after participating in New Delhi’s flagship MILAN 2026 exercises"
+ },
+ "rewritten": {
+  "topic": "Defence & Security",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Iranian frigate IRIS Dena, sunk in March 2026:",
+  "items": [
+   "It was sunk by a US submarine about 40 miles off the Indian coast.",
+   "Sri Lankan authorities are holding about 200 of its surviving sailors in Colombo."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the story says the US submarine sank the IRIS Dena 40 miles off the Sri Lankan coast, not the Indian coast. Statement 2 is wrong because Sri Lanka recovered 87 bodies from the Dena strike, while the 200 sailors held in Colombo came from another vessel, the IRIS Bushehr. The Dena had just left India after taking part in the MILAN 2026 exercises.",
+  "source": "a US submarine sank the Iranian frigate IRIS Dena 40 miles off the Sri Lankan coast"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3272,
+  "output_tokens": 1108,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

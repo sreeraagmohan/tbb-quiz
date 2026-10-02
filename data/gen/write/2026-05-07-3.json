@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-07-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 762,
+  "output_tokens": 1485,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the structural results of the May 2026 Tamil Nadu Assembly election and the Governor's role in government formation; skipped the party rhetoric and speculative AIADMK talks.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to party positions in the 234-member Tamil Nadu Legislative Assembly after the election results of May 2026:",
+    "items": [
+     "Tamilaga Vettri Kazhagam (TVK) — 108 seats",
+     "All India Anna Dravida Munnetra Kazhagam (AIADMK) — 47 seats",
+     "Indian National Congress — 15 seats"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     " None"
+    ],
+    "answer": 1,
+    "explain": "Congress won five seats, not 15. TVK's 108 seats left it ten short of the 118 needed for a majority, which is why Congress's support and the AIADMK's 47 seats became decisive.",
+    "source": "TVK won 108 of 234 seats, ten short of the 118 needed for a majority."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, Vijay of the Tamilaga Vettri Kazhagam submitted letters of support from MLAs to the Governor of Tamil Nadu to stake a claim to form the government. Who was the Governor?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Rajendra Vishwanath Arlekar",
+     "R.N. Ravi",
+     "Arif Mohammed Khan",
+     "C.P. Radhakrishnan"
+    ],
+    "answer": 0,
+    "explain": "Vijay submitted letters from 112 MLAs to Governor Rajendra Vishwanath Arlekar, who asked him to return with proof of support from 118 MLAs, the majority mark in the 234-seat Assembly.",
+    "source": "Vijay submitted support letters from 112 MLAs to Governor Rajendra Vishwanath Arlekar on Wednesday, who told him to return with proof of 118."
+   }
+  ]
+ }
+}

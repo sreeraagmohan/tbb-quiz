@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-05-18-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 925,
+  "output_tokens": 2804,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Dholera fab site under the Tata–ASML MoU, the India–Netherlands Strategic Partnership details, and the places linked to the water cooperation.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, Tata Electronics and the Dutch firm ASML signed an MoU to build India's first front-end 300-millimetre chip fabrication plant. Where is this plant to be located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Dholera, Gujarat",
+     "Sanand, Gujarat",
+     "Hosur, Tamil Nadu",
+     "Noida, Uttar Pradesh"
+    ],
+    "answer": 0,
+    "explain": "The MoU covers a fab in Dholera, Gujarat, where Tata Electronics plans to invest USD 11 billion to make chips for AI, automotive and mobile uses. ASML, the world's sole maker of advanced lithography machines, will supply its chipmaking tools and help ramp up production.",
+    "source": "Tata Electronics and Dutch semiconductor giant ASML signed an MoU on Saturday to build India's first front-end 300-millimetre chip fabrication plant in Dholera, Gujarat, during Prime Minister Narendra Modi's two-day visit to the Netherlands."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Netherlands relations as of May 2026:",
+    "items": [
+     "During Prime Minister Modi's visit in May 2026, the bilateral relationship was elevated to a Strategic Partnership with a five-year roadmap for 2026–2030.",
+     "The Netherlands is India's fourth-largest source of foreign direct investment.",
+     "Over 300 Dutch companies operate in India."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements are correct. The roadmap adopted by Modi and Dutch Prime Minister Rob Jetten covers semiconductors, defence, green hydrogen, critical minerals, water management and migration. The visit followed the India–EU FTA concluded in January 2026, with the Netherlands acting as a gateway to the EU single market.",
+    "source": "Modi and Dutch Prime Minister Rob Jetten elevated the bilateral relationship to a Strategic Partnership, adopting a five-year roadmap (2026–2030) covering semiconductors, defence, green hydrogen, critical minerals, water management, and migration."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India–Netherlands cooperation in May 2026:",
+    "items": [
+     "Afsluitdijk — Dam protecting the Netherlands from the Baltic Sea",
+     "Kalpasar project — Gujarat",
+     "Rotterdam — Europe's largest port"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The Afsluitdijk is a 32-kilometre dam that protects the Netherlands from the North Sea, not the Baltic Sea. The other two pairs are correct. Both sides signed a Letter of Intent for Dutch technical cooperation on Gujarat's Kalpasar project.",
+    "source": "Modi and Jetten visited the Afsluitdijk, a 32-kilometre dam protecting the Netherlands from the North Sea, drawing parallels with India's Kalpasar project in Gujarat."
+   }
+  ]
+ }
+}

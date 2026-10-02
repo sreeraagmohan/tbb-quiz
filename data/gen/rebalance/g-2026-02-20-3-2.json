@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-02-20-3-2",
+ "story_id": "2026-02-20-3",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Israel relations:",
+  "items": [
+   "India and Israel established full ties in 1992.",
+   "India originally turned to Israel for arms to diversify away from its heavy dependence on Russian arms."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements are correct: full ties date to 1992, and India first looked to Israel to reduce its reliance on Russian weapons. Israel, in turn, found a large and reliable customer for its high-tech sensors and drones.",
+  "source": "Since establishing full ties in 1992, defence has been the bedrock of the relationship."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Israel relations:",
+  "items": [
+   "India and Israel established full ties in 2002.",
+   "India originally turned to Israel for arms to diversify away from its heavy dependence on French arms."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Neither statement is correct: the story says full ties were established in 1992, not 2002, and India first looked to Israel to reduce its heavy dependence on Russian arms, not French arms. Since then, defence has been the bedrock of the relationship, and Israel found a large, reliable customer for its high-tech sensors and drones.",
+  "source": "Since establishing full ties in 1992, defence has been the bedrock of the relationship."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2953,
+  "output_tokens": 658,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

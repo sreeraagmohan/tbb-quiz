@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-28-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 822,
+  "output_tokens": 1899,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "A disaster story with useful places and an institutional angle. The questions test the Kailash Mansarovar Yatra routes and caps, and the river valley the flood came down. The conflicting counts of missing Indians were avoided.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Kailash Mansarovar Yatra as of August 2026:",
+    "items": [
+     "The Ministry of External Affairs organises the Yatra through Lipulekh Pass in Uttarakhand and Nathu La Pass in Sikkim.",
+     "Participation through the official routes is capped at roughly 1,000 pilgrims a year, selected through a lottery.",
+     "Private operators taking pilgrims through Nepal face the same annual cap as the official routes."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because private operators through Nepal face no such cap. More than 13,500 pilgrims transited through Nepal's Rasuwagadhi crossing in the last fiscal year alone, which makes it the cheapest and most popular private route.",
+    "source": "The MEA organises the Yatra through two official routes, Lipulekh Pass in Uttarakhand and Nathu La Pass in Sikkim, but caps participation at roughly 1,000 pilgrims a year selected through a lottery."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, a glacial collapse in Tibet's Gyirong county sent catastrophic flash floods into Nepal. Down which river valley did the mud and debris travel?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Bhote Koshi",
+     "Karnali",
+     "Gandaki",
+     "Arun"
+    ],
+    "answer": 0,
+    "explain": "The debris crashed down the Bhote Koshi River valley from Gyirong county after a glacier gave way on 26 August 2026. The US Geological Survey first logged the event as a 4.4 magnitude earthquake and later revised its assessment to a glacial collapse.",
+    "source": "A wall of mud and debris crashed down the Bhote Koshi River valley from Tibet's Gyirong county early on Wednesday morning after a glacier gave way."
+   }
+  ]
+ }
+}

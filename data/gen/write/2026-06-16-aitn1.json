@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-16-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 252,
+  "output_tokens": 376,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped. The item is a prime ministerial reaction post on X, and the final agreement is still pending, so there is no concrete Indian policy, agreement or institutional outcome to test.",
+  "questions": []
+ }
+}

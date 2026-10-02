@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-24-3-1",
+ "story_id": "2026-07-24-3",
+ "target": 0,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In July 2026, Gautam Adani asked the government to dilute rules on airport operators owning airlines. Consider the following statements about India's aviation sector as reported at the time:",
+  "items": [
+   "Airport operators are capped at a 10% stake in scheduled airlines.",
+   "The Airports Economic Regulatory Authority sets aeronautical tariffs and also oversees slot coordination and ground handling.",
+   "IndiGo and Air India together control roughly 90% of domestic air traffic."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The second statement is wrong. The Airports Economic Regulatory Authority sets aeronautical tariffs, but slot coordination and ground handling sit outside its remit. That gap is why rival carriers fear conflicts of interest if an airport operator also runs an airline.",
+  "source": "The Airports Economic Regulatory Authority sets aeronautical tariffs, but slot coordination and ground handling sit outside its remit."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In July 2026, Gautam Adani asked the government to dilute rules on airport operators owning airlines. Consider the following statements about India's aviation sector as reported at the time:",
+  "items": [
+   "Airport operators are capped at a 10% stake in scheduled airlines.",
+   "The Airports Economic Regulatory Authority sets aeronautical tariffs and also oversees slot coordination and ground handling.",
+   "IndiGo and Air India together control roughly 60% of domestic air traffic."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Only the first statement is correct. The Airports Economic Regulatory Authority sets aeronautical tariffs, but slot coordination and ground handling sit outside its remit, and IndiGo and Air India control roughly 90% of domestic traffic, not 60%. Adani has asked New Delhi to dilute the clause capping airport operators at a 10% stake in scheduled airlines.",
+  "source": "Adani has asked New Delhi to dilute a clause capping airport operators at a 10% stake in scheduled airlines."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3387,
+  "output_tokens": 748,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

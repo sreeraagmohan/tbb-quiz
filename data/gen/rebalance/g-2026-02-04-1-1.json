@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-02-04-1-1",
+ "story_id": "2026-02-04-1",
+ "target": 1,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–US trade deal terms announced in February 2026:",
+  "items": [
+   "The US will cut tariffs on Indian goods from 50% to 18%.",
+   "India will cut tariffs on US industrial goods from roughly 13.5% to 5%.",
+   "India committed to buying USD 500 billion in American goods over five years."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because India will drop tariffs on US industrial goods from roughly 13.5% to zero, not 5%. India plans to meet the USD 500 billion commitment by gradually ramping up purchases of petroleum, aircraft, defence, telecom and pharmaceutical goods.",
+  "source": "India will drop tariffs on US industrial goods from roughly 13.5% to zero."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–US trade deal terms announced in February 2026:",
+  "items": [
+   "India will cut tariffs on US industrial goods from roughly 13.5% to 5%.",
+   "The US will cut tariffs on Indian goods from 50% to 18%.",
+   "India committed to buying USD 500 billion in American goods over five years."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because India will drop tariffs on US industrial goods from roughly 13.5% to zero, not 5%. India plans to meet the USD 500 billion commitment by gradually ramping up purchases of petroleum, aircraft, defence, telecom and pharmaceutical goods.",
+  "source": "India will drop tariffs on US industrial goods from roughly 13.5% to zero."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3710,
+  "output_tokens": 635,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

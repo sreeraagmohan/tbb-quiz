@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-10-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 636,
+  "output_tokens": 758,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A personal milestone with little policy content; one question tests the distinction between continuous and total tenure records.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Narendra Modi completed 4,399 consecutive days as Prime Minister. Consider the following statements:",
+    "items": [
+     "With this milestone, Modi became India's longest-serving Prime Minister by total tenure.",
+     "Modi has held office without interruption since May 2014, winning general elections in 2014, 2019 and 2024."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because Jawaharlal Nehru, who governed from 1947 until his death in 1964, remains the longest-serving Prime Minister by total tenure. Modi's record is for the longest continuous stint as an elected Prime Minister, counted from the first general election.",
+    "source": "Jawaharlal Nehru remains India's longest-serving Prime Minister by total tenure, having governed from 1947 until his death in 1964."
+   }
+  ]
+ }
+}

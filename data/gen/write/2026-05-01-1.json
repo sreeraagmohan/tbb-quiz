@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-01-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 590,
+  "output_tokens": 1212,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the April 2026 export duty rollback on diesel and ATF, the unchanged domestic duties and the ATF price cap for domestic airlines.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's fuel duty measures announced in April 2026:",
+    "items": [
+     "The export duty on diesel was cut to INR 23 per litre from INR 55.5 per litre.",
+     "Domestic fuel duties were reduced alongside the cut in export duties.",
+     "The government capped monthly ATF price increases for domestic carriers at 25%."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because domestic fuel duties remained unchanged; only export duties on diesel and ATF were cut on 30 April 2026. The cut partially unwound the hikes of 12 April, imposed to curb an export surge by refiners chasing better margins in Southeast Asia.",
+    "source": "Export duty on diesel dropped to INR 23 per litre from INR 55.5, while ATF fell to INR 33 from INR 42."
+   }
+  ]
+ }
+}

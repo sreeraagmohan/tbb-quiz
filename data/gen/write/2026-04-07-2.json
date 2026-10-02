@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-07-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 457,
+  "output_tokens": 947,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the RBI's regulatory measures to curb rupee speculation and their stated effect on the rupee. Hedging-cost movements were skipped as market data.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Reserve Bank of India's measures to curb rupee speculation, as reported in April 2026:",
+    "items": [
+     "The RBI capped banks' net open positions in foreign exchange at USD 100 million.",
+     "The RBI barred companies from rebooking forward contracts they had cancelled.",
+     "Following the measures, the rupee weakened by about 2% against the dollar."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the rupee rallied 2% toward the 93 level after the measures. The RBI also banned non-deliverable forwards (NDFs), which reduced market liquidity and pushed one-year dollar hedging costs up by the most since the 2008 financial crisis.",
+    "source": "To rein in the rupee, the central bank capped banks' net open positions at USD 100 million and banned companies from rebooking cancelled forward contracts, which we covered here and here."
+   }
+  ]
+ }
+}

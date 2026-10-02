@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-30-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 128,
+  "output_tokens": 200,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an editorial note naming the External Affairs Minister and a Minister of State, with no event, decision or policy to test.",
+  "questions": []
+ }
+}

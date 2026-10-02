@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-06-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 272,
+  "output_tokens": 345,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: this is a corporate cyber breach story. The only institutional fact is that MeITY opened a probe, which is too thin for a durable Prelims question.",
+  "questions": []
+ }
+}

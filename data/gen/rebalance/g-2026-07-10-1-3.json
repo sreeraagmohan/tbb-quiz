@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-07-10-1-3",
+ "story_id": "2026-07-10-1",
+ "target": 3,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's nuclear energy sector, as reported in July 2026:",
+  "items": [
+   "The SHANTI Act, passed in 2025, replaced the Atomic Energy Act of 1962 and opened the sector to private and foreign investment.",
+   "The Nuclear Energy Mission targets 100 GW of nuclear capacity by 2035."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the Nuclear Energy Mission's 100 GW target is set for 2047, not 2035. India currently has just under 9 GW across 25 reactors, supplying roughly 3% of electricity.",
+  "source": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act, passed in 2025, replaced the Atomic Energy Act of 1962 and opened the sector to private and foreign investment."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's nuclear energy sector, as reported in July 2026:",
+  "items": [
+   "The SHANTI Act, passed in 2025, replaced the Atomic Energy Act of 1962 but kept the sector closed to private and foreign investment.",
+   "The Nuclear Energy Mission targets 100 GW of nuclear capacity by 2035."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the SHANTI Act opened the sector to private and foreign investment rather than keeping it closed. Statement 2 is wrong because the 100 GW target is set for 2047, not 2035. India currently has just under 9 GW across 25 reactors, supplying roughly 3% of electricity.",
+  "source": "The Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act, passed in 2025, replaced the Atomic Energy Act of 1962 and opened the sector to private and foreign investment."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 6810,
+  "output_tokens": 857,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

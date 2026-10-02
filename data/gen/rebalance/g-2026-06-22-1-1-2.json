@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-06-22-1-1-2",
+ "story_id": "2026-06-22-1-1",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's ship-recycling performance in 2025, as reported in June 2026:",
+  "items": [
+   "India's share of global ship-recycling tonnage rose to 35.4% from 30.1% in 2024.",
+   "India's ship-recycling volumes rose nearly 60% to about 9 million gross tons.",
+   "The result met the Maritime India Vision 2030 goal of leading the world in ship recycling five years ahead of schedule."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong: volumes rose nearly 60% to 2.99 million gross tons, while 9 million light displacement tons is the planned annual capacity target for Alang. The figures were attributed by the Ministry of Ports, Shipping and Waterways to UNCTAD, and India overtook long-time leader Bangladesh.",
+  "source": "India's share rose to 35.4% from 30.1% in 2024, with volumes up nearly 60% to 2.99 million gross tons"
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's ship-recycling performance in 2025, as reported in June 2026:",
+  "items": [
+   "India's ship-recycling volumes rose nearly 60% to about 9 million gross tons.",
+   "India's share of global ship-recycling tonnage rose to 35.4% from 30.1% in 2024.",
+   "The result met the Maritime India Vision 2030 goal of leading the world in ship recycling five years ahead of schedule."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: volumes rose nearly 60% to 2.99 million gross tons, while 9 million light displacement tons is the planned annual capacity target for Alang. The Ministry of Ports, Shipping and Waterways attributed the figures to UNCTAD, and India overtook long-time leader Bangladesh.",
+  "source": "India's share rose to 35.4% from 30.1% in 2024, with volumes up nearly 60% to 2.99 million gross tons"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3574,
+  "output_tokens": 611,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

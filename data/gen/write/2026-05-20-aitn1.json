@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-20-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 213,
+  "output_tokens": 1141,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A brief state-politics item. The question tests the change of government in Kerala and the White Paper on state finances.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Kerala's new government formed in May 2026:",
+    "items": [
+     "The Congress-led United Democratic Front's majority ended a decade of Left Democratic Front rule in the state.",
+     "The new government announced a special committee to draft a White Paper on the state's financial condition."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The UDF ended ten years of LDF rule, and in May 2026 it set up a committee to prepare a White Paper on state finances. During the campaign, the UDF had repeatedly alleged that the LDF government had severely mismanaged Kerala's finances.",
+    "source": "Kerala’s new Congress-led United Democratic Front (UDF) government announced a special committee on Tuesday to draft a White Paper on the state’s financial condition."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-06-2-2",
+ "story_id": "2026-08-06-2",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about digital payment fees in India, as of August 2026:",
+  "items": [
+   "The Merchant Discount Rate is a processing fee that merchants pay to banks and payment service providers.",
+   "UPI has been free of merchant fees since 2019.",
+   "Regulations cap the Merchant Discount Rate on debit cards at a maximum of 3%."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Debit card fees are capped by regulation at 0.9%. The 3% figure is the level that credit card MDR can reach. UPI's fee-free status since 2019 helped it process transactions worth INR 30 trillion in July 2026.",
+  "source": "whereas debit card fees are capped by regulations at a maximum of 0.9%"
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about digital payment fees in India, as of August 2026:",
+  "items": [
+   "The Merchant Discount Rate is a processing fee that merchants pay to banks and payment service providers.",
+   "UPI has been free of merchant fees since 2019.",
+   "Regulations cap the Merchant Discount Rate on debit cards at a maximum of 0.9%."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: MDR is a fee merchants pay to banks and payment service providers, UPI has been free of merchant fees since 2019, and debit card fees are capped by regulation at 0.9%. By contrast, credit card MDR can reach as high as 3%, and officials are weighing a 0.3% to 0.5% MDR on UPI transactions above INR 2,000.",
+  "source": "In contrast, credit card MDR can reach as high as 3%, whereas debit card fees are capped by regulations at a maximum of 0.9%."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3581,
+  "output_tokens": 589,
+  "cache_creation_input_tokens": 1080,
+  "cache_read_input_tokens": 798
+ }
+}

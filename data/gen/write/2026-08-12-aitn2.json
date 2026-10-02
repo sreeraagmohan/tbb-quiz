@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-12-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 289,
+  "output_tokens": 1051,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Sovereign rating affirmation with a growth projection; tested the FY27 forecast against the prior three-year average.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, Fitch Ratings affirmed India's long-term sovereign credit rating at \"BBB-\" with a stable outlook. Consider the following statements about its assessment:",
+    "items": [
+     "Fitch projected India's GDP growth for FY27 at 6.4%, roughly triple the median for \"BBB\"-rated peers.",
+     "Fitch's FY27 growth projection is higher than India's average growth over the prior three years."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the 6.4% projection is a slight moderation from the prior three-year average of 7.4%. Fitch said policy credibility, resilient corporate and bank balance sheets and structural tax reforms insulate the economy from external risks such as energy shocks.",
+    "source": "The rating agency projected India's GDP growth at 6.4% for FY27, noting that while this marks a slight moderation from the prior three-year average of 7.4%, it remains roughly triple the median for \"BBB\"-rated peers."
+   }
+  ]
+ }
+}

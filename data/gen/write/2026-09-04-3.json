@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-04-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 518,
+  "output_tokens": 1046,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A corporate licensing dispute in Kenya with little policy angle for India; one question tests how Tata came to own the Magadi soda ash operation.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In September 2026, Kenya's President William Ruto ordered Tata Chemicals to exit its natural soda ash operation at Magadi. Through which acquisition had Tata gained this operation?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Its 2005 purchase of Brunner Mond",
+     "Its 2007 purchase of Corus",
+     "Its 2008 purchase of Jaguar Land Rover",
+     "Its 2000 purchase of Tetley"
+    ],
+    "answer": 0,
+    "explain": "Tata acquired Magadi in 2005 when it bought the British company Brunner Mond, which gave it access to low-cost natural soda ash. The operation dates to 1911. Tata's lease runs to 2053, and the licensing fight remains in court.",
+    "source": "Tata acquired Magadi through its 2005 purchase of Britain’s Brunner Mond, gaining low-cost natural soda ash."
+   }
+  ]
+ }
+}

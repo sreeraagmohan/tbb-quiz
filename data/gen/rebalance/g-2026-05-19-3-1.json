@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-19-3-1",
+ "story_id": "2026-05-19-3",
+ "target": 3,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the US sanctions waiver on Russian oil and India's crude imports, as reported in May 2026:",
+  "items": [
+   "The US first issued the waiver in March 2026 to keep global oil prices stable.",
+   "In May 2026, the US Treasury Secretary announced a 30-day extension of the waiver for \"energy-vulnerable\" nations.",
+   "India's imports of Russian crude in May 2026 were expected to fall to their lowest level in several years."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: Russian crude imports were expected to reach 1.9 million barrels per day in May 2026, near record highs, after a brief dip in 2025 under US pressure. The waiver, issued in March and later valid until 16 May, was extended by Treasury Secretary Scott Bessent hours after India said it would keep buying Russian oil regardless.",
+  "source": "Russian imports are expected to hit 1.9 million barrels per day this month – near record highs."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the US sanctions waiver on Russian oil and India's crude imports, as reported in May 2026:",
+  "items": [
+   "The US first issued the waiver in March 2026 to keep global oil prices stable.",
+   "In May 2026, the US Treasury Secretary announced a 30-day extension of the waiver for \"energy-vulnerable\" nations.",
+   "India's imports of Russian crude in May 2026 were expected to reach about 1.9 million barrels per day, near record highs."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the waiver was first issued in March 2026 to keep global prices stable, Treasury Secretary Scott Bessent announced a 30-day extension for \"energy-vulnerable\" nations, and Russian crude imports were expected to hit 1.9 million barrels per day in May 2026, near record highs. The extension came hours after a petroleum ministry official said India would keep buying Russian oil regardless of any waiver.",
+  "source": "Russian imports are expected to hit 1.9 million barrels per day this month – near record highs."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3321,
+  "output_tokens": 716,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

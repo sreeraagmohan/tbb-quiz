@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-09-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 413,
+  "output_tokens": 1361,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the location of the Amaravati Quantum Valley and the National Quantum Mission's targets and structure.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, construction began on the Amaravati Quantum Valley, described as India's first integrated campus for quantum research and manufacturing. In which state is it located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Andhra Pradesh",
+     "Telangana",
+     "Karnataka",
+     "Tamil Nadu"
+    ],
+    "answer": 0,
+    "explain": "Union Minister Jitendra Singh began construction of the 50-acre campus in Andhra Pradesh on 8 February 2026. The site is backed by the National Quantum Mission and aims to cover the whole value chain, from skill development to hardware.",
+    "source": "On Sunday, Union Minister Jitendra Singh kicked off construction on the 50-acre Amaravati Quantum Valley in Andhra Pradesh, the nation’s first integrated campus for quantum research and manufacturing."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's National Quantum Mission, as reported in February 2026:",
+    "items": [
+     "It aims to build 1,000 physical qubits within eight years.",
+     "It targets a quantum communication network of 2,000 km.",
+     "It spans 43 institutions divided into four thematic hubs."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct: the USD 662 million mission targets 1,000 physical qubits in eight years and a 2,000-km quantum communication network, and spans 43 institutions across 19 regions in four thematic hubs. Since quantum computing could in theory break modern cryptography, India's investment is largely defensive research for secure communications.",
+    "source": "The goal is ambitious: 1,000 physical qubits within eight years and a 2,000-km quantum communication network."
+   }
+  ]
+ }
+}

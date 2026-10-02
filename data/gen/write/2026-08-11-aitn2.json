@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-11-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 274,
+  "output_tokens": 1032,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official MoSPI PLFS quarterly bulletin; tested the direction of the key labour indicators rather than precise decimals.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Periodic Labour Force Survey bulletin for the April to June 2026 quarter, released by the Ministry of Statistics and Programme Implementation in August 2026:",
+    "items": [
+     "The overall Labour Force Participation Rate for persons aged 15 and above declined from the previous quarter.",
+     "The share of regular wage or salaried employees rose in both rural and urban areas.",
+     "The share of rural workers employed in agriculture rose from the previous quarter."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because rural employment in agriculture fell to 52.9% from 55.8%. The overall LFPR slipped to 54.6% from 55.5%, and regular wage or salaried employment rose to 16.1% in rural areas and 49.3% in urban areas, while urban unemployment held broadly stable at 6.7%.",
+    "source": "The share of regular wage or salaried employees rose in both rural areas, to 16.1 percent, and urban areas, to 49.3 percent, while rural employment in agriculture fell to 52.9 percent from 55.8 percent."
+   }
+  ]
+ }
+}

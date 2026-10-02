@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-24-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 978,
+  "output_tokens": 1602,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a corporate deal. Tested only the payments-regulation angles: NPCI's WhatsApp Pay cap and UPI shares, and RBI payment aggregator authorisation.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about WhatsApp Pay and the Unified Payments Interface (UPI), as reported in June 2026:",
+    "items": [
+     "The Reserve Bank of India had capped WhatsApp Pay at 100 million users, a ceiling lifted in late 2024.",
+     "In May 2026, WhatsApp Pay handled 0.65% of UPI transactions, ranking ninth.",
+     "PhonePe and Google Pay together account for nearly 80% of UPI transactions."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The 100 million user cap was imposed by the National Payments Corporation of India (NPCI), not the RBI, to stop WhatsApp Pay swamping the system. Even after the cap was lifted, WhatsApp Pay stayed marginal in India, which is Meta's biggest market with close to 500 million users.",
+    "source": "The constraint used to be regulatory: the National Payments Corporation of India (NPCI) capped WhatsApp Pay at 100 million users to stop it swamping the system."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, the fintech firm CRED received final authorisation to operate as a payment aggregator. Which body granted this authorisation?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Reserve Bank of India",
+     "National Payments Corporation of India",
+     "Securities and Exchange Board of India",
+     "Insurance Regulatory and Development Authority of India"
+    ],
+    "answer": 0,
+    "explain": "CRED received final RBI authorisation as a payment aggregator, which lets it onboard businesses and handle their settlements. In June 2026, Meta announced a USD 900 million investment in CRED, aimed at the merchant layer for chat commerce on WhatsApp.",
+    "source": "In March 2026, CRED secured final Reserve Bank of India (RBI) authorisation to operate as a payment aggregator, helping it onboard businesses and handle their settlements."
+   }
+  ]
+ }
+}

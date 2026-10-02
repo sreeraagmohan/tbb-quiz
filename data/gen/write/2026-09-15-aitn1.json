@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-15-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 211,
+  "output_tokens": 974,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India–Nepal power cooperation: the approving ministry, the export quantity and duration, and the use of existing transmission lines.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, India approved electricity exports to Nepal after floods damaged Nepal's hydropower infrastructure. Consider the following statements about this approval:",
+    "items": [
+     "India's Ministry of Power approved exports of up to 654 megawatts for 18 hours a day.",
+     "The supplies will flow through newly built cross-border transmission lines."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The Ministry of Power approved up to 654 MW daily from midnight to 6 pm, between 13 September and 31 December 2026. Statement 2 is wrong because the supplies use two existing cross-border transmission lines, not new ones. The ministry will review volumes for January 2027 in December.",
+    "source": "On Monday, India’s Ministry of Power approved exports of up to 654 megawatts to Nepal for 18 hours daily, from midnight to 6 pm, between 13 September and 31 December."
+   }
+  ]
+ }
+}

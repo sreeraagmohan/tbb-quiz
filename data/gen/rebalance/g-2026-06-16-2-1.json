@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-06-16-2-1",
+ "story_id": "2026-06-16-2",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's trade data for May 2026, released by the Ministry of Commerce and Industry in June 2026:",
+  "items": [
+   "Total exports of merchandise and services were estimated at USD 81.96 billion, up 15.83% on a year earlier.",
+   "The combined trade deficit narrowed compared with May 2025.",
+   "Petroleum products led the growth in merchandise exports."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the combined trade deficit widened to USD 10.51 billion from USD 6.79 billion, as imports grew 19.23% to USD 92.47 billion. Petroleum products rose 54.89% and engineering goods 24.48%, together leading merchandise exports to USD 45.20 billion.",
+  "source": "The Ministry of Commerce and Industry estimated total exports of merchandise and services at USD 81.96 billion for May 2026, up 15.83% on a year earlier, even as the combined trade deficit widened to USD 10.51 billion from USD 6.79 billion."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's trade data for May 2026, released by the Ministry of Commerce and Industry in June 2026:",
+  "items": [
+   "Total exports of merchandise and services were estimated at USD 81.96 billion, up 15.83% on a year earlier.",
+   "The combined trade deficit widened compared with May 2025.",
+   "Petroleum products led the growth in merchandise exports."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: total exports were USD 81.96 billion, up 15.83%, and the combined trade deficit widened to USD 10.51 billion from USD 6.79 billion. Petroleum products (up 54.89%) led merchandise exports to USD 45.20 billion, while imports climbed 19.23% to USD 92.47 billion.",
+  "source": "The Ministry of Commerce and Industry estimated total exports of merchandise and services at USD 81.96 billion for May 2026, up 15.83% on a year earlier, even as the combined trade deficit widened to USD 10.51 billion from USD 6.79 billion."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3182,
+  "output_tokens": 767,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-05-25-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 1110,
+  "output_tokens": 2136,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–Cyprus Strategic Partnership package, IMEC's planned overland route and the corridor's status, all anchored to May 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, India and Cyprus elevated their relationship to a Strategic Partnership. Consider the following statements about the outcomes of that visit:",
+    "items": [
+     "Cyprus joined the Indo-Pacific Oceans Initiative (IPOI).",
+     "Both sides announced a defence cooperation roadmap for 2026–2031.",
+     "Cyprus announced plans to open a trade centre in Chennai."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the planned Cypriot trade centre is in Mumbai, not Chennai. The visit also produced six MoUs, a cyber security dialogue and a joint task force on shipping and infrastructure.",
+    "source": "Separately, both sides announced a defence cooperation roadmap for 2026–2031, a cyber security dialogue, a joint task force on shipping and infrastructure, and Cyprus' entry into the Indo-Pacific Oceans Initiative (IPOI)."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The northern corridor of the India-Middle East-Europe Economic Corridor (IMEC), stalled as of May 2026, is designed to run overland to European ports through which countries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Saudi Arabia, Jordan and Israel",
+     "UAE, Iraq and Turkey",
+     "Oman, Egypt and Israel",
+     "Saudi Arabia, Iraq and Syria"
+    ],
+    "answer": 0,
+    "explain": "The overland route passes through Saudi Arabia, Jordan and Israel. It is stalled because Haifa port faces Iranian strikes, Jordan is reluctant to be a transit corridor and Saudi-Israeli normalisation has been frozen since 2023.",
+    "source": "the northern corridor, designed to run overland through Saudi Arabia, Jordan, and Israel to European ports"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-Middle East-Europe Economic Corridor (IMEC) as reported in May 2026:",
+    "items": [
+     "IMEC's eastern segment, connecting India to the Gulf, broke ground in April 2025.",
+     "Cyprus formed an IMEC friends group within the EU during its presidency of the Council of the European Union."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements match the story. Cyprus is proposing itself, alongside Greece and Italy, as IMEC's European entry point, and India and Cyprus set up a bilateral connectivity dialogue to take this forward.",
+    "source": "IMEC's eastern segment, connecting India to the Gulf, broke ground in April 2025."
+   }
+  ]
+ }
+}

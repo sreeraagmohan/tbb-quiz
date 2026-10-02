@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-19-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 510,
+  "output_tokens": 2098,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the IMPACT initiative Modi proposed at the June 2026 G7 Summit and its design. The interim US deal is skipped because it was only 'nearing' completion.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, at the G7 Summit, Prime Minister Modi proposed a new initiative to finance connectivity projects in the Global South. What is this initiative called?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "IMPACT",
+     "IMEC",
+     "INSTC",
+     "PGII"
+    ],
+    "answer": 0,
+    "explain": "Modi proposed the International Mobilization Partnership for Accelerating Connectivity and Trade (IMPACT) at the summit. IMEC, the India-Middle East-Europe Economic Corridor, was an existing project he cited as a model, not the new proposal.",
+    "source": "Modi proposed a new initiative, the International Mobilization Partnership for Accelerating Connectivity and Trade (IMPACT), combining G7 capital, Indian talent, and Global South ownership"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Prime Minister Modi's address at the G7 Summit in June 2026:",
+    "items": [
+     "The proposed IMPACT initiative would combine G7 capital, Indian talent and Global South ownership.",
+     "IMPACT is meant to finance connectivity projects across Africa, Latin America and the Pacific island countries.",
+     "Modi highlighted the India-Middle East-Europe Economic Corridor (IMEC) as a model for strengthening supply chains."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story. Modi positioned India as a bridge between developed and developing economies, and TBB notes that IMPACT scales up the IMEC bet, which had stalled when war broke out along its route.",
+    "source": "to finance connectivity projects across Africa, Latin America, and the Pacific island countries."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-04-29-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 761,
+  "output_tokens": 2259,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the April 2026 SCO defence ministers' meeting venue, Pakistan's SCO status and RATS chair, and the September 2025 Tianjin declaration.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, Defence Minister Rajnath Singh addressed the Shanghai Cooperation Organisation (SCO) defence ministers' meeting, citing Operation Sindoor. In which city was the meeting held?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Bishkek",
+     "Astana",
+     "Tashkent",
+     "Dushanbe"
+    ],
+    "answer": 0,
+    "explain": "Singh spoke at the SCO defence ministers' meeting in Bishkek, saying Operation Sindoor proved terror epicentres are no longer immune to punishment. On the sidelines he met China's Defence Minister Admiral Dong Jun and Russia's Defence Minister Andrei Belousov.",
+    "source": "Defence Minister Rajnath Singh told the Shanghai Cooperation Organisation (SCO) defence ministers' meeting in Bishkek"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Pakistan and the Shanghai Cooperation Organisation (SCO), as of April 2026:",
+    "items": [
+     "Pakistan has been a member of the SCO since 2017.",
+     "Pakistan chairs the SCO's Regional Anti-Terrorist Structure (RATS)."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct: Pakistan joined the SCO in 2017 and chairs its Regional Anti-Terrorist Structure. Singh's call for action against states that shelter terrorists was aimed at Pakistan without naming it.",
+    "source": "Pakistan, an SCO member since 2017, was the unmistakable target."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the declaration adopted at the SCO summit in Tianjin in September 2025:",
+    "items": [
+     "It explicitly condemned the April 2025 Pahalgam terror attack.",
+     "It condemned the attack on Pakistan's Jaffar Express train.",
+     "It rejected double standards on terrorism."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The Tianjin declaration condemned Pahalgam as well as attacks on the Jaffar Express and in Khuzdar, Balochistan, and rejected double standards on terrorism, with Pakistan's PM Shehbaz Sharif present.",
+    "source": "Last September's declaration at the summit in Tianjin explicitly condemned the Pahalgam attack and rejected \"double standards\" on terrorism, with Pakistan's PM Shehbaz Sharif at the table."
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-05-27-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 744,
+  "output_tokens": 1800,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the May 2026 Quad foreign ministers' meeting in New Delhi: venue, the Fiji port, the critical minerals target, new initiatives and the joint statement.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Quad foreign ministers' meeting held in May 2026:",
+    "items": [
+     "The meeting was held in New Delhi.",
+     "The Quad's first infrastructure project, announced at the meeting, is a port in Fiji.",
+     "The joint statement explicitly named China over coercive actions in the South China Sea."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The statement flagged dangerous and coercive actions in the East and South China Seas, citing water cannons, flares and ramming, but China was not explicitly mentioned. The ministers of Australia, India, Japan and the United States met in New Delhi and launched the first Quad infrastructure project, a port in Fiji.",
+    "source": "China was not explicitly mentioned."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, the Quad launched a Critical Minerals Initiative Framework. How much government and private sector support does it intend to mobilise?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "USD 20 billion",
+     "USD 10 billion",
+     "USD 50 billion",
+     "USD 5 billion"
+    ],
+    "answer": 0,
+    "explain": "The framework aims to mobilise USD 20 billion to strengthen critical mineral supply chains. It was rolled out alongside a separate Indo-Pacific energy security initiative.",
+    "source": "They also rolled out a Quad Critical Minerals Initiative Framework with the intent to mobilise USD 20 billion in government and private sector support to strengthen critical mineral supply chains"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the Quad foreign ministers' meeting of May 2026:",
+    "items": [
+     "Indo-Pacific Maritime Surveillance Collaboration — Quad's first initiative to pool maritime surveillance",
+     "Pax Silica — Welcomed as a pillar of shared economic security",
+     "Terror attacks condemned in the joint statement — Pahalgam and Bondi Beach"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "The IPMSC is the Quad's first initiative to pool maritime surveillance. The joint statement welcomed Pax Silica as a pillar of shared economic security and explicitly condemned the attacks at Pahalgam and Bondi Beach. It also opposed the imposition of tolls on the Strait of Hormuz and the Red Sea.",
+    "source": "The ministers announced the Indo-Pacific Maritime Surveillance Collaboration (IPMSC), the Quad’s first initiative to pool maritime surveillance."
+   }
+  ]
+ }
+}

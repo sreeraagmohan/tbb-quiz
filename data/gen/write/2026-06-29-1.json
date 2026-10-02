@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-29-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 622,
+  "output_tokens": 2040,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the investigating body, the scope of the probe and its product, and how anti-dumping duties relate to the existing steel safeguard duty.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, which Indian body opened an anti-dumping investigation into hot-rolled steel imports from China, Japan and Russia?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Directorate General of Trade Remedies",
+     "Directorate General of Foreign Trade",
+     "Central Board of Indirect Taxes and Customs",
+     "Competition Commission of India"
+    ],
+    "answer": 0,
+    "explain": "The Directorate General of Trade Remedies (DGTR) opened the probe after domestic producers alleged that the three countries were selling below fair market value and causing material injury. It found sufficient prima facie evidence of dumping margins above the minimum threshold to start a formal investigation.",
+    "source": "India's Directorate General of Trade Remedies (DGTR) has opened an anti-dumping investigation into hot-rolled steel imports from China, Japan, and Russia, after domestic producers alleged the three countries were selling below fair market value and causing material injury."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's anti-dumping investigation into hot-rolled steel, opened in June 2026:",
+    "items": [
+     "The investigation covers imports from China, Japan and Russia.",
+     "Hot-rolled stainless steel products fall within the scope of the investigation.",
+     "India's existing safeguard duty on steel imports was imposed in April 2025 at 12% and tapers to 11% by its final year."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because stainless steel is excluded. The probe covers hot-rolled flat products of alloy or non-alloy steel up to 25mm thick and 2,100mm wide, which are used in the automotive, oil and gas, construction and heavy engineering sectors.",
+    "source": "used across automotive, oil and gas, construction, and heavy engineering. Stainless steel is excluded."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, the DGTR began an anti-dumping investigation into hot-rolled steel imports. Consider the following statements about any anti-dumping duties that may result:",
+    "items": [
+     "They would replace India's existing safeguard duty on steel imports.",
+     "They would apply only to the three countries named in the investigation."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because anti-dumping duties, if the DGTR recommends them, would stack on top of the existing safeguard duty rather than replace it. Chinese hot-rolled steel is currently USD 11 to 37 per tonne cheaper than domestic equivalents.",
+    "source": "Anti-dumping duties, if recommended by the DGTR, would stack on top and apply only to the three named countries."
+   }
+  ]
+ }
+}

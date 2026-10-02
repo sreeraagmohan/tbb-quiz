@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-05-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 652,
+  "output_tokens": 1367,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests Venezuela's place in India's crude supply and reserves, and the Strait of Hormuz closure behind the June 2026 Modi–Rodríguez meeting.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, Prime Minister Narendra Modi met Venezuela's acting President Delcy Rodríguez in New Delhi. Consider the following statements about India–Venezuela energy ties at the time:",
+    "items": [
+     "Venezuela had become India's third-largest oil supplier.",
+     "Venezuela has the world's largest proven oil reserves.",
+     "Reliance Industries' Jamnagar refinery is the top buyer of Venezuela's dense crude."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story. Venezuela became India's third-largest supplier, it holds the world's largest proven reserves, and Jamnagar is the top buyer of its dense crude. Venezuelan crude is heavy and high in sulphur, so only a few specialised refineries, such as India's, can process it profitably.",
+    "source": "India wants crude while Venezuela has the world’s largest proven reserves."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "By June 2026, Venezuela had become India's third-largest oil supplier, filling a gap left by the closure of which waterway?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Strait of Malacca",
+     "Bab-el-Mandeb",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "Venezuelan crude filled the void left by the closure of the Strait of Hormuz amid the turmoil in West Asia. New Delhi is pursuing Venezuelan oil for long-term energy security, across both upstream extraction and downstream refining.",
+    "source": "She lands in New Delhi as Venezuela becomes India's third-largest oil supplier, filling the void left by the closure of the Strait of Hormuz."
+   }
+  ]
+ }
+}

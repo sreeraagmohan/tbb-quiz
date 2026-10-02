@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-13-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 715,
+  "output_tokens": 1129,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a sector compliance story; tested FSSAI's enforcement under the FSS Act, 2006, platform liability for third-party listings, and the dark-store concept.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, the Food Safety and Standards Authority of India (FSSAI) issued notices to the quick-commerce platform Swiggy Instamart. Consider the following statements:",
+    "items": [
+     "Failure to respond with the required proof of quality checks within the deadline would attract action under the Food Safety and Standards Act, 2006.",
+     "FSSAI holds e-commerce platforms responsible for compliance only for products they sell directly, not for those listed by third-party sellers.",
+     "The 'dark stores' used by quick-commerce apps are small warehouses that customers cannot access."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: FSSAI insists platforms own compliance for everything they list, whether or not a third-party seller is involved. FSSAI served Instamart nine notices over items such as expired whey protein, rotten eggs and unsafe infant formula, after Blinkit faced similar complaints in May 2026.",
+    "source": "FSSAI is now insisting e-commerce platforms own compliance for everything they list, third-party seller or not, a standard the sector's breakneck expansion had largely outrun."
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-01-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 264,
+  "output_tokens": 856,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A scheduled visit with no outcomes yet. One question tests which country's leader was due to visit, with diamond and port links to Mumbai as the clue.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, the Prime Minister of which European country was scheduled to visit India from 2 to 4 September, and to meet stakeholders in Mumbai's diamond, ports and logistics sectors?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Belgium",
+     "Netherlands",
+     "Luxembourg",
+     "Austria"
+    ],
+    "answer": 0,
+    "explain": "Belgian Prime Minister Bart De Wever was due to visit India from 2 to 4 September 2026. It was his first trip since taking office in February 2025, and Defence Minister Theo Francken was to accompany him. He was also to give a keynote at a CII business event linked to the India-European Union Free Trade Agreement.",
+    "source": "Belgian Prime Minister Bart De Wever will visit India from September 2 to 4, 2026, his first trip since taking office in February 2025, and will be accompanied by Defence Minister Theo Francken."
+   }
+  ]
+ }
+}

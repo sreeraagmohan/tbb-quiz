@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-09-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 256,
+  "output_tokens": 825,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the technology the initiative covers; the country count is skipped because the title (25) and text (India, US and 24 others) don't agree.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, India joined a US-led multi-country initiative announced by the US Department of Commerce. What is the initiative meant to guide the development of?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Next-generation 6G telecom networks",
+     "Advanced semiconductor fabrication plants",
+     "Quantum communication networks",
+     "Critical mineral supply chains"
+    ],
+    "answer": 0,
+    "explain": "The initiative aims to guide the development of 6G telecom networks so that future networks stay aligned on shared security interests and competitiveness. The deal was sealed when US Commerce Secretary Howard Lutnick met Minister of State for Commerce Jitin Prasada on the sidelines of the G20 Innovation Ministerial.",
+    "source": "India has joined the United States and 24 other countries in a global initiative to guide the development of next-generation 6G telecom networks, the US Department of Commerce announced on September 8."
+   }
+  ]
+ }
+}

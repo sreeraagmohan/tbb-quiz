@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-05-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 723,
+  "output_tokens": 1652,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested Bangladesh's BIMSTEC chairship and BRICS outreach invitation, plus the Hasina sentencing, extradition status and ICT media order; skipped the private event itself.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, the Ministry of External Affairs confirmed that Bangladesh's Prime Minister Tarique Rahman had been invited to the outreach session of the September 2026 BRICS Summit in his capacity as chair of which grouping?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "BIMSTEC",
+     "SAARC",
+     "IORA",
+     "ASEAN"
+    ],
+    "answer": 0,
+    "explain": "Rahman was invited as chair of BIMSTEC, the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation. India had already extended a separate invitation in February, addressed to him as prime minister, even as it distanced itself from Sheikh Hasina's address from New Delhi.",
+    "source": "Jaiswal also confirmed Prime Minister Tarique Rahman has been invited to the outreach session of September's BRICS Summit as chair of BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about former Bangladeshi Prime Minister Sheikh Hasina, as of August 2026:",
+    "items": [
+     "She was sentenced to death in November 2025 over her crackdown on the uprising.",
+     "India has accepted Bangladesh's request for her extradition.",
+     "A December 2024 order of Bangladesh's International Crimes Tribunal bars media outlets from broadcasting her statements."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: India has kept the extradition request under examination since Bangladesh's first note verbale in December 2024, citing due judicial and legal process without committing to an outcome. Hasina has said she plans to return around December to face trial.",
+    "source": "India has kept the request \"under examination\" since Bangladesh's first note verbale in December 2024, citing due judicial and legal process without committing to an outcome"
+   }
+  ]
+ }
+}

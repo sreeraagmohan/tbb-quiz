@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-17-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 563,
+  "output_tokens": 1914,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The softening itself is only likely, so the questions test the settled facts: the CERC draft of September 2025 and its tolerance bands.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In September 2025, which body released draft rules requiring wind and solar developers to match their promised supply to the grid more closely, with penalties for deviations?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Central Electricity Regulatory Commission",
+     "Central Electricity Authority",
+     "Solar Energy Corporation of India",
+     "Grid Controller of India"
+    ],
+    "answer": 0,
+    "explain": "The Central Electricity Regulatory Commission (CERC) issued the draft grid-discipline rules in September 2025. In March 2026, the government asked the CERC to re-examine the penalties after developers warned that they would kill investment.",
+    "source": "Draft rules released by the Central Electricity Regulatory Commission (CERC) in September 2025 aimed to force renewable players to match their promised supply to the grid."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about deviation tolerance bands for renewable energy projects, as reported in March 2026:",
+    "items": [
+     "Under the existing rules, wind developers have a tolerance band of +/-15% around their promised supply.",
+     "The CERC draft proposed shrinking the solar tolerance band to +/-5% by 2026.",
+     "The CERC draft proposed bringing renewable tolerance bands to parity with conventional generators by 2028."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. The draft proposed a gradual reduction that would reach the tolerance bands of conventional generators by 2031, not 2028. Developers estimated that the tighter bands could cause revenue losses of up to 48% because of the intermittent nature of renewables.",
+    "source": "Under the new proposal, tolerance bands would shrink to +/-10% for wind and +/-5% for solar by 2026 then gradually reduce until finally having the same tolerance bands as conventional generators by 2031."
+   }
+  ]
+ }
+}

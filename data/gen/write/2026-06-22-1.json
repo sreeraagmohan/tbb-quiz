@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-22-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 663,
+  "output_tokens": 213,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a corporate IPO filing with no policy or regulatory angle, and the listing is only proposed, not completed.",
+  "questions": []
+ }
+}

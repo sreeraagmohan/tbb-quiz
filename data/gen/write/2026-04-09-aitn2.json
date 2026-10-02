@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-09-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 288,
+  "output_tokens": 824,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly context and opinion on ceasefire mediation; tested only the durable fact that Pakistan represents some Iranian diplomatic interests in Washington.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "As of April 2026, Iran had no embassy in Washington. Which country had represented some Iranian diplomatic interests there?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Pakistan",
+     "India",
+     "Iraq",
+     "Turkey"
+    ],
+    "answer": 0,
+    "explain": "Pakistan has represented some Iranian diplomatic interests in Washington, where Tehran has no embassy. This, along with its long border with Iran, placed Pakistan better than India to broker a ceasefire between Iran and the US in April 2026.",
+    "source": "Pakistan has also represented some Iranian diplomatic interests in Washington, where Tehran has no embassy."
+   }
+  ]
+ }
+}

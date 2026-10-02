@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-10-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 658,
+  "output_tokens": 1735,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Supreme Court's February 2026 order on West Bengal's SIR: the extension, the nature of an SIR and the limits on micro-observers.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Special Intensive Revision (SIR) of electoral rolls in West Bengal:",
+    "items": [
+     "In February 2026, the Supreme Court extended the deadline for West Bengal's SIR by one week beyond February 14.",
+     "Unlike routine reviews of the rolls, an SIR requires every voter to be re-verified.",
+     "The micro-observers monitoring the process are employees of the West Bengal government."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the story describes micro-observers as Central Government employees who monitor and report on the SIR process. The Court granted the one-week extension on 9 February 2026 while warning it would not create impediments to the Election Commission's exercise.",
+    "source": "On Monday, the Supreme Court extended West Bengal’s Special Intensive Revision (SIR) deadline by one week beyond February 14, while warning that the Court will not create any impediments to the SIR."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the Supreme Court's February 2026 order on West Bengal's Special Intensive Revision, who holds the final decision on deleting voters from the rolls?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Electoral Registration Officers",
+     "Central Government micro-observers",
+     "State Group B officers",
+     "Booth Level Officers"
+    ],
+    "answer": 0,
+    "explain": "The Court ruled that micro-observers may assist but cannot adjudicate, so final decisions on deletions stay with Electoral Registration Officers. This addressed Chief Minister Mamata Banerjee's fear of shadow decision-making by outside observers.",
+    "source": "Final decisions on voter deletions stay with Electoral Registration Officers (EROs), addressing Banerjee’s fear of shadow decision-making by outside observers."
+   }
+  ]
+ }
+}

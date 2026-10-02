@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-16-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 532,
+  "output_tokens": 994,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested India's June 2026 Russian oil import data and the main features of the pending US Senate sanctions bill. The bill is not yet law, so the trade data carries the question.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's purchases of Russian oil and a bipartisan US Senate sanctions bill, as reported in July 2026:",
+    "items": [
+     "India's imports of Russian oil rose by 34% in June 2026 to a record USD 5.2 billion.",
+     "In June 2026, India overtook China to become the world's biggest buyer of Russian oil.",
+     "The Senate bill would allow the US President to waive the tariffs in the US national interest."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because India was the second-biggest buyer of Russian oil, behind China. The bill would let the President impose tariffs of up to 100% on the five largest buyers of Russian energy, down from a 500% ceiling, and he could waive them in the US national interest.",
+    "source": "India’s imports of Russian oil surged by 34% in June to a record USD 5.2 billion, making it the world’s second-biggest buyer of Russian oil behind China."
+   }
+  ]
+ }
+}

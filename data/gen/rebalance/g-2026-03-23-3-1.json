@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-03-23-3-1",
+ "story_id": "2026-03-23-3",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In March 2026, India scrapped temporary caps on domestic airfares. Consider the following statements:",
+  "items": [
+   "The caps had been imposed during IndiGo's operational disruption in December 2025.",
+   "Domestic airfares in India are technically deregulated, though the government intervenes during crises."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements are correct. The caps, lifted from 23 March 2026, dated from IndiGo's meltdown in December 2025, and fares are formally deregulated even though New Delhi steps in during crises. The Ministry of Civil Aviation still warned carriers to keep fares commensurate with market conditions.",
+  "source": "India will scrap temporary domestic airfare caps starting today (March 23), ending a period of state-mandated pricing that began during IndiGo’s operational meltdown last December."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In March 2026, India scrapped temporary caps on domestic airfares. Consider the following statements:",
+  "items": [
+   "The caps had been imposed during Air India's operational disruption in December 2025.",
+   "Domestic airfares in India are formally regulated by the government at all times, not only during crises."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the caps date from IndiGo's operational meltdown in December 2025, not Air India's. Statement 2 is wrong because airfares are technically deregulated, with New Delhi intervening only during crises. Lifting the caps lets airlines pass on higher jet fuel costs from the West Asia conflict.",
+  "source": "India will scrap temporary domestic airfare caps starting today (March 23), ending a period of state-mandated pricing that began during IndiGo’s operational meltdown last December."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2712,
+  "output_tokens": 1073,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

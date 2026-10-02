@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-03-06-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1406,
+  "output_tokens": 1958,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the place of the sinking, durable facts about MILAN 2026, and the Chabahar Port; the strategic commentary was used only as context.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, the Iranian frigate IRIS Dena was torpedoed and sunk by a US Navy submarine about 40 nautical miles off which Sri Lankan location?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Galle",
+     "Trincomalee",
+     "Jaffna",
+     "Batticaloa"
+    ],
+    "answer": 0,
+    "explain": "The Dena was sunk on 4 March 2026 off Galle, in international waters. Washington confirmed the strike as part of Operation Epic Fury, the US-Israeli military campaign against Iran.",
+    "source": "A US Navy submarine torpedoed and sank the Iranian frigate IRIS Dena on March 4, 40 nautical miles off Galle, Sri Lanka."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about MILAN 2026, hosted by the Indian Navy in February 2026:",
+    "items": [
+     "It was held in Visakhapatnam alongside the International Fleet Review.",
+     "The name MILAN is Hindi for \"coming together\".",
+     "It brought together navies from over 70 countries."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements match the story: MILAN and the International Fleet Review were held in Visakhapatnam, and MILAN gathers navies from over 70 countries, including rivals. The Iranian frigate IRIS Dena took part and left India on 25 February 2026, before it was sunk off Sri Lanka.",
+    "source": "MILAN, Hindi for “coming together,” is the centrepiece of that vision, bringing together navies from over 70 countries, including nations on opposite sides of geopolitical fault lines."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Which port in Iran gives India its only direct trade route to Afghanistan and Central Asia that bypasses Pakistan?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Chabahar",
+     "Gwadar",
+     "Karachi",
+     "Duqm"
+    ],
+    "answer": 0,
+    "explain": "Iran hosts the Chabahar Port, which India uses as its route to Afghanistan and Central Asia that avoids Pakistan. Iran was also one of India's largest oil suppliers before US sanctions.",
+    "source": "Tehran was one of New Delhi's largest oil suppliers before US sanctions and hosts the Chabahar Port, India's only direct trade route to Afghanistan and Central Asia that bypasses Pakistan."
+   }
+  ]
+ }
+}

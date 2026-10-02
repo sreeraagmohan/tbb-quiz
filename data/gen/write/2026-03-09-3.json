@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-03-09-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 623,
+  "output_tokens": 1733,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests where the Iranian vessel was given refuge and the facts around the IRIS Dena sinking after MILAN 2026, India's flagship naval exercise.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, India allowed the Iranian naval vessel IRIS Lavan, which had reported engine failure, to dock at which Indian port?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Kochi",
+     "Visakhapatnam",
+     "Mumbai",
+     "Port Blair"
+    ],
+    "answer": 0,
+    "explain": "The IRIS Lavan docked in Kochi on 4 March 2026 and remained there under Indian supervision. External Affairs Minister S. Jaishankar framed the decision as a humanitarian necessity rather than a political statement.",
+    "source": "allow the Iranian naval vessel IRIS Lavan to dock in Kochi, framing the move as a humanitarian necessity rather than a political statement"
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Iranian frigate IRIS Dena, sunk in March 2026:",
+    "items": [
+     "It was sunk by a US submarine about 40 miles off the Sri Lankan coast.",
+     "It had participated in India's MILAN 2026 naval exercises shortly before it was sunk."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "A US submarine sank the IRIS Dena off Sri Lanka on 4 March 2026 as part of Operation Epic Fury, just after it left India following the MILAN 2026 exercises. Sri Lankan authorities recovered 87 bodies from the strike.",
+    "source": "The IRIS Dena had just departed India after participating in New Delhi’s flagship MILAN 2026 exercises"
+   }
+  ]
+ }
+}

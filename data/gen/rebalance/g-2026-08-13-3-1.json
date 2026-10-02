@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-13-3-1",
+ "story_id": "2026-08-13-3",
+ "target": 1,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the 2024 Supreme Court judgment on mineral royalty:",
+  "items": [
+   "The Court ruled by an 8–1 majority that royalty is not a tax.",
+   "The judgment left Parliament a route to restrict state taxation of mineral rights through the Mines and Minerals (Development and Regulation) Act.",
+   "The Centre's review petition against the judgment succeeded."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The third statement is wrong. The Centre lost its review attempt and filed a curative petition before turning to legislation. Because courts had long treated royalty as a tax, reclassifying it removed the cap on what states could separately charge.",
+  "source": "In 2024, the Supreme Court ruled 8–1 that royalty is not a tax."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the 2024 Supreme Court judgment on mineral royalty:",
+  "items": [
+   "The Centre's review petition against the judgment succeeded.",
+   "The Court ruled by an 8–1 majority that royalty is not a tax.",
+   "The judgment left Parliament a route to restrict state taxation of mineral rights through the Mines and Minerals (Development and Regulation) Act."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "The first statement is wrong: the Centre lost its review attempt and filed a curative petition before turning to legislation. Because courts had long treated royalty as a tax, reclassifying it removed the cap on what states could separately charge.",
+  "source": "The Centre lost a review attempt and filed a curative petition before turning to legislation."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4055,
+  "output_tokens": 634,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

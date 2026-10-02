@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-22-aitn1-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 233,
+  "output_tokens": 832,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "This is mainly an industrial accident story; the only Prelims-style fact is where the Ras Laffan LNG complex is located.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, an explosion at the Barzan gas facility killed 13 people, 12 of them Indian nationals. The facility is part of the Ras Laffan liquefied natural gas (LNG) complex. In which country is this complex located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Qatar",
+     "Oman",
+     "Kuwait",
+     "Bahrain"
+    ],
+    "answer": 0,
+    "explain": "Ras Laffan is Qatar's LNG complex. The blast on 21 June 2026 struck its Barzan gas facility, and the Indian Embassy in Doha confirmed the Indian deaths. Qatar's Interior Ministry attributed the explosion to a technical malfunction while operations were being restarted.",
+    "source": "12 Indian nationals were among 13 people killed and 66 injured in an explosion at Qatar's Ras Laffan liquefied natural gas (LNG) complex on Sunday."
+   }
+  ]
+ }
+}

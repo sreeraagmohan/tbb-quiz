@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-16-3-1",
+ "story_id": "2026-04-16-3",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Wholesale Price Index (WPI) based inflation for March 2026:",
+  "items": [
+   "It was the highest reading since January 2023.",
+   "Fewer than half of the 22 industrial groups in the manufacturing sub-index posted price increases.",
+   "The manufacturing sub-index accounts for over 64% of the WPI."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because 16 of the 22 manufacturing groups posted hikes, led by metals, chemicals and textiles. WPI inflation rose to 3.88% in March 2026 from 2.13% in February, its highest level since January 2023.",
+  "source": "The manufacturing sub-index, comprising over 64% of the WPI, saw 16 of 22 industrial groups post hikes."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Wholesale Price Index (WPI) based inflation for March 2026:",
+  "items": [
+   "It was the highest reading since January 2024.",
+   "More than half of the 22 industrial groups in the manufacturing sub-index posted price increases.",
+   "The manufacturing sub-index accounts for over 64% of the WPI."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the March 2026 reading was the highest since January 2023, not January 2024. Statements 2 and 3 are correct, as 16 of the 22 manufacturing groups posted hikes and the sub-index makes up over 64% of the WPI. WPI inflation rose to 3.88% in March 2026 from 2.13% in February, driven largely by an 8.77% spike in mineral oils.",
+  "source": "The manufacturing sub-index, comprising over 64% of the WPI, saw 16 of 22 industrial groups post hikes."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2994,
+  "output_tokens": 673,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

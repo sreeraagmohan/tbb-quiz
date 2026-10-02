@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-10-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 774,
+  "output_tokens": 1647,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4410
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The US Senate's Russian oil tariff bill is not yet law, so the questions test only what the Senate-passed text contains: its rate structure, review cycle and named target countries.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the US Senate passed a bill authorising tariffs on buyers of Russian oil. Consider the following statements about the bill:",
+    "items": [
+     "As first proposed, the bill sought a blanket 500 per cent tariff on any country doing business with Russia's energy sector.",
+     "The version passed by the Senate fixes a uniform 100 per cent tariff on all the named countries.",
+     "The applied tariff on the named countries is to be reassessed every 180 days."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The Senate version does not fix a uniform rate: the US Trade Representative can set the tariff anywhere from zero to 100 per cent on the named countries. The bill passed the Senate 86-11 and still needs to pass the House in identical form before it goes to Trump for assent.",
+    "source": "The US Trade Representative can set the applied tariff anywhere from zero to 100 per cent on the named countries, which will be reassessed every 180 days."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Russian oil tariff bill passed by the US Senate in August 2026 named five countries as targets, India among them. Which of the following countries was NOT one of the five?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Turkey",
+     "Slovakia",
+     "Azerbaijan",
+     "Hungary"
+    ],
+    "answer": 0,
+    "explain": "The five named targets are India, China, Slovakia, Hungary and Azerbaijan. The bill's sponsors framed a high tariff as necessary specifically to discourage Chinese and Indian purchases.",
+    "source": "India is one of five named targets, alongside China, Slovakia, Hungary, and Azerbaijan"
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-16-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 729,
+  "output_tokens": 1885,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the durable fact that RAW sits under the Cabinet Secretariat and key facts on the Pannun and Nijjar cases, avoiding the contested allegations themselves.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In February 2026, a guilty plea in New York drew attention to India's external intelligence agency, the Research and Analysis Wing (RAW). RAW is housed in which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Cabinet Secretariat",
+     "Ministry of Home Affairs",
+     "Ministry of Defence",
+     "Ministry of External Affairs"
+    ],
+    "answer": 0,
+    "explain": "US prosecutors described Vikash Yadav as employed by India's Cabinet Secretariat, which houses RAW. They allege he recruited Nikhil Gupta in May 2023 for the plot against Gurpatwant Singh Pannun, which Delhi says was against government policy.",
+    "source": "Prosecutors say Indian intelligence official Vikash Yadav, employed by India's Cabinet Secretariat, which houses the Research and Analysis Wing (RAW), recruited Gupta in May 2023."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, Nikhil Gupta pleaded guilty to orchestrating a failed plot to assassinate Gurpatwant Singh Pannun in New York City. Consider the following statements:",
+    "items": [
+     "India designated Pannun a terrorist in 2020.",
+     "Pannun is a dual US-British citizen.",
+     "In September 2023, the then Canadian Prime Minister accused India in parliament of involvement in the killing of Hardeep Singh Nijjar."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because Pannun, a lawyer at Sikhs for Justice, is a dual US-Canadian citizen. After the Nijjar accusation, India and Canada expelled each other's diplomats, while Washington chose to run a sting and build a federal case instead.",
+    "source": "The target: Pannun, a dual US-Canadian citizen and lawyer at Sikhs for Justice, has campaigned globally for Khalistan, a proposed sovereign Sikh state carved from India's Punjab."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-17-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 211,
+  "output_tokens": 903,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the body that launched FAST-DS, its Budget origin and the declaration deadline.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Foreign Assets of Small Taxpayers-Disclosure Scheme (FAST-DS), launched in August 2026:",
+    "items": [
+     "It was launched by the Central Board of Direct Taxes and was first announced in the Union Budget 2026-27.",
+     "Online declarations under the scheme are open until 31 March 2027."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The CBDT launched FAST-DS on 16 August 2026, and online declarations are open until 31 December 2026, not March 2027. The scheme targets students, young professionals, technology employees and relocated non-resident Indians who may have failed to disclose overseas holdings.",
+    "source": "launched the Foreign Assets of Small Taxpayers-Disclosure Scheme (FAST-DS), first announced in the 2026-27 Budget, on Sunday, with online declarations open until 31 December."
+   }
+  ]
+ }
+}

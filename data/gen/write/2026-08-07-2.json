@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-08-07-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 862,
+  "output_tokens": 2165,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Cabinet-approved energy scheme with clear outlay, ministry, duration, blending obligation and pricing, plus the predecessor SATAT scheme.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about GOBARdhan, the national compressed biogas scheme approved by the Union Cabinet in August 2026:",
+    "items": [
+     "It runs from 2026-27 to 2035-36 under the Ministry of Petroleum and Natural Gas.",
+     "It fixes an administered compressed biogas price of INR 2,110 per million BTUs for at least ten years.",
+     "It aims to raise domestic compressed biogas output roughly threefold over the coming decade."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The scheme aims to raise domestic output nearly tenfold, not threefold, over the decade. Its INR 237 billion outlay rests on offtake certainty, with a fixed price and a notified blending obligation guaranteeing producers a buyer.",
+    "source": "It also fixes an administered CBG price of INR 2,110 per million British thermal units (BTUs) for at least ten years."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Which scheme, launched in 2018, targeted 5,000 compressed biogas plants producing 15 million tonnes a year by 2023-24?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "SATAT",
+     "PM-KUSUM",
+     "UJALA",
+     "FAME"
+    ],
+    "answer": 0,
+    "explain": "SATAT (Sustainable Alternative Towards Affordable Transportation) was the largest earlier compressed biogas programme but delivered only a fraction of its target. About 200 CBG plants operated when GOBARdhan was approved in August 2026.",
+    "source": "The largest, the 2018 SATAT scheme (Sustainable Alternative Towards Affordable Transportation), had targeted 5,000 plants producing 15 million tonnes a year by 2023-24, and delivered only a fraction of that."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Under the GOBARdhan scheme approved in August 2026, City Gas Distribution companies must take a rising share of compressed biogas. Consider the following pairs of financial year and blending obligation:",
+    "items": [
+     "2026-27 — 3 per cent",
+     "2027-28 — 4 per cent",
+     "2028-29 onwards — 5 per cent"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "The obligation starts at 3 per cent in 2026-27, rises to 4 per cent the next year and reaches 5 per cent from 2028-29. Because compressed biogas costs more than the gas it displaces, the mandate effectively relies on continued government support to bridge the price gap.",
+    "source": "3 per cent in 2026-27, 4 per cent the next year, and 5 per cent from 2028-29."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-09-aitn2",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 1538,
+  "output_tokens": 175,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

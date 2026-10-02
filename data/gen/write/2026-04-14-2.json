@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-14-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 445,
+  "output_tokens": 1585,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the April 2026 CTUIL filing on transmission constraints and the national gap between renewable potential and transmission planning.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's renewable energy transmission constraints, as reported in April 2026:",
+    "items": [
+     "About 60 GW of clean energy projects in Rajasthan were stuck because the grid could not keep pace with construction.",
+     "The Ministry of New and Renewable Energy has identified 450 GW of renewable potential nationwide.",
+     "Transmission plans cover about 300 GW of the nationwide renewable potential."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because transmission plans cover only 240 GW of the 450 GW potential identified by the ministry. The gap shows that transmission planning has not kept pace with booming generation, which leaves projects at risk of becoming stranded assets.",
+    "source": "CTUIL warns that while the Ministry of New and Renewable Energy has identified 450 GW of renewable potential nationwide, transmission plans only cover 240 GW."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In April 2026, which body admitted in a filing that it lacked infrastructure for nearly half of the 130 GW of grid connectivity applications in Rajasthan?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Central Transmission Utility of India",
+     "Central Electricity Authority of India",
+     "Solar Energy Corporation of India",
+     "Power Grid Corporation of India"
+    ],
+    "answer": 0,
+    "explain": "The Central Transmission Utility (CTUIL) made the admission in an April 10 filing. The crunch was severe enough that regulators told one developer, Saurya Urja, it could withdraw its application and claw back its bank guarantees.",
+    "source": "In an April 10 filing, the Central Transmission Utility (CTUIL) admitted it lacks the infrastructure for nearly half of the 130 GW of connectivity applications in the state."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-03-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 521,
+  "output_tokens": 1314,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the RBI's regulatory measures against rupee speculation; skipped market levels, bank stock moves and the Jefferies loss estimate.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the measures taken by the Reserve Bank of India between 30 March and 1 April 2026 to curb speculation against the rupee:",
+    "items": [
+     "The RBI capped banks' net open rupee positions at USD 100 million.",
+     "The RBI banned rupee non-deliverable forwards.",
+     "The RBI allowed companies to rebook cancelled forward contracts to ease hedging."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the RBI barred companies from rebooking cancelled forward contracts. It added this curb, together with the ban on rupee non-deliverable forwards, after banks responded to the USD 100 million cap on net open positions by offloading positions to corporates and hedge funds. The rupee then surged 1.8% to 93.10 per dollar on 2 April 2026, its best session since 2013.",
+    "source": "the central bank followed up on Wednesday by banning rupee non-deliverable forwards and barring companies from rebooking cancelled forward contracts."
+   }
+  ]
+ }
+}

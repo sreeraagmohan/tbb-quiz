@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-03-16-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 635,
+  "output_tokens": 1857,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US trade-law instruments (Sections 122 and 301), the 18% rate in the interim India–US framework, and the OFAC licences for Russian crude. The pending trade deal itself is not tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about US tariff measures affecting India in early 2026:",
+    "items": [
+     "After the US Supreme Court struck down reciprocal tariffs in February 2026, Washington imposed a flat 10% duty on all imports under Section 122, valid through 24 July.",
+     "Tariffs imposed under Section 301 are capped at 15% and expire automatically.",
+     "The Section 301 investigations launched in March 2026 covered 16 economies, including India."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. The 15% cap applies to Section 122 duties, while Section 301 tariffs carry no ceiling and no expiry. The Section 301 probes target excess manufacturing capacity in sectors such as steel, solar and petrochemicals, and Indian officials see them as a pressure tactic.",
+    "source": "Unlike Section 122's 15% cap, Section 301 tariffs carry no ceiling and no expiry."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The interim India–US trade framework agreed in February 2026 would lock in what tariff rate on Indian exports to the United States?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "18%",
+     "10%",
+     "15%",
+     "25%"
+    ],
+    "answer": 0,
+    "explain": "The framework would fix an 18% tariff on Indian exports. By March 2026 this was higher than the flat 10% duty the US was applying under Section 122, which gave New Delhi a reason to delay signing.",
+    "source": "The interim framework agreed in February (we covered it here) would lock in an 18% tariff on Indian exports."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, the US issued temporary waivers allowing India to receive Russian crude oil already at sea. Licences for such purchases were issued by which US office?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Office of Foreign Assets Control",
+     "Bureau of Industry and Security",
+     "Office of the US Trade Representative",
+     "Committee on Foreign Investment in the United States"
+    ],
+    "answer": 0,
+    "explain": "The US issued Office of Foreign Assets Control (OFAC) licences allowing purchases of Russian crude. This came six weeks after the interim trade framework had required India to halt Russian crude imports, which India had only slowed.",
+    "source": "the US is issuing Office of Foreign Assets Control (OFAC) licenses to purchase more of it."
+   }
+  ]
+ }
+}

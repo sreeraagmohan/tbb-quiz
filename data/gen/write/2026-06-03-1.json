@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-06-03-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 464,
+  "output_tokens": 1660,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the new WPI series (base year, basket, weights), the reclassification of crude and gas, and the PPI suite with the old WPI's five-year sunset.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the new Wholesale Price Index (WPI) series that the Government of India announced in June 2026:",
+    "items": [
+     "It uses 2022–23 as its base year.",
+     "The basket of tracked items shrinks from 957 to 697.",
+     "Item weights reflect domestic production rather than net trade."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the basket grows from 697 to 957 items, not the other way round. The new series replaces a 15-year-old yardstick, and its production-based weights give a more accurate picture of what India actually makes.",
+    "source": "Weights now reflect domestic production rather than net trade, giving a more accurate picture of what India actually makes."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the new Wholesale Price Index series announced in June 2026, crude petroleum and gas have been moved into which group?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Fuel and Power",
+     "Primary Articles",
+     "Manufactured Products",
+     "Food Articles"
+    ],
+    "answer": 0,
+    "explain": "Crude petroleum and gas move from Primary Articles to Fuel and Power. Solar, wind and nuclear power also enter the energy group for the first time.",
+    "source": "Crude petroleum and gas migrate from \"Primary Articles\" to \"Fuel and Power.\""
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, India announced a new suite of Producer Price Indices (PPIs) alongside a revised WPI. Consider the following statements:",
+    "items": [
+     "PPIs are the International Monetary Fund's preferred standard for measuring producer prices.",
+     "The PPI suite covers seven service sectors, including banking, telecom and aviation.",
+     "The old WPI series will be discontinued as soon as the new series is released."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong because the old WPI gets a five-year sunset before it is discontinued entirely. The US, EU and Japan had already moved from WPI-style indices to PPIs years ago.",
+    "source": "The old WPI gets a five-year sunset before it's discontinued entirely."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-09-21-1-1",
+ "story_id": "2026-09-21-1",
+ "target": 3,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In September 2026, the European Commission proposed excluding India from permissions to import European Union metal scrap. Consider the following statements about this proposal:",
+  "items": [
+   "It falls under EU waste-export rules that apply from May 2027.",
+   "The Commission's assessment cites insufficient evidence of pollution controls and enforcement in India's recycling system.",
+   "It accompanies a 15 per cent export duty on aluminium scrap that Brussels has imposed alongside it."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because Brussels abandoned the separate 15 per cent aluminium-scrap export duty, and the exclusion proposal followed that decision. India had sought an exemption in June 2026, warning that restrictions could raise manufacturers' costs and undermine gains from the bilateral trade agreement.",
+  "source": "The proposal follows Brussels’ abandonment of a separate 15 per cent aluminium-scrap export duty."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In September 2026, the European Commission proposed excluding India from permissions to import European Union metal scrap. Consider the following statements about this proposal:",
+  "items": [
+   "It falls under EU waste-export rules that apply from May 2027.",
+   "The Commission's assessment cites insufficient evidence of pollution controls and enforcement in India's recycling system.",
+   "It follows Brussels' abandonment of a separate 15 per cent export duty on aluminium scrap."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the rules apply from 21 May 2027, the assessment cites insufficient evidence of pollution controls and enforcement, and the proposal follows Brussels' abandonment of a separate 15 per cent aluminium-scrap export duty. India had sought an exemption in June 2026, warning that restrictions could raise manufacturers' costs and undermine gains from the bilateral trade agreement.",
+  "source": "The proposal follows Brussels’ abandonment of a separate 15 per cent aluminium-scrap export duty."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2894,
+  "output_tokens": 656,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

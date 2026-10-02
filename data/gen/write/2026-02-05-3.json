@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-05-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 643,
+  "output_tokens": 1836,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests what an intensive revision involves, where the SIR was postponed, and the court and phase details of the February 2026 challenge.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In early 2026, the Election Commission of India drew criticism for postponing its Special Intensive Revision (SIR) of voter rolls in one poll-bound state while going ahead in others. In which state was the exercise postponed?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Assam",
+     "West Bengal",
+     "Tamil Nadu",
+     "Kerala"
+    ],
+    "answer": 0,
+    "explain": "The ECI postponed the SIR in BJP-ruled Assam but went ahead in opposition-held West Bengal, Tamil Nadu and Kerala, plus Puducherry. The SIR was initially slated for the states heading to the polls in 2026.",
+    "source": "However, eyebrows were raised when the ECI postponed the exercise in BJP-ruled Assam while going forward in opposition-held West Bengal, Tamil Nadu, and Kerala (plus Puducherry where the BJP is in an alliance with the government)."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Election Commission of India's Special Intensive Revision (SIR) of voter rolls, as of February 2026:",
+    "items": [
+     "Unlike annual reviews, an intensive revision requires every voter to be re-verified.",
+     "West Bengal Chief Minister Mamata Banerjee challenged the SIR by arguing before the Calcutta High Court.",
+     "Phase 2 of the SIR includes Uttar Pradesh and Gujarat."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because Mamata Banerjee personally argued in the Supreme Court, not a High Court, on 4 February 2026 to halt the SIR. An intensive revision re-verifies every voter and often demands fresh documentation, and Phase 2 now covers BJP strongholds such as UP and Gujarat.",
+    "source": "Unlike annual reviews, an intensive revision requires every single voter to be re-verified, often demanding fresh documentation."
+   }
+  ]
+ }
+}

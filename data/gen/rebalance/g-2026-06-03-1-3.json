@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-06-03-1-3",
+ "story_id": "2026-06-03-1",
+ "target": 0,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In June 2026, India announced a new suite of Producer Price Indices (PPIs) alongside a revised WPI. Consider the following statements:",
+  "items": [
+   "PPIs are the International Monetary Fund's preferred standard for measuring producer prices.",
+   "The PPI suite covers seven service sectors, including banking, telecom and aviation.",
+   "The old WPI series will be discontinued as soon as the new series is released."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 3 is wrong because the old WPI gets a five-year sunset before it is discontinued entirely. The US, EU and Japan had already moved from WPI-style indices to PPIs years ago.",
+  "source": "The old WPI gets a five-year sunset before it's discontinued entirely."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In June 2026, India announced a new suite of Producer Price Indices (PPIs) alongside a revised WPI. Consider the following statements:",
+  "items": [
+   "PPIs are the International Monetary Fund's preferred standard for measuring producer prices.",
+   "The PPI suite covers five service sectors, including banking, telecom and aviation.",
+   "The old WPI series will be discontinued as soon as the new series is released."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the PPI suite covers seven service sectors, not five. Statement 3 is wrong because the old WPI gets a five-year sunset before it is discontinued entirely. The US, EU and Japan had already moved from WPI-style indices to PPIs years ago.",
+  "source": "alongside a new suite of Producer Price Indices (PPIs) covering outputs, inputs, and seven service sectors including banking, telecom, and aviation."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2745,
+  "output_tokens": 766,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

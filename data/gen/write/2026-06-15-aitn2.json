@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-15-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 320,
+  "output_tokens": 464,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a maritime accident rescue with no scheme, ruling, agreement or other institutional outcome to test. The mention of the MEA protest is too thin to support a question.",
+  "questions": []
+ }
+}

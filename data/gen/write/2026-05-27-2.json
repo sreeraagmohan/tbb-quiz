@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-27-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 750,
+  "output_tokens": 1641,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–Canada CEPA negotiation timeline and the 2030 bilateral trade target; skips the Rana citizenship claim and the Sound smarter analysis.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Canada Comprehensive Economic Partnership Agreement (CEPA) negotiations as of May 2026:",
+    "items": [
+     "Terms of Reference for the talks were signed in March 2026 during Canadian Prime Minister Mark Carney's visit to India.",
+     "The third round of negotiations was held in New Delhi.",
+     "Both sides aim to conclude the agreement by the end of 2026."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third round ran in Ottawa, not New Delhi, in parallel with Commerce Minister Piyush Goyal's visit with a delegation of over 100 companies. The Terms of Reference were signed in March 2026, and both sides want to conclude the CEPA by the end of 2026.",
+    "source": "A third round is running in parallel with Goyal's visit in Ottawa this week, with negotiators from both sides working through May 29."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, as India and Canada advanced talks on a Comprehensive Economic Partnership Agreement, what target was cited for bilateral trade by 2030?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "USD 50 billion",
+     "USD 25 billion",
+     "USD 100 billion",
+     "USD 75 billion"
+    ],
+    "answer": 0,
+    "explain": "The target is USD 50 billion by 2030, up from bilateral goods trade of around USD 8.5 billion. Ties had frozen in 2023 after then-PM Justin Trudeau alleged Indian involvement in the killing of Hardeep Singh Nijjar.",
+    "source": "Bilateral trade in goods currently sits at around USD 8.5 billion. The target is USD 50 billion by 2030."
+   }
+  ]
+ }
+}

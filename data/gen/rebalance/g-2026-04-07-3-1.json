@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-07-3-1",
+ "story_id": "2026-04-07-3",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's Purchasing Managers' Index (PMI) readings for March 2026:",
+  "items": [
+   "The HSBC India Services PMI fell from its February level but stayed above the 50-mark that separates expansion from contraction.",
+   "The Composite PMI rose to its highest reading in nearly three and a half years.",
+   "International orders for services firms reached their second-highest level since the index began tracking them in 2014."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "The Composite PMI dropped to 57.0 from 58.9, its weakest reading in nearly three and a half years, so statement 2 is wrong. The Services PMI slipped to 57.5 from 58.1 as the West Asia conflict weighed on domestic demand, even as foreign orders surged.",
+  "source": "The HSBC India Services Purchasing Managers’ Index (PMI) fell to 57.5 from February's 58.1, still comfortably above the 50-mark separating expansion from contraction."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's Purchasing Managers' Index (PMI) readings for March 2026:",
+  "items": [
+   "The Composite PMI rose to its highest reading in nearly three and a half years.",
+   "The HSBC India Services PMI fell from its February level but stayed above the 50-mark that separates expansion from contraction.",
+   "International orders for services firms reached their second-highest level since the index began tracking them in 2014."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: the Composite PMI dropped to 57.0 from 58.9, its weakest reading in nearly three and a half years. Statements 2 and 3 are correct. The Services PMI slipped to 57.5 from 58.1 as the West Asia conflict weighed on domestic demand, even as foreign orders surged.",
+  "source": "The broader Composite PMI dropped to 57.0 from 58.9, its weakest reading in nearly three and a half years."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3192,
+  "output_tokens": 656,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

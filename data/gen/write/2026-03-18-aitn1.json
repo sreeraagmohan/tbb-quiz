@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-03-18-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 224,
+  "output_tokens": 442,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the item is an MEA denial of reported talks with Iran and a mention of ongoing transit discussions, with no concrete agreement or durable fact to test.",
+  "questions": []
+ }
+}

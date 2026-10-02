@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-09-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 817,
+  "output_tokens": 1473,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the RBI's stated stablecoin concerns, including seigniorage, and the 30% tax on crypto gains. The Supreme Court ruling's date is skipped because the story's 2018 date is doubtful.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, documents showed the Reserve Bank of India (RBI) pushing for a crypto policy leaning towards prohibition. Consider the following statements:",
+    "items": [
+     "The RBI argued that foreign-currency-backed stablecoins could erode India's monetary control.",
+     "The RBI argued that rupee-backed tokens threaten government seigniorage, the revenue earned from issuing currency.",
+     "In September 2025, the finance ministry, after consulting the RBI, had backed an outright ban on private cryptocurrencies."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. In September the finance ministry backed limited regulatory clarity, arguing that existing tax and other laws already contained the sector's risks. The RBI's newer documents take a harder line, and the government has yet to say which view prevails.",
+    "source": "Foreign-currency-backed stablecoins could erode India's monetary control, the RBI argues, while rupee-backed tokens threaten government seigniorage, the revenue it earns from issuing currency, and could add stress during market volatility."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As reported in July 2026, at what rate are gains from crypto assets taxed in India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "30%",
+     "15%",
+     "20%",
+     "40%"
+    ],
+    "answer": 0,
+    "explain": "Gains from crypto are taxed at 30%. Even so, fewer than a quarter of the 645,000 people who transacted in crypto in the year to March 2023 reported it, according to the tax department.",
+    "source": "Fewer than a quarter of 645,000 people who transacted in crypto in the year to March 2023 reported it, despite a 30% tax on gains."
+   }
+  ]
+ }
+}

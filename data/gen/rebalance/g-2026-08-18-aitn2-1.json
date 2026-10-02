@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-08-18-aitn2-1",
+ "story_id": "2026-08-18-aitn2",
+ "target": 3,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, India's power regulator allowed clean energy developers that miss project deadlines to retain their transmission access by paying a fee. Consider the following statements about this decision:",
+  "items": [
+   "Developers facing land or financing delays pay INR 1,000 per megawatt each day to retain access.",
+   "Developers can receive up to 12 additional months for financing delays.",
+   "Missing the extended deadlines could still cost developers their grid access and bank guarantees."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because financing delays get up to six additional months, while the 12-month extension applies to commissioning. Delayed commercial operations carry a higher fee of INR 3,000 per megawatt each day.",
+  "source": "Developers can receive up to three additional months for land, six for financing and 12 for commissioning."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, India's power regulator allowed clean energy developers that miss project deadlines to retain their transmission access by paying a fee. Consider the following statements about this decision:",
+  "items": [
+   "Developers facing land or financing delays pay INR 1,000 per megawatt each day to retain access.",
+   "Developers can receive up to six additional months for financing delays.",
+   "Missing the extended deadlines could still cost developers their grid access and bank guarantees."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: land or financing delays cost INR 1,000 per megawatt each day, financing delays get up to six additional months, and missing the extended deadlines could still cost developers their grid access and bank guarantees. Delayed commercial operations carry a higher fee of INR 3,000 per megawatt each day, with up to 12 additional months for commissioning.",
+  "source": "Developers can receive up to three additional months for land, six for financing and 12 for commissioning."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2189,
+  "output_tokens": 561,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

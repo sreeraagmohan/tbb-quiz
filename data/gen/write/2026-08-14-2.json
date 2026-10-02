@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-14-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 574,
+  "output_tokens": 431,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped. The story is about state investment MoUs and corporate pledges with no scheme, law or institutional angle, and the election point is too thinly stated to test.",
+  "questions": []
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-04-27-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 271,
+  "output_tokens": 132,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: a diplomatic spat over a commentator's remarks shared on social media, with no agreement, policy or institutional outcome to test.",
+  "questions": []
+ }
+}

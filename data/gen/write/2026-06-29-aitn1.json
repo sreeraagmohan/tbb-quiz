@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-29-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 305,
+  "output_tokens": 720,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly expectation (a visit in early 2027, a trade deal 'on the last inches'); only the G7 summit venue is a firm, testable fact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Prime Minister Narendra Modi and US President Donald Trump met on the sidelines of the G7 summit. Which country hosted that summit?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "France",
+     "Canada",
+     "Italy",
+     "Japan"
+    ],
+    "answer": 0,
+    "explain": "Modi and Trump met on the sidelines of the G7 summit in France, and Trump called the conversation very good. US Secretary of State Marco Rubio later said Trump was expected to visit India in early 2027.",
+    "source": "Modi and Trump met on the sidelines of the G7 summit in France last week"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-03-19-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 261,
+  "output_tokens": 837,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A courtesy phone call with no agreement; only the joint stress on navigation through the Strait of Hormuz is tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, Prime Minister Narendra Modi spoke with UAE President Sheikh Mohamed bin Zayed Al Nahyan about the situation in West Asia. Safe and free navigation through which strait did the two leaders stress?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Strait of Malacca",
+     "Bab-el-Mandeb Strait",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "Both leaders stressed safe and free navigation through the Strait of Hormuz and agreed to keep working together to restore peace in the region. On the same call, Modi reiterated India's strong condemnation of attacks on the UAE that had caused loss of innocent lives and damage to civilian infrastructure.",
+    "source": "Both leaders stressed the importance of ensuring safe and free navigation through the Strait of Hormuz and agreed to continue working together for the early restoration of peace, security and stability in the region."
+   }
+  ]
+ }
+}

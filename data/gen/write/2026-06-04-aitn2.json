@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-04-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 311,
+  "output_tokens": 1140,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the CCI's 2024 abuse-of-dominance finding, the Delhi High Court bar and the global-turnover penalty provision.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Apple agreed to hand over its India financials to the Competition Commission of India (CCI) in a long-running antitrust case. Consider the following statements:",
+    "items": [
+     "A 2024 CCI investigation found that Apple had abused its dominant position in the iPhone apps market.",
+     "The Delhi High Court has barred the CCI from issuing a ruling in the case before 15 July 2026.",
+     "India's updated competition law requires the CCI to calculate fines only on a company's Indian turnover."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: the updated competition law lets the CCI calculate fines on global rather than Indian turnover, which is the heart of the dispute. Apple had withheld its financials and taken the regulator to court, accusing it of judicial overreach, before agreeing to file India-specific figures by 25 June.",
+    "source": "The dispute centres on India's updated competition law, which lets the CCI calculate fines on global rather than Indian turnover."
+   }
+  ]
+ }
+}

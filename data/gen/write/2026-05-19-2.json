@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-19-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 523,
+  "output_tokens": 1003,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a corporate bond market story; tested only the mechanics of floating-rate bonds as a durable concept.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, several large Indian non-bank lenders planned to raise funds through three-year floating-rate bonds instead of fixed-rate debt. Consider the following statements about these floating-rate bonds:",
+    "items": [
+     "They pay interest at a spread over the three-month Treasury bill yield.",
+     "Their interest rate resets once every year.",
+     "They allow investors to benefit if interest rates rise."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "The bonds reset every quarter, not every year. They pay a spread over the three-month Treasury bill yield, which lowers the initial borrowing cost for issuers while letting investors gain if rates rise. Issuers including ICICI Home Finance and Tata Capital turned to them as markets began pricing in RBI rate hikes.",
+    "source": "Floating-rate bonds pay interest at a spread over the three-month Treasury bill yield and reset every quarter."
+   }
+  ]
+ }
+}

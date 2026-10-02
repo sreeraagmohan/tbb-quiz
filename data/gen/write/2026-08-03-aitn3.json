@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-03-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 196,
+  "output_tokens": 967,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Draft regulatory proposal, but interstate transmission charge waivers for clean energy are a recurring Prelims theme; tested only what was proposed.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, India's power regulator proposed reinstating a waiver for renewable energy and battery storage projects stalled by grid delays. The waiver concerned which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Interstate transmission fees",
+     "Basic customs duty on battery cells",
+     "Goods and services tax on solar modules",
+     "Cross-subsidy surcharge on open access"
+    ],
+    "answer": 0,
+    "explain": "The draft policy would bring back interstate transmission fee waivers, reversing a planned phase-out. It is meant to help developers who missed deadlines because of grid delays, provided they hold long-term power sale contracts through 2026.",
+    "source": "India’s power regulator has proposed reinstating interstate transmission fee waivers for renewable energy and battery storage projects stalled by grid delays"
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-30-1-3",
+ "story_id": "2026-04-30-1",
+ "target": 0,
+ "original": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to ethanol-blended fuels:",
+  "items": [
+   "E85 — 85% ethanol and 15% petrol",
+   "Energy content of ethanol — roughly 27-30% less per litre than petrol",
+   "NITI Aayog recommendation of 2021 — higher-blend fuels to be priced above regular petrol"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third pair is wrong. In 2021 NITI Aayog recommended pricing higher-blend fuels below regular petrol to compensate for their lower energy content, and this has not been implemented for E20. Running on E85 or E100 needs a flex-fuel vehicle, and no mass-market model is sold in India.",
+  "source": "NITI Aayog, India’s apex public policy think tank, recommended in 2021 that higher-blend fuels be priced below regular petrol to compensate for the energy loss."
+ },
+ "rewritten": {
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to ethanol-blended fuels:",
+  "items": [
+   "E85 — 85% ethanol and 15% petrol",
+   "Energy content of ethanol — roughly 27-30% more per litre than petrol",
+   "NITI Aayog recommendation of 2021 — higher-blend fuels to be priced above regular petrol"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Only the first pair is correct. Ethanol carries roughly 27-30% less energy per litre than petrol, not more, and in 2021 NITI Aayog recommended pricing higher-blend fuels below regular petrol to compensate for this energy loss. In April 2026 the transport ministry published draft rules to recognise E85 and E100, though E85 will not reach fuel pumps immediately.",
+  "source": "Ethanol carries roughly 27-30% less energy per litre than petrol."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 7204,
+  "output_tokens": 673,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

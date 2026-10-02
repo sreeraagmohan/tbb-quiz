@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-08-24-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 574,
+  "output_tokens": 2215,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the IOCL–Mauritius fuel supply deal, the MAHASAGAR doctrine's origin and India's refining position.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, Indian Oil Corporation (IOCL) signed a long-term agreement to supply fuel to Mauritius. Consider the following statements about it:",
+    "items": [
+     "IOCL replaces Mauritius's State Trading Corporation as the importer of fuel into Mauritius.",
+     "The agreement locks in roughly 750,000 tonnes of annual demand for five years.",
+     "It is India's first such long-term fuel supply deal outside South Asia."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because Mauritius's State Trading Corporation remains the importer. IOCL becomes the sole supplier under a Sales and Purchase Agreement tied to a government-to-government MoU, which replaces STC's old competitive tenders.",
+    "source": "Mauritius's State Trading Corporation (STC) remains the importer, but the new Sales and Purchase Agreement, tied to a government-to-government MoU, locks in roughly 750,000 tonnes of annual demand for five years, replacing STC's old competitive tenders."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "MAHASAGAR, India's Indian Ocean doctrine, was unveiled in March 2025 in which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Mauritius",
+     "Sri Lanka",
+     "Maldives",
+     "Seychelles"
+    ],
+    "answer": 0,
+    "explain": "MAHASAGAR was unveiled in Mauritius in March 2025. The August 2026 fuel deal, together with a 27,500-tonne bunker-fuel facility at Port Louis and a joint biofuels policy, sits under this doctrine.",
+    "source": "It all sits under MAHASAGAR, India's Indian Ocean doctrine, unveiled in Mauritius in March 2025."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's petroleum refining sector, as reported in August 2026:",
+    "items": [
+     "India imports nearly 90% of the crude oil it refines.",
+     "India's refineries produce more fuel than the country consumes, making it a net exporter of refined products.",
+     "India already supplies the full fuel requirements of Nepal and Bhutan."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. India's 23 refineries produced 267 million tonnes, and exports of refined products reached roughly 61.4 million tonnes in FY 2025-26, which allowed India to keep supplying Nepal and Bhutan in full even through the West Asia crisis.",
+    "source": "Its 23 refineries produced 267 million tonnes last year, more than it consumes, making India a net exporter: exports reached roughly 61.4 million tonnes in FY 2025-26."
+   }
+  ]
+ }
+}

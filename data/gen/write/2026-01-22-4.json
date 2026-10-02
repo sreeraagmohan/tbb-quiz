@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-01-22-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 496,
+  "output_tokens": 1175,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the key provisions of Rajasthan's draft Disturbed Areas Bill and its stage in the legislative process; skipped the expected session date and political reactions.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the draft Disturbed Areas Bill approved in Rajasthan in January 2026:",
+    "items": [
+     "In localities notified as disturbed, buying or selling property may require prior clearance from the district administration.",
+     "In January 2026, the Bill was passed by the Rajasthan Legislative Assembly.",
+     "The draft contemplates imprisonment of 3 to 5 years plus fines for violations."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. On 21 January 2026 the Rajasthan cabinet only approved a draft, which had yet to go before the Assembly. Under the draft, property deals done without approval in disturbed areas could be cancelled, and the state cites demographic imbalance and distress sales as its justification.",
+    "source": "In those pockets, selling or buying property may require prior clearance from the district administration."
+   }
+  ]
+ }
+}

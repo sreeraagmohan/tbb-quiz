@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-19-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 301,
+  "output_tokens": 792,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–Sweden Strategic Partnership of May 2026: venue, action plan scope and the trade target.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Sweden Strategic Partnership announced in May 2026:",
+    "items": [
+     "Bilateral ties were elevated to a Strategic Partnership during the Indian Prime Minister's visit to Gothenburg.",
+     "It comes with a joint action plan for 2026–2030 covering areas including critical minerals and defence.",
+     "The two sides set a target of doubling bilateral trade and investment within ten years."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the target is to double bilateral trade and investment within five years, not ten. The two sides also endorsed a joint AI corridor called SITAC, and Sweden awarded Modi the Royal Order of the Polar Star.",
+    "source": "The two sides endorsed a joint AI corridor (SITAC) and set a target of doubling bilateral trade and investment within five years."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-18-2-3",
+ "story_id": "2026-05-18-2",
+ "target": 3,
+ "original": {
+  "topic": "Geography",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to India–Netherlands cooperation in May 2026:",
+  "items": [
+   "Afsluitdijk — Dam protecting the Netherlands from the Baltic Sea",
+   "Kalpasar project — Gujarat",
+   "Rotterdam — Europe's largest port"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The Afsluitdijk is a 32-kilometre dam that protects the Netherlands from the North Sea, not the Baltic Sea. The other two pairs are correct. Both sides signed a Letter of Intent for Dutch technical cooperation on Gujarat's Kalpasar project.",
+  "source": "Modi and Jetten visited the Afsluitdijk, a 32-kilometre dam protecting the Netherlands from the North Sea, drawing parallels with India's Kalpasar project in Gujarat."
+ },
+ "rewritten": {
+  "topic": "Geography",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to India–Netherlands cooperation in May 2026:",
+  "items": [
+   "Afsluitdijk — Dam protecting the Netherlands from the Baltic Sea",
+   "Kalpasar project — Maharashtra",
+   "Europe's largest port — Antwerp"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three pairs are wrong: the Afsluitdijk protects the Netherlands from the North Sea, the Kalpasar project is in Gujarat, and Europe's largest port is Rotterdam in the Netherlands. During Modi's May 2026 visit, both sides signed a Letter of Intent for Dutch technical cooperation on Kalpasar.",
+  "source": "Modi and Jetten visited the Afsluitdijk, a 32-kilometre dam protecting the Netherlands from the North Sea, drawing parallels with India's Kalpasar project in Gujarat."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4120,
+  "output_tokens": 1007,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

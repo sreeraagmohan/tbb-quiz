@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-08-3-1",
+ "story_id": "2026-05-08-3",
+ "target": 1,
+ "original": {
+  "topic": "Society",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the NITI Aayog report on school education released in May 2026:",
+  "items": [
+   "Government schools make up 68.1% of all schools in India.",
+   "Private schools make up 38.8% of all schools in India.",
+   "Only 5.4% of schools offer continuous education from Grade 1 to 12."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong: private schools are 23.1% of institutions, and 38.8% is their share of enrolment. Government schools, though 68.1% of all schools, now enrol only 49.24% of students, down from 71% in 2005.",
+  "source": "Private schools, at 23.1% of institutions, now account for 38.8% of enrolment."
+ },
+ "rewritten": {
+  "topic": "Society",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the NITI Aayog report on school education released in May 2026:",
+  "items": [
+   "Private schools make up 38.8% of all schools in India.",
+   "Government schools make up 68.1% of all schools in India.",
+   "Only 5.4% of schools offer continuous education from Grade 1 to 12."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: private schools are 23.1% of institutions, and 38.8% is their share of enrolment. Government schools, though 68.1% of all schools, now enrol only 49.24% of students, down from 71% in 2005.",
+  "source": "Private schools, at 23.1% of institutions, now account for 38.8% of enrolment."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 3575,
+  "output_tokens": 654,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

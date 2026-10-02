@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-10-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 593,
+  "output_tokens": 1835,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the RBI's August 2026 loan recovery directions (device-lock rules, effective date) and the household debt data cited as backdrop.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the Reserve Bank of India issued new directions on loan recovery practices. Consider the following statements about these directions:",
+    "items": [
+     "Lenders may remotely disable a defaulting borrower's device only if the loan was taken out to purchase that device.",
+     "Where a device lock is permitted, lenders may impose it in full at once.",
+     "Lenders must fully restore device functionality within one hour of the borrower clearing pending dues."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because lenders cannot impose hardware locks all at once (ab initio). They must take a gradual approach and cannot cut off incoming calls, SMS or emergency SOS features. The directions also widen harassment to cover social media shaming and intimidation of a borrower's friends, relatives and co-workers.",
+    "source": "The only exception is if the loan was specifically taken out to purchase that exact device."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The RBI's loan recovery directions issued in August 2026, which ban social media shaming of borrowers by recovery agents, take effect from which date?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "1 January 2027",
+     "1 April 2027",
+     "1 October 2026",
+     "1 September 2026"
+    ],
+    "answer": 0,
+    "explain": "The directions take effect on 1 January 2027. They apply to banks, NBFCs and recovery agents, and add to existing bans on odd-hour calls and physical threats.",
+    "source": "The rules take effect on January 1, 2027."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about household debt in India, as reported in August 2026:",
+    "items": [
+     "Indian household debt reached a record 45.5 per cent of GDP as of September 2025.",
+     "The RBI's Financial Stability Report attributes the rise largely to a surge in secured home loans."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the Financial Stability Report links the rise largely to a surge in unsecured consumer lending, not home loans. Smartphone financing alone is projected to reach 42 per cent of all sales in 2026, up from 35 per cent in 2025.",
+    "source": "RBI's Financial Stability Report shows that the rise is driven largely by a surge in unsecured consumer lending."
+   }
+  ]
+ }
+}

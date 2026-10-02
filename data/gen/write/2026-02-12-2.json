@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-02-12-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 521,
+  "output_tokens": 311,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story is mainly about commodity price moves and trader expectations ahead of a US-India trade deal that is not yet final. The undated White House factsheet edit is too thin to test reliably.",
+  "questions": []
+ }
+}

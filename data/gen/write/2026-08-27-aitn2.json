@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-27-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 239,
+  "output_tokens": 1044,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Aravalli engine deal: SAFHAL joint venture, power class and the Mi-17 replacement role of the Indian Multi-Role Helicopter.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, Hindustan Aeronautics (HAL) and France's Safran Helicopter Engines signed to co-develop the 'Aravalli' engine for the Indian Multi-Role Helicopter. Consider the following statements about this engine:",
+    "items": [
+     "It is being co-developed through the SAFHAL joint venture.",
+     "The helicopter it will power is meant to replace the Russian Mi-17 helicopters in use.",
+     "It falls in the 1,500 to 2,000 shaft-horsepower class."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: the Aravalli engine is in the 3,500 to 4,000 shaft-horsepower class. The deal covers design, manufacture and lifecycle support for the engine of the under-development 13-tonne Indian Multi-Role Helicopter.",
+    "source": "The engine covers design, manufacture, and lifecycle support in the 3,500 to 4,000 shaft-horsepower class, and would power a domestic replacement for the Russian Mi-17 helicopters currently in use."
+   }
+  ]
+ }
+}

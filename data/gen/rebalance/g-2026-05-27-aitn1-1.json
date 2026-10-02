@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-05-27-aitn1-1",
+ "story_id": "2026-05-27-aitn1",
+ "target": 3,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In May 2026, the Union government constituted a high-level committee to study demographic changes caused by illegal immigration and other 'unnatural' reasons. Consider the following statements about it:",
+  "items": [
+   "The committee is headed by a retired Supreme Court judge.",
+   "It is tasked with recommending a permanent mechanism for the identification, detention and deportation of illegal immigrants.",
+   "It has been directed to submit its report within six months."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 3 is wrong because the committee has one year to report, and six months is only the possible extension. The panel, headed by retired Supreme Court judge Prakash Prabhakar Navlekar, will also propose measures on border management, national security and population stabilisation.",
+  "source": "The group has been directed to submit its comprehensive report and recommendations within one year, with a potential extension of up to six months if necessary."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In May 2026, the Union government constituted a high-level committee to study demographic changes caused by illegal immigration and other 'unnatural' reasons. Consider the following statements about it:",
+  "items": [
+   "The committee is headed by a retired High Court judge.",
+   "It is tasked with recommending a temporary mechanism for the identification, detention and deportation of illegal immigrants.",
+   "It has been directed to submit its report within six months."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong. The committee is headed by retired Supreme Court judge Prakash Prabhakar Navlekar, it must recommend a permanent mechanism, and it has one year to report, with six months only as a possible extension. The panel will also propose measures on border management, national security and population stabilisation.",
+  "source": "Headed by retired Supreme Court Judge Prakash Prabhakar Navlekar, the panel is tasked with analysing population shifts across religious and social communities and recommending a permanent mechanism for the identification, detention, and deportation of illegal immigrants."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2349,
+  "output_tokens": 970,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-05-04-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 864,
+  "output_tokens": 1771,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the April 2026 change of NITI Aayog vice-chairman, the body's recommatory status compared with the Planning Commission, and features of the new roster.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, who replaced Suman Bery as vice-chairman of NITI Aayog?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Ashok Lahiri",
+     "Rajiv Gauba",
+     "K V Raju",
+     "Abhay Karandikar"
+    ],
+    "answer": 0,
+    "explain": "Former Chief Economic Adviser Ashok Lahiri took over as vice-chairman on 24 April 2026. Rajiv Gauba, K V Raju and Abhay Karandikar were named full-time members in the same overhaul.",
+    "source": "On April 24, former Chief Economic Adviser (CEA) Ashok Lahiri replaced Suman Bery as vice-chairman."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about NITI Aayog:",
+    "items": [
+     "It replaced the Planning Commission in 2015.",
+     "Like the Planning Commission, it controls plan funds and has allocation leverage over states.",
+     "It has no statutory authority and no enforcement power."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Plan funds and allocation leverage over states belonged to the Planning Commission, while NITI Aayog is purely recommendatory with no budget. Several opposition-ruled states already boycott its meetings.",
+    "source": "NITI Aayog is purely recommendatory, with no budget, no statutory authority, and no enforcement power."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the NITI Aayog overhaul completed in April–May 2026:",
+    "items": [
+     "The new vice-chairman is the first to hold the post with elected political experience.",
+     "Former Cabinet Secretary Rajiv Gauba was the only full-time member retained from the earlier team."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Ashok Lahiri is a BJP legislator from Balurghat in West Bengal, and Gauba was the only holdover among the full-time members. Two more members joined on 2 May 2026, taking total membership to seven.",
+    "source": "Lahiri, a Bharatiya Janata Party (BJP) legislator from West Bengal's Balurghat, is the first vice-chairman with elected political experience."
+   }
+  ]
+ }
+}

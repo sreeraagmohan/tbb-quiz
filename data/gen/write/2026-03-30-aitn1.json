@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-03-30-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 174,
+  "output_tokens": 391,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the item is about Elon Musk's unexplained presence on a Trump–Modi call, and the call produced no concrete agreement or durable fact worth testing.",
+  "questions": []
+ }
+}

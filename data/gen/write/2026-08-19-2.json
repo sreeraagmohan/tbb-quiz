@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-08-19-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 650,
+  "output_tokens": 2121,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests Vizhinjam port's location, its ownership and operating structure, and the Mission Samudra plan's components.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, the deep-water port of Vizhinjam flagged off its first export containers. In which state is this port located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Kerala",
+     "Tamil Nadu",
+     "Karnataka",
+     "Goa"
+    ],
+    "answer": 0,
+    "explain": "Vizhinjam is in Kerala, where Chief Minister V D Satheesan flagged off its first export containers. Exporters can now ship directly to overseas markets instead of routing cargo through hubs like Colombo, Singapore and Dubai.",
+    "source": "Kerala’s Vizhinjam port has begun handling India's own imports and exports."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Vizhinjam port, as of August 2026:",
+    "items": [
+     "It is owned by the Kerala government and operated by Adani Ports.",
+     "It has played a transshipment role since it opened in December 2024.",
+     "In July 2026, the shipping line MSC acquired a majority stake in the port's operating company."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because MSC, the world's largest shipping line, bought a 49 per cent stake, not a majority. The port was built under a public-private partnership at INR 88.67 billion (USD 927 million).",
+    "source": "In July, the world's largest shipping line, MSC, bought a 49 per cent stake in the operating company (we covered it here)."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to Kerala's Mission Samudra, launched in August 2026:",
+    "items": [
+     "Catalytic fund — INR 4 billion",
+     "Industrial clusters planned — eight",
+     "New cities planned — five"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong because the plan envisages three new cities, not five. Mission Samudra is a port-led industrial plan that casts Vizhinjam as a port city anchoring a maritime economic region along Kerala's 600-kilometre coastline.",
+    "source": "It casts Vizhinjam as a port city anchoring a maritime economic region of eight industrial clusters, three new cities, and Kerala's 600-kilometre coastline"
+   }
+  ]
+ }
+}

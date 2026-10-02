@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-19-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 609,
+  "output_tokens": 1725,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the June 2026 Modi-Trump G7 meeting outcomes and the expansion of the India-US COMPACT framework; skipped the tariff analysis and the brief Zelenskyy meeting.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the meeting between Prime Minister Modi and President Trump in June 2026:",
+    "items": [
+     "It took place on the margins of the G7 Summit and was their first meeting since February 2025.",
+     "The two leaders instructed officials to finalise an interim Bilateral Trade Agreement.",
+     "US Trade Representative Jamieson Greer was to travel to India the following week to take the trade talks forward."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. The leaders asked officials to finalise the interim trade deal at the earliest, and Greer was to visit India the next week. The meeting marked a thaw after a year of strained ties, with India seeking relief from punitive tariffs on its exporters.",
+    "source": "with US Trade Representative Jamieson Greer travelling to India next week to take the talks forward"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The India-US COMPACT, reviewed by the two leaders in June 2026, is a framework agreed in Washington in February 2025. In this acronym, the letter 'M' stands for:",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Military Partnership",
+     "Maritime Partnership",
+     "Mineral Partnership",
+     "Manufacturing Partnership"
+    ],
+    "answer": 0,
+    "explain": "COMPACT stands for Catalyzing Opportunities for Military Partnership, Accelerated Commerce and Technology. It is the India-US defence and technology framework agreed in February 2025.",
+    "source": "India-US COMPACT (Catalyzing Opportunities for Military Partnership, Accelerated Commerce and Technology), the defence and technology framework agreed in Washington in February 2025."
+   }
+  ]
+ }
+}

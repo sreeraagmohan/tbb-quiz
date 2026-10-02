@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-04-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 222,
+  "output_tokens": 668,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests which party won Nepal's March 2026 elections, the first since the 2025 GenZ uprising, as context for India's Neighbourhood First outreach.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Prime Minister Narendra Modi met the founder of the party that had swept Nepal's March 2026 elections, the first held since the 2025 GenZ uprising. Which party was this?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Rastriya Swatantra Party",
+     "Nepali Congress",
+     "CPN-UML",
+     "Rastriya Prajatantra Party"
+    ],
+    "answer": 0,
+    "explain": "The Rastriya Swatantra Party (RSP), founded by Rabi Lamichhane, won the March 2026 elections in a landslide and is Nepal's ruling party. Modi called Nepal a priority partner under India's Neighbourhood First policy, and the meeting was meant to signal continuity in bilateral relations.",
+    "source": "The RSP had swept March elections in a landslide, the first since last year's GenZ uprising."
+   }
+  ]
+ }
+}

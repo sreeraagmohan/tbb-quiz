@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-05-13-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 212,
+  "output_tokens": 921,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official CPI data release; tested the April 2026 print against forecast and the reason it stayed low, avoiding the speculative FY27 outlook.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's retail inflation data for April 2026, released in May 2026:",
+    "items": [
+     "Retail inflation came in above the forecast of 3.8%.",
+     "The print was held down because the Centre absorbed most of the oil price shock instead of raising prices at the pump."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Retail inflation rose to 3.48%, below the 3.8% forecast, so statement 1 is wrong. The Centre's decision to absorb the oil shock kept fuel prices steady, though food inflation climbed to 4.2%.",
+    "source": "India's retail inflation rose to 3.48% in April, undershooting the 3.8% forecast, as the Centre absorbed most of the oil price shock rather than raising prices at the pump."
+   }
+  ]
+ }
+}

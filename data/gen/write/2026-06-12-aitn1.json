@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-12-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 430,
+  "output_tokens": 958,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4410
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India-EFTA TEPA's entry into force and its binding investment commitment. Membership is skipped because the story contradicts itself on which EFTA members are covered.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA), as reported in June 2026:",
+    "items": [
+     "It took effect in October 2025.",
+     "It commits the EFTA bloc to USD 100 billion in investment over 10 years.",
+     "It is the first Indian trade agreement to carry a binding investment target."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the USD 100 billion investment commitment, along with one million direct jobs, runs over 15 years, not 10. In June 2026, Commerce Minister Piyush Goyal visited Berne to push implementation of the pact with Swiss officials and pharmaceutical industry leaders.",
+    "source": "took effect in October 2025 and is the first Indian trade agreement to carry a binding investment target, committing the EFTA bloc to USD 100 billion in investment and one million direct jobs over 15 years."
+   }
+  ]
+ }
+}

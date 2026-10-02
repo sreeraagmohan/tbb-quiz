@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-20-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 485,
+  "output_tokens": 1499,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested India's 2026 BRICS chairship: the September summit venue and the May Foreign Ministers' Meeting outcome. Putin's attendance itself is only announced, so it is not the tested fact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about BRICS under India's chairship in 2026:",
+    "items": [
+     "The BRICS Foreign Ministers' Meeting held in New Delhi in May 2026 ended without a joint communiqué because members disagreed on language about the Russia-Ukraine conflict.",
+     "India, as chair, issued a summary of the May 2026 Foreign Ministers' Meeting.",
+     "The BRICS summit is scheduled to be held in New Delhi on 12-13 September 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the ministerial meeting failed to agree on language on the US-Iran conflict, not Russia-Ukraine, so India issued a chair's summary instead. Kremlin aide Yuri Ushakov said Putin will attend the New Delhi summit, his second trip to India in less than a year.",
+    "source": "Last week’s ministerial meeting ended without a joint communiqué after members failed to agree on language on the US-Iran conflict."
+   }
+  ]
+ }
+}

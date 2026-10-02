@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-03-26-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 777,
+  "output_tokens": 1799,
+  "cache_creation_input_tokens": 4410,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Cabinet approval of a Union scheme with outlay, components and a CAG audit record; tested scheme design, audit findings and launch year.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In March 2026, the Union Cabinet approved Modified UDAN. Consider the following statements about it:",
+    "items": [
+     "It commits INR 28,840 crore over the next decade.",
+     "It plans to develop 100 airports from existing airstrips and build 200 helipads.",
+     "It extends viability gap funding for airlines on regional routes from three years to five years."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong because viability gap funding is extended from three to ten years, not five. Direct airline subsidies alone account for INR 10,043 crore of the outlay, with INR 12,159 crore earmarked for airport development.",
+    "source": "Modified UDAN extends viability gap funding from three to ten years, betting that longer subsidies will give routes time to build demand."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the 2023 audit by the Comptroller and Auditor General (CAG) of the first three phases of the UDAN scheme:",
+    "items": [
+     "It found that 52% of the awarded routes never started operations.",
+     "It found that a majority of the routes that did fly survived beyond the three-year subsidy window."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because only 7% of the routes that flew survived beyond the three-year subsidy window. The audit covered 774 awarded routes and also found that fifteen airports went inactive during the period.",
+    "source": "A 2023 audit by the Comptroller and Auditor General (CAG) of the first three phases found that 52% of 774 awarded routes never started operations."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The regional connectivity scheme UDAN (Ude Desh Ka Aam Nagrik), whose modified version the Cabinet approved in March 2026, was originally launched in which year?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "2016",
+     "2014",
+     "2019",
+     "2021"
+    ],
+    "answer": 0,
+    "explain": "The original UDAN scheme was launched in 2016. Over nine years it operationalised 663 routes across 95 airports and carried 16.2 million passengers.",
+    "source": "Since its launch in 2016, the original UDAN (Ude Desh Ka Aam Nagrik, or ‘let the common citizen fly’) scheme has a patchy record."
+   }
+  ]
+ }
+}

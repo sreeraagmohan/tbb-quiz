@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-11-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 571,
+  "output_tokens": 1585,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the February 2026 IT Rules amendment: the three-hour deepfake takedown deadline and the new 'synthetically generated information' definition and platform duties.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, India's IT Ministry amended internet regulation to require social media platforms to remove flagged deepfakes within what time?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Three hours",
+     "12 hours",
+     "24 hours",
+     "36 hours"
+    ],
+    "answer": 0,
+    "explain": "The IT Ministry mandated removal of flagged deepfakes within three hours. The 2021 IT Rules had given platforms 36 hours to comply with takedown orders, and from 20 February 2026 that window shrinks by 90%.",
+    "source": "mandating that social media platforms remove flagged deepfakes within just three hours."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the deepfake rules notified by India's IT Ministry in February 2026:",
+    "items": [
+     "The law formally defines \"synthetically generated information\" for the first time.",
+     "The definition of synthetically generated information covers good-faith edits such as colour correction and accessibility tweaks.",
+     "Large platforms must require users to declare AI-generated content at the time of upload."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the definition carves out good-faith edits like colour correction or accessibility tweaks, covering only AI-altered audio or video that looks real. Large platforms must also verify user declarations with automated tools and embed permanent, unremovable metadata to trace origin.",
+    "source": "For the first time, the law formally defines “synthetically generated information.”"
+   }
+  ]
+ }
+}

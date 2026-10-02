@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-05-01-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 225,
+  "output_tokens": 844,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A short item with a statutory regulator angle. One question tests which body is probing Apple for abuse of dominance; the ultimatum's month is left out because 'this month' is ambiguous.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, Apple went to court against an Indian regulator, accusing it of 'usurping' judicial authority by demanding financial data for a potential USD 38 billion penalty. Which body has been investigating Apple since 2024 for abusing its dominant position in the iPhone app market?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Competition Commission of India",
+     "Securities and Exchange Board of India",
+     "Telecom Regulatory Authority of India",
+     "Reserve Bank of India"
+    ],
+    "answer": 0,
+    "explain": "The Competition Commission of India, India's antitrust watchdog, has been investigating Apple since 2024 over abuse of dominance in the iPhone app market. It asked Apple to submit financial records ahead of a final hearing on May 21.",
+    "source": "Since 2024, the Competition Commission of India (CCI) has been investigating Apple for abusing its dominant position in the iPhone app market."
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-04-01-5",
+ "error": null,
+ "usage": {
+  "input_tokens": 641,
+  "output_tokens": 262,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story is about party manifesto pledges and electoral positioning ahead of the 9 April 2026 Assam poll, which are promises rather than durable decisions, laws or schemes.",
+  "questions": []
+ }
+}

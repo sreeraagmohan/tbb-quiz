@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-10-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 817,
+  "output_tokens": 1374,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the location of the strike (Masirah, Oman) and checkable details of the Marivex incident; skipped India's diplomatic framing, which is analysis rather than fact.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, United States forces disabled the tanker MT Marivex, crewed entirely by Indians, off Masirah. Off the coast of which country does Masirah lie?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Oman",
+     "Yemen",
+     "Iran",
+     "Qatar"
+    ],
+    "answer": 0,
+    "explain": "The Marivex was struck off Masirah, Oman, and remained anchored off its coast after the strike. The US blockade against Iran polices the waters around the Strait of Hormuz and the Gulf of Oman.",
+    "source": "United States forces struck the Palau-flagged MT Marivex off Masirah, Oman."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the tanker MT Marivex, disabled by a US strike in June 2026:",
+    "items": [
+     "The vessel was flagged in Palau.",
+     "Its Indian crew were rescued by the Indian Navy.",
+     "It had been sanctioned by the US Treasury in December 2025 over alleged involvement in transporting Iranian oil."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the 24 Indian crew members were rescued by the Royal Navy of Oman, with India's Coast Guard rescue centre in Mumbai coordinating the evacuation. US Central Command said the Marivex was the seventh vessel disabled since blockade enforcement against Iran began on 13 April 2026.",
+    "source": "The 24-member crew of the ship, all Indian nationals, were rescued by the Royal Navy of Oman."
+   }
+  ]
+ }
+}

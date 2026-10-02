@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-12-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1036,
+  "output_tokens": 1994,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the strait at the centre of the US blockade of Iran and India's institutional response to the deaths of Indian seafarers in June 2026.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, the United States began enforcing a blockade of Iranian ports after Iran effectively closed a strait through which roughly a fifth of the world's oil and gas passes. Which strait is this?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Bab-el-Mandeb Strait",
+     "Strait of Malacca",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "Washington sealed off Iran's ports on 13 April 2026 after Tehran effectively closed the Strait of Hormuz. US Central Command says it has disabled eight vessels and redirected 134 others since the blockade began, with strikes in the Gulf of Oman killing three Indian sailors in June 2026.",
+    "source": "Washington sealed off Iran's ports on 13 April after Tehran effectively closed the Strait of Hormuz, through which roughly a fifth of the world's oil and gas passes."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, US strikes on tankers in the Gulf of Oman killed three Indian sailors. Consider the following statements about India's response and related events:",
+    "items": [
+     "India summoned the US chargé d'affaires to convey its concerns over the attacks.",
+     "The Directorate General of Shipping advised seafarers on both Indian and foreign-flagged vessels in conflict-affected waters to exercise the highest caution.",
+     "The Indian Navy recovered an unexploded missile warhead from the tanker MT Olympic Life off Visakhapatnam."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the warhead was recovered off Kochi, not Visakhapatnam; it had pierced the Marshall Islands-flagged vessel's hull off Oman on 26 May. The shipping ministry counts more than 18,000 Indian seafarers across the wider Gulf, which explains the scale of India's exposure.",
+    "source": "The Indian Navy recovered an unexploded missile warhead from the crude oil tanker MT Olympic Life off Kochi, a projectile that had pierced the Marshall Islands-flagged vessel's hull off Oman on 26 May and lodged inside a fuel tank."
+   }
+  ]
+ }
+}

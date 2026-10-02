@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-03-12-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 220,
+  "output_tokens": 127,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a corporate leadership change at IndiGo. The pilot duty rules are mentioned only in passing, with no regulator or rule details to test.",
+  "questions": []
+ }
+}

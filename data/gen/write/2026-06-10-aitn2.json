@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-10-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 327,
+  "output_tokens": 1566,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the summit venues, India's G7 status and the first Indian PM visit to Slovakia; one question for an Also in the news item.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's outreach to Europe in June 2026:",
+    "items": [
+     "External Affairs Minister Jaishankar attended the 14th Kultaranta Talks, a foreign-policy forum hosted by Finland.",
+     "Prime Minister Modi was to attend the G7 Summit at Évian-les-Bains in France as a full member of the grouping.",
+     "Modi's Slovakia leg marks the first visit by an Indian Prime Minister to that country since its 1993 independence."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because India was to join the G7 Summit at Évian-les-Bains on 16 to 17 June 2026 as an invited partner, not as a member. The 13 to 18 June visit also included a bilateral meeting with President Macron and the launch of the \"Bharat Innovates\" event in Nice.",
+    "source": "The Slovakia leg marks the first visit by an Indian Prime Minister to the country since its 1993 independence."
+   }
+  ]
+ }
+}

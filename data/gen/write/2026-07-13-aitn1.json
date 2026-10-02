@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-13-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 557,
+  "output_tokens": 1191,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The item also carries the INS Mahendragiri commissioning, a completed and durable defence fact, so that was tested instead of the scheduled Goyal visit.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about INS Mahendragiri, commissioned by the Indian Navy in July 2026:",
+    "items": [
+     "It was built by Mazagaon Dock Shipbuilders Limited.",
+     "It was commissioned into the Western Fleet at Visakhapatnam.",
+     "It carries over 75% indigenous content."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "INS Mahendragiri joined the Eastern Fleet, not the Western Fleet, at Visakhapatnam. It is the sixth Project 17A stealth frigate. Designed by the Navy's Warship Design Bureau, it can be fitted with the BrahMos cruise missile.",
+    "source": "The Indian Navy commissioned INS Mahendragiri, the sixth Project 17A stealth frigate, into its Eastern Fleet at Visakhapatnam on Saturday, July 11."
+   }
+  ]
+ }
+}

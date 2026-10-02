@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-02-24-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 601,
+  "output_tokens": 2077,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested Rajaji as the only Indian Governor-General and the 2022 decolonisation steps (Kartavya Path, naval ensign); skipped the analysis.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, President Droupadi Murmu unveiled a bust at Rashtrapati Bhavan, replacing that of Edwin Lutyens. It depicts the only Indian to have served as Governor-General. Who was he?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "C. Rajagopalachari",
+     "Rajendra Prasad",
+     "Vallabhbhai Patel",
+     "S. Radhakrishnan"
+    ],
+    "answer": 0,
+    "explain": "Rajagopalachari, known as Rajaji, was the only Indian Governor-General. He occupied the building from 1948 until 1950, when India became a republic and the post was abolished.",
+    "source": "Rajagopalachari, better known as Rajaji, was the only Indian to serve as Governor-General."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about steps taken in 2022 to remove colonial symbols:",
+    "items": [
+     "Rajpath, the ceremonial boulevard outside Rashtrapati Bhavan, was renamed Kartavya Path.",
+     "The Indian Navy replaced the St George's Cross on its ensign with the seal of Maratha emperor Shivaji."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both changes took place in 2022. Rajpath (King's Way) was designed by Lutyens, and Shivaji built one of India's first indigenous naval forces to resist European colonial powers in the 17th century.",
+    "source": "In 2022, the ceremonial boulevard outside Rashtrapati Bhavan, Rajpath (King's Way), also designed by Lutyens, was renamed to Kartavya Path (Path of Duty)."
+   }
+  ]
+ }
+}

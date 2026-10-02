@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-03-20-2-2",
+ "story_id": "2026-03-20-2",
+ "target": 3,
+ "original": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's power supply outlook for summer 2026, as reported in March 2026:",
+  "items": [
+   "Peak power demand is projected to reach a record 271 GW.",
+   "India has 15 imported coal-based power plants with a combined capacity of 17 GW.",
+   "Limited gas supplies have been reprioritised towards the power sector to handle sudden summer demand surges."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third statement is wrong: gas has been reprioritised towards households and fertiliser production, leaving the power sector without capacity to meet sudden surges. The government is looking to imported coal plants to bridge an estimated 12 GW peak shortfall, accepting higher costs amid the West Asia conflict.",
+  "source": "The government is reportedly targeting some of the 15 imported coal-based power plants that have 17 GW capacity in total to bridge an estimated 12 GW peak summer power demand shortfall."
+ },
+ "rewritten": {
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's power supply outlook for summer 2026, as reported in March 2026:",
+  "items": [
+   "Peak power demand is projected to reach a record 291 GW.",
+   "India has 15 imported coal-based power plants with a combined capacity of 12 GW.",
+   "Limited gas supplies have been reprioritised towards the power sector to handle sudden summer demand surges."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "All three statements are wrong: peak demand is projected at a record 271 GW, the 15 imported coal-based plants have 17 GW capacity (12 GW is the estimated peak shortfall), and gas has been reprioritised towards households and fertiliser production rather than the power sector. The Centre is considering invoking Section 11 of the Electricity Act to make these imported coal plants run at full throttle.",
+  "source": "The government is reportedly targeting some of the 15 imported coal-based power plants that have 17 GW capacity in total to bridge an estimated 12 GW peak summer power demand shortfall."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2897,
+  "output_tokens": 922,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

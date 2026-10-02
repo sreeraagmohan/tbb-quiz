@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-05-07-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 367,
+  "output_tokens": 204,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a sports venue decision by the BCCI with no scheme, law, institution or policy angle worth testing for Prelims.",
+  "questions": []
+ }
+}

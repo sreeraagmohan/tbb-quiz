@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-06-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 320,
+  "output_tokens": 963,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "One statements question on India's July 2026 bilateral engagements, centred on the India-Israel Bilateral Investment Agreement entering into force.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's bilateral engagements in early July 2026:",
+    "items": [
+     "The India–France Economic and Financial Dialogue in Aix-en-Provence ended with agreements signed on critical minerals cooperation.",
+     "India and Mali held their first exports forum in Bamako.",
+     "The India–Israel Bilateral Investment Agreement, signed in September 2025, came into force."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong: India and France discussed critical minerals and G20 and Paris Club alignment, but no agreements were signed. The India–Israel agreement came into force on 3 July 2026 and strengthens investor protections while preserving each government's room for public-policy regulation.",
+    "source": "The India-Israel Bilateral Investment Agreement, signed in September 2025, came into force on Friday, giving investors on both sides stronger protections while preserving each government's room for public-policy regulation."
+   }
+  ]
+ }
+}

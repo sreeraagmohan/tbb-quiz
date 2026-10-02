@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-09-aitn1",
+ "error": null,
+ "perms": [
+  [
+   3,
+   2,
+   0,
+   1
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "trivial",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": false,
+    "problem": "The explanation says \"India hosted the BRICS summit in New Delhi on 12-13 September 2026\", as if the summit had already taken place. The story, dated 9 September, describes it as scheduled for next week (12-13 September) in New Delhi, not as having been held."
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 1224,
+  "output_tokens": 370,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

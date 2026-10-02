@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-24-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 376,
+  "output_tokens": 1309,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the critical mineral auction totals, first-time states and the Exploration Licence count in one statements question.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the auction of critical and strategic mineral blocks by the Ministry of Mines, as of June 2026:",
+    "items": [
+     "Under the Seventh Tranche, blocks were put up for auction for the first time in Gujarat, Uttarakhand and Telangana.",
+     "A total of 56 blocks had been auctioned out of the 88 blocks offered by the Centre since the programme began.",
+     "After the Second Tranche of Exploration Licence auctions, the cumulative number of Exploration Licences stood at 56."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the Second Tranche lifted the cumulative Exploration Licence total to 11. The figure of 56 refers to mineral blocks auctioned, a 63% clearance rate across 88 blocks offered. These minerals feed clean energy, electric mobility, electronics and defence manufacturing under the National Critical Mineral Mission.",
+    "source": "The Ministry also closed its Second Tranche of Exploration Licence (EL) auctions, lifting the cumulative EL total to 11 and extending the framework to Arunachal Pradesh, Uttar Pradesh, and Odisha."
+   }
+  ]
+ }
+}

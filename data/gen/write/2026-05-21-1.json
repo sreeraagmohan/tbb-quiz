@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-05-21-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 647,
+  "output_tokens": 2401,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India-Italy Special Strategic Partnership and trade target, the IMEC push, and the agreements signed in Rome in May 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India-Italy relations as of May 2026:",
+    "items": [
+     "In May 2026, the two countries elevated their relations to a Special Strategic Partnership at a meeting in Rome.",
+     "They set a bilateral trade target of EUR 20 billion by 2029.",
+     "Italy acts primarily as a supplier of steel and chemicals to India."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. Italy is primarily a machinery supplier to India, with machinery making up nearly 40% of its exports, while steel, electronics and chemicals are Indian exports to Italy. Bilateral trade stood at EUR 14.2 billion in 2024, so the 2029 target needs roughly 40% growth.",
+    "source": "Prime Minister Modi and Italian Prime Minister Meloni elevated India-Italy relations to a Special Strategic Partnership in Rome on Tuesday, setting a EUR 20 billion bilateral trade target by 2029 and signing agreements on defence, critical minerals, and innovation."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, India and Italy called for the first ministerial meeting of which connectivity initiative to take concrete steps in 2026?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India-Middle East-Europe Economic Corridor",
+     "International North-South Transport Corridor",
+     "Chennai-Vladivostok Maritime Corridor",
+     "Asia-Africa Growth Corridor"
+    ],
+    "answer": 0,
+    "explain": "Modi and Meloni reaffirmed their commitment to IMEC and called for its first Ministerial meeting in 2026. They also pushed for early implementation of the India-EU FTA, whose negotiations concluded in 2026.",
+    "source": "Both leaders reaffirmed their commitment to the India-Middle East-Europe Economic Corridor (IMEC) and called for the first IMEC Ministerial meeting to take concrete steps in 2026."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to outcomes of the India-Italy summit in Rome in May 2026:",
+    "items": [
+     "Joint Declaration of Intent — Nurse mobility from India to Italy",
+     "Defence industrial roadmap — Co-production of helicopters, naval platforms and electronic warfare systems",
+     "INNOVIT India — Innovation hub covering sectors from semiconductors to quantum computing"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the story. The two sides also signed MoUs on critical minerals and agriculture.",
+    "source": "a defence industrial roadmap covering co-production of helicopters, naval platforms, and electronic warfare systems, and a Joint Declaration of Intent on nurse mobility from India to Italy"
+   }
+  ]
+ }
+}

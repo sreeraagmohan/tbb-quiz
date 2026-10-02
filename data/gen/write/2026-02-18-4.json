@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-18-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 568,
+  "output_tokens": 1689,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the NGT ruling of February 2026 on the Great Nicobar project, its basis and site, and the project's strategic location near the Malacca Strait.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the National Green Tribunal (NGT) ruling of February 2026 on the Great Nicobar mega-project:",
+    "items": [
+     "The NGT dismissed challenges to the environmental clearance granted to the project in 2022.",
+     "The project is planned near Galathea Bay, a biodiversity hotspot.",
+     "In clearing the project, the NGT relied on a report of the Central Pollution Control Board."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the NGT relied on a High-Powered Committee, not the Central Pollution Control Board, to declare that adequate safeguards are in place. The INR 900 billion project can proceed subject to full and strict compliance with approval conditions, though critics warn of harm to nesting leatherback turtles.",
+    "source": "On Monday, the NGT dismissed challenges to the 2022 environmental clearance, relying on a High-Powered Committee to declare that adequate safeguards are already in place."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The Great Nicobar mega-project, cleared by the National Green Tribunal in February 2026, includes a transhipment hub located near which strait?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Malacca Strait",
+     "Strait of Hormuz",
+     "Palk Strait",
+     "Bab-el-Mandeb Strait"
+    ],
+    "answer": 0,
+    "explain": "The hub sits near the Malacca Strait and aims to reduce India's dependence on foreign transhipment ports such as Colombo and Singapore. It is also meant to firm up India's presence in the eastern Indian Ocean against China's network of facilities.",
+    "source": "Located near the Malacca Strait, the hub aims to break India's dependence on foreign transhipment ports (like Colombo or Singapore)"
+   }
+  ]
+ }
+}

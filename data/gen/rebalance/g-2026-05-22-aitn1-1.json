@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-05-22-aitn1-1",
+ "story_id": "2026-05-22-aitn1",
+ "target": 1,
+ "original": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India-Africa Forum Summit postponed in May 2026:",
+  "items": [
+   "It was to be the fourth edition of the summit, held with the African Union in New Delhi.",
+   "The postponement followed a WHO warning about an Ebola outbreak in the Democratic Republic of Congo involving a strain for which a vaccine is available."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the WHO said the outbreak involves a rare strain for which no vaccine exists. The fourth summit, scheduled for 28 to 31 May 2026, was to cover trade, investment, digital technology and global governance, and the MEA said new dates would be finalised in due course.",
+  "source": "India and the African Union (AU) have postponed the fourth India-Africa Forum Summit, which was scheduled for May 28–31 in New Delhi, citing an \"emerging public health situation\" in Africa."
+ },
+ "rewritten": {
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India-Africa Forum Summit postponed in May 2026:",
+  "items": [
+   "The postponement followed a WHO warning about an Ebola outbreak in the Democratic Republic of Congo involving a strain for which a vaccine is available.",
+   "It was to be the fourth edition of the summit, held with the African Union in New Delhi."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the WHO said the outbreak involves a rare strain for which no vaccine exists. The fourth summit, scheduled for 28 to 31 May 2026 in New Delhi, was to cover trade, investment, digital technology and global governance, and the MEA said new dates would be finalised in due course.",
+  "source": "India and the African Union (AU) have postponed the fourth India-Africa Forum Summit, which was scheduled for May 28–31 in New Delhi, citing an \"emerging public health situation\" in Africa."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2303,
+  "output_tokens": 632,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

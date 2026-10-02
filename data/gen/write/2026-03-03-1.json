@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-03-03-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 529,
+  "output_tokens": 2142,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the CEPA Terms of Reference and trade target, the Cameco uranium deal with India's nuclear targets, and the Tahawwur Rana concession.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the outcomes of Canadian PM Mark Carney's visit to India in March 2026:",
+    "items": [
+     "India and Canada signed Terms of Reference for a Comprehensive Economic Partnership Agreement (CEPA).",
+     "The two countries aim to raise bilateral trade to USD 50bn by 2030.",
+     "CEPA negotiations are targeted to conclude by the end of 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The Terms of Reference set a USD 50bn trade goal for 2030, and negotiations are to conclude by the end of 2026. The visit, Carney's first official trip to India, marked an economic reset after years of friction over Khalistani separatism.",
+    "source": "The goal is to raise bilateral trade to USD 50bn by 2030, with negotiations to conclude by the end of this year."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the India–Canada uranium deal signed in March 2026 and India's nuclear programme:",
+    "items": [
+     "Value of the Cameco uranium supply deal — USD 1.9bn",
+     "Period of uranium supply under the deal — through 2040",
+     "India's nuclear capacity target for 2047 — 100 GW"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second pair is wrong: Cameco will supply 22 million pounds of uranium through 2035, not 2040. The fuel feeds India's 24 operating reactors as it works towards 100 GW of nuclear capacity by 2047.",
+    "source": "Canada's Cameco signed a USD 1.9bn deal to supply 22 million pounds of uranium through 2035."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Around the time of Canadian PM Mark Carney's visit to India in March 2026, Canada moved to revoke the citizenship of Tahawwur Rana. He is accused of helping plan which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "The 2008 Mumbai attacks",
+     "The 2001 Parliament attack",
+     "The 2016 Pathankot attack",
+     "The 2019 Pulwama attack"
+    ],
+    "answer": 0,
+    "explain": "Rana, a Pakistan-born businessman, is accused of helping plan the 2008 Mumbai attacks. Ottawa's move was seen as a high-value security concession that cleared the path for the economic reset.",
+    "source": "Ottawa cleared the path by moving to revoke the citizenship of Tahawwur Rana, a Pakistan-born businessman accused of helping plan the 2008 Mumbai attacks."
+   }
+  ]
+ }
+}

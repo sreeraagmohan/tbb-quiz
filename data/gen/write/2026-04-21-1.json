@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-21-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 488,
+  "output_tokens": 1710,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the CCI's abuse-of-dominance finding against Apple, the court challenge and the global-turnover penalty basis. Skips the contradictory timeline of Apple's silence and the market-share figures.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In April 2026, the Competition Commission of India set a final hearing date in its antitrust case against Apple. Apple had challenged India's antitrust penalty law because that law allows the CCI to calculate fines on the basis of which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "The company's global turnover",
+     "The company's India-only turnover",
+     "The company's India-only profits",
+     "The company's global net profits"
+    ],
+    "answer": 0,
+    "explain": "Apple challenged the penalty law in the Delhi High Court because it lets the CCI compute fines on global turnover. Apple said this could expose it to penalties of up to USD 38 billion.",
+    "source": "Instead, it challenged India's antitrust penalty law in the Delhi High Court, which allows the CCI to calculate fines based on global turnover."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Competition Commission of India's antitrust case against Apple, for which a final hearing was set for May 2026:",
+    "items": [
+     "CCI investigators found in 2024 that Apple abused its dominant position by forcing app developers to use its proprietary in-app payment system.",
+     "Apple challenged India's antitrust penalty law in the Supreme Court.",
+     "The CCI refused Apple's request to pause proceedings pending its court challenge."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because Apple filed its challenge in the Delhi High Court, not the Supreme Court. The CCI turned down Apple's request to pause and set a final hearing for May 21, 2026, while Apple denies wrongdoing.",
+    "source": "Competition Commission of India (CCI) investigators found in 2024 that Apple abused its dominant position in the app market by forcing developers to use its proprietary in-app payment system."
+   }
+  ]
+ }
+}

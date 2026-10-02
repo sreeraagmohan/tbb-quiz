@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-24-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 244,
+  "output_tokens": 1295,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the US sanctions law signed in September 2026 that threatens tariffs on buyers of Russian oil such as India.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In September 2026, the US President signed a law allowing tariffs of up to 100 per cent on major buyers of Russian oil. What is the name of this law?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Sanctioning Russia and Iran Act",
+     "Countering America's Adversaries Through Sanctions Act",
+     "Iran Sanctions Act",
+     "Ukraine Democracy Defense Lend-Lease Act"
+    ],
+    "answer": 0,
+    "explain": "President Donald Trump signed the Sanctioning Russia and Iran Act in September 2026. It allows tariffs of up to 100 per cent on major buyers of Russian oil and exposes India to further trade pressure. India's Russian oil imports fell 16.5 per cent in August to about 2.1 million barrels a day, though Russia remains its largest supplier.",
+    "source": "President Donald Trump signed the Sanctioning Russia and Iran Act, allowing tariffs of up to 100 per cent on major buyers of Russian oil"
+   }
+  ]
+ }
+}

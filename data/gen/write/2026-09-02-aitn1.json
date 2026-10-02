@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-02-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 186,
+  "output_tokens": 1018,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A minor procedural reform. The question tests what the certificate proves and how the automated system handles risk-flagged cases.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the Directorate General of Foreign Trade (DGFT) automated the issuance of Free Sale and Commerce Certificates. Consider the following statements:",
+    "items": [
+     "Exporters use these certificates to prove that a product is sold freely in India.",
+     "Under the new system, applications that fail the risk checks are rejected automatically without review by an officer."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong. Cases that fail the system's risk checks are not rejected; they still go to a regional officer for review. Eligible applications now clear the DGFT portal without manual scrutiny, which cuts processing time.",
+    "source": "Eligible applications will now clear the DGFT portal without manual scrutiny, cutting processing time, while cases that fail the system's risk checks still route to a regional officer for review."
+   }
+  ]
+ }
+}

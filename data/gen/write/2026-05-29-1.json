@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-05-29-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 675,
+  "output_tokens": 1694,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a party power struggle; tested the Governor's role in accepting a CM's resignation and the institutional actors in the MUDA case.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In May 2026, Siddaramaiah resigned as Chief Minister of Karnataka. Consider the following statements:",
+    "items": [
+     "His resignation takes effect only once the state Governor formally accepts it.",
+     "Under the power-sharing deal struck after the 2023 assembly elections, DK Shivakumar was to hold the Chief Minister's post for the first 2.5 years."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "A Chief Minister's resignation becomes effective only on the Governor's formal acceptance. Under the 2.5-year rotational deal, Siddaramaiah took the first innings and Shivakumar stayed on as Deputy Chief Minister, with the handover due in November 2025.",
+    "source": "He submitted his resignation, though it only takes effect once the state Governor formally accepts it."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Mysuru Urban Development Authority (MUDA) land scam case involving Siddaramaiah, as reported in May 2026:",
+    "items": [
+     "The Governor sanctioned Siddaramaiah's prosecution in August 2024.",
+     "The Central Bureau of Investigation attached properties worth INR 300 crore in the case.",
+     "The Lokayukta, Karnataka's anti-corruption ombudsman, continues to investigate the case."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "It was the Enforcement Directorate, not the CBI, that attached properties worth INR 300 crore (USD 35 million). The case dogged Siddaramaiah's second term, which ended with his resignation in May 2026.",
+    "source": "The Governor sanctioned his prosecution in August 2024, the Enforcement Directorate (ED) attached properties worth INR 300 crore (USD 35 million), and the Lokayukta, Karnataka's anti-corruption ombudsman, continues to investigate."
+   }
+  ]
+ }
+}

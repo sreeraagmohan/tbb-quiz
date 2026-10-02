@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-17-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 229,
+  "output_tokens": 857,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A one-off diplomatic incident with little durable content. One recall question tests where the collision took place.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, India summoned Pakistan's Charge d'Affaires in New Delhi after a Pakistan Navy vessel collided with an Indian Navy ship on a routine surveillance mission. Where did the collision take place?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Arabian Sea",
+     "Bay of Bengal",
+     "Gulf of Oman",
+     "Andaman Sea"
+    ],
+    "answer": 0,
+    "explain": "The collision happened in the Arabian Sea on 15 September 2026, during a routine Indian Navy surveillance mission. The Ministry of External Affairs called the Pakistani vessel's conduct unacceptable and unprofessional, saying it was manoeuvring at high speed. No major damage was reported.",
+    "source": "a Pakistan Navy vessel collided with an Indian Navy ship during a routine surveillance mission in the Arabian Sea on Tuesday, September 15."
+   }
+  ]
+ }
+}

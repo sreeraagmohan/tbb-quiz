@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-06-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 375,
+  "output_tokens": 983,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "The Venezuelan operatorship is only hoped for, so this tests the settled facts on ONGC's overseas stakes and how the Sakhalin-1 stake was retained.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the overseas oil assets of Oil and Natural Gas Corporation (ONGC), as reported in August 2026:",
+    "items": [
+     "ONGC regained its 20 per cent stake in Russia's Sakhalin-1 project in December 2025 after four years.",
+     "ONGC's overseas arm holds 40 per cent of the San Cristobal field in Venezuela.",
+     "ONGC retained its Sakhalin-1 stake by paying into the project's abandonment fund in US dollars."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because ONGC paid into the Sakhalin-1 abandonment fund in rubles, using dividends frozen in Russia. Regaining the stake lifted ONGC's quarterly revenue from the asset to roughly INR 10 billion (USD 105 million), from INR 5 billion to 6 billion earlier.",
+    "source": "ONGC retained the stake by paying into the project's abandonment fund in rubles using dividends frozen in Russia."
+   }
+  ]
+ }
+}

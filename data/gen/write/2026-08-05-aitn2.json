@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-05-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 228,
+  "output_tokens": 956,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the developer, cell line and dosing schedule of India's first indigenous African Swine Fever vaccine.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the Indian Council of Agricultural Research (ICAR) unveiled India's first indigenous vaccine against African Swine Fever. Consider the following statements about it:",
+    "items": [
+     "It was developed by ICAR's National Institute of High Security Animal Diseases in Bhopal.",
+     "It is produced using the MA-104 cell line.",
+     "It is recommended for pigs above eight weeks, with a booster dose after 28 days."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong because the vaccine is given to pigs above eight weeks as a single dose with a booster after 14 days, not 28. African Swine Fever has spread across India since 2020.",
+    "source": "Built by ICAR's National Institute of High Security Animal Diseases (ICAR-NIHSAD) in Bhopal, the vaccine uses the widely available MA-104 cell line and is recommended for pigs above eight weeks as a single dose with a booster after 14 days."
+   }
+  ]
+ }
+}

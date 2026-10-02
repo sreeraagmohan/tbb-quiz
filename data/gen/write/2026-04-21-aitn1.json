@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-21-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 223,
+  "output_tokens": 860,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "The fire itself is an accident story, so the question tests the durable fact of which local crude the new Balotra refinery is built to process.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The HPCL Rajasthan Refinery (HRRL) at Balotra, scheduled for inauguration by the Prime Minister in April 2026, is designed to process crude oil from which domestic source?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Mangala",
+     "Bombay High",
+     "Ravva",
+     "Digboi"
+    ],
+    "answer": 0,
+    "explain": "HRRL is designed to process local Mangala crude and produce high-value petrochemicals, helping India cut its import dependency. A fire broke out at the facility on 20 April 2026, a day before the scheduled inauguration, but it was brought under control with no casualties.",
+    "source": "HRRL aims to help the country slash import dependency by processing local Mangala crude and producing high-value petrochemicals."
+   }
+  ]
+ }
+}

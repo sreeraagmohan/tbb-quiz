@@ -1,0 +1,632 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Free UPSC Prelims current affairs practice, written from every issue of The Bharat Briefing.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://sreeraagmohan.github.io/tbb-quiz/">
+<meta property="og:title" content="TBB Current Affairs Quiz">
+<meta property="og:description" content="Free UPSC Prelims current affairs practice, written from every issue of The Bharat Briefing.">
+<meta property="og:image" content="https://sreeraagmohan.github.io/tbb-quiz/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23ad2c24'/%3E%3Ctext x='16' y='23' font-family='Georgia' font-weight='bold' font-size='20' fill='%23f7e9d4' text-anchor='middle'%3ET%3C/text%3E%3C/svg%3E">
+<style>
+:root { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); color-scheme: light; }
+body { margin: 0; }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+</style>
+<title>TBB Current Affairs Quiz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Mukta:wght@400;500;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: one narrow column, like a question paper. Brand masthead on top,
+   questions set in serif with OMR-style answer bubbles, red ink for marking. */
+:root {
+  --paper: #fbfaf7;
+  --panel: #f3eee6;
+  --ink: #1e1e1e;
+  --ink-2: #5d5650;
+  --rule: #e2dad0;
+  --mast: #ad2c24;
+  --cream: #f7e9d4;
+  --link: #3366bb;
+  --good: #2b7a4b;
+  --good-bg: #e3f1e8;
+  --bad: #ad2c24;
+  --bad-bg: #f8e3df;
+  --display: "Fraunces", Georgia, "Times New Roman", serif;
+  --text: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --ui: "Mukta", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #151311; --panel: #201c19; --ink: #eee7dd; --ink-2: #a89e94; --rule: #362f2a;
+    --mast: #9e2a22; --cream: #f7e9d4; --link: #86a9e6;
+    --good: #63bd87; --good-bg: #16291e; --bad: #e46c60; --bad-bg: #301815;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #151311; --panel: #201c19; --ink: #eee7dd; --ink-2: #a89e94; --rule: #362f2a;
+  --mast: #9e2a22; --cream: #f7e9d4; --link: #86a9e6;
+  --good: #63bd87; --good-bg: #16291e; --bad: #e46c60; --bad-bg: #301815;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 400 1rem/1.5 var(--ui); }
+.wrap { max-width: 40rem; margin: 0 auto; padding-inline: 16px; padding-block: 16px 48px; display: grid; gap: 28px; }
+h1, h2, h3 { margin: 0; text-wrap: balance; }
+p { margin: 0; }
+a { color: var(--link); }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 3px solid var(--link); outline-offset: 2px; }
+.label { font: 700 0.75rem/1.2 var(--ui); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Masthead */
+.mast { background: var(--mast); color: var(--cream); padding: 22px 22px 20px; display: grid; gap: 14px; }
+.mast .logo { font: 800 clamp(2.4rem, 11vw, 3.6rem)/0.98 var(--display); font-variation-settings: "opsz" 144; letter-spacing: -0.01em; }
+.mast .sub { font: 500 1rem/1.35 var(--ui); max-width: 30ch; opacity: 0.92; }
+.mast .tag { justify-self: start; font: 700 0.72rem/1 var(--ui); letter-spacing: 0.12em; text-transform: uppercase; border: 1.5px solid var(--cream); padding: 6px 8px 5px; }
+
+/* Stats */
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); border-block: 1px solid var(--rule); }
+.stat { padding: 12px 4px; display: grid; gap: 2px; text-align: center; }
+.stat + .stat { border-left: 1px solid var(--rule); }
+.stat b { font: 800 1.7rem/1.1 var(--display); font-variant-numeric: tabular-nums; }
+.stat span { font-size: 0.85rem; color: var(--ink-2); }
+.level { display: grid; gap: 6px; }
+.bar { height: 6px; background: var(--rule); overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--mast); width: 0; transition: width 0.4s ease; }
+.level .row { display: flex; justify-content: space-between; gap: 12px; font-size: 0.85rem; color: var(--ink-2); }
+
+/* Modes */
+.modes { display: grid; gap: 12px; }
+.mode { display: grid; grid-template-columns: 1fr auto; gap: 4px 16px; align-items: center; padding: 16px 18px; border: 1px solid var(--rule); background: var(--paper); text-align: left; width: 100%; }
+.mode.primary { background: var(--panel); border-color: transparent; }
+.mode h3 { font: 600 1.3rem/1.2 var(--display); }
+.mode p { grid-column: 1; color: var(--ink-2); font-size: 0.95rem; }
+.mode .go { grid-row: 1 / span 2; grid-column: 2; font: 700 0.95rem/1 var(--ui); background: var(--ink); color: var(--paper); padding: 12px 16px 10px; white-space: nowrap; }
+.mode:hover .go { background: var(--mast); color: var(--cream); }
+
+section { display: grid; gap: 12px; }
+.topics { display: grid; gap: 0; border-top: 1px solid var(--rule); }
+.topic { display: grid; grid-template-columns: 1fr auto; gap: 6px 12px; padding: 12px 2px; border: 0; border-bottom: 1px solid var(--rule); background: none; text-align: left; width: 100%; }
+.topic strong { font-weight: 500; font-size: 1.02rem; }
+.topic .meta { color: var(--ink-2); font-size: 0.85rem; text-align: right; }
+.topic .bar { grid-column: 1 / -1; height: 4px; }
+.topic:hover strong { color: var(--mast); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { border: 1px solid var(--rule); background: var(--paper); padding: 6px 12px 5px; font-size: 0.92rem; }
+.chip:hover { border-color: var(--ink); }
+.chip small { color: var(--ink-2); margin-left: 4px; }
+
+.cta { background: var(--panel); padding: 18px; display: grid; gap: 10px; }
+.cta h3 { font: 600 1.2rem/1.25 var(--display); }
+.cta p { color: var(--ink-2); }
+.cta a.btn { justify-self: start; }
+.btn { display: inline-block; border: 0; background: var(--ink); color: var(--paper); font: 700 1rem/1 var(--ui); padding: 14px 18px 12px; text-decoration: none; }
+.btn:hover { background: var(--mast); color: var(--cream); }
+.btn.ghost { background: none; color: var(--ink); border: 1px solid var(--ink); }
+.btn.ghost:hover { background: var(--ink); color: var(--paper); }
+.foot { font-size: 0.85rem; color: var(--ink-2); display: grid; gap: 4px; border-top: 1px solid var(--rule); padding-top: 14px; }
+
+/* Quiz */
+.qbar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 2; background: var(--paper); display: grid; gap: 8px; padding-block: 10px 6px; }
+.qbar .row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.qbar .close { border: 0; background: none; font-size: 0.95rem; color: var(--ink-2); padding: 4px 0; }
+.qbar .close:hover { color: var(--ink); }
+.qbar .count { font-weight: 700; }
+.qbar .timer { font-weight: 700; color: var(--mast); }
+.dots { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 3px; }
+.dots i { height: 5px; background: var(--rule); }
+.dots i.good { background: var(--good); }
+.dots i.bad { background: var(--bad); }
+.dots i.done { background: var(--ink-2); }
+.dots i.now { background: var(--ink); }
+
+.q { display: grid; gap: 16px; }
+.q .kicker { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.q .kicker .qn { font: 800 1.1rem/1 var(--display); color: var(--mast); }
+.q .prompt { font: 400 1.2rem/1.5 var(--text); }
+.q ol.items { margin: 0; padding-left: 1.6em; display: grid; gap: 6px; font: 400 1.08rem/1.5 var(--text); }
+.q table.pairs { border-collapse: collapse; font: 400 1.05rem/1.4 var(--text); width: 100%; }
+.q table.pairs td { border-bottom: 1px solid var(--rule); padding: 8px 8px 8px 0; vertical-align: top; }
+.q table.pairs td:first-child { width: 2em; color: var(--ink-2); }
+.q .ask { font: 600 1.08rem/1.5 var(--text); }
+.opts { display: grid; gap: 8px; }
+.opt { display: grid; grid-template-columns: auto 1fr; gap: 12px; align-items: start; text-align: left; padding: 12px 14px; border: 1px solid var(--rule); background: var(--paper); font: 400 1.05rem/1.4 var(--text); width: 100%; }
+.opt:hover:not([disabled]) { border-color: var(--ink); }
+.opt[disabled] { cursor: default; }
+.bub { width: 26px; height: 26px; border-radius: 50%; border: 1.5px solid var(--ink-2); display: grid; place-items: center; font: 700 0.8rem/1 var(--ui); color: var(--ink-2); margin-top: -1px; transition: background 0.15s; }
+.opt.picked .bub { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.opt.right { border-color: var(--good); background: var(--good-bg); }
+.opt.right .bub { background: var(--good); border-color: var(--good); color: var(--paper); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-bg); }
+.opt.wrong .bub { background: var(--bad); border-color: var(--bad); color: var(--paper); }
+
+.fb { display: grid; gap: 14px; padding-top: 4px; }
+.verdict { font: 800 1.35rem/1.2 var(--display); }
+.verdict.good { color: var(--good); }
+.verdict.bad { color: var(--bad); }
+.verdict small { font: 700 0.9rem/1 var(--ui); margin-left: 8px; color: var(--ink-2); }
+.why { font: 400 1.05rem/1.55 var(--text); }
+.src { margin: 0; padding: 14px 16px; background: var(--panel); display: grid; gap: 8px; }
+.src blockquote { margin: 0; font: italic 400 1.02rem/1.5 var(--text); }
+.src blockquote::before { content: "\201C"; color: var(--mast); font: 800 1.6rem/0 var(--display); vertical-align: -0.35em; margin-right: 2px; }
+.src figcaption { font-size: 0.85rem; color: var(--ink-2); }
+.src a { font-weight: 700; text-decoration: none; }
+.src a:hover { text-decoration: underline; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; }
+
+/* Results */
+.score { display: grid; gap: 6px; padding-top: 8px; }
+.score .big { font: 800 clamp(3.2rem, 16vw, 4.6rem)/1 var(--display); font-variant-numeric: tabular-nums; }
+.score .big small { font-size: 0.42em; color: var(--ink-2); }
+.score p { color: var(--ink-2); font-size: 1.02rem; }
+.marks { display: grid; grid-template-columns: repeat(3, 1fr); border-block: 1px solid var(--rule); }
+.review { display: grid; gap: 0; border-top: 1px solid var(--rule); }
+.rv { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; padding: 12px 0; border-bottom: 1px solid var(--rule); }
+.rv .mk { font: 800 1rem/1.4 var(--display); width: 1.2em; }
+.rv .mk.good { color: var(--good); }
+.rv .mk.bad { color: var(--bad); }
+.rv .mk.skip { color: var(--ink-2); }
+.rv p { font: 400 0.98rem/1.45 var(--text); }
+.rv .ans { grid-column: 2; font-size: 0.88rem; color: var(--ink-2); }
+.toast { font-size: 0.9rem; color: var(--good); min-height: 1.3em; }
+.share { display: grid; gap: 8px; }
+.share textarea { width: 100%; min-height: 4.5em; font: 400 0.95rem/1.45 var(--ui); padding: 10px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink); resize: vertical; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<div class="wrap" id="home">
+  <header class="mast">
+    <div class="logo">The Bharat<br>Briefing.</div>
+    <p class="sub">Current affairs practice for UPSC Prelims, written from every issue.</p>
+    <span class="tag">Prelims practice</span>
+  </header>
+
+  <div>
+    <div class="stats">
+      <div class="stat"><b class="num" id="st-streak">0</b><span>day streak</span></div>
+      <div class="stat"><b class="num" id="st-done">0</b><span>answered</span></div>
+      <div class="stat"><b class="num" id="st-acc">–</b><span>accuracy</span></div>
+    </div>
+  </div>
+
+  <div class="level">
+    <div class="row"><span id="lv-name" class="label">Aspirant</span><span class="num" id="lv-xp">0 XP</span></div>
+    <div class="bar"><i id="lv-bar"></i></div>
+  </div>
+
+  <div class="modes">
+    <button class="mode primary" id="go-daily" type="button">
+      <h3>Today's 10</h3>
+      <p id="daily-note">New questions, plus any you're due to revisit. Wrong answers come back sooner.</p>
+      <span class="go">Start</span>
+    </button>
+    <button class="mode" id="go-mock" type="button">
+      <h3>Mock Prelims</h3>
+      <p id="mock-note">20 questions in 24 minutes. +2 for correct, −0.66 for wrong, like the real paper.</p>
+      <span class="go">Begin</span>
+    </button>
+    <button class="mode" id="go-mistakes" type="button" hidden>
+      <h3>Your mistakes</h3>
+      <p id="mistakes-note"></p>
+      <span class="go">Review</span>
+    </button>
+  </div>
+
+  <section>
+    <h2 class="label">Practise by topic</h2>
+    <div class="topics" id="topics"></div>
+  </section>
+
+  <section>
+    <h2 class="label">Revise by month</h2>
+    <div class="chips" id="months"></div>
+  </section>
+
+  <aside class="cta">
+    <h3>Read the news these questions come from</h3>
+    <p>The Bharat Briefing is a free daily newsletter on Indian policy, business and geopolitics. Read it in the morning, practise here at night.</p>
+    <a class="btn" href="https://thebharatbriefing.beehiiv.com/?utm_source=tbb-quiz&amp;utm_medium=referral&amp;utm_campaign=upsc-quiz" target="_blank" rel="noopener">Subscribe free</a>
+  </aside>
+
+  <footer class="foot">
+    <span id="foot-count">Loading questions…</span>
+    <span>Spotted an error in a question? Write to hello@thebharatbriefing.com</span>
+  </footer>
+</div>
+
+<div class="wrap" id="quiz" hidden>
+  <div class="qbar">
+    <div class="row">
+      <button class="close" id="q-close" type="button">✕ End</button>
+      <span class="num count" id="q-count">1 / 10</span>
+      <span class="num timer" id="q-timer"></span>
+    </div>
+    <div class="dots" id="q-dots"></div>
+  </div>
+  <article class="q" id="q"></article>
+  <div class="fb" id="fb" aria-live="polite"></div>
+</div>
+
+<div class="wrap" id="result" hidden>
+  <div class="score">
+    <span class="label" id="r-kind">Today's 10</span>
+    <div class="big num" id="r-big"></div>
+    <p id="r-line"></p>
+  </div>
+  <div class="marks" id="r-marks"></div>
+  <div class="level">
+    <div class="row"><span id="r-lv" class="label"></span><span class="num" id="r-xp"></span></div>
+    <div class="bar"><i id="r-bar"></i></div>
+  </div>
+  <div class="actions">
+    <button class="btn" id="r-again" type="button">Another round</button>
+    <button class="btn ghost" id="r-home" type="button">Home</button>
+  </div>
+  <div class="share">
+    <span class="label">Share your score</span>
+    <textarea id="r-share" readonly aria-label="Result text to share"></textarea>
+    <div class="actions">
+      <button class="btn ghost" id="r-copy" type="button">Copy</button>
+      <a class="btn ghost" id="r-linkedin" href="#" target="_blank" rel="noopener">Share on LinkedIn</a>
+      <span class="toast" id="r-toast"></span>
+    </div>
+  </div>
+  <section>
+    <h2 class="label">Answers</h2>
+    <div class="review" id="r-review"></div>
+  </section>
+  <aside class="cta">
+    <h3>Get tomorrow's questions in your inbox first</h3>
+    <p>Every question here starts as a story in The Bharat Briefing. Subscribe free and read the news before it shows up on the quiz.</p>
+    <a class="btn" href="https://thebharatbriefing.beehiiv.com/?utm_source=tbb-quiz&amp;utm_medium=referral&amp;utm_campaign=upsc-quiz" target="_blank" rel="noopener">Subscribe free</a>
+  </aside>
+</div>
+
+<script>
+(() => {
+  const KEY = "tbbq.v1";
+  const SITE_URL = "https://sreeraagmohan.github.io/tbb-quiz/";
+  const TOPICS = ["Polity & Governance", "Economy", "International Relations", "Environment & Energy",
+    "Science & Tech", "Defence & Security", "Agriculture", "Society", "Geography"];
+  const LEVELS = [[0, "Aspirant"], [100, "Prelims qualified"], [300, "Mains candidate"], [700, "Interview call"], [1500, "Rank holder"]];
+  const BOX_DAYS = [0, 1, 3, 7, 14, 30];
+  const LETTERS = ["a", "b", "c", "d"];
+  const MOCK_N = 20, MOCK_SECONDS_PER_Q = 72; // UPSC: 100 questions in 120 minutes
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  let Q = [];
+  let S = { cards: {}, days: [], xp: 0 };
+  try { Object.assign(S, JSON.parse(localStorage.getItem(KEY)) || {}); } catch (e) {}
+  const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} };
+
+  const dayStr = (d = new Date()) => d.toLocaleDateString("en-CA");
+  const addDays = (s, n) => { const d = new Date(s + "T00:00:00"); d.setDate(d.getDate() + n); return dayStr(d); };
+  const fmtDate = (s) => new Date(s + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+  const monthKey = (s) => s.slice(0, 7);
+  const fmtMonth = (k) => new Date(k + "-01T00:00:00").toLocaleDateString("en-GB", { month: "short", year: "numeric" });
+  const shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+  function streak() {
+    const set = new Set(S.days);
+    let d = dayStr();
+    if (!set.has(d)) d = addDays(d, -1);
+    let n = 0;
+    while (set.has(d)) { n++; d = addDays(d, -1); }
+    return n;
+  }
+  function level(xp) {
+    let i = 0;
+    while (i + 1 < LEVELS.length && xp >= LEVELS[i + 1][0]) i++;
+    const [base, name] = LEVELS[i];
+    const next = LEVELS[i + 1];
+    return { name, pct: next ? (xp - base) / (next[0] - base) : 1, next: next ? next[0] : null };
+  }
+  const isDue = (q) => { const c = S.cards[q.id]; return c && c.due <= dayStr(); };
+  const mistakes = () => Q.filter((q) => S.cards[q.id] && S.cards[q.id].last === false);
+
+  // Due reviews first (up to 60%), then unseen, then anything else.
+  function pick(pool, n) {
+    const due = pool.filter(isDue).sort((a, b) => S.cards[a.id].due.localeCompare(S.cards[b.id].due));
+    const fresh = shuffle(pool.filter((q) => !S.cards[q.id]));
+    const rest = shuffle(pool.filter((q) => S.cards[q.id] && !isDue(q)));
+    const k = Math.ceil(n * 0.6);
+    return shuffle([...due.slice(0, k), ...fresh, ...due.slice(k), ...rest].slice(0, n));
+  }
+
+  function record(q, correct) {
+    const c = S.cards[q.id] || { box: 0, seen: 0, right: 0 };
+    c.seen++;
+    if (correct) { c.right++; c.box = Math.min(5, Math.max(2, c.box + 1)); } else c.box = 1;
+    c.last = correct;
+    c.due = addDays(dayStr(), BOX_DAYS[c.box]);
+    S.cards[q.id] = c;
+  }
+
+  // ---------- Home ----------
+  function renderHome() {
+    const cards = Object.values(S.cards);
+    const seen = cards.reduce((a, c) => a + c.seen, 0);
+    const right = cards.reduce((a, c) => a + c.right, 0);
+    $("st-streak").textContent = streak();
+    $("st-done").textContent = seen;
+    $("st-acc").textContent = seen ? Math.round((100 * right) / seen) + "%" : "–";
+    const lv = level(S.xp);
+    $("lv-name").textContent = lv.name;
+    $("lv-xp").textContent = lv.next ? `${S.xp} / ${lv.next} XP` : `${S.xp} XP`;
+    $("lv-bar").style.width = Math.round(lv.pct * 100) + "%";
+
+    const due = Q.filter(isDue).length, fresh = Q.filter((q) => !S.cards[q.id]).length;
+    $("daily-note").textContent = due
+      ? `${due} due for review and ${fresh} new. Wrong answers come back sooner.`
+      : `New questions, plus any you're due to revisit. Wrong answers come back sooner.`;
+    const n = Math.min(MOCK_N, Q.length);
+    $("mock-note").textContent = `${n} questions in ${Math.round((n * MOCK_SECONDS_PER_Q) / 60)} minutes. +2 for correct, −0.66 for wrong, like the real paper.`;
+    const m = mistakes().length;
+    $("go-mistakes").hidden = !m;
+    $("mistakes-note").textContent = `${m} question${m === 1 ? "" : "s"} you got wrong last time. Clear them by getting each one right.`;
+
+    $("topics").innerHTML = TOPICS.map((t) => {
+      const qs = Q.filter((q) => q.topic === t);
+      if (!qs.length) return "";
+      const done = qs.filter((q) => S.cards[q.id]);
+      const ok = done.filter((q) => S.cards[q.id].last).length;
+      return `<button class="topic" type="button" data-topic="${esc(t)}">
+        <strong>${esc(t)}</strong><span class="meta num">${done.length ? `${ok} of ${qs.length} mastered` : `${qs.length} questions`}</span>
+        <span class="bar"><i style="width:${Math.round((100 * ok) / qs.length)}%"></i></span></button>`;
+    }).join("");
+
+    const months = {};
+    Q.forEach((q) => { months[monthKey(q.date)] = (months[monthKey(q.date)] || 0) + 1; });
+    $("months").innerHTML = Object.keys(months).sort().reverse()
+      .map((k) => `<button class="chip" type="button" data-month="${k}">${fmtMonth(k)}<small class="num">${months[k]}</small></button>`).join("");
+
+    const issues = new Set(Q.map((q) => q.issue_title)).size;
+    const span = Q.map((q) => q.date).sort();
+    $("foot-count").textContent = span.length
+      ? `${Q.length} questions from ${issues} issues of The Bharat Briefing, ${fmtMonth(monthKey(span[0]))} to ${fmtMonth(monthKey(span[span.length - 1]))}.`
+      : "Loading questions…";
+  }
+
+  // ---------- Session ----------
+  let ses = null, tick = null;
+
+  function start(mode, qs, label) {
+    if (!qs.length) return;
+    ses = {
+      mode, label, qs, i: 0,
+      picks: Array(qs.length).fill(null),
+      // Shuffle plain options; statement/pair answer codes keep UPSC order.
+      orders: qs.map((q) => (q.format === "single" ? shuffle([0, 1, 2, 3]) : [0, 1, 2, 3])),
+      revealed: false, xp: 0,
+      deadline: mode === "mock" ? Date.now() + qs.length * MOCK_SECONDS_PER_Q * 1000 : null,
+    };
+    show("quiz");
+    clearInterval(tick);
+    if (ses.deadline) { tick = setInterval(updateTimer, 1000); updateTimer(); } else $("q-timer").textContent = "";
+    renderQ();
+  }
+
+  function updateTimer() {
+    const left = Math.max(0, Math.round((ses.deadline - Date.now()) / 1000));
+    $("q-timer").textContent = `${Math.floor(left / 60)}:${String(left % 60).padStart(2, "0")}`;
+    if (!left) finish();
+  }
+
+  function renderDots() {
+    $("q-dots").innerHTML = ses.qs.map((q, i) => {
+      let c = "";
+      if (i === ses.i) c = "now";
+      else if (ses.mode === "mock") c = ses.picks[i] !== null ? "done" : "";
+      else if (ses.picks[i] !== null) c = ses.picks[i] === q.answer ? "good" : "bad";
+      return `<i class="${c}"></i>`;
+    }).join("");
+    $("q-count").textContent = `${ses.i + 1} / ${ses.qs.length}`;
+  }
+
+  function body(q) {
+    let h = `<p class="prompt">${esc(q.prompt)}</p>`;
+    if (q.format === "statements") h += `<ol class="items">${q.items.map((t) => `<li>${esc(t)}</li>`).join("")}</ol>`;
+    if (q.format === "pairs") h += `<table class="pairs"><tbody>${q.items.map((t, i) => {
+      const [a, b] = t.split(" — ");
+      return `<tr><td>${i + 1}.</td><td>${esc(a)}</td><td>${esc(b || "")}</td></tr>`;
+    }).join("")}</tbody></table>`;
+    if (q.ask) h += `<p class="ask">${esc(q.ask)}</p>`;
+    return h;
+  }
+
+  function renderQ() {
+    const q = ses.qs[ses.i], order = ses.orders[ses.i];
+    ses.revealed = false;
+    renderDots();
+    $("q").innerHTML = `
+      <div class="kicker"><span class="qn">Q${ses.i + 1}</span><span class="label">${esc(q.topic)}</span><span class="label">${fmtDate(q.date)}</span></div>
+      ${body(q)}
+      <div class="opts" role="group" aria-label="Options">${order.map((o, k) =>
+        `<button class="opt" type="button" data-k="${k}"><span class="bub">${LETTERS[k]}</span><span>${esc(q.options[o])}</span></button>`).join("")}</div>`;
+    $("fb").innerHTML = ses.mode === "mock" ? mockNav() : "";
+    if (ses.mode === "mock" && ses.picks[ses.i] !== null) markPicked(order.indexOf(ses.picks[ses.i]));
+    window.scrollTo({ top: 0 });
+  }
+
+  function mockNav() {
+    const last = ses.i === ses.qs.length - 1;
+    return `<div class="actions">
+      ${ses.i ? `<button class="btn ghost" type="button" data-nav="-1">Previous</button>` : ""}
+      <button class="btn" type="button" data-nav="1">${last ? "Submit paper" : "Next"}</button></div>`;
+  }
+
+  function markPicked(k) {
+    document.querySelectorAll(".opt").forEach((b) => b.classList.toggle("picked", +b.dataset.k === k));
+  }
+
+  function choose(k) {
+    const q = ses.qs[ses.i], order = ses.orders[ses.i];
+    if (ses.mode === "mock") {
+      const v = order[k];
+      ses.picks[ses.i] = ses.picks[ses.i] === v ? null : v; // tap again to clear, like leaving a bubble blank
+      markPicked(ses.picks[ses.i] === null ? -1 : k);
+      renderDots();
+      return;
+    }
+    if (ses.revealed) return;
+    ses.revealed = true;
+    const picked = order[k], ok = picked === q.answer;
+    ses.picks[ses.i] = picked;
+    record(q, ok);
+    const gain = ok ? 10 : 2;
+    ses.xp += gain;
+    document.querySelectorAll(".opt").forEach((b) => {
+      const o = order[+b.dataset.k];
+      b.disabled = true;
+      if (o === q.answer) b.classList.add("right");
+      else if (o === picked) b.classList.add("wrong");
+    });
+    const letter = LETTERS[order.indexOf(q.answer)];
+    $("fb").innerHTML = `
+      <p class="verdict ${ok ? "good" : "bad"}">${ok ? "Correct" : `The answer is (${letter})`}<small class="num">+${gain} XP</small></p>
+      <p class="why">${esc(q.explain)}</p>
+      ${source(q)}
+      <div class="actions"><button class="btn" type="button" data-nav="1">${ses.i === ses.qs.length - 1 ? "See results" : "Next question"}</button></div>`;
+    renderDots();
+    save();
+  }
+
+  function source(q) {
+    return `<figure class="src">
+      <blockquote>${/^[a-z]/.test(q.source) ? "…" : ""}${esc(q.source)}</blockquote>
+      <figcaption>The Bharat Briefing, ${fmtDate(q.date)} · “${esc(q.story_title)}”</figcaption>
+      <a href="${esc(q.link)}" target="_blank" rel="noopener">Read the full story in TBB ↗</a>
+    </figure>`;
+  }
+
+  function nav(step) {
+    if (ses.i + step >= ses.qs.length) return finish();
+    ses.i = Math.max(0, ses.i + step);
+    renderQ();
+  }
+
+  // ---------- Results ----------
+  function finish() {
+    clearInterval(tick);
+    const qs = ses.qs;
+    let right = 0, wrong = 0, skip = 0;
+    qs.forEach((q, i) => {
+      const p = ses.picks[i];
+      if (p === null) skip++;
+      else if (p === q.answer) right++;
+      else wrong++;
+    });
+    if (ses.mode === "mock") {
+      qs.forEach((q, i) => { if (ses.picks[i] !== null) record(q, ses.picks[i] === q.answer); });
+      ses.xp = right * 10 + wrong * 2;
+    }
+    if (right + wrong) {
+      ses.xp += 20; // finishing bonus
+      if (!S.days.includes(dayStr())) S.days.push(dayStr());
+    }
+    S.xp += ses.xp;
+    save();
+
+    const st = streak();
+    $("r-kind").textContent = ses.label;
+    if (ses.mode === "mock") {
+      const marks = right * 2 - wrong * 0.66;
+      $("r-big").innerHTML = `${marks.toFixed(2)}<small> / ${qs.length * 2}</small>`;
+      $("r-line").textContent = `Marked like Prelims: +2 for each correct answer, −0.66 for each wrong one, 0 for blanks.`;
+      $("r-marks").innerHTML = [["Correct", right], ["Wrong", wrong], ["Left blank", skip]]
+        .map(([l, v]) => `<div class="stat"><b class="num">${v}</b><span>${l}</span></div>`).join("");
+    } else {
+      $("r-big").innerHTML = `${right}<small> / ${qs.length}</small>`;
+      $("r-line").textContent = right === qs.length ? "A clean sheet." : `${wrong} to revisit. They'll come back in tomorrow's set.`;
+      $("r-marks").innerHTML = [["day streak", st], ["XP earned", ses.xp], ["accuracy", Math.round((100 * right) / qs.length) + "%"]]
+        .map(([l, v]) => `<div class="stat"><b class="num">${v}</b><span>${l}</span></div>`).join("");
+    }
+    const lv = level(S.xp);
+    $("r-lv").textContent = lv.name;
+    $("r-xp").textContent = lv.next ? `${S.xp} / ${lv.next} XP` : `${S.xp} XP`;
+    $("r-bar").style.width = Math.round(lv.pct * 100) + "%";
+
+    $("r-share").value = (ses.mode === "mock"
+      ? `I scored ${(right * 2 - wrong * 0.66).toFixed(2)}/${qs.length * 2} on a UPSC Prelims-style current affairs mock from The Bharat Briefing.`
+      : `I got ${right}/${qs.length} on today's UPSC current affairs quiz from The Bharat Briefing.${st > 1 ? ` ${st}-day streak.` : ""}`)
+      + ` Practise here: ${SITE_URL}`;
+    $("r-linkedin").href = "https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(SITE_URL);
+    $("r-toast").textContent = "";
+
+    $("r-review").innerHTML = qs.map((q, i) => {
+      const p = ses.picks[i], order = ses.orders[i];
+      const cls = p === null ? "skip" : p === q.answer ? "good" : "bad";
+      const mk = p === null ? "–" : p === q.answer ? "✓" : "✗";
+      return `<div class="rv"><span class="mk ${cls}">${mk}</span><div style="display:grid;gap:8px;min-width:0">
+        <p>${esc(q.prompt)}</p>
+        <span class="ans">Answer (${LETTERS[order.indexOf(q.answer)]}): ${esc(q.options[q.answer])}</span>
+        ${ses.mode === "mock" ? `<p class="why">${esc(q.explain)}</p>` : ""}
+        <a href="${esc(q.link)}" target="_blank" rel="noopener" style="font-size:0.9rem;font-weight:700;text-decoration:none">Read in TBB, ${fmtDate(q.date)} ↗</a>
+      </div></div>`;
+    }).join("");
+    show("result");
+  }
+
+  function show(id) {
+    ["home", "quiz", "result"].forEach((s) => ($(s).hidden = s !== id));
+    if (id === "home") renderHome();
+    window.scrollTo({ top: 0 });
+  }
+
+  let last = null;
+  function launch(mode, label, pool, n) { last = [mode, label, pool, n]; start(mode, pick(pool(), n), label); }
+
+  // ---------- Events ----------
+  $("go-daily").onclick = () => launch("practice", "Today's 10", () => Q, 10);
+  $("go-mock").onclick = () => launch("mock", "Mock Prelims", () => Q, MOCK_N);
+  $("go-mistakes").onclick = () => launch("practice", "Your mistakes", mistakes, 10);
+  $("topics").onclick = (e) => {
+    const b = e.target.closest("[data-topic]");
+    if (b) launch("practice", b.dataset.topic, () => Q.filter((q) => q.topic === b.dataset.topic), 10);
+  };
+  $("months").onclick = (e) => {
+    const b = e.target.closest("[data-month]");
+    if (b) launch("practice", fmtMonth(b.dataset.month), () => Q.filter((q) => monthKey(q.date) === b.dataset.month), 10);
+  };
+  $("q").onclick = (e) => { const b = e.target.closest(".opt"); if (b && !b.disabled) choose(+b.dataset.k); };
+  $("fb").onclick = (e) => { const b = e.target.closest("[data-nav]"); if (b) nav(+b.dataset.nav); };
+  $("q-close").onclick = () => {
+    if (ses.mode === "mock" || ses.picks.some((p) => p !== null)) finish();
+    else { clearInterval(tick); show("home"); }
+  };
+  $("r-home").onclick = () => show("home");
+  $("r-again").onclick = () => { if (last && last[2]().length) launch(...last); else show("home"); };
+  $("r-copy").onclick = () => {
+    const t = $("r-share");
+    const done = () => ($("r-toast").textContent = "Copied");
+    const fallback = () => { t.select(); $("r-toast").textContent = "Selected. Press Ctrl+C or ⌘C to copy."; };
+    try { navigator.clipboard.writeText(t.value).then(done, fallback); } catch (e) { fallback(); }
+  };
+  document.addEventListener("keydown", (e) => {
+    if ($("quiz").hidden || e.metaKey || e.ctrlKey || e.altKey) return;
+    const k = "abcd".indexOf(e.key.toLowerCase()), n = "1234".indexOf(e.key);
+    if (k >= 0 || n >= 0) choose(Math.max(k, n));
+    else if (e.key === "Enter") { const b = $("fb").querySelector('[data-nav="1"]'); if (b) b.click(); }
+  });
+
+  fetch("questions.json").then((r) => r.json()).then((data) => { Q = data; renderHome(); })
+    .catch(() => { $("foot-count").textContent = "Couldn't load the questions. Refresh the page to try again."; });
+  renderHome();
+})();
+</script>
+</body>
+</html>

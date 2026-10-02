@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-14-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 615,
+  "output_tokens": 1331,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the direction and composition of June 2026 merchandise trade data and the May 2026 gold import duty hike.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's merchandise trade data for June 2026, released by the Commerce Ministry in July 2026:",
+    "items": [
+     "The merchandise trade deficit widened to USD 30.43 billion, a five-month high.",
+     "Merchandise exports grew faster than merchandise imports year-on-year.",
+     "Merchandise exports were led by gems, jewellery and engineering goods."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. Exports rose 15.5% to USD 40.41 billion, while imports grew almost twice as fast, up 31% to USD 70.84 billion. The government attributed the larger import bill to higher global prices for crude and precious metals rather than to rising volumes.",
+    "source": "Merchandise exports rose 15.5% year-on-year in June to USD 40.41 billion, led by gems, jewellery, and engineering goods."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, the Centre raised the import duty on gold from 6% to which rate?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "15%",
+     "10%",
+     "12.5%",
+     "20%"
+    ],
+    "answer": 0,
+    "explain": "The duty was raised to 15% two days after the Prime Minister asked citizens to pause gold purchases and foreign holidays for a year to conserve foreign exchange. Gold imports still jumped 47% in June 2026 to USD 1.96 billion.",
+    "source": "Two days later, the Centre raised the gold import duty from 6% to 15%."
+   }
+  ]
+ }
+}

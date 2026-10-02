@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-16-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 226,
+  "output_tokens": 1168,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the June 2026 ASI–Denmark MoU on the Oresund wreck: the partners, the wreck's location and its historical and institutional firsts.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, India and Denmark agreed to survey the wreck of the Oresund, a Danish ship lost in 1619. Consider the following statements:",
+    "items": [
+     "The Memorandum of Understanding was signed by the Archaeological Survey of India's Underwater Archaeology Wing and the National Museum of Denmark.",
+     "The Oresund was wrecked off Mahe in Puducherry.",
+     "The survey marks the Underwater Archaeology Wing's first international collaboration."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because the Oresund was wrecked off Karaikal in Puducherry, not Mahe. The Oresund was the first Danish vessel known to have reached India and sank shortly after arrival. The survey will be non-invasive.",
+    "source": "The Archaeological Survey of India's Underwater Archaeology Wing and the National Museum of Denmark signed a Memorandum of Understanding (MoU) on Sunday to locate and document the Oresund, a Danish ship wrecked off Karaikal in Puducherry in 1619."
+   }
+  ]
+ }
+}

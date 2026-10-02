@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-07-23-2-2",
+ "story_id": "2026-07-23-2",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's trade with China in fiscal year 2025/26:",
+  "items": [
+   "India's imports from China reached USD 132 billion, its highest from any nation.",
+   "Total India–China trade stood at USD 151.10 billion.",
+   "India's trade deficit with China was below USD 50 billion."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: the deficit was above USD 100 billion. Jaishankar pressed Wang Yi on this lopsided balance as New Delhi seeks to make the thaw pay off in trade terms.",
+  "source": "India's imports from China still hit USD 132 billion in fiscal year 2025/26, its highest from any nation, leaving a deficit above USD 100 billion within total trade of USD 151.10 billion."
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's trade with China in fiscal year 2025/26:",
+  "items": [
+   "India's imports from China reached USD 112 billion, its highest from any nation.",
+   "Total India–China trade stood at USD 151.10 billion.",
+   "India's trade deficit with China was above USD 100 billion."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: India's imports from China hit USD 132 billion, not USD 112 billion, though they were its highest from any nation. In July 2026, Jaishankar raised this lopsided trade balance with Wang Yi in Manila, on the sidelines of the ASEAN Foreign Ministers' Meeting.",
+  "source": "India's imports from China still hit USD 132 billion in fiscal year 2025/26, its highest from any nation, leaving a deficit above USD 100 billion within total trade of USD 151.10 billion."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2930,
+  "output_tokens": 855,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

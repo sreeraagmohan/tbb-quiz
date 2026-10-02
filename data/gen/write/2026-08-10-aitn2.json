@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-10-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 296,
+  "output_tokens": 988,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Also in the news item; tested the non-fossil capacity share, the solar-wind split and the 2030 target in one statements question.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, India's installed non-fossil fuel electricity generation capacity crossed 300 GW. Consider the following statements:",
+    "items": [
+     "Non-fossil sources make up over 54% of India's total installed power capacity of about 552 GW.",
+     "Wind power accounts for a larger share of this non-fossil capacity than solar power.",
+     "India's target is to reach 500 GW of non-fossil energy capacity by 2030."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because solar leads with 164.59 GW against 58.14 GW for wind. The 300 GW mark puts India at over 60% of its 500 GW target for 2030, and domestically made solar cells became mandatory across all projects from June 2026.",
+    "source": "Non-fossil fuel sources now comprise over 54% of India’s total power capacity (~552 GW), led primarily by solar power (164.59 GW) and wind power (58.14 GW)."
+   }
+  ]
+ }
+}

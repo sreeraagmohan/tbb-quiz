@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-08-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 473,
+  "output_tokens": 926,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the FY27 fiscal deficit target and the government's stated response to oil-driven pressure; skipped analyst forecasts and plans still under evaluation.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In April 2026, as the Middle East conflict pushed up energy costs, the Union government reviewed its fiscal position. Consider the following statements:",
+    "items": [
+     "The government's fiscal deficit target for FY27 is 4.3%.",
+     "The government said budget projections would change only if global pressures lasted beyond three months.",
+     "The government passed higher crude prices on to consumers by raising retail fuel rates."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. With four state assembly elections in April 2026, the government absorbed high crude prices through subsidies rather than raising retail rates, which adds an INR 1.83 trillion burden to the federal budget. To hold the 4.3% target, it planned to trim budgets of ministries with low spending capacity and protect capital expenditure on roads, railways and airports.",
+    "source": "With four state assembly elections this month, the government is absorbing high crude prices via subsidies rather than raising retail rates."
+   }
+  ]
+ }
+}

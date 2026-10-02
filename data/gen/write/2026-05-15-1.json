@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-05-15-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 777,
+  "output_tokens": 1460,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the BRICS Foreign Ministers' Meeting in New Delhi and its membership tensions, plus the location of the Haji Ali sinking. Skipped the unattributed attack details.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the BRICS Foreign Ministers' Meeting that opened on 14 May 2026:",
+    "items": [
+     "It was held in New Delhi and opened by External Affairs Minister S. Jaishankar.",
+     "Iran and the UAE, both BRICS members, were on opposing sides of the ongoing conflict in West Asia.",
+     "A deputy-level BRICS meeting in April 2026 ended with a consensus joint statement."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "The third statement is wrong: the April deputy-level meeting ended without consensus because of the split between Iran and the UAE. At the May meeting Jaishankar called for safe and unimpeded maritime flows through the Strait of Hormuz and the Red Sea without naming any party.",
+    "source": "Iran and the UAE, now on opposing sides of the conflict and both BRICS members, have made a joint statement difficult."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, the Indian-flagged dhow Haji Ali sank after a suspected drone or missile strike in the waters of which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Oman",
+     "Yemen",
+     "Somalia",
+     "Iran"
+    ],
+    "answer": 0,
+    "explain": "The dhow was struck in Omani waters, and all 14 crew were rescued by the Omani coast guard. It was the second vessel sunk since the US-Israeli war with Iran began on 28 February 2026.",
+    "source": "caught fire after a suspected drone or missile strike in Omani waters in the early hours of Wednesday."
+   }
+  ]
+ }
+}

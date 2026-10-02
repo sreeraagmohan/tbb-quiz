@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-01-28-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 672,
+  "output_tokens": 2217,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Joint India-EU Comprehensive Strategic Agenda of January 2026: its features, the IMEC connectivity link and the SAFE defence initiative.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Joint India-EU Comprehensive Strategic Agenda endorsed in January 2026:",
+    "items": [
+     "It identifies AI, quantum computing and semiconductors among the focus areas of technology cooperation.",
+     "It provides for institutional cooperation through biennial India-EU summits.",
+     "It seeks to streamline skills mobility and visa procedures between the partners."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the agenda provides for annual summits, not biennial ones, along with business and academic exchange platforms. The framework was endorsed on 27 January 2026 by Prime Minister Narendra Modi and EU leadership and also covers green energy, defence and critical minerals.",
+    "source": "the partners will streamline skills mobility and visa procedures while strengthening institutional cooperation through annual summits and dedicated business and academic exchange platforms."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In January 2026, the Joint India-EU Comprehensive Strategic Agenda prioritised strengthening connectivity through which corridor?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "India-Middle East-Europe Economic Corridor",
+     "International North-South Transport Corridor",
+     "Chennai-Vladivostok Maritime Corridor",
+     "Asia-Africa Growth Corridor"
+    ],
+    "answer": 0,
+    "explain": "The agenda names the India-Middle East-Europe Economic Corridor (IMEC) as its connectivity priority. It also calls for coordinated leadership in multilateral forums on climate, health and trade governance.",
+    "source": "The agenda prioritizes strengthening connectivity through the India-Middle East-Europe Economic Corridor corridor and coordinated leadership in multilateral forums to drive global reforms in climate, health, and trade governance."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Security Action For Europe (SAFE), mentioned in January 2026 in the context of India-EU ties, is best described as:",
+    "items": [],
+    "ask": "",
+    "options": [
+     "An EU defence initiative India may explore joining",
+     "An EU trade facility for Indian critical minerals",
+     "An EU visa scheme for skilled Indian workers",
+     "An EU research fund for Indian semiconductor firms"
+    ],
+    "answer": 0,
+    "explain": "Under the India-EU Security and Defence Partnership, both sides agreed to explore Indian participation in EU defence initiatives, possibly including SAFE. TBB reads the wider framework as a de-risking alliance that values geopolitical stability as much as market access.",
+    "source": "including exploring possibilities for India to participate in EU defence initiatives, possibly including the EU’s Security Action For Europe"
+   }
+  ]
+ }
+}

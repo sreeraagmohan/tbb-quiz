@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-03-31-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 470,
+  "output_tokens": 2479,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the scheme name, the targeted component self-sufficiency levels, and the outlay and assembly-to-components shift.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, India approved 29 proposals for domestic manufacture of components such as PCBs, capacitors and rare-earth magnets. Under which scheme were these proposals approved?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Electronics Component Manufacturing Scheme",
+     "Production Linked Incentive Scheme for IT Hardware",
+     "Semiconductor and Display Fab Scheme",
+     "Large Scale Electronics Manufacturing Scheme"
+    ],
+    "answer": 0,
+    "explain": "The package was approved under the Electronics Component Manufacturing Scheme and covers PCBs, rare-earth magnets, capacitors, relays and EV inductors. To qualify for incentives, companies must also develop design and engineering capabilities in India.",
+    "source": "The INR 7,104 crore (USD 751 million) package under the Electronics Component Manufacturing Scheme covers PCBs, rare-earth magnets, capacitors, relays, and EV inductors."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of components and the share of domestic demand they are projected to meet under the electronics component proposals approved in March 2026:",
+    "items": [
+     "Capacitors — 61% of demand",
+     "Relays — 100% with export surplus",
+     "Rare-earth magnets — 35% of domestic demand"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Rare-earth magnets are projected to reach 25% of domestic demand, up from near zero. The 35% figure is the current domestic capacitor supply, which is set to rise to 61%. Every component on the list is one where China currently holds leverage.",
+    "source": "Rare-earth magnets will rise to 25% of domestic demand, up from near zero."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the electronics component manufacturing proposals approved by India in March 2026:",
+    "items": [
+     "The approved package was worth INR 7,104 crore (USD 751 million).",
+     "Before this round, India's electronics manufacturing was concentrated in the assembly of finished products."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The INR 7,104 crore package targets inputs such as PCBs and relays rather than finished-product assembly. Earlier schemes rewarded production volume, while this one ties subsidies to design and engineering capability built in India.",
+    "source": "Until now, India's electronics manufacturing has been concentrated in assembly of finished products."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-03-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 513,
+  "output_tokens": 1867,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the CERC order deferring Deviation Settlement Mechanism penalties for wind and solar and the phase-down of the X buffer.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In an order reported in April 2026, the Central Electricity Regulatory Commission (CERC) deferred stricter penalties for wind and solar generators until April 2027. Under which framework are generators fined when actual power supply misses scheduled targets?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Deviation Settlement Mechanism",
+     "Renewable Purchase Obligation",
+     "Green Energy Open Access",
+     "Market Coupling Mechanism"
+    ],
+    "answer": 0,
+    "explain": "Under the Deviation Settlement Mechanism, generators pay penalties when actual supply misses scheduled targets. Industry groups warned that the intermittent nature of renewables could cause 48% revenue losses under stricter rules.",
+    "source": "Under the Deviation Settlement Mechanism (DSM), generators are fined when actual power supply misses scheduled targets."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the CERC order on the Deviation Settlement Mechanism (DSM) reported in April 2026:",
+    "items": [
+     "The DSM Regulations were introduced in 2024 and commenced on 31 March 2026.",
+     "The order keeps the penalty buffer known as the \"X\" value at 100% in FY2026-27 and reduces it to 0% by 2031.",
+     "The order places the largest annual reduction in the \"X\" value in FY2027-28."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the order slows the annual phase-down and leaves the largest reduction for FY2030-31. Once the buffer reaches 0%, renewable projects face the same penalties as fossil-fuel generators, and back-loading the cuts gives operators time to improve forecasting and for storage to mature.",
+    "source": "this new order slows the annual phase-down of this buffer and leaves the largest reduction for FY2030-2031."
+   }
+  ]
+ }
+}

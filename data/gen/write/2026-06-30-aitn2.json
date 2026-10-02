@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-30-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 245,
+  "output_tokens": 1238,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Protocol item with little lasting significance; one question tests India's delegation and the burial city.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the funeral of Iran's Supreme Leader Ayatollah Ali Khamenei, held from 4 to 9 July 2026:",
+    "items": [
+     "India was represented by the Bihar Governor and a Minister of State for External Affairs.",
+     "The ceremonies concluded with Khamenei's burial at the Imam Reza shrine in Qom."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the Imam Reza shrine where Khamenei was to be buried is in Mashhad, not Qom. India sent Bihar Governor Syed Ata Hasnain and MoS Pabitra Margherita, although Iranian President Masoud Pezeshkian had invited Prime Minister Modi.",
+    "source": "Bihar Governor Syed Ata Hasnain and Minister of State for External Affairs Pabitra Margherita will represent India at the funeral of Supreme Leader Ayatollah Ali Khamenei in Iran."
+   }
+  ]
+ }
+}

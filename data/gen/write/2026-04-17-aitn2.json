@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-04-17-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 298,
+  "output_tokens": 933,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the purpose of POWERR Asia, launched at the Japan-led AZEC Plus summit in April 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In April 2026, a Japan-led 'AZEC Plus' virtual summit launched the 'Partnership on Wide Energy and Resources Resilience' (POWERR Asia). What is this framework primarily meant for?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Crude oil procurement and stockpiling",
+     "Semiconductor supply-chain diversification",
+     "Cross-border solar grid interconnection",
+     "Green hydrogen certification standards"
+    ],
+    "answer": 0,
+    "explain": "POWERR Asia is a roughly USD 10 billion framework for crude oil procurement and stockpiling across India, Australia and ASEAN. Japanese Prime Minister Sanae Takaichi convened the summit on 15 April 2026 to coordinate Asian responses to energy supply disruptions from West Asia, and External Affairs Minister S. Jaishankar attended.",
+    "source": "a roughly USD 10 billion framework for crude oil procurement and stockpiling across India, Australia and ASEAN."
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-03-26-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 1160,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests which regulator issued the March 2026 advisory against LPG surcharges on restaurant bills, and its legal basis.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, which body issued an advisory barring hotels and restaurants from adding default 'LPG charges' or 'gas surcharges' to customers' bills?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Central Consumer Protection Authority",
+     "Food Safety and Standards Authority of India",
+     "Competition Commission of India",
+     "Petroleum and Natural Gas Regulatory Board"
+    ],
+    "answer": 0,
+    "explain": "The Central Consumer Protection Authority (CCPA) held that fuel and energy costs are operational expenses that must be built into menu prices. It warned that listing them as separate line items amounts to an unfair trade practice under the Consumer Protection Act.",
+    "source": "The CCPA ruled that fuel and energy costs are operational expenses that must be baked into menu prices, and warned that separate line items amount to unfair trade practices under the Consumer Protection Act."
+   }
+  ]
+ }
+}

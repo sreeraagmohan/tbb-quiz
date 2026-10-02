@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-27-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 495,
+  "output_tokens": 1498,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested concrete outcomes of Modi's February 2026 Israel visit: labour mobility, agri and cyber centres, and UPI launch.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, India and Israel signed 27 agreements during Prime Minister Modi's visit to Israel. Consider the following statements about the outcomes:",
+    "items": [
+     "India will send 50,000 workers to Israel over five years.",
+     "An India-Israel Centre of Excellence in Cybersecurity will be established in Israel.",
+     "The Centres of Excellence network for transferring Israeli agri-technologies will expand to 100 hubs."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "The India-Israel Centre of Excellence in Cybersecurity will be set up in India, not Israel. The labour deal addresses shortages in Israel's construction and nursing sectors, and a Villages of Excellence initiative will take agri-technologies to the grassroots.",
+    "source": "An India-Israel Centre of Excellence in Cybersecurity will be established in India to facilitate cooperation on cybersecurity, an area where Israel has established itself as a global leader."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In February 2026, which Indian payment system, described as the world's largest real-time payment system, was announced to launch in Israel?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Unified Payments Interface",
+     "Immediate Payment Service",
+     "National Electronic Funds Transfer",
+     "Real Time Gross Settlement"
+    ],
+    "answer": 0,
+    "explain": "UPI is launching in Israel, allowing Indian tourists and businesses to pay via QR code. This lets them bypass Western credit card networks.",
+    "source": "India’s Unified Payments Interface (UPI), the world's largest real-time payment system, is launching in Israel."
+   }
+  ]
+ }
+}

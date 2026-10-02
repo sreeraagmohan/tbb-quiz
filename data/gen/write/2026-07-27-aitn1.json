@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-27-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 328,
+  "output_tokens": 888,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the inscription's venue, India's count, and the global versus regional ranking.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, UNESCO inscribed the Ancient Buddhist Site of Sarnath on the World Heritage List. Consider the following statements:",
+    "items": [
+     "It was inscribed at the 48th session of the World Heritage Committee held in Busan, South Korea.",
+     "It became India's 45th property on the World Heritage List.",
+     "With this inscription, India ranks 2nd globally by number of UNESCO World Heritage sites."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 3 is wrong. India ranks 6th globally and 2nd in the Asia-Pacific. The site, in Varanasi, includes the Chaukhandi Stupa, the Dhamekh Stupa and the Ashokan Pillar, and is where the Buddha delivered his first sermon.",
+    "source": "India now ranks 6th globally and 2nd in the Asia-Pacific by number of UNESCO World Heritage sites."
+   }
+  ]
+ }
+}

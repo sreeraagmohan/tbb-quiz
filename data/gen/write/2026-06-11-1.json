@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-11-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 791,
+  "output_tokens": 1762,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Section 301 overcapacity probe and the key facts of India's rebuttal; skips the likely mid-July trade deal tranche as speculative.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In March 2026, the United States Trade Representative (USTR) opened investigations into alleged manufacturing overcapacity in 16 economies, including India. Under which provision of US trade law were these investigations opened?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 301",
+     "Section 232",
+     "Section 201",
+     "Section 337"
+    ],
+    "answer": 0,
+    "explain": "The USTR opened Section 301 investigations into 16 economies over alleged manufacturing overcapacity, with India among them. In June 2026, India rejected the allegations about its textile and steel sectors, and Additional Trade Secretary Amitabh Kumar said India does not have overcapacity in anything.",
+    "source": "In March 2026, the USTR opened Section 301 investigations into 16 economies over alleged manufacturing overcapacity, India among them."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the US overcapacity investigations involving India and India's response in June 2026:",
+    "items": [
+     "The investigations opened by the USTR in March 2026 cover 16 economies, including India.",
+     "Washington cited India's USD 42 billion goods trade surplus from 2025.",
+     "The Cotton Textiles Export Promotion Council (TEXPROCIL) told the USTR that over 80% of India's cotton textile production is exported."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. TEXPROCIL told the USTR that over 80% of India's cotton textile production is consumed at home, and that output across the cotton, yarn and fabric segments is flat or declining. India argues that output should be measured against population, domestic demand and development needs, not absolute volumes.",
+    "source": "The Cotton Textiles Export Promotion Council (TEXPROCIL) told the USTR that over 80% of India's cotton textile production is consumed at home, and that output across cotton, yarn, and fabric segments is flat or declining, the opposite of the expansion an overcapacity claim implies."
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-09-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 717,
+  "output_tokens": 238,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story covers opposition alliance politics and party manoeuvring, with no scheme, law, institution or structural electoral fact that Prelims would test.",
+  "questions": []
+ }
+}

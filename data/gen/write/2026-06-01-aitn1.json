@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-01-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 242,
+  "output_tokens": 1199,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the venue, Australian co-chair and inaugural round of the India-Australia Defence Ministers' Dialogue, held under the Comprehensive Strategic Partnership.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the second India-Australia Defence Ministers' Dialogue held in June 2026:",
+    "items": [
+     "Australia was represented by its Deputy Prime Minister, Richard Marles.",
+     "The dialogue was held in Singapore on the sidelines of the Shangri-La Dialogue.",
+     "The inaugural round of the dialogue was held in Australia in October 2025."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "The dialogue was held in New Delhi, not Singapore. Marles arrived straight from the Shangri-La Dialogue in Singapore. The dialogue runs under the two countries' Comprehensive Strategic Partnership, and its agenda covered interoperability and defence-industrial co-development and co-production.",
+    "source": "Defence Minister Rajnath Singh and Australian Deputy Prime Minister Richard Marles will co-chair the second India-Australia Defence Ministers' Dialogue in New Delhi on 1 June."
+   }
+  ]
+ }
+}

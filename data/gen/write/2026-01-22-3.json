@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-01-22-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 439,
+  "output_tokens": 1987,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Supreme Court's 100-metre Aravalli definition, its December 2025 stay and expert panel, and the range's geography.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In November 2025, the Supreme Court defined an Aravalli hill as any landform rising above the surrounding terrain by more than:",
+    "items": [],
+    "ask": "",
+    "options": [
+     "100 metres",
+     "50 metres",
+     "200 metres",
+     "300 metres"
+    ],
+    "answer": 0,
+    "explain": "The court's November 20, 2025 ruling set the threshold at more than 100 metres above surrounding terrain. Environmental groups warned that this definition was so narrow it could exclude large parts of the range from protection.",
+    "source": "The move follows the court’s own November 20 ruling that defined an Aravalli hill as any landform rising more than 100 metres above surrounding terrain."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Supreme Court's handling of the Aravalli range between November 2025 and January 2026:",
+    "items": [
+     "On December 29, 2025, the court stayed its own November 2025 judgment defining an Aravalli hill.",
+     "The high-powered panel the court will constitute is to be made up of officials nominated by the Aravalli states.",
+     "The panel is tasked with defining the Aravalli range and laying down what activities are permitted there."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statement 2 is wrong because the court said the panel will consist of independent experts, not state nominees. The court also directed states to stop unauthorised activity in the region after staying its earlier ruling following protests from conservationists.",
+    "source": "said it will constitute a high-powered panel of independent experts to formally define the Aravalli range and lay down what activities are permitted."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The Aravalli range, described as the \"green lungs\" of northwestern India, runs south of Delhi into which state?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Gujarat",
+     "Maharashtra",
+     "Punjab",
+     "Uttar Pradesh"
+    ],
+    "answer": 0,
+    "explain": "The Aravallis run south of Delhi into Gujarat. They slow desertification and support groundwater recharge, but they also sit atop mineral-rich land, which makes them commercially contested.",
+    "source": "The Aravallis, running south of Delhi into Gujarat, are often described as the “green lungs” of northwestern India."
+   }
+  ]
+ }
+}

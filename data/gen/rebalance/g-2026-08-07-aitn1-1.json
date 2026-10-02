@@ -1,0 +1,72 @@
+{
+ "id": "g-2026-08-07-aitn1-1",
+ "story_id": "2026-08-07-aitn1",
+ "target": 1,
+ "original": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, the Lok Sabha passed the Taxation and Other Laws (Amendment) Bill, 2026. Consider the following statements about it:",
+  "items": [
+   "It amends the Payment and Settlement Systems Act to permit Merchant Discount Rate (MDR) charges on UPI transactions.",
+   "A notification setting the actual MDR on UPI transactions was issued on the day of its passage."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "The bill amends the Payment and Settlement Systems Act to allow MDR on UPI, but no notification setting an actual fee has been issued yet. It cleared the Lok Sabha by voice vote without debate, a day after RBI Governor Sanjay Malhotra called the MDR discussion premature.",
+  "source": "amends the Payment and Settlement Systems Act to permit Merchant Discount Rate (MDR) charges on Unified Payments Interface (UPI) transactions"
+ },
+ "rewritten": {
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, the Lok Sabha passed the Taxation and Other Laws (Amendment) Bill, 2026. Consider the following statements about it:",
+  "items": [
+   "A notification setting the actual MDR on UPI transactions was issued on the day of its passage.",
+   "It amends the Payment and Settlement Systems Act to permit Merchant Discount Rate (MDR) charges on UPI transactions."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the story says no notification setting an actual fee has been issued yet. Statement 2 is correct, as the bill amends the Payment and Settlement Systems Act to allow MDR on UPI. It cleared the Lok Sabha by voice vote without debate, a day after RBI Governor Sanjay Malhotra called the MDR discussion premature.",
+  "source": "amends the Payment and Settlement Systems Act to permit Merchant Discount Rate (MDR) charges on Unified Payments Interface (UPI) transactions"
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 2428,
+  "output_tokens": 628,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

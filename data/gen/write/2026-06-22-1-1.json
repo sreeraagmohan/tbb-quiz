@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-22-1-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 676,
+  "output_tokens": 2347,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests Alang's location, India's 2025 ship-recycling share against the Maritime India Vision 2030 goal, and the Hong Kong Convention and credit-note policy framework.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, India was reported as the world's top ship-recycling nation for 2025. The cluster of yards that dismantles most of India's ship tonnage, Alang, is located in which state?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Gujarat",
+     "Maharashtra",
+     "Odisha",
+     "Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explain": "Alang in Gujarat dismantles most of India's tonnage and supplies scrap to the domestic steel sector. The government plans to nearly double its capacity toward 9 million light displacement tons a year through a master-planned expansion.",
+    "source": "The industry runs out of Alang in Gujarat, the cluster of yards that dismantles most of India's tonnage and feeds the domestic steel sector with scrap."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's ship-recycling performance in 2025, as reported in June 2026:",
+    "items": [
+     "India's share of global ship-recycling tonnage rose to 35.4% from 30.1% in 2024.",
+     "India's ship-recycling volumes rose nearly 60% to about 9 million gross tons.",
+     "The result met the Maritime India Vision 2030 goal of leading the world in ship recycling five years ahead of schedule."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: volumes rose nearly 60% to 2.99 million gross tons, while 9 million light displacement tons is the planned annual capacity target for Alang. The figures were attributed by the Ministry of Ports, Shipping and Waterways to UNCTAD, and India overtook long-time leader Bangladesh.",
+    "source": "India's share rose to 35.4% from 30.1% in 2024, with volumes up nearly 60% to 2.99 million gross tons"
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's ship-recycling policy framework, as reported in June 2026:",
+    "items": [
+     "India ratified the Hong Kong International Convention on safe and environmentally sound ship recycling in 2019, the same year a law aligned India with it.",
+     "A credit-note scheme lets ship owners offset scrap value against new vessels built in Indian shipyards."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct: a 2019 law aligned India with the Hong Kong Convention, which India ratified that year, and the credit-note scheme links scrapping to domestic shipbuilding. State support of USD 6.4 million has helped 115 yards meet the convention's standard, though no Indian yard made the International Maritime Organisation's first approved list in 2025.",
+    "source": "A 2019 law aligned India with the Hong Kong International Convention on safe and environmentally sound ship recycling, which India ratified the same year."
+   }
+  ]
+ }
+}

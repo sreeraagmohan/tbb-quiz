@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-05-14-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 192,
+  "output_tokens": 191,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a symbolic step and a public appeal with no scheme, law, body or durable policy decision to test.",
+  "questions": []
+ }
+}

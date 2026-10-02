@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-13-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 293,
+  "output_tokens": 903,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the venue and forum of NASA's invitation, the Moon Base programme's lunar target, and NISAR as context.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, NASA invited ISRO to join its Moon Base programme. Consider the following statements:",
+    "items": [
+     "The invitation was extended at the ninth meeting of the India-US Civil Space Joint Working Group, held in Bengaluru.",
+     "The Moon Base programme aims to establish a sustained human presence near the north pole of the moon.",
+     "NISAR, a joint NASA-ISRO Earth observation satellite, was launched in July 2025."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the programme targets a sustained human presence near the moon's south pole, not the north pole. The two sides also agreed to advance talks on sharing open scientific data under the Artemis Accords.",
+    "source": "The invite was extended at the ninth meeting of the India-US Civil Space Joint Working Group at ISRO headquarters in Bengaluru on August 5 and 6."
+   }
+  ]
+ }
+}

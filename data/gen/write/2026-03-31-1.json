@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-03-31-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 517,
+  "output_tokens": 1813,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Electricity Act provision invoked and the key elements of the Ministry of Power's summer 2026 playbook.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In March 2026, the Ministry of Power directed Tata Power's Mundra plant to start operating to prevent summer blackouts. Under which provision was this direction issued?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Section 11 of the Electricity Act",
+     "Section 63 of the Electricity Act",
+     "Section 3 of the Energy Conservation Act",
+     "Section 3 of the Essential Commodities Act"
+    ],
+    "answer": 0,
+    "explain": "The government invoked Section 11 of the Electricity Act to force the 4,000 MW Mundra plant into action by 1 April 2026. The move was part of an emergency playbook to offset gas shortages caused by the West Asia conflict.",
+    "source": "The government invoked Section 11 of the Electricity Act to force Tata Power’s 4,000 MW Mundra plant into action by April 1"
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Ministry of Power's plan, announced in March 2026, to meet summer electricity demand:",
+    "items": [
+     "Gas accounts for about 10% of India's electricity generation.",
+     "The Ministry is accelerating clearances to commission wind and battery energy storage systems.",
+     "Maintenance on thermal plants is being deferred to keep 10,000 MW on the grid."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong: gas provides only 2% of India's power, though it supplies 10 GW during peak demand or heatwaves. The Ministry is also pushing up coal inventory and tweaking rules to encourage industries to use captive power.",
+    "source": "Gas provides only 2% of India’s power, but it provides 10 GW during peak-demand periods or heatwaves."
+   }
+  ]
+ }
+}

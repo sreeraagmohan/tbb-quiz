@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-17-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 262,
+  "output_tokens": 1041,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Codex adoption venue, Codex's FAO-WHO parentage and the India-hosted spices committee's Guwahati meeting.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, the Codex Alimentarius Commission adopted international quality standards for large cardamom, coriander and vanilla. Consider the following statements:",
+    "items": [
+     "The standards were adopted at the Commission's session held in Geneva.",
+     "The Codex Alimentarius Commission is run jointly by the Food and Agriculture Organization and the World Health Organization.",
+     "The standards were finalised at a meeting of the India-hosted Codex Committee on Spices and Culinary Herbs in Kochi."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because the India-hosted committee finalised the standards at a meeting in Guwahati in October 2025, not Kochi. Codex sets food safety benchmarks that governments and importers reference, so harmonised standards ease market access for Indian spice exporters.",
+    "source": "The standards were finalised at the Codex Committee on Spices and Culinary Herbs, which India hosts, at a meeting in Guwahati in October 2025."
+   }
+  ]
+ }
+}

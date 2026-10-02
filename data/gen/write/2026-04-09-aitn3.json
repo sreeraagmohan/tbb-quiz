@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-04-09-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 331,
+  "output_tokens": 857,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the assembly strengths of the three legislatures voting in the opening phase of the April 2026 elections. These are durable structural facts.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of legislatures that voted on 9 April 2026 in the opening phase of the assembly elections, and the number of seats contested:",
+    "items": [
+     "Assam — 126 seats",
+     "Kerala — 140 seats",
+     "Puducherry — 30 seats"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct: Assam has 126 seats, Kerala 140 and Puducherry 30, for a total of 296 in the first phase. Tamil Nadu and West Bengal voted later in April, and counting for all five assemblies was set for 4 May 2026.",
+    "source": "A total of 296 seats are in play: 126 in Assam, 140 in Kerala, and 30 in Puducherry."
+   }
+  ]
+ }
+}

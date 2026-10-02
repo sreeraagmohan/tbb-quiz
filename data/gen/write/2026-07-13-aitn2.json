@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-13-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 245,
+  "output_tokens": 139,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: an accident abroad with only a routine consular response and no policy angle; the casualty figures (32 aboard, 15 dead, 21 rescued) also do not add up.",
+  "questions": []
+ }
+}

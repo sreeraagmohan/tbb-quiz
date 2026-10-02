@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-22-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 715,
+  "output_tokens": 1964,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the auto PLI outcomes, the ACC battery PLI's outlay, allocations and incentive claims, and its installed capacity as of February 2026.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Production Linked Incentive (PLI) scheme for Advanced Chemistry Cell (ACC) batteries, as updated to Parliament in July 2026:",
+    "items": [
+     "It has a budget of INR 18,100 crore and targets 50 GWh of domestic capacity.",
+     "Four firms hold capacity allocations totalling 40 GWh.",
+     "Two of the beneficiary firms have already claimed incentives under the scheme."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because none of the four firms has claimed an incentive, since payouts require the production and sale of qualifying Indian-made cells. Beneficiaries reported only INR 5,180 crore of investment by May 31, 2026, against the INR 45,000 crore originally envisaged.",
+    "source": "Four firms hold allocations totalling 40 GWh, but none has claimed an incentive, which requires the production and sale of qualifying Indian-made cells."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In July 2026, the government updated Parliament on the PLI scheme for automobiles and auto components. Consider the following pairs:",
+    "items": [
+     "Scheme outlay — INR 25,938 crore",
+     "Jobs created by March 31, 2026 — 67,820",
+     "Units across which incentives were disbursed — 225"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the figures given to Parliament. Manufacturers had also invested INR 44,326 crore, and the government had disbursed INR 2,386 crore in incentives.",
+    "source": "The government has disbursed INR 2,386 crore (USD 248 million) in incentives across 225 units."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "According to a February 2026 update, how much installed capacity had been set up under the PLI scheme for Advanced Chemistry Cell batteries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "1 GWh",
+     "10 GWh",
+     "40 GWh",
+     "50 GWh"
+    ],
+    "answer": 0,
+    "explain": "The February 2026 update reported just 1 GWh of installed capacity, all of it belonging to Ola. Beneficiaries had been given two years to set up factories when capacity was awarded in March 2022, against a scheme target of 50 GWh.",
+    "source": "A February 2026 update reported just 1 GWh of installed capacity, entirely belonging to Ola."
+   }
+  ]
+ }
+}

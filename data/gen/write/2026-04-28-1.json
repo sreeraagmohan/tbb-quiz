@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-04-28-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 927,
+  "output_tokens": 1496,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Tenth Schedule merger threshold and the Rajya Sabha arithmetic after the April 2026 AAP defections; skipped Punjab electoral speculation.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In April 2026, seven of the Aam Aadmi Party's ten Rajya Sabha members joined the BJP. Under the Tenth Schedule of the Constitution, what is the minimum share of a legislature party's members needed for a recognised merger?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Two-thirds",
+     "One-third",
+     "Three-fourths",
+     "One-half"
+    ],
+    "answer": 0,
+    "explain": "Seven of ten seats is exactly two-thirds, the minimum for a recognised merger under the Tenth Schedule, India's anti-defection law. Raghav Chadha had introduced a bill in 2022 to raise the threshold to three-fourths, which would have required eight defectors.",
+    "source": "Seven is exactly two-thirds of AAP's ten Rajya Sabha seats, the minimum for a recognised party merger under the Tenth Schedule, India's constitutional anti-defection law."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the defection of Aam Aadmi Party Rajya Sabha members to the BJP in April 2026:",
+    "items": [
+     "The defections reduced AAP's strength in the Rajya Sabha from ten seats to three.",
+     "After the defections, the NDA held a two-thirds majority in the 245-member Rajya Sabha.",
+     "Six of the seven defectors hold Rajya Sabha seats from Punjab."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the NDA rose to 146 seats, which is 17 short of the two-thirds majority needed for constitutional amendments. That gap matters for measures such as the stalled delimitation bill to expand the Lok Sabha from 550 to 850 seats.",
+    "source": "The coalition now holds 146 seats, 17 short of the two-thirds majority needed for constitutional amendments"
+   }
+  ]
+ }
+}

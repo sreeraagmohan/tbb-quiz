@@ -1,0 +1,74 @@
+{
+ "id": "g-2026-04-14-1-1",
+ "story_id": "2026-04-14-1",
+ "target": 0,
+ "original": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "In April 2026, the government brought amendments to the Nari Shakti Vandan Adhiniyam before a special session of Parliament. Consider the following pairs relating to the proposed Lok Sabha seat structure:",
+  "items": [
+   "Total Lok Sabha seats — 816",
+   "Seats reserved for Scheduled Castes — 136",
+   "Seats reserved for Scheduled Tribes — 84"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Seats reserved for Scheduled Tribes would rise from 47 to 70, not to 84. The figure 84 is the current number of Scheduled Caste seats, which would rise to 136. The Lok Sabha would expand from 543 to 816 seats, with 273 going to women and one-third of SC and ST seats reserved for women.",
+  "source": "Seats reserved for Scheduled Castes and Scheduled Tribes (India's constitutionally recognised disadvantaged communities) also increase, from 84 to 136 and 47 to 70 respectively, with one-third of each reserved for women."
+ },
+ "rewritten": {
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "In April 2026, the government brought amendments to the Nari Shakti Vandan Adhiniyam before a special session of Parliament. Consider the following pairs relating to the proposed Lok Sabha seat structure:",
+  "items": [
+   "Total Lok Sabha seats — 543",
+   "Seats reserved for Scheduled Castes — 136",
+   "Seats reserved for Scheduled Tribes — 47"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Pairs 1 and 3 are wrong: 543 is the current Lok Sabha strength, which would expand to 816, and 47 is the current number of Scheduled Tribe seats, which would rise to 70. Only pair 2 is correct, as Scheduled Caste seats would rise from 84 to 136, with one-third of SC and ST seats and 273 seats in all going to women.",
+  "source": "Seats reserved for Scheduled Castes and Scheduled Tribes (India's constitutionally recognised disadvantaged communities) also increase, from 84 to 136 and 47 to 70 respectively, with one-third of each reserved for women."
+ },
+ "solve": {
+  "results": [
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "passed": true,
+ "reasons": [],
+ "usage": {
+  "input_tokens": 4260,
+  "output_tokens": 935,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 1878
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-03-26-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 180,
+  "output_tokens": 142,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a routine ministry clarification rebutting social media claims on LPG booking intervals, with no durable scheme, law or policy fact for Prelims.",
+  "questions": []
+ }
+}

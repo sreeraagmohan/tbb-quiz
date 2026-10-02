@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-05-18-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 489,
+  "output_tokens": 1633,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the ADNOC crude storage figure and which Indian oil companies secured the LPG and LNG deals; the defence framework is too generic to test.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "During the Indian Prime Minister's visit to Abu Dhabi in May 2026, the Abu Dhabi National Oil Company (ADNOC) agreed to store up to how much crude oil on Indian soil?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "30 million barrels",
+     "10 million barrels",
+     "50 million barrels",
+     "75 million barrels"
+    ],
+    "answer": 0,
+    "explain": "ADNOC will store up to 30 million barrels of crude in India, expanding an existing strategic petroleum reserve arrangement. TBB notes that with the Strait of Hormuz under stress, such supplier-side physical reserves act as a hedge for India.",
+    "source": "Abu Dhabi National Oil Company (ADNOC) will store up to 30 million barrels of crude on Indian soil, expanding an existing strategic petroleum reserve arrangement."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–UAE energy agreements in 2026:",
+    "items": [
+     "Under the package signed in Abu Dhabi in May 2026, the Indian Oil Corporation secured an increased supply of liquefied petroleum gas (LPG).",
+     "The 10-year LNG supply agreement with ADNOC, signed in January 2026, was concluded by the Indian Oil Corporation."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the 10-year LNG supply agreement was signed between HPCL and ADNOC, not the Indian Oil Corporation. It was signed during UAE President Sheikh Mohamed bin Zayed Al Nahyan's visit to New Delhi in January 2026.",
+    "source": "The Indian Oil Corporation also secured an increased liquefied petroleum gas (LPG) supply under the package."
+   }
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-07-14-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 666,
+  "output_tokens": 1867,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India-Japan CEPA timeline, the March 2026 Joint Committee venue and the trade and investment figures behind India's review.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, India began reviewing its trade agreement with Japan. Consider the following statements about the India-Japan Comprehensive Economic Partnership Agreement (CEPA) and related ties:",
+    "items": [
+     "The CEPA was signed and took effect in 2011.",
+     "The 7th India–Japan CEPA Joint Committee Meeting was held in New Delhi in March 2026.",
+     "Japan is India's fifth-largest source of foreign direct investment."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the 7th Joint Committee Meeting was held in Tokyo, not New Delhi. At that meeting India called for a more balanced bilateral trade relationship.",
+    "source": "The two sides held the 7th India–Japan CEPA Joint Committee Meeting in Tokyo in March 2026"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India–Japan economic ties, as reported in July 2026:",
+    "items": [
+     "Indian imports from Japan in 2025-26 — USD 21.43 billion",
+     "Indian exports to Japan in 2025-26 — USD 6 billion",
+     "Japan's investment pledge for the next decade — JPY 10 trillion"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correctly matched. Imports rose from USD 9.8 billion in 2015-16 while exports grew only from USD 4.6 billion, so the deficit nearly tripled to USD 15.4 billion. India is now using the review to seek more Japanese investment instead of relying on goods exports.",
+    "source": "Indian imports from Japan skyrocketed from USD 9.8 billion in 2015-16 to USD 21.43 billion in 2025-26, while India's exports crawled from USD 4.6 billion to just USD 6 billion."
+   }
+  ]
+ }
+}

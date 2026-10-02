@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-29-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 224,
+  "output_tokens": 1439,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the 16th summit's venue and dates, the 15th edition's venue, and the formal name of the India-Japan partnership.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the 16th India-Japan Annual Summit, announced in June 2026:",
+    "items": [
+     "It was scheduled to be held in New Delhi from 1 to 3 July 2026.",
+     "The previous, 15th, edition of the summit was held in Tokyo in August 2025.",
+     "It was set to review cooperation under the India-Japan Comprehensive Strategic and Global Partnership."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the MEA describes the relationship as the India-Japan Special Strategic and Global Partnership. The visit is Japanese Prime Minister Sanae Takaichi's first official visit to India since taking office, and it follows Modi's August 2025 trip to Tokyo for the 15th edition.",
+    "source": "Both sides are expected to review cooperation across the India-Japan Special Strategic and Global Partnership, the Ministry of External Affairs (MEA) said."
+   }
+  ]
+ }
+}

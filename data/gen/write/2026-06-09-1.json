@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-06-09-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 487,
+  "output_tokens": 1450,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the EU regulation, its AMR rationale and the Indian body behind the certification upgrade; skips the analysis in Sound smarter.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, India was added to the European Union's updated authorised-exporter list for animal-origin food. Consider the following statements:",
+    "items": [
+     "The EU tightened Regulation (EU) 2021/405 over Antimicrobial Resistance (AMR) concerns.",
+     "Countries left off the revised list lose access to the EU market for the covered animal-origin products.",
+     "India's fish and fishery exports to the EU alone are worth USD 1.59 billion."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are stated in the story: the regulation was tightened over AMR concerns, exclusion from the list means losing access, and fish and fishery exports to the EU are worth USD 1.59 billion. The listing covers aquaculture, honey, eggs and animal casings and secures access past a September 2026 deadline.",
+    "source": "The EU tightened Regulation (EU) 2021/405 over Antimicrobial Resistance (AMR) concerns, raising the bar for all animal-origin imports."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In June 2026, India secured a place on the EU's authorised-exporter list for animal-origin food after the Department of Commerce and which body upgraded India's inspection, testing and certification systems?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Export Inspection Council",
+     "Food Safety and Standards Authority of India",
+     "Bureau of Indian Standards",
+     "Directorate General of Foreign Trade"
+    ],
+    "answer": 0,
+    "explain": "The Department of Commerce and the Export Inspection Council (EIC) upgraded India's control systems to meet the EU's new standards. The Marine Products Export Development Authority (MPEDA) will continue working with EU-approved establishments on compliance.",
+    "source": "The Department of Commerce and Export Inspection Council (EIC) upgraded India's inspection, testing, and certification systems to satisfy Brussels' new standards."
+   }
+  ]
+ }
+}

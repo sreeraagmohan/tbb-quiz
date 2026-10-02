@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-07-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 347,
+  "output_tokens": 786,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "The bill is only pending, so I tested the durable fact that critics cited the FATF 2024 review urging a risk-based approach.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, critics of the Foreign Contribution (Regulation) Amendment Bill pointed to a 2024 review by which international body that had urged a narrower, risk-based approach to regulating NGOs' foreign funding?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Financial Action Task Force",
+     "International Monetary Fund",
+     "World Bank",
+     "Organisation for Economic Co-operation and Development"
+    ],
+    "answer": 0,
+    "explain": "Critics cited the Financial Action Task Force's 2024 review, which urged a narrower, risk-based approach, alongside earlier warnings on the FCRA from United Nations Special Rapporteurs. The bill, which tightens rules on NGOs' foreign funding, was again not tabled on 6 August 2026 amid Opposition protests.",
+    "source": "Critics also point to the Financial Action Task Force's (FATF) 2024 review, which urged a narrower, risk-based approach, and earlier United Nations (UN) Special Rapporteur warnings on the FCRA."
+   }
+  ]
+ }
+}

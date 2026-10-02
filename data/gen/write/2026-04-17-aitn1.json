@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-04-17-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 206,
+  "output_tokens": 88,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: a ground collision with no injuries and no institutional, regulatory or policy finding yet, only a pending investigation.",
+  "questions": []
+ }
+}

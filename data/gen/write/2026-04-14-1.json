@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-04-14-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 922,
+  "output_tokens": 2091,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the proposed seat arithmetic, the census base and ratification requirement, and the target election for the April 2026 Women's Reservation amendment.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In April 2026, the government brought amendments to the Nari Shakti Vandan Adhiniyam before a special session of Parliament. Consider the following pairs relating to the proposed Lok Sabha seat structure:",
+    "items": [
+     "Total Lok Sabha seats — 816",
+     "Seats reserved for Scheduled Castes — 136",
+     "Seats reserved for Scheduled Tribes — 84"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Seats reserved for Scheduled Tribes would rise from 47 to 70, not to 84. The figure 84 is the current number of Scheduled Caste seats, which would rise to 136. The Lok Sabha would expand from 543 to 816 seats, with 273 going to women and one-third of SC and ST seats reserved for women.",
+    "source": "Seats reserved for Scheduled Castes and Scheduled Tribes (India's constitutionally recognised disadvantaged communities) also increase, from 84 to 136 and 47 to 70 respectively, with one-third of each reserved for women."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Women's Reservation Act and the amendments taken up by Parliament in April 2026:",
+    "items": [
+     "The Nari Shakti Vandan Adhiniyam passed Parliament unanimously in September 2023.",
+     "The amendments base the delimitation of seats on data from the 2027 Census.",
+     "The amendments need a two-thirds majority in both houses plus ratification by at least half of state legislatures."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "The amendments delink implementation from the upcoming 2027 Census and use 2011 Census data instead. Opposition parties argue that using 15-year-old census data for delimitation is procedurally flawed.",
+    "source": "The amendment needs a two-thirds majority in both houses plus ratification by at least half of state legislatures."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "The amendments to the Women's Reservation Act taken up by Parliament in April 2026 aim to bring women's reservation into force in time for which general election?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "2029",
+     "2027",
+     "2031",
+     "2034"
+    ],
+    "answer": 0,
+    "explain": "Using 2011 Census data lets reservation apply in the 2029 general election. The 2023 law had tied implementation to a future census and delimitation, pushing enforcement to roughly 2034.",
+    "source": "using 2011 Census data instead to get women's reservation in place for the 2029 general election."
+   }
+  ]
+ }
+}

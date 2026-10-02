@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-05-20-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 286,
+  "output_tokens": 1004,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the May 2026 announcement on Left-wing extremism: venue, the rehabilitation plan and the infrastructure timeline.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In May 2026, Union Home Minister Amit Shah announced that India was free from Maoism. Consider the following statements about this announcement:",
+    "items": [
+     "It was made during a visit to Bastar, a former insurgent stronghold.",
+     "It included a plan to reintegrate 3,000 surrendered Naxals into mainstream society.",
+     "It pledged to bridge the region's infrastructure gap within ten years."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because the pledge is to bridge the infrastructure gap within three to five years, not ten. The plan also turns remote security camps into public service centres so that tribal communities get the same facilities as major cities.",
+    "source": "He further pledged to bridge the region's historical infrastructure gap within three to five years"
+   }
+  ]
+ }
+}

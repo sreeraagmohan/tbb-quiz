@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-05-19-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1085,
+  "output_tokens": 2280,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Constitution (131st Amendment) Bill on Lok Sabha expansion, state fertility rates behind the delimitation debate, and Andhra Pradesh's pro-natalist scheme.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Constitution (131st Amendment) Bill taken up in April 2026:",
+    "items": [
+     "It proposed expanding the Lok Sabha from 543 to 850 seats.",
+     "It proposed reallocating Lok Sabha seats by population using 2011 Census data.",
+     "It failed to secure the two-thirds majority required for its passage."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "The Bill sought 850 seats allocated by 2011 Census population and fell 54 votes short of the required two-thirds majority. Southern states objected that population-based redistribution would penalise them for successful family planning.",
+    "source": "Last month, the Constitution (131st Amendment) Bill proposed expanding the Lok Sabha from 543 to 850 seats and reallocating them by population using 2011 Census data."
+   },
+   {
+    "topic": "Society",
+    "difficulty": 2,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of states and their total fertility rate (TFR), as reported in May 2026:",
+    "items": [
+     "Andhra Pradesh — about 1.5",
+     "Bihar — 2.8",
+     "Madhya Pradesh — 2.7"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Madhya Pradesh's TFR is 2.4; the figure of 2.7 belongs to Uttar Pradesh. Against a national average of 2.0 and a replacement level of 2.1, all five southern states report TFRs between 1.3 and 1.6.",
+    "source": "Meanwhile, Bihar (2.8), Uttar Pradesh (2.7), and Madhya Pradesh (2.4) remain well above replacement."
+   },
+   {
+    "topic": "Society",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In May 2026, which state announced the \"Children Are Wealth\" scheme offering families INR 30,000 for a third child and INR 40,000 for a fourth?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Andhra Pradesh",
+     "Tamil Nadu",
+     "Sikkim",
+     "Karnataka"
+    ],
+    "answer": 0,
+    "explain": "Chief Minister Chandrababu Naidu announced the scheme at a rally in Srikakulam, revising an earlier proposal of INR 25,000 for a second child. Sikkim offers year-long maternity leave and IVF support instead, while Tamil Nadu's former chief minister only urged newlyweds to have more children.",
+    "source": "Naidu's scheme, dubbed \"Children Are Wealth,\" will pay families INR 30,000 (USD 312) for a third child and INR 40,000 (USD 415) for a fourth."
+   }
+  ]
+ }
+}

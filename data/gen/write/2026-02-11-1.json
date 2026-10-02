@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-02-11-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 536,
+  "output_tokens": 1766,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the scheduled Macron visit itinerary, the 1998 origin of the strategic partnership and the Horizon 2047 roadmap; the likely deliverables are skipped as speculative.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In February 2026, India's Ministry of External Affairs announced a three-day visit by French President Emmanuel Macron. Consider the following statements:",
+    "items": [
+     "The India–France strategic partnership dates back to 1998.",
+     "Macron was scheduled to arrive in Mumbai to launch the India-France Year of Innovation.",
+     "The AI Impact Summit was scheduled to be held in Mumbai on 19 February 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because Macron was to head from Mumbai to New Delhi for the AI Impact Summit on 19 February. France stayed a consistent partner even when India faced international sanctions, and the relationship rests on strategic autonomy.",
+    "source": "Macron will arrive in Mumbai to launch the India-France Year of Innovation before heading to New Delhi for the AI Impact Summit on February 19"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "\"Horizon 2047\", a 25-year roadmap covering defence co-production, AI governance and maritime security in the Indo-Pacific, guides India's partnership with which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "France",
+     "Japan",
+     "Australia",
+     "United Kingdom"
+    ],
+    "answer": 0,
+    "explain": "Horizon 2047 is designed to align Paris and New Delhi on defence co-production, AI governance and Indo-Pacific maritime security. Macron's February 2026 visit to India was built on it, as ties shift from buyer–seller defence deals towards jointly shaping rules, standards and R&D.",
+    "source": "The visit leans on \"Horizon 2047\", a 25-year roadmap designed to align Paris and New Delhi on defence co-production, AI governance, and maritime security in the Indo-Pacific."
+   }
+  ]
+ }
+}

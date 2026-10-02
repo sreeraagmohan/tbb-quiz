@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-14-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 260,
+  "output_tokens": 124,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a single private company's hiring and office plans, with no policy, scheme or institutional angle to test.",
+  "questions": []
+ }
+}

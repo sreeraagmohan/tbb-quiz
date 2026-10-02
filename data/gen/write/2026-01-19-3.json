@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-01-19-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 547,
+  "output_tokens": 1489,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Will for Peace 2026 exercise (host, venue, participants, India's stance) and the IBSAMAR format; skipped the analysts' framing as speculative.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the “Will for Peace 2026” naval exercise held in January 2026:",
+    "items": [
+     "It was held off Cape Town, with South Africa as host.",
+     "Iran was among the participating countries.",
+     "India's Ministry of External Affairs described it as a regular, institutionalised BRICS activity."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong. On 17 January 2026 the MEA called the exercise entirely a South African initiative, not a regular or institutionalised BRICS activity, and noted that not all BRICS members joined. Iran's participation drew US-side criticism, and Pretoria launched an inquiry into it.",
+    "source": "South Africa’s “Will for Peace 2026” naval exercise ran from January 10–16, 2026 off Cape Town, after warships began arriving around January 9."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In January 2026, explaining its absence from a South African-hosted naval exercise, India's Ministry of External Affairs cited IBSAMAR as its standing maritime format. IBSAMAR brings together India with which two countries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Brazil and South Africa",
+     "Bangladesh and Sri Lanka",
+     "Indonesia and Thailand",
+     "Australia and Japan"
+    ],
+    "answer": 0,
+    "explain": "IBSAMAR is the India–Brazil–South Africa maritime format, last held in October 2024. The MEA pointed to it while stating that India had not taken part in previous South African-led drills of the Will for Peace kind.",
+    "source": "pointed to IBSAMAR (India–Brazil–South Africa) as its standing maritime format (last held October 2024)."
+   }
+  ]
+ }
+}

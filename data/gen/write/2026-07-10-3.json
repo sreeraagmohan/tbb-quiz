@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-10-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 559,
+  "output_tokens": 1391,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the July 2026 customs duty exemptions on electronics components and battery machinery, and India's electronics manufacturing target; Apple-specific details skipped.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, the Union government exempted certain electronics components and battery-making machinery from import duties. Consider the following statements about these exemptions:",
+    "items": [
+     "The exemptions are valid until March 31, 2029.",
+     "The exemptions cover 85 types of assembly machinery, aimed at anchoring the electric mobility and battery ecosystem domestically.",
+     "The tariffs removed on parts for wireless charging and automotive displays ranged from 10% to 15%."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the exemptions wipe out tariffs of 5% to 7.5% on parts for wireless charging, lithium-ion cell production equipment and automotive displays. By cutting duties on inputs while keeping them on finished goods, India aims to push manufacturers beyond simple assembly.",
+    "source": "The rules wipe out 5% to 7.5% tariffs on parts for wireless charging, lithium-ion cell production equipment, and automotive displays."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As of July 2026, what is India's target for the scale of electronics manufacturing by fiscal year 2030?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "USD 500 billion",
+     "USD 300 billion",
+     "USD 1 trillion",
+     "USD 250 billion"
+    ],
+    "answer": 0,
+    "explain": "The government aims to scale electronics manufacturing to USD 500 billion by fiscal year 2030, and the July 2026 duty exemptions feed into that goal. Smartphone manufacturing has risen 28-fold over the last decade.",
+    "source": "The tax holiday feeds into New Delhi’s aggressive target to scale electronics manufacturing to USD 500 billion by fiscal year 2030, of which smartphone manufacturing has risen 28-fold over the last decade."
+   }
+  ]
+ }
+}

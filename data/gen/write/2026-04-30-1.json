@@ -1,0 +1,78 @@
+{
+ "story_id": "2026-04-30-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1933,
+  "output_tokens": 2766,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the MoRTH draft amendment for E85/E100, the E20 rollout and feedstock mix, and fuel facts including the NITI Aayog pricing advice.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the draft rules on higher ethanol blends published in April 2026:",
+    "items": [
+     "The draft was published by the Ministry of Road Transport and Highways.",
+     "It proposes amending the Central Motor Vehicles Rules to add E85 and E100 fuels to India's regulatory framework.",
+     "The draft is open for public comment for 30 days."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. MoRTH proposed amending the Central Motor Vehicles Rules to recognise E85 and E100 and opened the draft to 30 days of public comment. The amendment creates a legal basis for type-approval testing of vehicles built for higher blends, with a phased E85 rollout targeted for late 2026.",
+    "source": "The Ministry of Road Transport and Highways (MoRTH) proposed amendments to the Central Motor Vehicles Rules adding E85 (85% ethanol, 15% petrol) and E100 (nearly pure ethanol) to India's regulatory framework."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's ethanol blending programme as of April 2026:",
+    "items": [
+     "Grain-based ethanol accounts for a majority of India's ethanol production.",
+     "The mandatory nationwide rollout of E20 on 1 April 2026 came a year later than the original target."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because India achieved the E20 rollout a year ahead of its original target, not behind it. Grain-based ethanol now makes up 60% of production, though sugarcane remains the crop that shapes politics.",
+    "source": "This follows the mandatory nationwide rollout of E20 (20% ethanol) on 1 April 2026, which India achieved a year ahead of its original target."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to ethanol-blended fuels:",
+    "items": [
+     "E85 — 85% ethanol and 15% petrol",
+     "Energy content of ethanol — roughly 27-30% less per litre than petrol",
+     "NITI Aayog recommendation of 2021 — higher-blend fuels to be priced above regular petrol"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong. In 2021 NITI Aayog recommended pricing higher-blend fuels below regular petrol to compensate for their lower energy content, and this has not been implemented for E20. Running on E85 or E100 needs a flex-fuel vehicle, and no mass-market model is sold in India.",
+    "source": "NITI Aayog, India’s apex public policy think tank, recommended in 2021 that higher-blend fuels be priced below regular petrol to compensate for the energy loss."
+   }
+  ]
+ }
+}
