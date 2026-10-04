@@ -60,6 +60,58 @@
   ]
  },
  {
+  "id": "g-2026-01-21-4-1",
+  "story_id": "2026-01-21-4",
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's power sector, as reported in January 2026:",
+  "items": [
+   "India is targeting 500 GW of non-fossil fuel capacity by 2030.",
+   "The government says non-fossil sources crossed 50% of India's installed power capacity in June 2025.",
+   "Viability Gap Funding support for battery storage covers up to 60% of capital expenditure."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because Viability Gap Funding for storage covers up to 40% of capex, not 60%. Even with the 500 GW target and the 50% milestone, coal remains central in the interim because wind and solar cannot yet guarantee round-the-clock supply.",
+  "source": "New Delhi is still targeting 500 GW of non-fossil capacity by 2030 and says non-fossil sources crossed 50% of installed capacity in June 2025.",
+  "reasons": [
+   "same fact as g-2026-04-24-1-3"
+  ]
+ },
+ {
+  "id": "g-2026-01-27-1-1",
+  "story_id": "2026-01-27-1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs of India's Republic Day parade years and their chief guests:",
+  "items": [
+   "2024 — Emmanuel Macron",
+   "2025 — Prabowo Subianto",
+   "2026 — Ursula von der Leyen and António Costa"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three pairs are correct. France's Macron was the chief guest in 2024 and Indonesia's Prabowo in 2025. In January 2026 the EU's two top leaders attended together, marking a shift from big bilateral partners to a bloc.",
+  "source": "European Commission President Ursula von der Leyen and European Council President António Costa attended as guests of honour yesterday.",
+  "reasons": [
+   "same fact as g-2026-01-22-1-2"
+  ]
+ },
+ {
   "id": "g-2026-01-27-1-2",
   "story_id": "2026-01-27-1",
   "topic": "International Relations",
@@ -152,6 +204,136 @@
   ]
  },
  {
+  "id": "g-2026-02-03-3-1",
+  "story_id": "2026-02-03-3",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's labour codes, as reported in February 2026:",
+  "items": [
+   "Since 2019, 29 labour laws have been folded into four labour codes.",
+   "Labour is a subject in the Union List of the Constitution.",
+   "While the Centre writes the codes, states write their own rules under them."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because labour sits on the Concurrent List, not the Union List. Because states frame their own rules, the rollout of the codes is expected to be uneven, especially early on.",
+  "source": "Labour sits on the Concurrent List.",
+  "reasons": [
+   "same fact as g-2026-05-11-2-1"
+  ]
+ },
+ {
+  "id": "g-2026-02-04-1-1",
+  "story_id": "2026-02-04-1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–US trade deal terms announced in February 2026:",
+  "items": [
+   "India will cut tariffs on US industrial goods from roughly 13.5% to 5%.",
+   "The US will cut tariffs on Indian goods from 50% to 18%.",
+   "India committed to buying USD 500 billion in American goods over five years."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because India will drop tariffs on US industrial goods from roughly 13.5% to zero, not 5%. India plans to meet the USD 500 billion commitment by gradually ramping up purchases of petroleum, aircraft, defence, telecom and pharmaceutical goods.",
+  "source": "India will drop tariffs on US industrial goods from roughly 13.5% to zero.",
+  "reasons": [
+   "same fact as g-2026-02-03-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-02-10-2-1",
+  "story_id": "2026-02-10-2",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Special Intensive Revision (SIR) of electoral rolls in West Bengal:",
+  "items": [
+   "In February 2026, the Supreme Court extended the deadline for West Bengal's SIR by one week beyond February 14.",
+   "Unlike routine reviews of the rolls, an SIR requires every voter to be re-verified.",
+   "The micro-observers monitoring the process are employees of the West Bengal government."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because the story describes micro-observers as Central Government employees who monitor and report on the SIR process. The Court granted the one-week extension on 9 February 2026 while warning it would not create impediments to the Election Commission's exercise.",
+  "source": "On Monday, the Supreme Court extended West Bengal’s Special Intensive Revision (SIR) deadline by one week beyond February 14, while warning that the Court will not create any impediments to the SIR.",
+  "reasons": [
+   "same fact as g-2026-02-05-3-2"
+  ]
+ },
+ {
+  "id": "g-2026-02-11-2-1",
+  "story_id": "2026-02-11-2",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In February 2026, India and Greece signed a Joint Declaration of Intent on defence cooperation. Consider the following statements:",
+  "items": [
+   "It was signed at a meeting of the two defence ministers held in Athens.",
+   "It aligns India's Aatmanirbhar Bharat goals with Greece's Agenda 2030 military reforms.",
+   "It was accompanied by a ten-year plan for industrial cooperation."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 0,
+  "explain": "Statement 1 is wrong because Rajnath Singh and Nikolaos-Georgios Dendias met in New Delhi, not Athens, and statement 3 is wrong because the plan for industrial cooperation is a five-year plan, not a ten-year one. Only statement 2 is correct. The roadmap also includes a 2026 Military Cooperation Plan for joint exercises.",
+  "source": "A five-year plan for industrial cooperation is now in play, alongside a 2026 Military Cooperation Plan for joint exercises.",
+  "reasons": [
+   "same fact as g-2026-02-11-2-2"
+  ]
+ },
+ {
+  "id": "g-2026-02-18-4-1",
+  "story_id": "2026-02-18-4",
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the National Green Tribunal (NGT) ruling of February 2026 on the Great Nicobar mega-project:",
+  "items": [
+   "In clearing the project, the NGT relied on a report of the Central Pollution Control Board.",
+   "The NGT dismissed challenges to the environmental clearance granted to the project in 2022.",
+   "The project is planned near Galathea Bay, a biodiversity hotspot."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the NGT relied on a High-Powered Committee, not the Central Pollution Control Board, to declare that adequate safeguards are in place. The INR 900 billion project can proceed subject to full and strict compliance with approval conditions, though critics warn of harm to nesting leatherback turtles.",
+  "source": "On Monday, the NGT dismissed challenges to the 2022 environmental clearance, relying on a High-Powered Committee to declare that adequate safeguards are already in place.",
+  "reasons": [
+   "same fact as m09-40"
+  ]
+ },
+ {
   "id": "g-2026-02-19-2-2",
   "story_id": "2026-02-19-2",
   "topic": "Environment & Energy",
@@ -169,6 +351,77 @@
   "source": "Without the Chinese hardware, the 2030 goal of 500 GW non-fossil capacity is little more than a pipe dream.",
   "reasons": [
    "same fact as g-2026-04-24-1-3"
+  ]
+ },
+ {
+  "id": "g-2026-02-20-2-1",
+  "story_id": "2026-02-20-2",
+  "topic": "Economy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In February 2026, during India's AI Impact Summit, the government announced a tax holiday for cloud service providers setting up in India. What was the duration of this tax holiday?",
+  "options": [
+   "21 years",
+   "10 years",
+   "15 years",
+   "25 years"
+  ],
+  "answer": 0,
+  "explain": "The government announced a 21-year tax holiday for cloud service providers setting up in India to keep investment momentum going. The summit drew large AI and data infrastructure pledges, including USD 109.8 billion from Reliance and Jio over seven years.",
+  "source": "the government announced a 21-year tax holiday for cloud service providers setting up shop in India earlier during the summit",
+  "reasons": [
+   "same fact as s04"
+  ]
+ },
+ {
+  "id": "g-2026-02-23-1-2",
+  "story_id": "2026-02-23-1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "After the US Supreme Court's tariff ruling in February 2026, the US President turned to other trade provisions. Consider the following statements:",
+  "items": [
+   "Section 122 of the US Trade Act of 1974 is a temporary balance-of-payments provision.",
+   "Section 122 allows the president to impose a flat tariff of up to 15% on all countries for 150 days.",
+   "Tariffs imposed after Section 301 investigations are subject to a statutory ceiling of 15%."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: the story says Section 301 investigations could restore country-specific rates with no statutory ceiling. The 15% cap and 150-day limit apply only to Section 122, which is why TBB calls the current rate a placeholder.",
+  "source": "he invoked Section 122 of the 1974 Trade Act, a temporary balance-of-payments provision that allows the president to impose a flat tariff of up to 15% on all countries for 150 days.",
+  "reasons": [
+   "same fact as g-2026-03-05-1-3"
+  ]
+ },
+ {
+  "id": "g-2026-02-23-1-3",
+  "story_id": "2026-02-23-1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India-US interim trade deal that was in place before the US Supreme Court ruling of February 2026:",
+  "items": [
+   "Washington would cut tariffs on select Indian exports to 18%.",
+   "India would signal intent to purchase USD 500 billion of American goods over five years, covering energy, aircraft, precious metals and technology."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both terms are as the story describes them. With the flat 15% Section 122 tariff now in force, India is paying less than its negotiated 18%, and its trade delegation's visit to Washington was called off with no new date set.",
+  "source": "Washington would cut tariffs on select Indian exports to 18%; India would signal intent to purchase USD 500 billion in American purchases over five years, covering energy, aircraft, precious metals, and technology, which we covered here.",
+  "reasons": [
+   "same fact as g-2026-02-03-1-1"
   ]
  },
  {
@@ -209,6 +462,32 @@
   "source": "The IMF graded India's national accounts a \"C\" in late 2025.",
   "reasons": [
    "explanation: The explanation says \"TBB notes\" that the C grade is a liability, but the story does not attribute that point to TBB. It appears in the main story under \"The reputational hit\". The labelled TBB analysis makes a different point: credible data is worth more than flattering data."
+  ]
+ },
+ {
+  "id": "g-2026-03-03-1-1",
+  "story_id": "2026-03-03-1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the outcomes of Canadian PM Mark Carney's visit to India in March 2026:",
+  "items": [
+   "India and Canada signed Terms of Reference for a Comprehensive Economic Partnership Agreement (CEPA).",
+   "The two countries aim to raise bilateral trade to USD 50bn by 2030.",
+   "CEPA negotiations are targeted to conclude by the end of 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three are correct. The Terms of Reference set a USD 50bn trade goal for 2030, and negotiations are to conclude by the end of 2026. The visit, Carney's first official trip to India, marked an economic reset after years of friction over Khalistani separatism.",
+  "source": "The goal is to raise bilateral trade to USD 50bn by 2030, with negotiations to conclude by the end of this year.",
+  "reasons": [
+   "same fact as g-2026-05-27-2-2"
   ]
  },
  {
@@ -264,6 +543,26 @@
   ]
  },
  {
+  "id": "g-2026-03-06-1-3",
+  "story_id": "2026-03-06-1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "Which port in Iran gives India its only direct trade route to Afghanistan and Central Asia that bypasses Pakistan?",
+  "options": [
+   "Chabahar",
+   "Gwadar",
+   "Karachi",
+   "Duqm"
+  ],
+  "answer": 0,
+  "explain": "Iran hosts the Chabahar Port, which India uses as its route to Afghanistan and Central Asia that avoids Pakistan. Iran was also one of India's largest oil suppliers before US sanctions.",
+  "source": "Tehran was one of New Delhi's largest oil suppliers before US sanctions and hosts the Chabahar Port, India's only direct trade route to Afghanistan and Central Asia that bypasses Pakistan.",
+  "reasons": [
+   "same fact as s10"
+  ]
+ },
+ {
   "id": "g-2026-03-10-2-1",
   "story_id": "2026-03-10-2",
   "topic": "Environment & Energy",
@@ -294,6 +593,32 @@
   ]
  },
  {
+  "id": "g-2026-03-13-2-1",
+  "story_id": "2026-03-13-2",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about US trade measures affecting India in early 2026:",
+  "items": [
+   "The White House used Section 122 of the Trade Act to impose a temporary 15% global tariff that expires in late July 2026.",
+   "Tariffs under Section 301 rest on formal investigations and findings of unfair trade practices rather than on presidential discretion.",
+   "The India–US framework for an interim trade deal, reached in February 2026, set an 18% baseline tariff on Indian goods."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: Section 122 was used for a temporary 15% global tariff expiring in late July, Section 301 builds on formal investigations rather than presidential discretion, and the February 2026 framework set an 18% baseline tariff on Indian goods. The story notes that Section 301 could override that 18% baseline with higher, sector-specific duties.",
+  "source": "It builds on formal investigations and findings of unfair trade practices rather than presidential discretion, giving any resulting levies a stronger legal foundation.",
+  "reasons": [
+   "same fact as g-2026-03-05-1-3"
+  ]
+ },
+ {
   "id": "g-2026-03-13-2-2",
   "story_id": "2026-03-13-2",
   "topic": "International Relations",
@@ -311,6 +636,26 @@
   "source": "This new development comes weeks after the Supreme Court struck down Trump’s emergency tariffs under IEEPA, which we covered here.",
   "reasons": [
    "same fact as g-2026-02-23-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-03-13-2-3",
+  "story_id": "2026-03-13-2",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In March 2026, the US launched a Section 301 investigation into trading partners including India, the EU and China. What did the investigation target?",
+  "options": [
+   "Structural excess capacity in manufacturing",
+   "Currency manipulation by central banks",
+   "Digital services taxes on US firms",
+   "Forced transfer of US technology"
+  ],
+  "answer": 0,
+  "explain": "Washington framed the probe around what it calls structural excess capacity in manufacturing. US Trade Representative Jamieson Greer hoped to conclude it before the temporary tariffs expire in July.",
+  "source": "targeting what Washington calls structural excess capacity in manufacturing",
+  "reasons": [
+   "same fact as g-2026-06-11-1-1"
   ]
  },
  {
@@ -400,6 +745,32 @@
   ]
  },
  {
+  "id": "g-2026-03-30-2-1",
+  "story_id": "2026-03-30-2",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the measures taken by the Reserve Bank of India (RBI) in March 2026 to support the rupee:",
+  "items": [
+   "The RBI ordered banks to cap net open onshore positions at USD 100 million by April 10, 2026.",
+   "Under the rules existing before the order, banks could set net open position limits of up to 25% of total capital.",
+   "To comply with the new cap, banks must sell dollars in the domestic market."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: the RBI set a USD 100 million cap on net open onshore positions by April 10, existing rules allowed limits up to 25% of total capital, and banks must sell dollars domestically to comply. This selling helps the RBI defend the rupee without dipping into its dollar reserves, after the rupee hit a record low of 94.79 against the USD in March 2026.",
+  "source": "To comply, banks must now sell dollars in the domestic market, which gives the RBI a boost in its efforts to defend the rupee without having to dip into its dollar reserves.",
+  "reasons": [
+   "same fact as g-2026-04-03-1-1"
+  ]
+ },
+ {
   "id": "g-2026-03-31-2-2",
   "story_id": "2026-03-31-2",
   "topic": "Polity & Governance",
@@ -417,6 +788,160 @@
   "source": "In February, the Modi government compressed the content takedown window from 36 hours to three hours",
   "reasons": [
    "same fact as g-2026-02-11-4-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-07-2-1",
+  "story_id": "2026-04-07-2",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Reserve Bank of India's measures to curb rupee speculation, as reported in April 2026:",
+  "items": [
+   "The RBI capped banks' net open positions in foreign exchange at USD 100 million.",
+   "The RBI barred companies from rebooking forward contracts they had cancelled.",
+   "Following the measures, the rupee weakened by about 2% against the dollar."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because the rupee rallied 2% toward the 93 level after the measures. The RBI also banned non-deliverable forwards (NDFs), which reduced market liquidity and pushed one-year dollar hedging costs up by the most since the 2008 financial crisis.",
+  "source": "To rein in the rupee, the central bank capped banks' net open positions at USD 100 million and banned companies from rebooking cancelled forward contracts, which we covered here and here.",
+  "reasons": [
+   "same fact as g-2026-04-03-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-14-1-2",
+  "story_id": "2026-04-14-1",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Women's Reservation Act and the amendments taken up by Parliament in April 2026:",
+  "items": [
+   "The Nari Shakti Vandan Adhiniyam passed Parliament unanimously in September 2023.",
+   "The amendments base the delimitation of seats on data from the 2027 Census.",
+   "The amendments need a two-thirds majority in both houses plus ratification by at least half of state legislatures."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "The amendments delink implementation from the upcoming 2027 Census and use 2011 Census data instead. Opposition parties argue that using 15-year-old census data for delimitation is procedurally flawed.",
+  "source": "The amendment needs a two-thirds majority in both houses plus ratification by at least half of state legislatures.",
+  "reasons": [
+   "same fact as g-2026-05-19-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-14-3-1",
+  "story_id": "2026-04-14-3",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Reserve Bank of India's measures on the rupee in March–April 2026:",
+  "items": [
+   "From 27 March 2026, banks were capped at USD 100 million in net onshore rupee positions.",
+   "Corporations in India are not permitted to hedge their foreign exchange exposure."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the story says corporations are permitted to hedge FX exposure. In April 2026, the RBI suspected that some banks had passed about USD 40 billion in speculative rupee positions to corporate clients by presenting them as hedges, which would amount to market abuse.",
+  "source": "Since March 27, banks have been capped at USD 100 million in net onshore rupee positions, which we covered here.",
+  "reasons": [
+   "same fact as g-2026-04-03-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-20-1-1",
+  "story_id": "2026-04-20-1",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, a proposed amendment to the Nari Shakti Vandan Adhiniyam (Women's Reservation Act) failed to clear the Lok Sabha. Consider the following statements:",
+  "items": [
+   "The Act, a 2023 constitutional amendment, reserves one-third of seats for women in the Lok Sabha and state assemblies.",
+   "The Act passed unanimously in September 2023.",
+   "The proposed amendment sought to base implementation on data from the 2027 Census."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong. The amendment would have delinked implementation from the upcoming 2027 Census and used 2011 Census data instead, so the quota would be in place for the 2029 general election. Without it, enforcement waits until roughly 2034.",
+  "source": "The law passed unanimously in September 2023 but tied implementation to a future census and delimitation exercise, pushing enforcement to roughly 2034.",
+  "reasons": [
+   "same fact as g-2026-05-19-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-20-2-2",
+  "story_id": "2026-04-20-2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Strait of Hormuz crisis in 2026:",
+  "items": [
+   "In late March 2026, Iran granted transit rights through the Strait to five countries, including India and Saudi Arabia.",
+   "The US–Iran ceasefire of 8 April 2026 was brokered by Qatar."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Statement 1 is wrong because the five countries granted transit rights in late March 2026 were China, Russia, India, Iraq and Pakistan, not Saudi Arabia. Statement 2 is wrong because the 8 April ceasefire was brokered by Pakistan, not Qatar. Iran considers the US naval blockade of its ports a violation of that ceasefire.",
+  "source": "In late March, Iran granted transit rights to five countries: China, Russia, India, Iraq, and Pakistan.",
+  "reasons": [
+   "same fact as g-2026-04-09-aitn1-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-24-1-1",
+  "story_id": "2026-04-24-1",
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, India announced that solar PV projects must use domestically made cells from 1 June 2026. Consider the following statements about this mandate:",
+  "items": [
+   "It applies to net-metering and open-access projects as well as government-backed schemes.",
+   "Projects already bid out before the deadline must also switch to domestic cells.",
+   "Domestic sourcing requirements for ingots and wafers are scheduled to follow in 2028."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because projects already bid out are exempt, and only future bids must comply. The cell mandate sits within a broader localisation push: modules are already required domestically, and ingots and wafers follow in 2028.",
+  "source": "Projects already bid out are exempt, but all future bids must comply.",
+  "reasons": [
+   "same fact as g-2026-03-19-2-1"
   ]
  },
  {
@@ -512,6 +1037,26 @@
   ]
  },
  {
+  "id": "g-2026-05-08-1-2",
+  "story_id": "2026-05-08-1",
+  "topic": "Polity & Governance",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "Which party became the first non-Dravidian party since the 1960s to emerge as the largest party in the Tamil Nadu assembly in the elections of May 2026?",
+  "options": [
+   "Tamilaga Vetri Kazhagam",
+   "Bharatiya Janata Party",
+   "Indian National Congress",
+   "Pattali Makkal Katchi"
+  ],
+  "answer": 0,
+  "explain": "Vijay's two-year-old Tamilaga Vetri Kazhagam topped the assembly, becoming the first non-Dravidian party to do so since the 1960s. Vijay met the Governor on 6 May 2026 to stake his claim to form the government.",
+  "source": "TVK became the first non-Dravidian party to top the assembly since the 1960s.",
+  "reasons": [
+   "same fact as s18"
+  ]
+ },
+ {
   "id": "g-2026-05-11-aitn1-1",
   "story_id": "2026-05-11-aitn1",
   "topic": "Polity & Governance",
@@ -578,6 +1123,58 @@
   ]
  },
  {
+  "id": "g-2026-05-18-5-2",
+  "story_id": "2026-05-18-5",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the outcome of the state assembly elections declared in May 2026:",
+  "items": [
+   "In Tamil Nadu, the Tamilaga Vettri Kazhagam (TVK) emerged as the single largest party in its debut election.",
+   "In Assam, Himanta Biswa Sarma began his second consecutive term as Chief Minister.",
+   "In Puducherry, N. Rangaswamy began his fourth term as Chief Minister."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because Rangaswamy began his fifth term as Puducherry's chief minister, not his fourth. TVK, led by actor C. Joseph Vijay, did not exist two years earlier yet became the single largest party, while Sarma, who joined the BJP from Congress in 2015, returned for a second consecutive term.",
+  "source": "Tamilaga Vettri Kazhagam (TVK), a party that did not exist two years ago, into the single largest party in its debut election.",
+  "reasons": [
+   "same fact as s18"
+  ]
+ },
+ {
+  "id": "g-2026-05-18-aitn2-1",
+  "story_id": "2026-05-18-aitn2",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, India changed its import policy for silver. Consider the following statements:",
+  "items": [
+   "Silver imports were moved from the \"free\" to the \"restricted\" category, so importers now need prior government approval.",
+   "The new rules cover only silver jewellery, leaving silver bars of 99.9% purity freely importable.",
+   "The move followed an increase in the duty on gold and silver from 6% to 15% announced earlier the same week."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statement 2 is wrong. The rules cover silver bars of 99.9% purity and all other semi-manufactured forms, which together made up more than 90% of silver imports the previous fiscal year. The measures aim to curb precious metals imports amid pressure on foreign exchange reserves from the Strait of Hormuz crisis.",
+  "source": "On Saturday, India reclassified silver imports from \"free\" to \"restricted\" with immediate effect, requiring importers to obtain prior government approval before bringing in shipments.",
+  "reasons": [
+   "same fact as g-2026-05-15-3-1"
+  ]
+ },
+ {
   "id": "g-2026-05-19-aitn2-1",
   "story_id": "2026-05-19-aitn2",
   "topic": "International Relations",
@@ -595,6 +1192,31 @@
   "source": "recently upgraded to an Enhanced Comprehensive Strategic Partnership during Vietnamese President To Lam's state visit to India earlier this month",
   "reasons": [
    "same fact as g-2026-05-07-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-05-20-aitn1-1",
+  "story_id": "2026-05-20-aitn1",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about Kerala's new government formed in May 2026:",
+  "items": [
+   "The Congress-led United Democratic Front's majority ended a decade of Left Democratic Front rule in the state.",
+   "The new government announced a special committee to draft a White Paper on the state's financial condition."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements are correct. The UDF ended ten years of LDF rule, and in May 2026 it set up a committee to prepare a White Paper on state finances. During the campaign, the UDF had repeatedly alleged that the LDF government had severely mismanaged Kerala's finances.",
+  "source": "Kerala’s new Congress-led United Democratic Front (UDF) government announced a special committee on Tuesday to draft a White Paper on the state’s financial condition.",
+  "reasons": [
+   "same fact as g-2026-05-15-aitn1-1"
   ]
  },
  {
@@ -638,6 +1260,31 @@
   ]
  },
  {
+  "id": "g-2026-05-25-aitn1-1",
+  "story_id": "2026-05-25-aitn1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In May 2026, Commerce Minister Piyush Goyal visited Canada for the next round of talks on the India–Canada Comprehensive Economic Partnership Agreement (CEPA). Consider the following statements:",
+  "items": [
+   "Negotiations for the India–Canada CEPA were launched during Canadian Prime Minister Mark Carney's visit to India in March 2026.",
+   "India and Canada are targeting bilateral trade of USD 50 billion by 2030."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements are correct. The CEPA talks began during Carney's visit to India in March 2026, and the two sides aim to reach USD 50 billion in trade by 2030. Bilateral trade stood at only around USD 8 billion in FY2025–26.",
+  "source": "Bilateral trade stood at around USD 8 billion in FY2025–26, with both sides targeting USD 50 billion by 2030.",
+  "reasons": [
+   "same fact as g-2026-05-27-2-2"
+  ]
+ },
+ {
   "id": "g-2026-05-26-3-2",
   "story_id": "2026-05-26-3",
   "topic": "International Relations",
@@ -655,6 +1302,232 @@
   "source": "Almost all of India's LPG imports come from Qatar and the UAE",
   "reasons": [
    "same fact as g-2026-03-17-1-2"
+  ]
+ },
+ {
+  "id": "g-2026-05-27-1-1",
+  "story_id": "2026-05-27-1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Quad foreign ministers' meeting held in May 2026:",
+  "items": [
+   "The meeting was held in New Delhi.",
+   "The Quad's first infrastructure project, announced at the meeting, is a port in Fiji.",
+   "The joint statement explicitly named China over coercive actions in the South China Sea."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "The statement flagged dangerous and coercive actions in the East and South China Seas, citing water cannons, flares and ramming, but China was not explicitly mentioned. The ministers of Australia, India, Japan and the United States met in New Delhi and launched the first Quad infrastructure project, a port in Fiji.",
+  "source": "China was not explicitly mentioned.",
+  "reasons": [
+   "same fact as g-2026-05-29-aitn1-1"
+  ]
+ },
+ {
+  "id": "g-2026-05-28-aitn3-1",
+  "story_id": "2026-05-28-aitn3",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In May 2026, Indian Railways approved its first indigenous hydrogen fuel cell trainset. Consider the following statements about it:",
+  "items": [
+   "It is a 10-car unit with a capacity of 1,200 KW.",
+   "It is set to run on the Jind–Sonipat section in Haryana.",
+   "Its hydrogen storage and refuelling facility is located at Sonipat."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third statement is wrong because the locally built, licensed hydrogen storage and refuelling facility is at Jind, not Sonipat. The train emits only water vapour and will run at up to 75 kmph, placing India among the few countries piloting hydrogen-powered rail, alongside Germany, Japan, China and the United States.",
+  "source": "A locally built hydrogen storage and refuelling facility is already licensed and in place at Jind.",
+  "reasons": [
+   "same fact as g-2026-07-14-aitn1-1"
+  ]
+ },
+ {
+  "id": "g-2026-06-01-aitn2-1",
+  "story_id": "2026-06-01-aitn2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India–UK free trade agreement, as of June 2026:",
+  "items": [
+   "The agreement was concluded in 2025.",
+   "India's trade secretary said its rollout had hit a hurdle over the United Kingdom's new steel import curbs."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both are correct. The story describes the pact as last year's free trade agreement, placing it in 2025, and says its rollout hit a hurdle over London's new steel import curbs. The strain formed the backdrop to British Foreign Secretary Yvette Cooper's planned visit to India on 4 June 2026 for talks with External Affairs Minister Jaishankar.",
+  "source": "The visit comes with last year's free trade agreement under strain, after India's trade secretary said its rollout had hit a hurdle over London's new steel import curbs.",
+  "reasons": [
+   "same fact as g-2026-05-18-aitn1-1"
+  ]
+ },
+ {
+  "id": "g-2026-06-04-aitn2-1",
+  "story_id": "2026-06-04-aitn2",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In June 2026, Apple agreed to hand over its India financials to the Competition Commission of India (CCI) in a long-running antitrust case. Consider the following statements:",
+  "items": [
+   "A 2024 CCI investigation found that Apple had abused its dominant position in the iPhone apps market.",
+   "The Delhi High Court has barred the CCI from issuing a ruling in the case before 15 July 2026.",
+   "India's updated competition law requires the CCI to calculate fines only on a company's Indian turnover."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: the updated competition law lets the CCI calculate fines on global rather than Indian turnover, which is the heart of the dispute. Apple had withheld its financials and taken the regulator to court, accusing it of judicial overreach, before agreeing to file India-specific figures by 25 June.",
+  "source": "The dispute centres on India's updated competition law, which lets the CCI calculate fines on global rather than Indian turnover.",
+  "reasons": [
+   "same fact as g-2026-04-21-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-06-08-1-2",
+  "story_id": "2026-06-08-1",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements in the context of Putin's June 2026 remarks on India and US sanctions:",
+  "items": [
+   "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States law penalising significant transactions with Iran.",
+   "A joint development programme for the Su-57 stealth fighter was proposed earlier but never materialised, and Russia is now ready to sell the jet.",
+   "The 50% US tariff on Indian goods is partly a penalty for Indian purchases of Russian oil."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong. The story describes CAATSA as the United States law penalising significant transactions with Russia, not Iran. Putin was answering questions on whether India risked CAATSA exposure by procuring the Su-57 or the S-500 air defence system.",
+  "source": "the United States law penalising significant transactions with Russia",
+  "reasons": [
+   "same fact as g-2026-01-27-3-1"
+  ]
+ },
+ {
+  "id": "g-2026-06-10-3-1",
+  "story_id": "2026-06-10-3",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB–G RAM G), set to replace MGNREGA from 1 July 2026:",
+  "items": [
+   "It raises guaranteed annual wage employment per rural household from 100 to 125 days.",
+   "It retains MGNREGA's demand-driven model, under which the Centre funds any surge in work.",
+   "States must bear at least 40% of the cost under the new model."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The second statement is wrong. The new model drops demand-driven funding and uses a normative allocation determined by the Centre. Under MGNREGA, New Delhi had footed the entire wage bill.",
+  "source": "Unlike MGNREGA, which was demand-driven with the Centre funding any surge in work, the new model sets a normative allocation determined by the Centre.",
+  "reasons": [
+   "same fact as g-2026-06-10-3-2"
+  ]
+ },
+ {
+  "id": "g-2026-06-10-3-3",
+  "story_id": "2026-06-10-3",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the VB–G RAM G law, which replaces MGNREGA from 1 July 2026:",
+  "items": [
+   "It increases guaranteed annual wage employment from 100 to 150 days per rural household for unskilled manual labour.",
+   "Expenditure beyond sanctioned limits is shared equally between the Centre and the states."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both statements are wrong: the new law raises guaranteed employment from 100 to 125 days, not 150, and spending beyond sanctioned limits falls entirely on state budgets. Under the new model, states must also bear at least 40% of the cost, whereas New Delhi previously footed the entire wage bill.",
+  "source": "The new law increases guaranteed annual wage employment from 100 to 125 days per rural household for unskilled manual labour.",
+  "reasons": [
+   "same fact as g-2026-06-10-3-2"
+  ]
+ },
+ {
+  "id": "g-2026-06-12-1-1",
+  "story_id": "2026-06-12-1",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In April 2026, the United States began enforcing a blockade of Iranian ports after Iran effectively closed a strait through which roughly a fifth of the world's oil and gas passes. Which strait is this?",
+  "options": [
+   "Strait of Hormuz",
+   "Bab-el-Mandeb Strait",
+   "Strait of Malacca",
+   "Strait of Gibraltar"
+  ],
+  "answer": 0,
+  "explain": "Washington sealed off Iran's ports on 13 April 2026 after Tehran effectively closed the Strait of Hormuz. US Central Command says it has disabled eight vessels and redirected 134 others since the blockade began, with strikes in the Gulf of Oman killing three Indian sailors in June 2026.",
+  "source": "Washington sealed off Iran's ports on 13 April after Tehran effectively closed the Strait of Hormuz, through which roughly a fifth of the world's oil and gas passes.",
+  "reasons": [
+   "same fact as g-2026-03-09-2-2"
+  ]
+ },
+ {
+  "id": "g-2026-06-12-aitn1-1",
+  "story_id": "2026-06-12-aitn1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA), as reported in June 2026:",
+  "items": [
+   "It took effect in October 2025.",
+   "It commits the EFTA bloc to USD 100 billion in investment over 10 years.",
+   "It is the first Indian trade agreement to carry a binding investment target."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the USD 100 billion investment commitment, along with one million direct jobs, runs over 15 years, not 10. In June 2026, Commerce Minister Piyush Goyal visited Berne to push implementation of the pact with Swiss officials and pharmaceutical industry leaders.",
+  "source": "took effect in October 2025 and is the first Indian trade agreement to carry a binding investment target, committing the EFTA bloc to USD 100 billion in investment and one million direct jobs over 15 years.",
+  "reasons": [
+   "same fact as g-2026-05-13-1-1"
   ]
  },
  {
@@ -723,6 +1596,31 @@
   ]
  },
  {
+  "id": "g-2026-06-26-1-1",
+  "story_id": "2026-06-26-1",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the incentives for foreign cloud service providers in the Union Budget 2026-27:",
+  "items": [
+   "It offers a tax holiday until 2047 on income earned by serving global clients through data centres located in India.",
+   "It provides a 15% safe-harbour margin on related-party transactions."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "The Budget gave foreign cloud providers a 20-year tax holiday until 2047 on income from serving global clients via Indian data centres, along with a 15% safe-harbour margin on related-party deals. In June 2026, Amazon's enlarged India pledge followed these incentives, with its new tranche going to data centres in Mumbai and Hyderabad.",
+  "source": "which handed foreign cloud providers a 20-year tax holiday until 2047 on income earned by serving global clients through Indian data centres, plus a 15% safe-harbour margin on related-party deals",
+  "reasons": [
+   "same fact as s04"
+  ]
+ },
+ {
   "id": "g-2026-06-29-aitn1-1",
   "story_id": "2026-06-29-aitn1",
   "topic": "International Relations",
@@ -743,6 +1641,32 @@
   ]
  },
  {
+  "id": "g-2026-07-01-3-1",
+  "story_id": "2026-07-01-3",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In July 2026, Adani Ports agreed to sell a 49% stake in the company operating Vizhinjam Port to MSC Group. Consider the following statements about Vizhinjam Port:",
+  "items": [
+   "It is owned by the Government of Kerala through a state entity, Vizhinjam International Seaport Limited.",
+   "Adani runs it under a 40-year build-operate-transfer concession held by a subsidiary.",
+   "Under the concession agreement, only an ownership change above 49% needs the Kerala government's approval."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because the concession requires Kerala's approval for any ownership change above 25%, so the 49% sale needs the state's consent. The deal values the hub at USD 2.85 billion and is the largest foreign private investment in Indian port infrastructure.",
+  "source": "Under the concession agreement, any ownership change above 25% needs the Kerala government's approval, and as the asset's owner the state has a real say.",
+  "reasons": [
+   "same fact as g-2026-08-19-2-2"
+  ]
+ },
+ {
   "id": "g-2026-07-03-1-1",
   "story_id": "2026-07-03-1",
   "topic": "Defence & Security",
@@ -760,6 +1684,26 @@
   "source": "The two governments reached agreement in principle on the remaining technical details of the Unified Complex Radio Antenna (UNICORN) project, an integrated ship mast for the Indian Navy that both sides have been co-developing.",
   "reasons": [
    "same fact as g-2026-08-21-1-2"
+  ]
+ },
+ {
+  "id": "g-2026-07-09-2-2",
+  "story_id": "2026-07-09-2",
+  "topic": "Economy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "As reported in July 2026, at what rate are gains from crypto assets taxed in India?",
+  "options": [
+   "30%",
+   "15%",
+   "20%",
+   "40%"
+  ],
+  "answer": 0,
+  "explain": "Gains from crypto are taxed at 30%. Even so, fewer than a quarter of the 645,000 people who transacted in crypto in the year to March 2023 reported it, according to the tax department.",
+  "source": "Fewer than a quarter of 645,000 people who transacted in crypto in the year to March 2023 reported it, despite a 30% tax on gains.",
+  "reasons": [
+   "same fact as m09-20"
   ]
  },
  {
@@ -823,6 +1767,51 @@
   ]
  },
  {
+  "id": "g-2026-07-28-1-3",
+  "story_id": "2026-07-28-1",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "Under the bill on public examination malpractices introduced in the Lok Sabha in July 2026, which courts would be designated as Special Fast Track Courts?",
+  "options": [
+   "Courts of Session",
+   "High Courts",
+   "Courts of Chief Judicial Magistrates",
+   "Family Courts"
+  ],
+  "answer": 0,
+  "explain": "The bill designates Courts of Session as Special Fast Track Courts. These courts would hold day-to-day trials with a three-month deadline from charge sheet to verdict. TBB notes that the 2024 law had already made paper leaks non-bailable.",
+  "source": "with Courts of Session designated as Special Fast Track Courts running day-to-day trials and a three-month deadline from charge sheet to verdict.",
+  "reasons": [
+   "same fact as g-2026-07-31-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-07-28-2-2",
+  "story_id": "2026-07-28-2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In July 2026, India's Ministry of External Affairs summoned diplomats from both sides of the Ukraine war over attacks on merchant ships that killed Indian nationals. Consider the following statements:",
+  "items": [
+   "The MEA release on summoning Ukraine's ambassador named Ukraine as responsible for the strike on MV Omorfi.",
+   "Russia's chargé d'affaires was summoned over the strike on MV Golden Leo, which killed four Indians."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the MEA release does not name Ukraine as responsible, though it asked Ambassador Oleksandr Polishchuk to tell Kyiv such actions are unacceptable. Russian chargé d'affaires Vladimir Ladanov was called in on July 21 over the MV Golden Leo strike.",
+  "source": "The release does not name Ukraine as responsible for the strike.",
+  "reasons": [
+   "same fact as g-2026-07-22-2-2"
+  ]
+ },
+ {
   "id": "g-2026-07-30-1-2",
   "story_id": "2026-07-30-1",
   "topic": "Polity & Governance",
@@ -863,6 +1852,31 @@
   ]
  },
  {
+  "id": "g-2026-08-07-aitn1-1",
+  "story_id": "2026-08-07-aitn1",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, the Lok Sabha passed the Taxation and Other Laws (Amendment) Bill, 2026. Consider the following statements about it:",
+  "items": [
+   "A notification setting the actual MDR on UPI transactions was issued on the day of its passage.",
+   "It amends the Payment and Settlement Systems Act to permit Merchant Discount Rate (MDR) charges on UPI transactions."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the story says no notification setting an actual fee has been issued yet. Statement 2 is correct, as the bill amends the Payment and Settlement Systems Act to allow MDR on UPI. It cleared the Lok Sabha by voice vote without debate, a day after RBI Governor Sanjay Malhotra called the MDR discussion premature.",
+  "source": "amends the Payment and Settlement Systems Act to permit Merchant Discount Rate (MDR) charges on Unified Payments Interface (UPI) transactions",
+  "reasons": [
+   "same fact as g-2026-08-06-2-1"
+  ]
+ },
+ {
   "id": "g-2026-08-10-3-1",
   "story_id": "2026-08-10-3",
   "topic": "Polity & Governance",
@@ -880,6 +1894,155 @@
   "source": "MeitY gave platforms a three hour window to take down deepfakes back in February",
   "reasons": [
    "explanation: The explanation says the February three-hour window \"followed amendments to India's IT Intermediary Rules\". The story does not say this. It says the August push directing Meta follows those recent amendments, and it mentions the February three-hour window separately."
+  ]
+ },
+ {
+  "id": "g-2026-08-10-aitn1-1",
+  "story_id": "2026-08-10-aitn1",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In August 2026, the Ministry of Finance clarified the proposed framework for charges on Unified Payments Interface (UPI) transactions. Consider the following statements:",
+  "items": [
+   "The proposed changes amend Section 10A of the Payment and Settlement Systems Act.",
+   "Under the proposed framework, peer-to-peer UPI payments will attract a nominal, threshold-based fee."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Everyday consumer and P2P payments will face zero transaction fees. Any future Merchant Discount Rate will be nominal, threshold-based and limited to a select subset of merchant transactions. The ministry said the Section 10A amendments aim at UPI's long-term technological sustainability, cybersecurity and infrastructure expansion.",
+  "source": "Under the proposed framework, everyday consumer and P2P payments will face zero transaction fees",
+  "reasons": [
+   "same fact as g-2026-08-06-2-1"
+  ]
+ },
+ {
+  "id": "g-2026-08-10-aitn2-1",
+  "story_id": "2026-08-10-aitn2",
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In August 2026, India's installed non-fossil fuel electricity generation capacity crossed 300 GW. Consider the following statements:",
+  "items": [
+   "Non-fossil sources make up over 54% of India's total installed power capacity of about 552 GW.",
+   "Wind power accounts for a larger share of this non-fossil capacity than solar power.",
+   "India's target is to reach 500 GW of non-fossil energy capacity by 2030."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because solar leads with 164.59 GW against 58.14 GW for wind. The 300 GW mark puts India at over 60% of its 500 GW target for 2030, and domestically made solar cells became mandatory across all projects from June 2026.",
+  "source": "Non-fossil fuel sources now comprise over 54% of India’s total power capacity (~552 GW), led primarily by solar power (164.59 GW) and wind power (58.14 GW).",
+  "reasons": [
+   "same fact as g-2026-04-24-1-3"
+  ]
+ },
+ {
+  "id": "g-2026-08-12-aitn1-1",
+  "story_id": "2026-08-12-aitn1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In August 2026, the RBI Governor said cross-border payments would be a key focus at the 2026 BRICS summit. Which country is hosting that summit?",
+  "options": [
+   "India",
+   "Brazil",
+   "South Africa",
+   "Russia"
+  ],
+  "answer": 0,
+  "explain": "India is hosting the 2026 BRICS summit. Ahead of it, RBI Governor Sanjay Malhotra said BRICS members are discussing linking fast payment systems and central bank digital currencies to lower cross-border transaction costs, while India keeps pushing the use of the rupee in bilateral trade.",
+  "source": "Speaking ahead of the 2026 BRICS summit hosted by India",
+  "reasons": [
+   "same fact as m09-24"
+  ]
+ },
+ {
+  "id": "g-2026-08-13-2-1",
+  "story_id": "2026-08-13-2",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the petroleum shipment from India that reached Russia in early August 2026:",
+  "items": [
+   "It was shipped from a refinery owned by Reliance Industries.",
+   "The cargo went through a ship-to-ship transfer off Egypt's Damietta port.",
+   "A US bill that names India among buyers of Russian oil authorises tariffs of up to 100% on such buyers."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "The first statement is wrong. The 42,000-tonne shipment came from Rosneft-backed Nayara Energy's Vadinar refinery, not from Reliance Industries. It marked the first time Russia had imported fuel from India, which suggests Russia's fuel crisis is severe.",
+  "source": "The trade has put India among five countries named in a US bill that authorises tariffs up to 100% on buyers of Russian oil",
+  "reasons": [
+   "same fact as g-2026-08-13-2-2"
+  ]
+ },
+ {
+  "id": "g-2026-08-17-2-2",
+  "story_id": "2026-08-17-2",
+  "topic": "Society",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Census 2027 questionnaire, as reported in August 2026:",
+  "items": [
+   "It marks the first inclusion of caste in the national headcount since independence.",
+   "Question 10 uses an open-ended format for self-declaration of caste and tribe.",
+   "Respondents are required to provide their Aadhaar number."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong: respondents are asked to provide Aadhaar, voter ID and mobile numbers voluntarily, not compulsorily. The 40-question form also tracks digital literacy, parental details, bank account holdings and Covid-19 vaccination sites.",
+  "source": "Respondents are also asked to voluntarily provide their Aadhaar, voter ID, and mobile numbers.",
+  "reasons": [
+   "same fact as s13"
+  ]
+ },
+ {
+  "id": "g-2026-08-17-3-1",
+  "story_id": "2026-08-17-3",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about engine development for India's Advanced Medium Combat Aircraft (AMCA), as of August 2026:",
+  "items": [
+   "In August 2026, Reliance and Rolls-Royce signed a contract to build the engine for the AMCA.",
+   "France's Safran has proposed a joint venture with the Gas Turbine Research Establishment (GTRE) to develop a higher-thrust engine for later versions of the AMCA.",
+   "The Centre opened the AMCA programme to private firms in 2025."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "The Reliance–Rolls-Royce announcement of 14 August 2026 was only a statement of intent, with no contract signed and no money or ownership split disclosed. The AMCA is India's planned fifth-generation stealth jet, with a prototype due around 2028.",
+  "source": "The August 14 announcement is a statement of intent, with no contract signed yet.",
+  "reasons": [
+   "same fact as g-2026-08-27-2-1"
   ]
  },
  {
@@ -1058,6 +2221,32 @@
   "source": "Separately, the USTR is investigating alleged excess capacity in Indian manufacturing under Section 301 of the US Trade Act.",
   "reasons": [
    "same fact as g-2026-06-11-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-10-02-aitn3-1",
+  "story_id": "2026-10-02-aitn3",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements regarding India's economic ties with the European Free Trade Association (EFTA) as of October 2026:",
+  "items": [
+   "The Trade and Economic Partnership Agreement (TEPA) commits EFTA states to USD 100 billion in investment in India over 10 years.",
+   "The Ministry of External Affairs calls Switzerland India's largest trade and investment partner among the four EFTA states.",
+   "The second India–EFTA Prosperity Summit, held in October 2026, marks a year since TEPA came into force."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the USD 100 billion investment commitment under TEPA runs over 15 years, not 10. Swiss President Guy Parmelin was scheduled to attend the second India–EFTA Prosperity Summit on 7 October 2026 during his first state visit to India.",
+  "source": "The pact commits EFTA states to USD 100 billion in investment in India over 15 years.",
+  "reasons": [
+   "same fact as g-2026-05-13-1-1"
   ]
  }
 ]

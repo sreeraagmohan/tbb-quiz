@@ -143,11 +143,203 @@
   "g-2026-05-18-2-1": {
    "kept": "m09-36",
    "fact": "Dholera is in Gujarat"
+  },
+  "g-2026-02-20-2-1": {
+   "kept": "s04",
+   "fact": "Union Budget 2026-27 gave foreign cloud service providers a tax holiday until 2047 (about 21 years)"
+  },
+  "g-2026-06-26-1-1": {
+   "kept": "s04",
+   "fact": "Union Budget 2026-27 gave foreign cloud service providers a tax holiday until 2047 (about 21 years)"
+  },
+  "g-2026-02-04-1-1": {
+   "kept": "g-2026-02-03-1-1",
+   "fact": "US cut its tariff on Indian goods from 50% to 18% in February 2026"
+  },
+  "g-2026-02-23-1-3": {
+   "kept": "g-2026-02-03-1-1",
+   "fact": "US cut its tariff on Indian goods from 50% to 18% in February 2026"
+  },
+  "g-2026-06-08-1-2": {
+   "kept": "g-2026-01-27-3-1",
+   "fact": "The additional 25% US tariff of August 2025 was a penalty for India's Russian oil purchases"
+  },
+  "g-2026-02-23-1-2": {
+   "kept": "g-2026-03-05-1-3",
+   "fact": "After the Supreme Court ruling, the US imposed a temporary 15% global tariff under Section 122"
+  },
+  "g-2026-03-13-2-1": {
+   "kept": "g-2026-03-05-1-3",
+   "fact": "After the Supreme Court ruling, the US imposed a temporary 15% global tariff under Section 122"
+  },
+  "g-2026-03-13-2-3": {
+   "kept": "g-2026-06-11-1-1",
+   "fact": "The March 2026 US Section 301 investigations targeted structural excess capacity in manufacturing"
+  },
+  "g-2026-03-30-2-1": {
+   "kept": "g-2026-04-03-1-1",
+   "fact": "RBI capped banks' net open rupee positions at USD 100 million in March 2026"
+  },
+  "g-2026-04-07-2-1": {
+   "kept": "g-2026-04-03-1-1",
+   "fact": "RBI capped banks' net open rupee positions at USD 100 million in March 2026"
+  },
+  "g-2026-04-14-3-1": {
+   "kept": "g-2026-04-03-1-1",
+   "fact": "RBI capped banks' net open rupee positions at USD 100 million in March 2026"
+  },
+  "g-2026-08-17-2-2": {
+   "kept": "s13",
+   "fact": "Census 2027 collects caste data for the first time since independence"
+  },
+  "g-2026-06-10-3-1": {
+   "kept": "g-2026-06-10-3-2",
+   "fact": "VB-G RAM G guarantees 125 days of wage employment, up from 100 under MGNREGA"
+  },
+  "g-2026-06-10-3-3": {
+   "kept": "g-2026-06-10-3-2",
+   "fact": "VB-G RAM G guarantees 125 days of wage employment, up from 100 under MGNREGA"
+  },
+  "g-2026-05-18-aitn2-1": {
+   "kept": "g-2026-05-15-3-1",
+   "fact": "India raised the import duty on gold and silver from 6% to 15% in May 2026"
+  },
+  "g-2026-03-03-1-1": {
+   "kept": "g-2026-05-27-2-2",
+   "fact": "India and Canada target USD 50 billion in bilateral trade by 2030 under CEPA talks launched in March 2026"
+  },
+  "g-2026-05-25-aitn1-1": {
+   "kept": "g-2026-05-27-2-2",
+   "fact": "India and Canada target USD 50 billion in bilateral trade by 2030 under CEPA talks launched in March 2026"
+  },
+  "g-2026-05-27-1-1": {
+   "kept": "g-2026-05-29-aitn1-1",
+   "fact": "The May 2026 Quad foreign ministers' meeting was held in New Delhi"
+  },
+  "g-2026-06-12-aitn1-1": {
+   "kept": "g-2026-05-13-1-1",
+   "fact": "India-EFTA TEPA entered into force in October 2025 with a USD 100 billion investment commitment over 15 years"
+  },
+  "g-2026-10-02-aitn3-1": {
+   "kept": "g-2026-05-13-1-1",
+   "fact": "India-EFTA TEPA entered into force in October 2025 with a USD 100 billion investment commitment over 15 years"
+  },
+  "g-2026-06-01-aitn2-1": {
+   "kept": "g-2026-05-18-aitn1-1",
+   "fact": "India-UK FTA rollout was held up by the UK's new steel import curbs"
+  },
+  "g-2026-08-12-aitn1-1": {
+   "kept": "m09-24",
+   "fact": "India hosted the September 2026 BRICS summit in New Delhi"
+  },
+  "g-2026-04-14-1-2": {
+   "kept": "g-2026-05-19-1-1",
+   "fact": "The 2026 women's reservation/delimitation amendment would have used 2011 Census data, not 2027 Census"
+  },
+  "g-2026-04-20-1-1": {
+   "kept": "g-2026-05-19-1-1",
+   "fact": "The 2026 women's reservation/delimitation amendment would have used 2011 Census data, not 2027 Census"
+  },
+  "g-2026-05-20-aitn1-1": {
+   "kept": "g-2026-05-15-aitn1-1",
+   "fact": "The UDF win in Kerala in 2026 ended a decade of LDF rule"
+  },
+  "g-2026-05-08-1-2": {
+   "kept": "s18",
+   "fact": "TVK emerged as the single largest party in Tamil Nadu in 2026 but short of a majority"
+  },
+  "g-2026-05-18-5-2": {
+   "kept": "s18",
+   "fact": "TVK emerged as the single largest party in Tamil Nadu in 2026 but short of a majority"
+  },
+  "g-2026-07-28-1-3": {
+   "kept": "g-2026-07-31-1-1",
+   "fact": "Under the 2026 anti-paper-leak amendment, existing Courts of Session are designated as Special Fast Track Courts"
+  },
+  "g-2026-06-04-aitn2-1": {
+   "kept": "g-2026-04-21-1-1",
+   "fact": "India's competition law lets the CCI calculate fines on global turnover"
+  },
+  "g-2026-05-28-aitn3-1": {
+   "kept": "g-2026-07-14-aitn1-1",
+   "fact": "India's first hydrogen train is a 10-car, 1,200 KW trainset on the Jind–Sonipat section"
+  },
+  "g-2026-01-21-4-1": {
+   "kept": "g-2026-04-24-1-3",
+   "fact": "India targets 500 GW of non-fossil capacity by 2030"
+  },
+  "g-2026-08-10-aitn2-1": {
+   "kept": "g-2026-04-24-1-3",
+   "fact": "India targets 500 GW of non-fossil capacity by 2030"
+  },
+  "g-2026-04-24-1-1": {
+   "kept": "g-2026-03-19-2-1",
+   "fact": "ALMM extended to solar ingots and wafers with domestic sourcing from 2028"
+  },
+  "g-2026-03-06-1-3": {
+   "kept": "s10",
+   "fact": "Chabahar port links India with Iran and Afghanistan, bypassing Pakistan"
+  },
+  "g-2026-07-01-3-1": {
+   "kept": "g-2026-08-19-2-2",
+   "fact": "Vizhinjam port is owned by the Kerala government and operated by Adani Ports"
+  },
+  "g-2026-02-18-4-1": {
+   "kept": "m09-40",
+   "fact": "The Great Nicobar transshipment port is at Galathea Bay"
+  },
+  "g-2026-07-28-2-2": {
+   "kept": "g-2026-07-22-2-2",
+   "fact": "India summoned Russia's chargé d'affaires over the MV Golden Leo strike"
+  },
+  "g-2026-08-17-3-1": {
+   "kept": "g-2026-08-27-2-1",
+   "fact": "Safran proposed co-developing the AMCA engine with GTRE"
+  },
+  "g-2026-02-03-3-1": {
+   "kept": "g-2026-05-11-2-1",
+   "fact": "The four labour codes consolidate 29 labour laws"
+  },
+  "g-2026-04-20-2-2": {
+   "kept": "g-2026-04-09-aitn1-1",
+   "fact": "Pakistan brokered the April 2026 US–Iran ceasefire"
+  },
+  "g-2026-01-27-1-1": {
+   "kept": "g-2026-01-22-1-2",
+   "fact": "The 2026 Republic Day chief guests were the Presidents of the European Commission and European Council"
+  },
+  "g-2026-02-11-2-1": {
+   "kept": "g-2026-02-11-2-2",
+   "fact": "The India–Greece defence industrial cooperation plan is for five years"
+  },
+  "g-2026-08-07-aitn1-1": {
+   "kept": "g-2026-08-06-2-1",
+   "fact": "MDR on UPI is enabled by amending the Payment and Settlement Systems Act"
+  },
+  "g-2026-08-10-aitn1-1": {
+   "kept": "g-2026-08-06-2-1",
+   "fact": "MDR on UPI is enabled by amending the Payment and Settlement Systems Act"
+  },
+  "g-2026-07-09-2-2": {
+   "kept": "m09-20",
+   "fact": "Crypto gains in India are taxed at a flat 30%"
+  },
+  "g-2026-02-10-2-1": {
+   "kept": "g-2026-02-05-3-2",
+   "fact": "A Special Intensive Revision requires every voter to be re-verified"
+  },
+  "g-2026-08-13-2-1": {
+   "kept": "g-2026-08-13-2-2",
+   "fact": "India's first fuel export to Russia came from the Vadinar refinery (not Reliance)"
+  },
+  "g-2026-06-12-1-1": {
+   "kept": "g-2026-03-09-2-2",
+   "fact": "The Strait of Hormuz carries roughly one-fifth of world oil trade"
   }
  },
  "usage": {
-  "input_tokens": 134741,
-  "output_tokens": 9937,
+  "input_tokens": 267457,
+  "output_tokens": 31940,
   "cache_creation_input_tokens": 0,
   "cache_read_input_tokens": 0
  }
