@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-05-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 344,
+  "output_tokens": 963,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the RoDTEP extension, what RoDTEP refunds, and the RELIEF Component II risk cover via ECGC.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about export support measures extended by the Department of Commerce in September 2026:",
+    "items": [
+     "The Remission of Duties and Taxes on Exported Products (RoDTEP) scheme was extended to December 31, 2026, with rates and value caps unchanged.",
+     "RoDTEP refunds central, state and local taxes built into the price of exported goods.",
+     "Component II of the Resilience and Logistics Intervention for Export Facilitation (RELIEF) offers 95 per cent risk cover through the Export Credit Guarantee Corporation on shipments to West Asia."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story. RELIEF was launched in March 2026 after freight and insurance costs spiked on West Asian shipping routes, and its Component II also holds premiums at pre-disruption levels.",
+    "source": "The component offers 95 per cent risk cover through the state-run Export Credit Guarantee Corporation (ECGC) on shipments to the region and holds premiums at pre-disruption levels."
+   }
+  ]
+ }
+}

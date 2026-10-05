@@ -17031,5 +17031,153 @@
   "answer": 2,
   "explain": "All three are correct. The second edition opened on 28 September 2026 at Subic Bay in the Philippines, with INS Sahyadri and INS Kulish representing India. A harbour phase of expert exchanges comes before joint manoeuvres at sea, and the Ministry of Defence placed the drill under India's Act East Policy.",
   "source": "Indian warships INS Sahyadri and INS Kulish are exercising with maritime forces of the Association of Southeast Asian Nations (ASEAN) at Subic Bay, on the Philippines' South China Sea coast, in the second edition of the ASEAN-India Maritime Exercise."
+ },
+ {
+  "id": "g-2026-10-05-1-1",
+  "story_id": "2026-10-05-1",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, India and Pakistan lodged protests with each other over a shooting by India's Border Security Force on 2 October. Consider the following statements:",
+  "items": [
+   "The shooting took place in the Ferozepur sector of Rajasthan.",
+   "Each government lodged its protest with the other country's high commissioner."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "The Ferozepur sector is in Punjab, not Rajasthan. The protests were made to each other's chargé d'affaires, because neither country has had a high commissioner in the other's capital since 2019.",
+  "source": "On Saturday, each government protested to the other's chargé d'affaires over the October 2 killing of two Pakistani men by India's Border Security Force (BSF) in Punjab's Ferozepur sector."
+ },
+ {
+  "id": "g-2026-10-05-1-2",
+  "story_id": "2026-10-05-1",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "As of October 2026, since which year have India and Pakistan been without a high commissioner in each other's capitals?",
+  "options": [
+   "2019",
+   "2016",
+   "2001",
+   "2008"
+  ],
+  "answer": 0,
+  "explain": "Pakistan expelled India's envoy in 2019 after New Delhi revoked Jammu and Kashmir's special constitutional status. Since then, the two countries have dealt with each other through chargé d'affaires.",
+  "source": "Neither country has had a high commissioner in the other's capital since 2019, when Pakistan expelled India's envoy after New Delhi revoked Jammu and Kashmir's special constitutional status."
+ },
+ {
+  "id": "g-2026-10-05-2-1",
+  "story_id": "2026-10-05-2",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, the Centre assigned standard names to 28 places and geographical features in Ladakh. Consider the following statements about this exercise:",
+  "items": [
+   "The names were placed on the official Survey of India map.",
+   "The places named included Gogra and Hot Spring, flashpoints during the 2020 India–China military standoff.",
+   "All the named sites lie on the Indian-held side of the Line of Actual Control."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 0,
+  "explain": "Statement 3 is wrong because several of the named sites lie across the LAC in Aksai Chin, which China has controlled since the 1950s. India says the aim is accurate identification and public awareness.",
+  "source": "Several of the sites named lie across the Line of Actual Control (LAC) in Aksai Chin, which China has controlled since the 1950s."
+ },
+ {
+  "id": "g-2026-10-05-2-2",
+  "story_id": "2026-10-05-2",
+  "topic": "Geography",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the India–China boundary dispute:",
+  "items": [
+   "Zangnan — Chinese name for Arunachal Pradesh",
+   "Kumarayana Point — Located on China's G219 highway",
+   "G219 highway — Links Tibet with Xinjiang"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three pairs are correct. China calls Arunachal Pradesh Zangnan, or South Tibet, and Kumarayana Point, named by India in October 2026, sits on the G219, a key military route linking Tibet with Xinjiang.",
+  "source": "They include Guru Rinpoche Lake, east of China's G219 highway, and Kumarayana Point, on the highway itself."
+ },
+ {
+  "id": "g-2026-10-05-3-1",
+  "story_id": "2026-10-05-3",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–Canada trade relations as of October 2026:",
+  "items": [
+   "Bilateral trade between India and Canada rose 8.2% to $7.95 billion in fiscal year 2025-26.",
+   "The fifth round of trade negotiations began in October 2026, with a final deal targeted by December 2026.",
+   "The diplomatic freeze between the two countries began in 2023 after then-PM Justin Trudeau alleged Indian involvement in the killing of Hardeep Singh Nijjar."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because bilateral trade fell 8.2% to $7.95 billion, not rose. Canadian Trade Minister Maninder Sidhu was due to visit New Delhi in October 2026 with a 300-strong business delegation, ahead of Prime Minister Modi's planned December visit.",
+  "source": "Bilateral trade between India and Canada fell 8.2% to $7.95 billion last fiscal year, but momentum is shifting fast."
+ },
+ {
+  "id": "g-2026-10-05-3-2",
+  "story_id": "2026-10-05-3",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In October 2026, India and Canada began the fifth round of talks on which type of trade agreement?",
+  "options": [
+   "Comprehensive Economic Partnership Agreement",
+   "Comprehensive Economic Cooperation Agreement",
+   "Trade and Economic Partnership Agreement",
+   "Broad-based Trade and Investment Agreement"
+  ],
+  "answer": 0,
+  "explain": "The talks are for the India–Canada Comprehensive Economic Partnership Agreement (CEPA), with a final deal targeted by December 2026. TBB reads the speed of these talks as a signal to US negotiators that India has viable alternative export destinations.",
+  "source": "Fifth-round talks for the India–Canada Comprehensive Economic Partnership Agreement (CEPA) kick off today, aiming for a final deal by December."
+ },
+ {
+  "id": "g-2026-10-05-aitn1-1",
+  "story_id": "2026-10-05-aitn1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about export support measures extended by the Department of Commerce in September 2026:",
+  "items": [
+   "The Remission of Duties and Taxes on Exported Products (RoDTEP) scheme was extended to December 31, 2026, with rates and value caps unchanged.",
+   "RoDTEP refunds central, state and local taxes built into the price of exported goods.",
+   "Component II of the Resilience and Logistics Intervention for Export Facilitation (RELIEF) offers 95 per cent risk cover through the Export Credit Guarantee Corporation on shipments to West Asia."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements match the story. RELIEF was launched in March 2026 after freight and insurance costs spiked on West Asian shipping routes, and its Component II also holds premiums at pre-disruption levels.",
+  "source": "The component offers 95 per cent risk cover through the state-run Export Credit Guarantee Corporation (ECGC) on shipments to the region and holds premiums at pre-disruption levels."
  }
 ]

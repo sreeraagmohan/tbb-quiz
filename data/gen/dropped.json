@@ -2248,5 +2248,25 @@
   "reasons": [
    "same fact as g-2026-05-13-1-1"
   ]
+ },
+ {
+  "id": "g-2026-10-05-2-3",
+  "story_id": "2026-10-05-2",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In September 2026, Chinese President Xi Jinping made his first visit to India since 2019 to attend the BRICS summit. Where was the summit held?",
+  "options": [
+   "New Delhi",
+   "Beijing",
+   "Johannesburg",
+   "Rio de Janeiro"
+  ],
+  "answer": 0,
+  "explain": "Modi hosted Xi at the BRICS summit in New Delhi on September 12, 2026, and told him border peace is the precondition for normalising ties. This followed the August 2026 agreement on two new military hotlines and two meeting points for commanders.",
+  "source": "On September 12, Modi hosted Xi at the BRICS summit in New Delhi, Xi's first visit to India since 2019, and told him border peace is the precondition for normalisation of ties (we covered it here).",
+  "reasons": [
+   "solver: trivial: stem says visit to India, so only New Delhi fits"
+  ]
  }
 ]

@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-10-05-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 755,
+  "output_tokens": 1971,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–Canada trade talks and the CEPA format; the India–US deal is skipped because it is only expected, not concluded.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Canada trade relations as of October 2026:",
+    "items": [
+     "Bilateral trade between India and Canada rose 8.2% to $7.95 billion in fiscal year 2025-26.",
+     "The fifth round of trade negotiations began in October 2026, with a final deal targeted by December 2026.",
+     "The diplomatic freeze between the two countries began in 2023 after then-PM Justin Trudeau alleged Indian involvement in the killing of Hardeep Singh Nijjar."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because bilateral trade fell 8.2% to $7.95 billion, not rose. Canadian Trade Minister Maninder Sidhu was due to visit New Delhi in October 2026 with a 300-strong business delegation, ahead of Prime Minister Modi's planned December visit.",
+    "source": "Bilateral trade between India and Canada fell 8.2% to $7.95 billion last fiscal year, but momentum is shifting fast."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In October 2026, India and Canada began the fifth round of talks on which type of trade agreement?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Comprehensive Economic Partnership Agreement",
+     "Comprehensive Economic Cooperation Agreement",
+     "Trade and Economic Partnership Agreement",
+     "Broad-based Trade and Investment Agreement"
+    ],
+    "answer": 0,
+    "explain": "The talks are for the India–Canada Comprehensive Economic Partnership Agreement (CEPA), with a final deal targeted by December 2026. TBB reads the speed of these talks as a signal to US negotiators that India has viable alternative export destinations.",
+    "source": "Fifth-round talks for the India–Canada Comprehensive Economic Partnership Agreement (CEPA) kick off today, aiming for a final deal by December."
+   }
+  ]
+ }
+}

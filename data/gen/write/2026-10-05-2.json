@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-10-05-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 762,
+  "output_tokens": 2942,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the October 2026 Ladakh naming exercise, places tied to the India–China boundary dispute, and the September 2026 BRICS summit venue.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, the Centre assigned standard names to 28 places and geographical features in Ladakh. Consider the following statements about this exercise:",
+    "items": [
+     "The names were placed on the official Survey of India map.",
+     "The places named included Gogra and Hot Spring, flashpoints during the 2020 India–China military standoff.",
+     "All the named sites lie on the Indian-held side of the Line of Actual Control."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because several of the named sites lie across the LAC in Aksai Chin, which China has controlled since the 1950s. India says the aim is accurate identification and public awareness.",
+    "source": "Several of the sites named lie across the Line of Actual Control (LAC) in Aksai Chin, which China has controlled since the 1950s."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the India–China boundary dispute:",
+    "items": [
+     "Zangnan — Chinese name for Arunachal Pradesh",
+     "Kumarayana Point — Located on China's G219 highway",
+     "G219 highway — Links Tibet with Xinjiang"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct. China calls Arunachal Pradesh Zangnan, or South Tibet, and Kumarayana Point, named by India in October 2026, sits on the G219, a key military route linking Tibet with Xinjiang.",
+    "source": "They include Guru Rinpoche Lake, east of China's G219 highway, and Kumarayana Point, on the highway itself."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, Chinese President Xi Jinping made his first visit to India since 2019 to attend the BRICS summit. Where was the summit held?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "New Delhi",
+     "Beijing",
+     "Johannesburg",
+     "Rio de Janeiro"
+    ],
+    "answer": 0,
+    "explain": "Modi hosted Xi at the BRICS summit in New Delhi on September 12, 2026, and told him border peace is the precondition for normalising ties. This followed the August 2026 agreement on two new military hotlines and two meeting points for commanders.",
+    "source": "On September 12, Modi hosted Xi at the BRICS summit in New Delhi, Xi's first visit to India since 2019, and told him border peace is the precondition for normalisation of ties (we covered it here)."
+   }
+  ]
+ }
+}

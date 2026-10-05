@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-10-05-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 743,
+  "output_tokens": 2110,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the location and diplomatic level of the October 2026 protests, and the 2019 downgrade of India–Pakistan ties; skipped the disputed accounts of the shooting.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, India and Pakistan lodged protests with each other over a shooting by India's Border Security Force on 2 October. Consider the following statements:",
+    "items": [
+     "The shooting took place in the Ferozepur sector of Rajasthan.",
+     "Each government lodged its protest with the other country's high commissioner."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "The Ferozepur sector is in Punjab, not Rajasthan. The protests were made to each other's chargé d'affaires, because neither country has had a high commissioner in the other's capital since 2019.",
+    "source": "On Saturday, each government protested to the other's chargé d'affaires over the October 2 killing of two Pakistani men by India's Border Security Force (BSF) in Punjab's Ferozepur sector."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "As of October 2026, since which year have India and Pakistan been without a high commissioner in each other's capitals?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "2019",
+     "2016",
+     "2001",
+     "2008"
+    ],
+    "answer": 0,
+    "explain": "Pakistan expelled India's envoy in 2019 after New Delhi revoked Jammu and Kashmir's special constitutional status. Since then, the two countries have dealt with each other through chargé d'affaires.",
+    "source": "Neither country has had a high commissioner in the other's capital since 2019, when Pakistan expelled India's envoy after New Delhi revoked Jammu and Kashmir's special constitutional status."
+   }
+  ]
+ }
+}
