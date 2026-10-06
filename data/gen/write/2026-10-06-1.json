@@ -1,0 +1,78 @@
+{
+ "story_id": "2026-10-06-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 910,
+  "output_tokens": 2569,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India-Switzerland mobility agreements, the India-EFTA TEPA commitments and the scientific partnership agreements signed during the October 2026 state visit.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, India and Switzerland signed agreements during Swiss President Guy Parmelin's state visit. Consider the following statements about them:",
+    "items": [
+     "The Migration and Mobility Partnership provides for multiple-entry visas valid for up to ten years.",
+     "A separate agreement lets 300 young professionals a year from each country take up temporary jobs in the other.",
+     "The Migration and Mobility Partnership commits both sides to tackling irregular migration and trafficking."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The multiple-entry visas are valid for up to five years, with stays of up to six months per visit, not ten years. The young professionals route matters because Indian workers otherwise compete for Switzerland's annual cap of 8,500 permits for workers from outside Europe's free-movement zone.",
+    "source": "The Migration and Mobility Partnership (MMP) provides for multiple-entry visas valid for up to five years, with stays of up to six months per visit, and renewable one-year student permits."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the commitments of the European Free Trade Association (EFTA) countries under the India-EFTA Trade and Economic Partnership Agreement (TEPA):",
+    "items": [
+     "Investment to be mobilised in India — USD 100 billion",
+     "Period over which the investment is to be mobilised — 15 years",
+     "Direct jobs to be supported in India — one million"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the TEPA commitments made by Switzerland, Norway, Iceland and Liechtenstein. The second India-EFTA Prosperity Summit on 7 October 2026 marked a year since the agreement came into force.",
+    "source": "Under the agreement, Switzerland, Norway, Iceland, and Liechtenstein aim to mobilise USD 100 billion of investment in India over 15 years and support one million direct jobs in India."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the scientific partnership agreements India signed with Swiss institutions in October 2026:",
+    "items": [
+     "The agreement with the Swiss National Science Foundation supports exploratory joint research.",
+     "The agreement with the Zurich University of Applied Sciences provides for training Indian engineers in tunnelling."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The Zurich University of Applied Sciences agreement is meant to train early-stage Indian startups, not engineers in tunnelling. Tunnelling, ropeways and electric vehicles fall under separate cooperation between India's road transport ministry and Switzerland's economic affairs department.",
+    "source": "one with the Swiss National Science Foundation to support exploratory joint research, and one with the Zurich University of Applied Sciences to train early-stage Indian startups."
+   }
+  ]
+ }
+}

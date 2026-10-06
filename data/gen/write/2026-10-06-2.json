@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-06-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 612,
+  "output_tokens": 2512,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Fleet Support Ship programme: numbers, builders, role, launch site, delivery timeline and the Kattupalli yard location.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Fleet Support Ships being built for the Indian Navy, the first of which was due to be launched in October 2026:",
+    "items": [
+     "Five such ships are being built, each displacing 43,500 tonnes.",
+     "Hindustan Shipyard Limited leads the programme, with Larsen & Toubro contracted for part-construction of two ships.",
+     "The ships will carry fuel, water, ammunition and stores to supply warships at sea."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct: five 43,500-tonne ships, led by Hindustan Shipyard with L&T building parts of two, will replenish warships with fuel, water, ammunition and stores. This allows longer deployments between port visits, helping the Navy sustain several missions at once.",
+    "source": "The ships will carry fuel, water, ammunition, and stores."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Indian Navy's Fleet Support Ship programme as of October 2026:",
+    "items": [
+     "The first ship was due to be launched at Hindustan Shipyard Limited in Visakhapatnam on 6 October 2026.",
+     "Deliveries of the ships are scheduled to begin in mid-2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong: deliveries are scheduled to begin in mid-2027, and dates for trials and operational service had not been announced. Defence Minister Rajnath Singh was also to inaugurate an upgraded slipway and a 300-tonne crane at the yard.",
+    "source": "The first of five Fleet Support Ships being built for the Indian Navy is due to launch today, 6 October, at Hindustan Shipyard Limited in Visakhapatnam."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In October 2026, Larsen & Toubro was carrying out part-construction of two Indian Navy Fleet Support Ships at Kattupalli. Kattupalli is located near which city?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Chennai",
+     "Kochi",
+     "Mumbai",
+     "Kolkata"
+    ],
+    "answer": 0,
+    "explain": "L&T's share of the work is at Kattupalli, near Chennai, while Hindustan Shipyard in Visakhapatnam leads the programme. Concurrent construction at the two yards is intended to meet delivery timelines.",
+    "source": "Hindustan Shipyard leads the programme, with Larsen & Toubro contracted for part-construction of two ships at Kattupalli, near Chennai."
+   }
+  ]
+ }
+}

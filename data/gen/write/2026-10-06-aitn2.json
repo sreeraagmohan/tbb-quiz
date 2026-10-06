@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-06-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 367,
+  "output_tokens": 1043,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the funding body, its parent department, the RDI Fund and the cost share for Project VeerAI's AI surveillance chip.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the Centre agreed to fund Project VeerAI, an AI chip for CCTV systems developed by Bengaluru-based BigEndian Semiconductors. Consider the following statements:",
+    "items": [
+     "The Technology Development Board, which is providing the funding, is part of the Department of Science and Technology.",
+     "The government funding covers the entire cost of Project VeerAI.",
+     "The money comes from the Research, Development and Innovation (RDI) Fund."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the INR 1.3 billion covers only half of Project VeerAI's INR 2.6 billion cost. The funding aims to take the camera-focused chip from mid-stage testing to a deployment-ready product, sold first to surveillance buyers in India and the Global South.",
+    "source": "The Technology Development Board (TDB), part of the Department of Science and Technology (DST), signed an agreement on Monday to give Bengaluru-based BigEndian Semiconductors INR 1.3 billion (USD 13.5 million) from the Research, Development and Innovation (RDI) Fund."
+   }
+  ]
+ }
+}

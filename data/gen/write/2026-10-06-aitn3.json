@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-06-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 358,
+  "output_tokens": 1256,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a corporate launch. One question tests the data-residency angle: the AWS Bedrock route, NPCI's AiNxt platform and the DPDP Act link.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, Anthropic began processing requests to its Claude AI models inside India. Consider the following statements about this development:",
+    "items": [
+     "The in-country processing is delivered through Microsoft's Azure cloud platform.",
+     "The National Payments Corporation of India said it is building its agentic AI platform, AiNxt, on Claude.",
+     "An industry technology chief tied the shift to the Digital Personal Data Protection Act."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong because the processing runs through Amazon Web Services' Bedrock platform, not Azure. The service targets banks, insurers and public bodies that need data kept in the country, and Mahindra Group's technology chief linked it to the DPDP Act.",
+    "source": "The National Payments Corporation of India (NPCI), which runs the Unified Payments Interface (UPI), India's real-time mobile payments system, said it is building its agentic AI platform, AiNxt, on Claude."
+   }
+  ]
+ }
+}

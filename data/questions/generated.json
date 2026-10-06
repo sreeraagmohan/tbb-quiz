@@ -17179,5 +17179,227 @@
   "answer": 3,
   "explain": "All three statements match the story. RELIEF was launched in March 2026 after freight and insurance costs spiked on West Asian shipping routes, and its Component II also holds premiums at pre-disruption levels.",
   "source": "The component offers 95 per cent risk cover through the state-run Export Credit Guarantee Corporation (ECGC) on shipments to the region and holds premiums at pre-disruption levels."
+ },
+ {
+  "id": "g-2026-10-06-1-1",
+  "story_id": "2026-10-06-1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, India and Switzerland signed agreements during Swiss President Guy Parmelin's state visit. Consider the following statements about them:",
+  "items": [
+   "The Migration and Mobility Partnership provides for multiple-entry visas valid for up to ten years.",
+   "A separate agreement lets 300 young professionals a year from each country take up temporary jobs in the other.",
+   "The Migration and Mobility Partnership commits both sides to tackling irregular migration and trafficking."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "The multiple-entry visas are valid for up to five years, with stays of up to six months per visit, not ten years. The young professionals route matters because Indian workers otherwise compete for Switzerland's annual cap of 8,500 permits for workers from outside Europe's free-movement zone.",
+  "source": "The Migration and Mobility Partnership (MMP) provides for multiple-entry visas valid for up to five years, with stays of up to six months per visit, and renewable one-year student permits."
+ },
+ {
+  "id": "g-2026-10-06-1-2",
+  "story_id": "2026-10-06-1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the commitments of the European Free Trade Association (EFTA) countries under the India-EFTA Trade and Economic Partnership Agreement (TEPA):",
+  "items": [
+   "Investment to be mobilised in India — USD 100 billion",
+   "Period over which the investment is to be mobilised — 15 years",
+   "Direct jobs to be supported in India — one million"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three pairs match the TEPA commitments made by Switzerland, Norway, Iceland and Liechtenstein. The second India-EFTA Prosperity Summit on 7 October 2026 marked a year since the agreement came into force.",
+  "source": "Under the agreement, Switzerland, Norway, Iceland, and Liechtenstein aim to mobilise USD 100 billion of investment in India over 15 years and support one million direct jobs in India."
+ },
+ {
+  "id": "g-2026-10-06-1-3",
+  "story_id": "2026-10-06-1",
+  "topic": "Science & Tech",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the scientific partnership agreements India signed with Swiss institutions in October 2026:",
+  "items": [
+   "The agreement with the Swiss National Science Foundation supports exploratory joint research.",
+   "The agreement with the Zurich University of Applied Sciences provides for training Indian engineers in tunnelling."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "The Zurich University of Applied Sciences agreement is meant to train early-stage Indian startups, not engineers in tunnelling. Tunnelling, ropeways and electric vehicles fall under separate cooperation between India's road transport ministry and Switzerland's economic affairs department.",
+  "source": "one with the Swiss National Science Foundation to support exploratory joint research, and one with the Zurich University of Applied Sciences to train early-stage Indian startups."
+ },
+ {
+  "id": "g-2026-10-06-2-1",
+  "story_id": "2026-10-06-2",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Fleet Support Ships being built for the Indian Navy, the first of which was due to be launched in October 2026:",
+  "items": [
+   "Five such ships are being built, each displacing 43,500 tonnes.",
+   "Hindustan Shipyard Limited leads the programme, with Larsen & Toubro contracted for part-construction of two ships.",
+   "The ships will carry fuel, water, ammunition and stores to supply warships at sea."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three are correct: five 43,500-tonne ships, led by Hindustan Shipyard with L&T building parts of two, will replenish warships with fuel, water, ammunition and stores. This allows longer deployments between port visits, helping the Navy sustain several missions at once.",
+  "source": "The ships will carry fuel, water, ammunition, and stores."
+ },
+ {
+  "id": "g-2026-10-06-2-2",
+  "story_id": "2026-10-06-2",
+  "topic": "Defence & Security",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Indian Navy's Fleet Support Ship programme as of October 2026:",
+  "items": [
+   "The first ship was due to be launched at Hindustan Shipyard Limited in Visakhapatnam on 6 October 2026.",
+   "Deliveries of the ships are scheduled to begin in mid-2026."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong: deliveries are scheduled to begin in mid-2027, and dates for trials and operational service had not been announced. Defence Minister Rajnath Singh was also to inaugurate an upgraded slipway and a 300-tonne crane at the yard.",
+  "source": "The first of five Fleet Support Ships being built for the Indian Navy is due to launch today, 6 October, at Hindustan Shipyard Limited in Visakhapatnam."
+ },
+ {
+  "id": "g-2026-10-06-2-3",
+  "story_id": "2026-10-06-2",
+  "topic": "Geography",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In October 2026, Larsen & Toubro was carrying out part-construction of two Indian Navy Fleet Support Ships at Kattupalli. Kattupalli is located near which city?",
+  "options": [
+   "Chennai",
+   "Kochi",
+   "Mumbai",
+   "Kolkata"
+  ],
+  "answer": 0,
+  "explain": "L&T's share of the work is at Kattupalli, near Chennai, while Hindustan Shipyard in Visakhapatnam leads the programme. Concurrent construction at the two yards is intended to meet delivery timelines.",
+  "source": "Hindustan Shipyard leads the programme, with Larsen & Toubro contracted for part-construction of two ships at Kattupalli, near Chennai."
+ },
+ {
+  "id": "g-2026-10-06-aitn1-1",
+  "story_id": "2026-10-06-aitn1",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about Exercise Mountain Guardian 2026, which India and the UAE began in October 2026:",
+  "items": [
+   "It is being held at Chaubatia in Uttarakhand and focuses on mountain warfare.",
+   "Its 92 participants are split equally between the Indian and Emirati armies.",
+   "It follows a strategic defence partnership framework agreed during the Indian Prime Minister's visit to the UAE in May 2026."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three are correct. The two-week drill at Chaubatia runs until 18 October with 92 troops shared equally, and it builds on the framework agreed on 15 May that listed training and exercises among areas of cooperation. The armies' earlier exercise, Desert Cyclone, first held in Rajasthan in January 2024, trained for urban combat in desert terrain.",
+  "source": "India and the United Arab Emirates (UAE) began Exercise Mountain Guardian 2026, a two-week army drill focused on mountain warfare, at Chaubatia in Uttarakhand on Monday."
+ },
+ {
+  "id": "g-2026-10-06-aitn2-1",
+  "story_id": "2026-10-06-aitn2",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Centre agreed to fund Project VeerAI, an AI chip for CCTV systems developed by Bengaluru-based BigEndian Semiconductors. Consider the following statements:",
+  "items": [
+   "The Technology Development Board, which is providing the funding, is part of the Department of Science and Technology.",
+   "The government funding covers the entire cost of Project VeerAI.",
+   "The money comes from the Research, Development and Innovation (RDI) Fund."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the INR 1.3 billion covers only half of Project VeerAI's INR 2.6 billion cost. The funding aims to take the camera-focused chip from mid-stage testing to a deployment-ready product, sold first to surveillance buyers in India and the Global South.",
+  "source": "The Technology Development Board (TDB), part of the Department of Science and Technology (DST), signed an agreement on Monday to give Bengaluru-based BigEndian Semiconductors INR 1.3 billion (USD 13.5 million) from the Research, Development and Innovation (RDI) Fund."
+ },
+ {
+  "id": "g-2026-10-06-aitn3-1",
+  "story_id": "2026-10-06-aitn3",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, Anthropic began processing requests to its Claude AI models inside India. Consider the following statements about this development:",
+  "items": [
+   "The in-country processing is delivered through Microsoft's Azure cloud platform.",
+   "The National Payments Corporation of India said it is building its agentic AI platform, AiNxt, on Claude.",
+   "An industry technology chief tied the shift to the Digital Personal Data Protection Act."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The first statement is wrong because the processing runs through Amazon Web Services' Bedrock platform, not Azure. The service targets banks, insurers and public bodies that need data kept in the country, and Mahindra Group's technology chief linked it to the DPDP Act.",
+  "source": "The National Payments Corporation of India (NPCI), which runs the Unified Payments Interface (UPI), India's real-time mobile payments system, said it is building its agentic AI platform, AiNxt, on Claude."
+ },
+ {
+  "id": "g-2026-10-06-aitn4-1",
+  "story_id": "2026-10-06-aitn4",
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to cheetahs brought to India under the project to reintroduce the species:",
+  "items": [
+   "Namibia — eight cheetahs in September 2022",
+   "South Africa — 12 cheetahs in February 2023",
+   "Botswana — nine cheetahs in February 2026"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three pairs are correct. Namibia sent eight cheetahs in September 2022, South Africa sent 12 in February 2023 and Botswana sent nine in February 2026, to restore a species that went extinct in India in 1952. In October 2026, a litter of five at Kuno National Park took India's cheetah count to 60, and the cubs' Botswanan father starts a new genetic line.",
+  "source": "Botswana's nine cheetahs arrived in February, following eight from Namibia in September 2022 and 12 from South Africa in February 2023, under a project to restore a species that went extinct in India in 1952."
  }
 ]

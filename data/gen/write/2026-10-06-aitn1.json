@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-06-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 375,
+  "output_tokens": 978,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the venue, participants and policy background of the India–UAE Exercise Mountain Guardian 2026.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Exercise Mountain Guardian 2026, which India and the UAE began in October 2026:",
+    "items": [
+     "It is being held at Chaubatia in Uttarakhand and focuses on mountain warfare.",
+     "Its 92 participants are split equally between the Indian and Emirati armies.",
+     "It follows a strategic defence partnership framework agreed during the Indian Prime Minister's visit to the UAE in May 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The two-week drill at Chaubatia runs until 18 October with 92 troops shared equally, and it builds on the framework agreed on 15 May that listed training and exercises among areas of cooperation. The armies' earlier exercise, Desert Cyclone, first held in Rajasthan in January 2024, trained for urban combat in desert terrain.",
+    "source": "India and the United Arab Emirates (UAE) began Exercise Mountain Guardian 2026, a two-week army drill focused on mountain warfare, at Chaubatia in Uttarakhand on Monday."
+   }
+  ]
+ }
+}

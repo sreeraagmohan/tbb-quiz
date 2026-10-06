@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-06-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 326,
+  "output_tokens": 869,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the sequence of cheetah translocations from three African source countries under India's reintroduction project.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to cheetahs brought to India under the project to reintroduce the species:",
+    "items": [
+     "Namibia — eight cheetahs in September 2022",
+     "South Africa — 12 cheetahs in February 2023",
+     "Botswana — nine cheetahs in February 2026"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs are correct. Namibia sent eight cheetahs in September 2022, South Africa sent 12 in February 2023 and Botswana sent nine in February 2026, to restore a species that went extinct in India in 1952. In October 2026, a litter of five at Kuno National Park took India's cheetah count to 60, and the cubs' Botswanan father starts a new genetic line.",
+    "source": "Botswana's nine cheetahs arrived in February, following eight from Namibia in September 2022 and 12 from South Africa in February 2023, under a project to restore a species that went extinct in India in 1952."
+   }
+  ]
+ }
+}
