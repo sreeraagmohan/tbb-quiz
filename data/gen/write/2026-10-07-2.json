@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-07-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 704,
+  "output_tokens": 2713,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the SME Growth Fund's outlay, design and route, how it differs from the SRI Fund, and the November 2025 layoff-permission threshold.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements relating to government-backed equity funds for small businesses in India:",
+    "items": [
+     "The Self-Reliant India Fund, set up in 2021, makes direct equity investments in micro enterprises that the government itself selects.",
+     "The SME Growth Fund approved by the Union Cabinet in October 2026 was first announced in the Union Budget 2026-27."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong. The SRI Fund routes money to micro enterprises through private funds that pick the businesses, whereas the Cabinet describes the SME Growth Fund's investments as direct. The SME Growth Fund was first announced in the February 2026 Budget and approved in October 2026.",
+    "source": "This year's Budget topped up the Self-Reliant India (SRI) Fund, set up in 2021, which routes money to micro enterprises through private funds that pick the businesses."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the SME Growth Fund approved by the Union Cabinet in October 2026:",
+    "items": [
+     "It has an approved outlay of INR 100 billion.",
+     "Most of the fund is earmarked for manufacturing firms.",
+     "The government's commitment flows into an Alternative Investment Fund set up under the scheme."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The Cabinet approved INR 100 billion (USD 1.04 billion), mostly for manufacturing firms, routed through an Alternative Investment Fund. The fund targets SMEs past the startup stage that lack long-term capital to expand, buy technology or enter export markets.",
+    "source": "The Union Cabinet has approved INR 100 billion (USD 1.04 billion) for a new SME Growth Fund."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "Under the labour law changes that took effect on 21 November 2025, factories need government permission for layoffs only once they employ at least how many workers?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "300",
+     "100",
+     "200",
+     "500"
+    ],
+    "answer": 0,
+    "explain": "The threshold was raised to 300 workers, up from 100. Together with the SME Growth Fund approved in October 2026, this eases two hurdles mid-sized manufacturers faced when trying to scale.",
+    "source": "Factories now need government permission for layoffs only once they employ 300 or more workers, up from 100."
+   }
+  ]
+ }
+}

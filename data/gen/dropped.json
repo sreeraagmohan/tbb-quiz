@@ -2268,5 +2268,58 @@
   "reasons": [
    "solver: trivial: stem says visit to India, so only New Delhi fits"
   ]
+ },
+ {
+  "id": "g-2026-10-07-4-1",
+  "story_id": "2026-10-07-4",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Union Cabinet approved an Integrated Transport & Logistics Authority (ITLA). Consider the following statements about it:",
+  "items": [
+   "It will prepare a national transport master plan covering a horizon of at least five years.",
+   "It will technically appraise central government infrastructure projects costing INR 5 billion or more.",
+   "It will assess the impact of major projects after their completion."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the master plan will cover at least ten years. Five-year and annual plans are the ministries' own plans, which ITLA will assess against that framework. The plan spans roads, railways, ports, aviation, waterways, urban mobility and logistics.",
+  "source": "ITLA will technically appraise central government infrastructure projects costing INR 5 billion (USD 51.9 million) or more.",
+  "reasons": [
+   "not exactly one correct option",
+   "solver: ambiguous wording: a plan covering at least ten years also covers at least five years, so statement 1 is arguably true"
+  ]
+ },
+ {
+  "id": "g-2026-10-07-aitn3-1",
+  "story_id": "2026-10-07-aitn3",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Ministry of Defence signed a contract with BrahMos Aerospace for missile fire control systems and launchers on Indian Navy warships. Consider the following statements about the order:",
+  "items": [
+   "It was placed under the Buy (Global) procurement category.",
+   "The contractor, BrahMos Aerospace, is an India-Russia joint venture.",
+   "The order carries at least 68 per cent local content."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the order falls under the Buy (Indian-IDDM) category, used for equipment designed, developed and manufactured in India. The INR 6.62 billion contract covers the BrahMos, a supersonic missile that is the Navy's primary ship-to-ship strike weapon.",
+  "source": "The order falls under the Buy (Indian-IDDM) category, used for equipment designed, developed, and manufactured in India, and carries at least 68 per cent local content.",
+  "reasons": [
+   "explanation: The explanation says \"The INR 6.62 billion contract covers the BrahMos, a supersonic missile\", implying the missiles themselves are being bought. The story says the contract is for missile fire control systems and launchers on Indian Navy warships, not for the missiles."
+  ]
  }
 ]

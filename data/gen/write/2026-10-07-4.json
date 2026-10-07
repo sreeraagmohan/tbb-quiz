@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-10-07-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 582,
+  "output_tokens": 2163,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the functions of the new Integrated Transport & Logistics Authority and how it relates to the PM Gati Shakti National Master Plan.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the Union Cabinet approved an Integrated Transport & Logistics Authority (ITLA). Consider the following statements about it:",
+    "items": [
+     "It will prepare a national transport master plan covering a horizon of at least five years.",
+     "It will technically appraise central government infrastructure projects costing INR 5 billion or more.",
+     "It will assess the impact of major projects after their completion."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the master plan will cover at least ten years. Five-year and annual plans are the ministries' own plans, which ITLA will assess against that framework. The plan spans roads, railways, ports, aviation, waterways, urban mobility and logistics.",
+    "source": "ITLA will technically appraise central government infrastructure projects costing INR 5 billion (USD 51.9 million) or more."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Prime Minister Gati Shakti National Master Plan, as of 2026:",
+    "items": [
+     "Approval and delivery of projects remain with individual ministries and states.",
+     "By August 2026, its Network Planning Group had evaluated 198 projects in all."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the Network Planning Group had evaluated 396 projects, of which 198 were under implementation. Gati Shakti brings ministries and states onto a shared digital planning platform, and the new ITLA is meant to complement that framework.",
+    "source": "By August, its Network Planning Group had evaluated 396 projects, with 198 under implementation."
+   }
+  ]
+ }
+}

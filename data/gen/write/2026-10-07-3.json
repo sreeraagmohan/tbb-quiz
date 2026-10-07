@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-10-07-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 641,
+  "output_tokens": 1654,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the FSSAI ban on the 'energy drink' label and the Delhi High Court's transitional relief; market size figures skipped as non-durable.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, a court granted beverage makers a temporary reprieve over the use of the phrase \"energy drink\" on their products. Consider the following statements:",
+    "items": [
+     "In June 2026, the Food Safety and Standards Authority of India (FSSAI) barred high-caffeine beverage makers from using the \"energy drink\" label.",
+     "The court allowed the companies to sell existing inventory manufactured on or before 6 October 2026.",
+     "The court permitted fresh production runs carrying the label until the existing stock was cleared."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong: any new production run carrying the banned label faces immediate seizure, and only stock made on or before the date of the order can be sold. The court criticised FSSAI for issuing the order without any transition time.",
+    "source": "Big Beverage can sell inventory manufactured on or before Tuesday, but any new production run carrying the forbidden label will face immediate seizure."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, which court allowed PepsiCo, Monster, Reliance and Red Bull to clear existing stock labelled \"energy drink\" after the food regulator banned the phrase?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Delhi High Court",
+     "Supreme Court of India",
+     "Bombay High Court",
+     "Madras High Court"
+    ],
+    "answer": 0,
+    "explain": "The Delhi High Court granted the temporary reprieve after state authorities had seized inventory and pulled hundreds of millions of cans off shelves. It said it was \"never too late\" to fix a mistake.",
+    "source": "The Delhi High Court granted PepsiCo, Monster, Reliance, and Red Bull a temporary reprieve on Tuesday, permitting them to clear existing stock labeled \"energy drink\" after the food regulator banned the phrase."
+   }
+  ]
+ }
+}

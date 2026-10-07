@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-07-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 369,
+  "output_tokens": 1094,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the place in the news (Strait of Hormuz, Khasab in Oman) and the MEA response; avoids the crew numbers, where the story is internally inconsistent.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, a projectile struck the commercial vessel MT On Peace in the Strait of Hormuz, injuring several Indian sailors. Consider the following statements about this incident:",
+    "items": [
+     "The vessel was flagged in Panama.",
+     "The Ministry of External Affairs statement identified the attacker.",
+     "The injured crew were evacuated to Khasab in Oman for treatment."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the MEA condemned the attack and called the targeting of shipping a cause of deep concern, but its statement did not name an attacker. The strike followed a 13 September 2026 attack on a merchant vessel off Oman with 14 Indians aboard.",
+    "source": "Omani authorities helped evacuate the injured, who are being treated in Khasab, Oman."
+   }
+  ]
+ }
+}

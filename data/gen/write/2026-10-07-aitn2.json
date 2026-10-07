@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-07-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 341,
+  "output_tokens": 229,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a scheduled ministerial tour with only planned talks and no concrete agreement, partnership or outcome to test.",
+  "questions": []
+ }
+}

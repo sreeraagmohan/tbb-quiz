@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-10-07-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 725,
+  "output_tokens": 1412,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Mostly protest politics; tested only the durable institutional facts: the SIR's stated purpose, the Supreme Court's decision to hear the petitions, and the CEC in office.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Election Commission of India's Special Intensive Revision (SIR), which drew opposition protests in October 2026:",
+    "items": [
+     "The Election Commission of India says the SIR is meant to clean up India's voter rolls.",
+     "In October 2026, the Supreme Court declined to hear petitions challenging the SIR and the Chief Election Commissioner's conduct."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because on 5 October 2026 the Supreme Court agreed to hear the petitions and said it would step in if any decisions were found to be unlawful. Opposition parties say the SIR favours the BJP, which the ECI and the BJP deny.",
+    "source": "On Monday, a day before the march, the Supreme Court agreed to hear petitions challenging the voter drive and Kumar's conduct."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, opposition MPs marched from Parliament to the Election Commission of India headquarters demanding the resignation of which Chief Election Commissioner?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Gyanesh Kumar",
+     "Rajiv Kumar",
+     "Sushil Chandra",
+     "Sunil Arora"
+    ],
+    "answer": 0,
+    "explain": "The opposition marched on 6 October 2026 to demand that Chief Election Commissioner Gyanesh Kumar quit over the Special Intensive Revision. Removing him would still need a special majority in both houses of Parliament, which the opposition lacks.",
+    "source": "calling for Chief Election Commissioner (CEC) Gyanesh Kumar to quit."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-07-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 311,
+  "output_tokens": 1112,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Olympic hosting is peripheral to Prelims. This tests the 2036 contender list, the IOC timeline and the 2030 Commonwealth Games venue.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the International Olympic Committee (IOC) named the countries in preliminary talks to host the 2036 Summer Olympics. Consider the following statements:",
+    "items": [
+     "India is one of seven countries in these talks, alongside Qatar, South Africa and South Korea, among others.",
+     "The IOC is scheduled to make its final decision on the 2036 host in March 2027.",
+     "Ahmedabad is due to host the 2030 Commonwealth Games."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong. March 2027 is when the IOC draws up a shortlist, with preferred hosts named in 2028 and a final decision in mid-2029. India has never hosted the Games, and the other contenders are Germany, Hungary and Turkey.",
+    "source": "The IOC will draw up a shortlist in March 2027, name preferred hosts in 2028, and make a final decision in mid-2029."
+   }
+  ]
+ }
+}

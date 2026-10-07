@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-07-aitn3",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": false,
+    "problem": "The explanation says \"The INR 6.62 billion contract covers the BrahMos, a supersonic missile\", implying the missiles themselves are being bought. The story says the contract is for missile fire control systems and launchers on Indian Navy warships, not for the missiles."
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 1662,
+  "output_tokens": 323,
+  "cache_creation_input_tokens": 798,
+  "cache_read_input_tokens": 0
+ }
+}
