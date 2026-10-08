@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-08-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 728,
+  "output_tokens": 2324,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the October 2026 RBI repo hike, the MPC's stance change and vote, and the revised FY27 inflation and growth projections; market moves skipped.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, the Reserve Bank of India raised its benchmark repo rate. Consider the following statements about this decision:",
+    "items": [
+     "It was the RBI's first repo rate hike in nearly four years.",
+     "The Monetary Policy Committee's decision to change its policy stance was taken by a split vote."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the Monetary Policy Committee voted unanimously to change its stance. The 25 basis point hike was the first in nearly four years and formally signalled an end to monetary easing.",
+    "source": "The Reserve Bank of India raised its benchmark repo rate by 25 basis points to 5.5 percent on Wednesday, making its first hike in nearly four years and formally signaling an end to monetary easing."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the RBI's monetary policy decision of October 2026:",
+    "items": [
+     "Repo rate after the hike — 5.5%",
+     "Revised FY27 inflation projection — 5.2%",
+     "Revised FY27 real GDP growth forecast — 7.1%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct: the repo rate rose to 5.5%, the FY27 inflation projection was raised to 5.2% from 5.0%, and the FY27 growth forecast was upgraded by 40 basis points to 7.1%. Rising oil prices from West Asia instability and a weak southwest monsoon with El Niño pushed up food and energy costs.",
+    "source": "The RBI revised its FY27 inflation projection up to 5.2% from 5.0%, with headline CPI expected to average nearly 5.8% over the next three quarters."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, the RBI's Monetary Policy Committee changed its policy stance from \"neutral\" to which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Calibrated tightening",
+     "Accommodative",
+     "Withdrawal of accommodation",
+     "Gradual easing"
+    ],
+    "answer": 0,
+    "explain": "The MPC moved from a neutral stance to calibrated tightening. Governor Sanjay Malhotra said rate cuts were off the table for the near term, leaving only further hikes or pauses.",
+    "source": "The Monetary Policy Committee unanimously voted to alter its stance from \"neutral\" to \"calibrated tightening.\""
+   }
+  ]
+ }
+}

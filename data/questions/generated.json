@@ -17610,5 +17610,129 @@
   "answer": 2,
   "explain": "Statement 2 is wrong. March 2027 is when the IOC draws up a shortlist, with preferred hosts named in 2028 and a final decision in mid-2029. India has never hosted the Games, and the other contenders are Germany, Hungary and Turkey.",
   "source": "The IOC will draw up a shortlist in March 2027, name preferred hosts in 2028, and make a final decision in mid-2029."
+ },
+ {
+  "id": "g-2026-10-08-1-1",
+  "story_id": "2026-10-08-1",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, the Reserve Bank of India raised its benchmark repo rate. Consider the following statements about this decision:",
+  "items": [
+   "It was the RBI's first repo rate hike in nearly four years.",
+   "The Monetary Policy Committee's decision to change its policy stance was taken by a split vote."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the Monetary Policy Committee voted unanimously to change its stance. The 25 basis point hike was the first in nearly four years and formally signalled an end to monetary easing.",
+  "source": "The Reserve Bank of India raised its benchmark repo rate by 25 basis points to 5.5 percent on Wednesday, making its first hike in nearly four years and formally signaling an end to monetary easing."
+ },
+ {
+  "id": "g-2026-10-08-1-2",
+  "story_id": "2026-10-08-1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the RBI's monetary policy decision of October 2026:",
+  "items": [
+   "Repo rate after the hike — 5.5%",
+   "Revised FY27 inflation projection — 5.2%",
+   "Revised FY27 real GDP growth forecast — 7.1%"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three are correct: the repo rate rose to 5.5%, the FY27 inflation projection was raised to 5.2% from 5.0%, and the FY27 growth forecast was upgraded by 40 basis points to 7.1%. Rising oil prices from West Asia instability and a weak southwest monsoon with El Niño pushed up food and energy costs.",
+  "source": "The RBI revised its FY27 inflation projection up to 5.2% from 5.0%, with headline CPI expected to average nearly 5.8% over the next three quarters."
+ },
+ {
+  "id": "g-2026-10-08-1-3",
+  "story_id": "2026-10-08-1",
+  "topic": "Economy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In October 2026, the RBI's Monetary Policy Committee changed its policy stance from \"neutral\" to which of the following?",
+  "options": [
+   "Calibrated tightening",
+   "Accommodative",
+   "Withdrawal of accommodation",
+   "Gradual easing"
+  ],
+  "answer": 0,
+  "explain": "The MPC moved from a neutral stance to calibrated tightening. Governor Sanjay Malhotra said rate cuts were off the table for the near term, leaving only further hikes or pauses.",
+  "source": "The Monetary Policy Committee unanimously voted to alter its stance from \"neutral\" to \"calibrated tightening.\""
+ },
+ {
+  "id": "g-2026-10-08-2-1",
+  "story_id": "2026-10-08-2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Black Sea truce proposal India made to Russia and Ukraine in September 2026:",
+  "items": [
+   "External Affairs Minister S Jaishankar presented the plan during a visit to Moscow.",
+   "Besides halting attacks on energy facilities, the plan seeks to end strikes on commercial shipping in the Black Sea."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Jaishankar presented the plan in Kyiv, not Moscow. Its three parts cover stopping attacks on energy and other infrastructure, keeping grain and energy moving through Black Sea ports, and ending strikes on commercial shipping, though neither side had formally accepted it as of October 2026.",
+  "source": "External Affairs Minister S Jaishankar presented the plan during his visit to Kyiv last month."
+ },
+ {
+  "id": "g-2026-10-08-2-2",
+  "story_id": "2026-10-08-2",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "In October 2026, Ukraine was weighing four truce proposals linked to the Black Sea. Consider the following pairs of proposing country and main focus of its proposal:",
+  "items": [
+   "Egypt — Grain shipments",
+   "United States — Energy ceasefire",
+   "Türkiye — Energy ceasefire"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Türkiye's proposal, like Egypt's, focuses mainly on grain shipments; only the US plan centres on an energy ceasefire. India's plan covers both, and Ukrainian Foreign Minister Andrii Sybiha called it the broadest of the four.",
+  "source": "Egypt and Türkiye focus mainly on grain shipments, and the US on an energy ceasefire."
+ },
+ {
+  "id": "g-2026-10-08-2-3",
+  "story_id": "2026-10-08-2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "The Lindsey O. Graham Sanctioning Russia and Iran Act, signed into US law in September 2026, allows the US President to impose tariffs of up to what level on major buyers of Russian energy such as India?",
+  "options": [
+   "100 per cent",
+   "50 per cent",
+   "25 per cent",
+   "200 per cent"
+  ],
+  "answer": 0,
+  "explain": "The Act lets the US President impose tariffs of up to 100 per cent on major buyers of Russian energy, whose purchases Washington says fund Russia's war. India's Black Sea plan gives it an argument against these tariffs, since its Russian oil purchases now come with a push to stop attacks at sea.",
+  "source": "The Lindsey O. Graham Sanctioning Russia and Iran Act, signed into law last month, lets US President Donald Trump impose tariffs of up to 100 per cent on India and other major buyers of Russian energy, whose purchases Washington says fund Russia's war."
  }
 ]

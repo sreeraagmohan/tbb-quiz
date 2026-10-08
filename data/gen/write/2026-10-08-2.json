@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-08-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 890,
+  "output_tokens": 2363,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested India's Black Sea truce proposal, the rival proposals Ukraine is weighing, and the new US sanctions law on Russian energy buyers.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Black Sea truce proposal India made to Russia and Ukraine in September 2026:",
+    "items": [
+     "External Affairs Minister S Jaishankar presented the plan during a visit to Moscow.",
+     "Besides halting attacks on energy facilities, the plan seeks to end strikes on commercial shipping in the Black Sea."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Jaishankar presented the plan in Kyiv, not Moscow. Its three parts cover stopping attacks on energy and other infrastructure, keeping grain and energy moving through Black Sea ports, and ending strikes on commercial shipping, though neither side had formally accepted it as of October 2026.",
+    "source": "External Affairs Minister S Jaishankar presented the plan during his visit to Kyiv last month."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In October 2026, Ukraine was weighing four truce proposals linked to the Black Sea. Consider the following pairs of proposing country and main focus of its proposal:",
+    "items": [
+     "Egypt — Grain shipments",
+     "United States — Energy ceasefire",
+     "Türkiye — Energy ceasefire"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Türkiye's proposal, like Egypt's, focuses mainly on grain shipments; only the US plan centres on an energy ceasefire. India's plan covers both, and Ukrainian Foreign Minister Andrii Sybiha called it the broadest of the four.",
+    "source": "Egypt and Türkiye focus mainly on grain shipments, and the US on an energy ceasefire."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "The Lindsey O. Graham Sanctioning Russia and Iran Act, signed into US law in September 2026, allows the US President to impose tariffs of up to what level on major buyers of Russian energy such as India?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "100 per cent",
+     "50 per cent",
+     "25 per cent",
+     "200 per cent"
+    ],
+    "answer": 0,
+    "explain": "The Act lets the US President impose tariffs of up to 100 per cent on major buyers of Russian energy, whose purchases Washington says fund Russia's war. India's Black Sea plan gives it an argument against these tariffs, since its Russian oil purchases now come with a push to stop attacks at sea.",
+    "source": "The Lindsey O. Graham Sanctioning Russia and Iran Act, signed into law last month, lets US President Donald Trump impose tariffs of up to 100 per cent on India and other major buyers of Russian energy, whose purchases Washington says fund Russia's war."
+   }
+  ]
+ }
+}
