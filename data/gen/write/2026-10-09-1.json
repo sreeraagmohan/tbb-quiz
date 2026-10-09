@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-10-09-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 582,
+  "output_tokens": 1727,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the GST Council's October 2026 enforcement recommendations and the provisional refund mechanism.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the recommendations made by the Goods and Services Tax (GST) Council in October 2026:",
+    "items": [
+     "The Council recommended scrapping tax officers' arrest powers entirely.",
+     "The Council recommended raising the prosecution threshold from INR 10 million to INR 100 million.",
+     "The recommendations require legal amendments and notifications before taking effect."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the prosecution threshold is to rise from INR 10 million to INR 50 million, not INR 100 million. The arrest powers would go entirely, but nothing changes until the laws are amended and notifications are issued.",
+    "source": "The Council recommended scrapping arrest powers entirely and raising the prosecution threshold from INR 10 million (USD 103,200) to INR 50 million (USD 516,100)."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, the GST Council recommended reforms to refunds and enforcement. Consider the following statements:",
+    "items": [
+     "Exporters, and firms whose inputs attract higher tax than their finished products, would have 90 percent of their refund claims paid provisionally after an automated risk check.",
+     "Prosecution would remain for fraudulently claiming input tax credit without receiving goods, services or an invoice."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements match the Council's recommendations. Input tax credit offsets tax paid on purchases against tax owed on sales, and fake credit claims are the one offence the Council chose to keep prosecuting.",
+    "source": "Exporters, and firms whose inputs attract higher tax than their finished products, would have 90 percent of their refund claims paid provisionally after an automated risk check."
+   }
+  ]
+ }
+}

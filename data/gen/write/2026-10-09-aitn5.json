@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-09-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 274,
+  "output_tokens": 1054,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested India's installed wind capacity, the record annual addition and the 2030 target as stated in October 2026.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the Union Renewable Energy Minister opened the Windergy India conference in Chennai. Consider the following statements about India's wind energy sector:",
+    "items": [
+     "India's installed wind capacity stood at 59.2 GW as of 30 September 2026.",
+     "India added a record 6.05 GW of wind capacity in the financial year to March 2026.",
+     "India's target is 100 GW of installed wind capacity by 2030."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements match the figures Pralhad Joshi gave at the conference. He said annual additions would beat the 6.05 GW record this year and that India is on track for 100 GW by 2030, which leaves about 40.8 GW still to be added.",
+    "source": "India added a record 6.05 GW in the financial year to March 2026, and Joshi said annual additions would beat that record this year and that India is on track to meet its target of 100 GW of installed wind capacity by the year 2030."
+   }
+  ]
+ }
+}

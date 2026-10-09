@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-09-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 318,
+  "output_tokens": 1036,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the waiver of testing charges for indigenous defence development schemes and the new proof-range slot rule.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the Defence Minister approved a revised procedure for Indian defence firms to use government test facilities. Consider the following statements about it:",
+    "items": [
+     "Testing charges are waived for projects under the Innovations for Defence Excellence (iDEX), the Technology Development Fund (TDF) and the Make category.",
+     "Proof ranges will reserve a three-day slot each month for government-sponsored and self-funded development projects.",
+     "The procedure covers facilities run by the DRDO, government quality assurance agencies and the armed forces."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: proof ranges will reserve a three-day slot each quarter, not each month. The revision opens proof ranges, field firing ranges and laboratory test facilities to Indian defence firms and waives charges for projects under the ministry's development schemes.",
+    "source": "Proof ranges will now reserve a three-day slot each quarter for government-sponsored and self-funded development projects."
+   }
+  ]
+ }
+}

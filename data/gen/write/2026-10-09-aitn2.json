@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-09-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 344,
+  "output_tokens": 1095,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly a political spat; tested only the durable facts on India's three licensed satellite broadband operators and their regulatory status.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the Ministry of Communications responded to a claim that Starlink was being unfairly blocked in India. Consider the following statements about satellite broadband operators in India at that time:",
+    "items": [
+     "All three licensed satellite operators had been assigned spectrum and had begun commercial operations.",
+     "The Ministry said security assessments were under way for each of the licensed satellite operators.",
+     "Eutelsat OneWeb, one of the licensed operators, is backed by Bharti Airtel."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because Starlink, Eutelsat OneWeb and Reliance's Jio-SES venture were all still awaiting spectrum assignment and final clearances before commercial launch. The Ministry called the suggestion of a discriminatory framework baseless and said all three were at broadly the same stage.",
+    "source": "Starlink, Bharti Airtel-backed Eutelsat OneWeb, and Reliance's Jio-SES venture still await spectrum assignment and final clearances before launching commercial operations"
+   }
+  ]
+ }
+}

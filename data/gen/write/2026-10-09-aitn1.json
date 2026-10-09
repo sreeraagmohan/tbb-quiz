@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-09-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 387,
+  "output_tokens": 1141,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the October 2026 trade margin cap on anti-cancer drugs: its level, coverage and the Supreme Court hearing that preceded it.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the Centre capped trade margins on anti-cancer drugs outside India's existing price-control list. Consider the following statements about this move:",
+    "items": [
+     "The cap applies only to generic and off-patent anti-cancer medicines.",
+     "Trade margins are capped at 30 percent of the maximum retail price.",
+     "It followed a September 2026 Supreme Court hearing in which judges flagged hospitals marking up cancer drugs tenfold."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the cap covers branded and generic, domestic and imported, and patented and off-patent medicines alike. Official sources estimate prices could fall by up to 70 percent, saving patients INR 25 billion a year, while the Supreme Court had pushed for a uniform 16 percent margin on all medicines.",
+    "source": "On Thursday, the Centre capped trade margins, the markup added between manufacturer and patient, at 30 percent of the maximum retail price (MRP) for all anti-cancer drugs outside India's existing price-control list."
+   }
+  ]
+ }
+}

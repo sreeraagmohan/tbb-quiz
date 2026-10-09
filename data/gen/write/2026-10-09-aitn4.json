@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-09-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 338,
+  "output_tokens": 1053,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the 10th India Mobile Congress, the 6G patents target and the 5G user goal; one question as this is an Also in the news item.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India Mobile Congress (IMC) opened by Prime Minister Narendra Modi in New Delhi in October 2026:",
+    "items": [
+     "It was the 10th edition of the India Mobile Congress.",
+     "At a side session, the government reiterated a target of at least 10 percent of global 6G patents and standards for India.",
+     "The Communications Minister set a goal of 1 billion 5G users in India by 2027."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "Statements 1 and 2 are correct. Statement 3 is wrong because Jyotiraditya Scindia said India aims for 1 billion 5G users by 2030, up from 550 million. Minister of State Chandra Sekhar Pemmasani also called for Indian alternatives to imported network technologies such as chipsets, radios, routers and optical systems.",
+    "source": "Communications Minister Jyotiraditya Scindia said India has 550 million 5G users and aims for 1 billion by 2030."
+   }
+  ]
+ }
+}

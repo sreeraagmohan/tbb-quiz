@@ -17734,5 +17734,165 @@
   "answer": 0,
   "explain": "The Act lets the US President impose tariffs of up to 100 per cent on major buyers of Russian energy, whose purchases Washington says fund Russia's war. India's Black Sea plan gives it an argument against these tariffs, since its Russian oil purchases now come with a push to stop attacks at sea.",
   "source": "The Lindsey O. Graham Sanctioning Russia and Iran Act, signed into law last month, lets US President Donald Trump impose tariffs of up to 100 per cent on India and other major buyers of Russian energy, whose purchases Washington says fund Russia's war."
+ },
+ {
+  "id": "g-2026-10-09-1-1",
+  "story_id": "2026-10-09-1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the recommendations made by the Goods and Services Tax (GST) Council in October 2026:",
+  "items": [
+   "The Council recommended scrapping tax officers' arrest powers entirely.",
+   "The Council recommended raising the prosecution threshold from INR 10 million to INR 100 million.",
+   "The recommendations require legal amendments and notifications before taking effect."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the prosecution threshold is to rise from INR 10 million to INR 50 million, not INR 100 million. The arrest powers would go entirely, but nothing changes until the laws are amended and notifications are issued.",
+  "source": "The Council recommended scrapping arrest powers entirely and raising the prosecution threshold from INR 10 million (USD 103,200) to INR 50 million (USD 516,100)."
+ },
+ {
+  "id": "g-2026-10-09-1-2",
+  "story_id": "2026-10-09-1",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, the GST Council recommended reforms to refunds and enforcement. Consider the following statements:",
+  "items": [
+   "Exporters, and firms whose inputs attract higher tax than their finished products, would have 90 percent of their refund claims paid provisionally after an automated risk check.",
+   "Prosecution would remain for fraudulently claiming input tax credit without receiving goods, services or an invoice."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both statements match the Council's recommendations. Input tax credit offsets tax paid on purchases against tax owed on sales, and fake credit claims are the one offence the Council chose to keep prosecuting.",
+  "source": "Exporters, and firms whose inputs attract higher tax than their finished products, would have 90 percent of their refund claims paid provisionally after an automated risk check."
+ },
+ {
+  "id": "g-2026-10-09-aitn1-1",
+  "story_id": "2026-10-09-aitn1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Centre capped trade margins on anti-cancer drugs outside India's existing price-control list. Consider the following statements about this move:",
+  "items": [
+   "The cap applies only to generic and off-patent anti-cancer medicines.",
+   "Trade margins are capped at 30 percent of the maximum retail price.",
+   "It followed a September 2026 Supreme Court hearing in which judges flagged hospitals marking up cancer drugs tenfold."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the cap covers branded and generic, domestic and imported, and patented and off-patent medicines alike. Official sources estimate prices could fall by up to 70 percent, saving patients INR 25 billion a year, while the Supreme Court had pushed for a uniform 16 percent margin on all medicines.",
+  "source": "On Thursday, the Centre capped trade margins, the markup added between manufacturer and patient, at 30 percent of the maximum retail price (MRP) for all anti-cancer drugs outside India's existing price-control list."
+ },
+ {
+  "id": "g-2026-10-09-aitn2-1",
+  "story_id": "2026-10-09-aitn2",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Ministry of Communications responded to a claim that Starlink was being unfairly blocked in India. Consider the following statements about satellite broadband operators in India at that time:",
+  "items": [
+   "All three licensed satellite operators had been assigned spectrum and had begun commercial operations.",
+   "The Ministry said security assessments were under way for each of the licensed satellite operators.",
+   "Eutelsat OneWeb, one of the licensed operators, is backed by Bharti Airtel."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because Starlink, Eutelsat OneWeb and Reliance's Jio-SES venture were all still awaiting spectrum assignment and final clearances before commercial launch. The Ministry called the suggestion of a discriminatory framework baseless and said all three were at broadly the same stage.",
+  "source": "Starlink, Bharti Airtel-backed Eutelsat OneWeb, and Reliance's Jio-SES venture still await spectrum assignment and final clearances before launching commercial operations"
+ },
+ {
+  "id": "g-2026-10-09-aitn3-1",
+  "story_id": "2026-10-09-aitn3",
+  "topic": "Defence & Security",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Defence Minister approved a revised procedure for Indian defence firms to use government test facilities. Consider the following statements about it:",
+  "items": [
+   "Testing charges are waived for projects under the Innovations for Defence Excellence (iDEX), the Technology Development Fund (TDF) and the Make category.",
+   "Proof ranges will reserve a three-day slot each month for government-sponsored and self-funded development projects.",
+   "The procedure covers facilities run by the DRDO, government quality assurance agencies and the armed forces."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong: proof ranges will reserve a three-day slot each quarter, not each month. The revision opens proof ranges, field firing ranges and laboratory test facilities to Indian defence firms and waives charges for projects under the ministry's development schemes.",
+  "source": "Proof ranges will now reserve a three-day slot each quarter for government-sponsored and self-funded development projects."
+ },
+ {
+  "id": "g-2026-10-09-aitn4-1",
+  "story_id": "2026-10-09-aitn4",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the India Mobile Congress (IMC) opened by Prime Minister Narendra Modi in New Delhi in October 2026:",
+  "items": [
+   "It was the 10th edition of the India Mobile Congress.",
+   "At a side session, the government reiterated a target of at least 10 percent of global 6G patents and standards for India.",
+   "The Communications Minister set a goal of 1 billion 5G users in India by 2027."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "Statements 1 and 2 are correct. Statement 3 is wrong because Jyotiraditya Scindia said India aims for 1 billion 5G users by 2030, up from 550 million. Minister of State Chandra Sekhar Pemmasani also called for Indian alternatives to imported network technologies such as chipsets, radios, routers and optical systems.",
+  "source": "Communications Minister Jyotiraditya Scindia said India has 550 million 5G users and aims for 1 billion by 2030."
+ },
+ {
+  "id": "g-2026-10-09-aitn5-1",
+  "story_id": "2026-10-09-aitn5",
+  "topic": "Environment & Energy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Union Renewable Energy Minister opened the Windergy India conference in Chennai. Consider the following statements about India's wind energy sector:",
+  "items": [
+   "India's installed wind capacity stood at 59.2 GW as of 30 September 2026.",
+   "India added a record 6.05 GW of wind capacity in the financial year to March 2026.",
+   "India's target is 100 GW of installed wind capacity by 2030."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three statements match the figures Pralhad Joshi gave at the conference. He said annual additions would beat the 6.05 GW record this year and that India is on track for 100 GW by 2030, which leaves about 40.8 GW still to be added.",
+  "source": "India added a record 6.05 GW in the financial year to March 2026, and Joshi said annual additions would beat that record this year and that India is on track to meet its target of 100 GW of installed wind capacity by the year 2030."
  }
 ]
