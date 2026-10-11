@@ -2168,29 +2168,6 @@
   "source": "This is the first time the global AI summit has been held in the developing world."
  },
  {
-  "id": "g-2026-02-18-2-1",
-  "story_id": "2026-02-18-2",
-  "topic": "Science & Tech",
-  "difficulty": 3,
-  "format": "statements",
-  "prompt": "Consider the following statements about India's artificial intelligence policy as outlined around the India AI Impact Summit in February 2026:",
-  "items": [
-   "India is pushing a \"Global AI Commons\", a shared repository of AI use-cases.",
-   "Data centres are being designated as \"Strategic National Infrastructure\".",
-   "Companies setting up data centres are offered tax holidays until 2047."
-  ],
-  "ask": "Which of the statements given above are correct?",
-  "options": [
-   "1 and 2 only",
-   "2 and 3 only",
-   "1 and 3 only",
-   "1, 2 and 3"
-  ],
-  "answer": 3,
-  "explain": "All three are stated in the story. The Global AI Commons aims to shape global AI norms around affordability rather than raw model power, and the data-centre incentives support a full-stack domestic AI cycle.",
-  "source": "By designating data centres as “Strategic National Infrastructure” and offering tax holidays until 2047, New Delhi is building an AI ecosystem with a focus on frugal, sector-specific applications rather than resource-heavy chatbots."
- },
- {
   "id": "g-2026-02-18-2-2",
   "story_id": "2026-02-18-2",
   "topic": "Economy",
@@ -4987,23 +4964,6 @@
   "source": "The two sides discussed restarting the Inter-Parliamentary Commission, which last met in 2018, and flagged artificial intelligence, space research and clean energy as new areas for cooperation."
  },
  {
-  "id": "g-2026-04-07-1-1",
-  "story_id": "2026-04-07-1",
-  "topic": "Geography",
-  "difficulty": 1,
-  "format": "single",
-  "prompt": "As of April 2026, roughly 40-50% of India's energy needs transited which waterway, whose closure after a conflict that began in February 2026 squeezed Indian energy security?",
-  "options": [
-   "Strait of Hormuz",
-   "Strait of Malacca",
-   "Bab-el-Mandeb Strait",
-   "Suez Canal"
-  ],
-  "answer": 0,
-  "explain": "The story says 40-50% of India's energy needs transit the Strait of Hormuz, and India imports 85% of its crude. Brent crude hit USD 109.77 while Iran kept the strait blocked, roughly 50% higher than when the conflict started on 28 February.",
-  "source": "India imports 85% of its crude, with 40-50% of its energy needs transiting Hormuz."
- },
- {
   "id": "g-2026-04-07-1-2",
   "story_id": "2026-04-07-1",
   "topic": "Economy",
@@ -5105,29 +5065,6 @@
   "answer": 0,
   "explain": "Statement 3 is wrong. With four state assembly elections in April 2026, the government absorbed high crude prices through subsidies rather than raising retail rates, which adds an INR 1.83 trillion burden to the federal budget. To hold the 4.3% target, it planned to trim budgets of ministries with low spending capacity and protect capital expenditure on roads, railways and airports.",
   "source": "With four state assembly elections this month, the government is absorbing high crude prices via subsidies rather than raising retail rates."
- },
- {
-  "id": "g-2026-04-08-2-1",
-  "story_id": "2026-04-08-2",
-  "topic": "Economy",
-  "difficulty": 3,
-  "format": "statements",
-  "prompt": "In April 2026, amid a cooking gas shortage, the Union Food Secretary set out the government's position on sugar and edible oils. Consider the following statements:",
-  "items": [
-   "India's annual sugar consumption is about 29 million tonnes, and output was expected to fall below it for a second straight year.",
-   "The government ruled out diverting sugar toward ethanol production to offset crude oil disruption.",
-   "The government said it had no plans to cut import duties on edible oils."
-  ],
-  "ask": "Which of the statements given above are correct?",
-  "options": [
-   "1 and 2 only",
-   "2 and 3 only",
-   "1 and 3 only",
-   "1, 2 and 3"
-  ],
-  "answer": 3,
-  "explain": "All three statements are correct: Food Secretary Sanjeev Chopra said India has no plans to curb sugar exports or cut edible oil import duties, and ruled out diverting sugar to ethanol, while output is expected to fall below 29 million tonnes of consumption for a second straight year. Falling demand from shuttered eateries is easing pressure, with edible oil imports down nearly 9% in March to 1.2 million tonnes.",
-  "source": "Food Secretary Sanjeev Chopra said India has no plans to curb sugar exports or cut import duties on edible oils, despite output falling short of forecasts for a second consecutive year (we covered it here)."
  },
  {
   "id": "g-2026-04-09-1-1",
@@ -12842,23 +12779,6 @@
   "source": "Speaking anonymously on the sidelines of the Association of Southeast Asian Nations (ASEAN) Foreign Ministers' meeting in Manila, the official said \"The deal... is there. We literally have the paper.\""
  },
  {
-  "id": "g-2026-07-23-2-1",
-  "story_id": "2026-07-23-2",
-  "topic": "International Relations",
-  "difficulty": 1,
-  "format": "single",
-  "prompt": "In July 2026, External Affairs Minister S. Jaishankar met Chinese Foreign Minister Wang Yi on the sidelines of the ASEAN Foreign Ministers' Meeting held in which city?",
-  "options": [
-   "Manila",
-   "Jakarta",
-   "Kuala Lumpur",
-   "Hanoi"
-  ],
-  "answer": 0,
-  "explain": "The two ministers met in Manila on 22 July 2026 on the sidelines of the ASEAN Foreign Ministers' Meeting. Jaishankar raised fair market access, supply-chain predictability and the trade imbalance.",
-  "source": "The two met in Manila on the sidelines of the ASEAN Foreign Ministers’ Meeting on Wednesday."
- },
- {
   "id": "g-2026-07-23-2-2",
   "story_id": "2026-07-23-2",
   "topic": "Economy",
@@ -17156,29 +17076,6 @@
   "answer": 0,
   "explain": "The talks are for the India–Canada Comprehensive Economic Partnership Agreement (CEPA), with a final deal targeted by December 2026. TBB reads the speed of these talks as a signal to US negotiators that India has viable alternative export destinations.",
   "source": "Fifth-round talks for the India–Canada Comprehensive Economic Partnership Agreement (CEPA) kick off today, aiming for a final deal by December."
- },
- {
-  "id": "g-2026-10-05-aitn1-1",
-  "story_id": "2026-10-05-aitn1",
-  "topic": "Economy",
-  "difficulty": 3,
-  "format": "statements",
-  "prompt": "Consider the following statements about export support measures extended by the Department of Commerce in September 2026:",
-  "items": [
-   "The Remission of Duties and Taxes on Exported Products (RoDTEP) scheme was extended to December 31, 2026, with rates and value caps unchanged.",
-   "RoDTEP refunds central, state and local taxes built into the price of exported goods.",
-   "Component II of the Resilience and Logistics Intervention for Export Facilitation (RELIEF) offers 95 per cent risk cover through the Export Credit Guarantee Corporation on shipments to West Asia."
-  ],
-  "ask": "Which of the statements given above are correct?",
-  "options": [
-   "1 and 2 only",
-   "2 and 3 only",
-   "1 and 3 only",
-   "1, 2 and 3"
-  ],
-  "answer": 3,
-  "explain": "All three statements match the story. RELIEF was launched in March 2026 after freight and insurance costs spiked on West Asian shipping routes, and its Component II also holds premiums at pre-disruption levels.",
-  "source": "The component offers 95 per cent risk cover through the state-run Export Credit Guarantee Corporation (ECGC) on shipments to the region and holds premiums at pre-disruption levels."
  },
  {
   "id": "g-2026-10-06-1-1",

@@ -335,11 +335,31 @@
   "g-2026-06-12-1-1": {
    "kept": "g-2026-03-09-2-2",
    "fact": "The Strait of Hormuz carries roughly one-fifth of world oil trade"
+  },
+  "g-2026-07-23-2-1": {
+   "kept": "g-2026-07-23-1-2",
+   "fact": "The ASEAN Foreign Ministers' Meeting of July 2026 was held in Manila."
+  },
+  "g-2026-04-07-1-1": {
+   "kept": "g-2026-03-23-1-1",
+   "fact": "Most of India's energy imports, including nearly all LPG and the bulk of crude, transit the Strait of Hormuz."
+  },
+  "g-2026-04-08-2-1": {
+   "kept": "g-2026-05-15-2-2",
+   "fact": "In 2026 India's sugar output was expected to fall below domestic consumption for a second straight season."
+  },
+  "g-2026-10-05-aitn1-1": {
+   "kept": "g-2026-03-24-3-2",
+   "fact": "The RoDTEP scheme refunds domestic taxes embedded in the cost of exported goods."
+  },
+  "g-2026-02-18-2-1": {
+   "kept": "s04",
+   "fact": "The Union Budget 2026-27 offered a tax holiday until 2047 for global cloud and data-centre service providers."
   }
  },
  "usage": {
-  "input_tokens": 267457,
-  "output_tokens": 31940,
+  "input_tokens": 398762,
+  "output_tokens": 41585,
   "cache_creation_input_tokens": 0,
   "cache_read_input_tokens": 0
  }

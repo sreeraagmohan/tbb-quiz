@@ -308,6 +308,32 @@
   ]
  },
  {
+  "id": "g-2026-02-18-2-1",
+  "story_id": "2026-02-18-2",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's artificial intelligence policy as outlined around the India AI Impact Summit in February 2026:",
+  "items": [
+   "India is pushing a \"Global AI Commons\", a shared repository of AI use-cases.",
+   "Data centres are being designated as \"Strategic National Infrastructure\".",
+   "Companies setting up data centres are offered tax holidays until 2047."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three are stated in the story. The Global AI Commons aims to shape global AI norms around affordability rather than raw model power, and the data-centre incentives support a full-stack domestic AI cycle.",
+  "source": "By designating data centres as “Strategic National Infrastructure” and offering tax holidays until 2047, New Delhi is building an AI ecosystem with a focus on frugal, sector-specific applications rather than resource-heavy chatbots.",
+  "reasons": [
+   "same fact as s04"
+  ]
+ },
+ {
   "id": "g-2026-02-18-4-1",
   "story_id": "2026-02-18-4",
   "topic": "Environment & Energy",
@@ -791,6 +817,26 @@
   ]
  },
  {
+  "id": "g-2026-04-07-1-1",
+  "story_id": "2026-04-07-1",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "As of April 2026, roughly 40-50% of India's energy needs transited which waterway, whose closure after a conflict that began in February 2026 squeezed Indian energy security?",
+  "options": [
+   "Strait of Hormuz",
+   "Strait of Malacca",
+   "Bab-el-Mandeb Strait",
+   "Suez Canal"
+  ],
+  "answer": 0,
+  "explain": "The story says 40-50% of India's energy needs transit the Strait of Hormuz, and India imports 85% of its crude. Brent crude hit USD 109.77 while Iran kept the strait blocked, roughly 50% higher than when the conflict started on 28 February.",
+  "source": "India imports 85% of its crude, with 40-50% of its energy needs transiting Hormuz.",
+  "reasons": [
+   "same fact as g-2026-03-23-1-1"
+  ]
+ },
+ {
   "id": "g-2026-04-07-2-1",
   "story_id": "2026-04-07-2",
   "topic": "Economy",
@@ -814,6 +860,32 @@
   "source": "To rein in the rupee, the central bank capped banks' net open positions at USD 100 million and banned companies from rebooking cancelled forward contracts, which we covered here and here.",
   "reasons": [
    "same fact as g-2026-04-03-1-1"
+  ]
+ },
+ {
+  "id": "g-2026-04-08-2-1",
+  "story_id": "2026-04-08-2",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In April 2026, amid a cooking gas shortage, the Union Food Secretary set out the government's position on sugar and edible oils. Consider the following statements:",
+  "items": [
+   "India's annual sugar consumption is about 29 million tonnes, and output was expected to fall below it for a second straight year.",
+   "The government ruled out diverting sugar toward ethanol production to offset crude oil disruption.",
+   "The government said it had no plans to cut import duties on edible oils."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements are correct: Food Secretary Sanjeev Chopra said India has no plans to curb sugar exports or cut edible oil import duties, and ruled out diverting sugar to ethanol, while output is expected to fall below 29 million tonnes of consumption for a second straight year. Falling demand from shuttered eateries is easing pressure, with edible oil imports down nearly 9% in March to 1.2 million tonnes.",
+  "source": "Food Secretary Sanjeev Chopra said India has no plans to curb sugar exports or cut import duties on edible oils, despite output falling short of forecasts for a second consecutive year (we covered it here).",
+  "reasons": [
+   "same fact as g-2026-05-15-2-2"
   ]
  },
  {
@@ -1747,6 +1819,26 @@
   ]
  },
  {
+  "id": "g-2026-07-23-2-1",
+  "story_id": "2026-07-23-2",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In July 2026, External Affairs Minister S. Jaishankar met Chinese Foreign Minister Wang Yi on the sidelines of the ASEAN Foreign Ministers' Meeting held in which city?",
+  "options": [
+   "Manila",
+   "Jakarta",
+   "Kuala Lumpur",
+   "Hanoi"
+  ],
+  "answer": 0,
+  "explain": "The two ministers met in Manila on 22 July 2026 on the sidelines of the ASEAN Foreign Ministers' Meeting. Jaishankar raised fair market access, supply-chain predictability and the trade imbalance.",
+  "source": "The two met in Manila on the sidelines of the ASEAN Foreign Ministers’ Meeting on Wednesday.",
+  "reasons": [
+   "same fact as g-2026-07-23-1-2"
+  ]
+ },
+ {
   "id": "g-2026-07-27-2-2",
   "story_id": "2026-07-27-2",
   "topic": "Economy",
@@ -2267,6 +2359,32 @@
   "source": "On September 12, Modi hosted Xi at the BRICS summit in New Delhi, Xi's first visit to India since 2019, and told him border peace is the precondition for normalisation of ties (we covered it here).",
   "reasons": [
    "solver: trivial: stem says visit to India, so only New Delhi fits"
+  ]
+ },
+ {
+  "id": "g-2026-10-05-aitn1-1",
+  "story_id": "2026-10-05-aitn1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about export support measures extended by the Department of Commerce in September 2026:",
+  "items": [
+   "The Remission of Duties and Taxes on Exported Products (RoDTEP) scheme was extended to December 31, 2026, with rates and value caps unchanged.",
+   "RoDTEP refunds central, state and local taxes built into the price of exported goods.",
+   "Component II of the Resilience and Logistics Intervention for Export Facilitation (RELIEF) offers 95 per cent risk cover through the Export Credit Guarantee Corporation on shipments to West Asia."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements match the story. RELIEF was launched in March 2026 after freight and insurance costs spiked on West Asian shipping routes, and its Component II also holds premiums at pre-disruption levels.",
+  "source": "The component offers 95 per cent risk cover through the state-run Export Credit Guarantee Corporation (ECGC) on shipments to the region and holds premiums at pre-disruption levels.",
+  "reasons": [
+   "same fact as g-2026-03-24-3-2"
   ]
  },
  {
