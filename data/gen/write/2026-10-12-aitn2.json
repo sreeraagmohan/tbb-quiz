@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-12-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 362,
+  "output_tokens": 202,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a corporate spat and an IPO valuation with no scheme, ruling or regulatory decision to test.",
+  "questions": []
+ }
+}

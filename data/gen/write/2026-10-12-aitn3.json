@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-12-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 398,
+  "output_tokens": 1298,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the concrete outcomes behind the visit (the India–Cyprus Strategic Partnership roadmap and the India–Greece industrial plan), not the scheduled meetings themselves.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's defence ties with Greece and Cyprus, as of October 2026:",
+    "items": [
+     "In February 2026, India and Greece agreed a five-year plan for defence industrial cooperation at a meeting in Athens.",
+     "India and Cyprus announced a 2026 to 2031 defence cooperation roadmap when they elevated ties to a Strategic Partnership."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong: Greek Defence Minister Nikolaos-Georgios Dendias agreed the five-year plan with Rajnath Singh in New Delhi, not Athens. The Cyprus roadmap came during President Nikos Christodoulides' visit to New Delhi, and in October 2026 Defence Secretary Rajesh Kumar Singh visited both countries for talks on maritime security and defence industrial cooperation.",
+    "source": "The two countries announced a 2026 to 2031 defence cooperation roadmap when they elevated ties to a Strategic Partnership"
+   }
+  ]
+ }
+}

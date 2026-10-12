@@ -24327,5 +24327,242 @@
   "issue_title": "Unarrested development",
   "story_title": "Wind capacity reaches 59.2 GW against 100 GW 2030 target",
   "link": "https://thebharatbriefing.beehiiv.com/p/unarrested-development#also-in-the-news:~:text=India%20added%20a%20record%206.05%20GW%20in%20the"
+ },
+ {
+  "id": "g-2026-10-12-1-1",
+  "story_id": "2026-10-12-1",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, opposition parties demanded the resignation of Chief Election Commissioner Gyanesh Kumar. Consider the following statements about the position as described at the time:",
+  "items": [
+   "The Chief Election Commissioner can be removed by a resolution passed by a simple majority of the Lok Sabha alone.",
+   "In April 2026, the Lok Sabha Speaker and the Rajya Sabha Chairman admitted opposition notices seeking Kumar's removal."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both statements are wrong. Removal needs both houses of Parliament to pass it by a special majority of two-thirds of members present and voting, and in April 2026 the presiding officers refused to admit the opposition's notices. With the BJP and its allies holding majorities in both houses, the opposition cannot reach that threshold on its own.",
+  "source": "Kumar can leave office only by resigning, or if both houses of Parliament remove him by a special majority, which requires two-thirds of members present and voting.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Roach block",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#roach-block:~:text=Kumar%20can%20leave%20office%20only%20by%20resigning%2C%20or"
+ },
+ {
+  "id": "g-2026-10-12-1-2",
+  "story_id": "2026-10-12-1",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Special Intensive Revision (SIR) that was at the centre of protests in October 2026:",
+  "items": [
+   "It is a nationwide verification of voter rolls conducted by the Ministry of Home Affairs.",
+   "Since June 2025, it has flagged about 13 million names for removal.",
+   "According to the Election Commission, voters whose entries are removed at the draft stage cannot re-enrol."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 3,
+  "explain": "None of the statements is correct. The SIR is run by the Election Commission and has flagged about 130 million names. The commission says eligible voters can re-enrol. It also says the figure counts entries marked absent, shifted, dead or duplicate at the draft stage, while the opposition alleges the exercise favoured the BJP.",
+  "source": "The commission says the figure counts entries marked absent, shifted, dead, or duplicate at the draft stage, and that eligible voters can re-enrol.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Roach block",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#roach-block:~:text=The%20commission%20says%20the%20figure%20counts%20entries%20marked"
+ },
+ {
+  "id": "g-2026-10-12-1-3",
+  "story_id": "2026-10-12-1",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In October 2026, Cockroach Janta Party leaders held in preventive custody in Delhi were released after each signed a bond pledging to keep the peace for a year. Which authority released them?",
+  "options": [
+   "Special Executive Magistrate",
+   "Delhi High Court bench",
+   "Supreme Court of India",
+   "National Human Rights Commission"
+  ],
+  "answer": 0,
+  "explain": "A Special Executive Magistrate released CJP founder Abhijeet Dipke and two senior leaders on 11 October 2026 after each signed a bond of INR 50,000. Police had held them in preventive custody without charge.",
+  "source": "A Special Executive Magistrate (SEM) released Dipke and the two leaders on Sunday after each signed a bond of INR 50,000 (USD 517), pledging to keep the peace for a year.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Roach block",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#roach-block:~:text=A%20Special%20Executive%20Magistrate%20%28SEM%29%20released%20Dipke%20and"
+ },
+ {
+  "id": "g-2026-10-12-2-1",
+  "story_id": "2026-10-12-2",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the Reserve Bank of India (RBI) announced measures to support the rupee. Consider the following statements about these measures:",
+  "items": [
+   "The RBI opened a special window to supply dollars from its foreign exchange reserves directly to three state-run oil refiners.",
+   "The RBI imposed a 20 per cent FX risk reserve on derivative contracts over USD 2 million.",
+   "The RBI cut unhedged derivative transaction limits from USD 100 million to USD 5 million."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three are correct. The dollar window served Indian Oil, Hindustan Petroleum and Bharat Petroleum, easing pressure on the spot FX market. The derivative curbs, borrowed from Beijing's playbook, sharply raise the cost of speculative bets against the rupee.",
+  "source": "the RBI imposed a 20 per cent FX risk reserve on derivative contracts over USD 2 million and slashed unhedged derivative transaction limits from USD 100 million to USD 5 million, sharply raising the cost of speculative bets against the rupee.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Drain the swap, save the rupee",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#drain-the-swap-save-the-rupee:~:text=the%20RBI%20imposed%20a%2020%20per%20cent%20FX"
+ },
+ {
+  "id": "g-2026-10-12-2-2",
+  "story_id": "2026-10-12-2",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the RBI's liquidity operations in September and October 2026:",
+  "items": [
+   "The open market operations announced in October 2026 were purchases of government bonds intended to inject cash into the banking system.",
+   "The daily banking liquidity surplus averaged about 7 per cent of deposits from 1 September 2026."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 3,
+  "explain": "Both are incorrect. The RBI announced INR 250 billion in open market bond sales to drain cash, after a record INR 1 trillion sale in September 2026. The surplus averaged over USD 72 billion, about 2.6 per cent of deposits, and analysts expect it to fall to 0 to 0.5 per cent.",
+  "source": "On Friday, the RBI announced INR 250 billion (USD 2.58 billion) in open market bond sales for Tuesday, following a record INR 1 trillion (USD 10.3 billion) sale last month.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Drain the swap, save the rupee",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#drain-the-swap-save-the-rupee:~:text=On%20Friday%2C%20the%20RBI%20announced%20INR%20250%20billion"
+ },
+ {
+  "id": "g-2026-10-12-2-3",
+  "story_id": "2026-10-12-2",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "single",
+  "prompt": "In October 2026, how did the RBI change the daily cash reserve ratio (CRR) maintenance threshold for banks?",
+  "options": [
+   "From 90 per cent to 99 per cent",
+   "From 80 per cent to 90 per cent",
+   "From 90 per cent to 95 per cent",
+   "From 95 per cent to 100 per cent"
+  ],
+  "answer": 0,
+  "explain": "The threshold rose from 90 per cent to 99 per cent from 16 October 2026, locking up more non-interest-bearing bank deposits. It was part of a push to soak up excess rupee liquidity with the currency near record lows.",
+  "source": "It also raised the daily cash reserve ratio maintenance threshold from 90 per cent to 99 per cent starting October 16, locking up non-interest-bearing bank deposits.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Drain the swap, save the rupee",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#drain-the-swap-save-the-rupee:~:text=It%20also%20raised%20the%20daily%20cash%20reserve%20ratio"
+ },
+ {
+  "id": "g-2026-10-12-aitn1-1",
+  "story_id": "2026-10-12-aitn1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, the United States suspended several IT firms, including Infosys, Wipro and TCS, from the Permanent Labor Certification Program (PERM). Consider the following statements:",
+  "items": [
+   "PERM is the route employers use to sponsor H-1B visa holders for green cards.",
+   "The suspension covers only new applications, and pending applications involving the firms will continue to be processed.",
+   "The move was announced alongside the US Vice-President, who heads the US Anti-Fraud Task Force."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the Labor Department said it would neither accept new applications nor process pending ones involving the firms. Labor Secretary Keith Sonderling announced the suspension alongside Vice-President JD Vance, and it also covered Microsoft, Adobe, Cognizant and Capgemini.",
+  "source": "He said his department would not accept new applications or process pending ones involving the firms.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "US bars Infosys, Wipro, others from green card programme",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#also-in-the-news:~:text=He%20said%20his%20department%20would%20not%20accept%20new"
+ },
+ {
+  "id": "g-2026-10-12-aitn3-1",
+  "story_id": "2026-10-12-aitn3",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India's defence ties with Greece and Cyprus, as of October 2026:",
+  "items": [
+   "In February 2026, India and Greece agreed a five-year plan for defence industrial cooperation at a meeting in Athens.",
+   "India and Cyprus announced a 2026 to 2031 defence cooperation roadmap when they elevated ties to a Strategic Partnership."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong: Greek Defence Minister Nikolaos-Georgios Dendias agreed the five-year plan with Rajnath Singh in New Delhi, not Athens. The Cyprus roadmap came during President Nikos Christodoulides' visit to New Delhi, and in October 2026 Defence Secretary Rajesh Kumar Singh visited both countries for talks on maritime security and defence industrial cooperation.",
+  "source": "The two countries announced a 2026 to 2031 defence cooperation roadmap when they elevated ties to a Strategic Partnership",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Defence Secretary visits Cyprus, Greece for maritime talks",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#also-in-the-news:~:text=The%20two%20countries%20announced%20a%202026%20to%202031"
+ },
+ {
+  "id": "g-2026-10-12-aitn4-1",
+  "story_id": "2026-10-12-aitn4",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "External Affairs Minister S. Jaishankar ended a five-day tour of Ghana, Côte d’Ivoire and Ethiopia in October 2026. Consider the following statements about the tour:",
+  "items": [
+   "India and Ghana signed memoranda of understanding on scientific research and agricultural education.",
+   "Ghana formally joined the International Big Cat Alliance.",
+   "India announced that its next Jaipur artificial limb fitment camp will be held in Ethiopia."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three are correct. The MoUs and Ghana's entry into the International Big Cat Alliance came in Ghana, and the Jaipur limb camp was announced in Ethiopia. Jaishankar also offered training for Ethiopian officials in forensic science, women and child development, and media governance.",
+  "source": "In Ghana, the two sides signed memoranda of understanding (MoUs) on scientific research and agricultural education, and Ghana formally joined the International Big Cat Alliance.",
+  "date": "2026-10-12",
+  "issue_no": 186,
+  "issue_title": "Roach block",
+  "story_title": "Jaishankar wraps Ghana, Côte d’Ivoire, Ethiopia tour",
+  "link": "https://thebharatbriefing.beehiiv.com/p/roach-block#also-in-the-news:~:text=In%20Ghana%2C%20the%20two%20sides%20signed%20memoranda%20of"
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-12-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 329,
+  "output_tokens": 950,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the concrete outcomes of the October 2026 Africa tour: the Ghana MoUs, Ghana joining the International Big Cat Alliance, and the Jaipur limb camp in Ethiopia.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "External Affairs Minister S. Jaishankar ended a five-day tour of Ghana, Côte d’Ivoire and Ethiopia in October 2026. Consider the following statements about the tour:",
+    "items": [
+     "India and Ghana signed memoranda of understanding on scientific research and agricultural education.",
+     "Ghana formally joined the International Big Cat Alliance.",
+     "India announced that its next Jaipur artificial limb fitment camp will be held in Ethiopia."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The MoUs and Ghana's entry into the International Big Cat Alliance came in Ghana, and the Jaipur limb camp was announced in Ethiopia. Jaishankar also offered training for Ethiopian officials in forensic science, women and child development, and media governance.",
+    "source": "In Ghana, the two sides signed memoranda of understanding (MoUs) on scientific research and agricultural education, and Ghana formally joined the International Big Cat Alliance."
+   }
+  ]
+ }
+}

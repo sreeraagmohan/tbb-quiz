@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-12-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 304,
+  "output_tokens": 957,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests what the US PERM programme is, who announced the October 2026 suspension and how far it reaches, skipping the firm-by-firm list.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the United States suspended several IT firms, including Infosys, Wipro and TCS, from the Permanent Labor Certification Program (PERM). Consider the following statements:",
+    "items": [
+     "PERM is the route employers use to sponsor H-1B visa holders for green cards.",
+     "The suspension covers only new applications, and pending applications involving the firms will continue to be processed.",
+     "The move was announced alongside the US Vice-President, who heads the US Anti-Fraud Task Force."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the Labor Department said it would neither accept new applications nor process pending ones involving the firms. Labor Secretary Keith Sonderling announced the suspension alongside Vice-President JD Vance, and it also covered Microsoft, Adobe, Cognizant and Capgemini.",
+    "source": "He said his department would not accept new applications or process pending ones involving the firms."
+   }
+  ]
+ }
+}

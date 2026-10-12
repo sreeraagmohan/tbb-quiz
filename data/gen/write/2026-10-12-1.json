@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-12-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1378,
+  "output_tokens": 2731,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the removal procedure for the Chief Election Commissioner, the Election Commission's Special Intensive Revision of voter rolls, and the magistrate's peace bond. Skipped the protest arrests and the political charges.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, opposition parties demanded the resignation of Chief Election Commissioner Gyanesh Kumar. Consider the following statements about the position as described at the time:",
+    "items": [
+     "The Chief Election Commissioner can be removed by a resolution passed by a simple majority of the Lok Sabha alone.",
+     "In April 2026, the Lok Sabha Speaker and the Rajya Sabha Chairman admitted opposition notices seeking Kumar's removal."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both statements are wrong. Removal needs both houses of Parliament to pass it by a special majority of two-thirds of members present and voting, and in April 2026 the presiding officers refused to admit the opposition's notices. With the BJP and its allies holding majorities in both houses, the opposition cannot reach that threshold on its own.",
+    "source": "Kumar can leave office only by resigning, or if both houses of Parliament remove him by a special majority, which requires two-thirds of members present and voting."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Special Intensive Revision (SIR) that was at the centre of protests in October 2026:",
+    "items": [
+     "It is a nationwide verification of voter rolls conducted by the Ministry of Home Affairs.",
+     "Since June 2025, it has flagged about 13 million names for removal.",
+     "According to the Election Commission, voters whose entries are removed at the draft stage cannot re-enrol."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 3,
+    "explain": "None of the statements is correct. The SIR is run by the Election Commission and has flagged about 130 million names. The commission says eligible voters can re-enrol. It also says the figure counts entries marked absent, shifted, dead or duplicate at the draft stage, while the opposition alleges the exercise favoured the BJP.",
+    "source": "The commission says the figure counts entries marked absent, shifted, dead, or duplicate at the draft stage, and that eligible voters can re-enrol."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In October 2026, Cockroach Janta Party leaders held in preventive custody in Delhi were released after each signed a bond pledging to keep the peace for a year. Which authority released them?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Special Executive Magistrate",
+     "Delhi High Court bench",
+     "Supreme Court of India",
+     "National Human Rights Commission"
+    ],
+    "answer": 0,
+    "explain": "A Special Executive Magistrate released CJP founder Abhijeet Dipke and two senior leaders on 11 October 2026 after each signed a bond of INR 50,000. Police had held them in preventive custody without charge.",
+    "source": "A Special Executive Magistrate (SEM) released Dipke and the two leaders on Sunday after each signed a bond of INR 50,000 (USD 517), pledging to keep the peace for a year."
+   }
+  ]
+ }
+}

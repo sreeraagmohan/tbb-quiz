@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-12-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 884,
+  "output_tokens": 3361,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the RBI's October 2026 rupee-defence toolkit: the FX derivative curbs and refiner dollar window, the liquidity drain through OMO sales and the liquidity surplus, and the CRR threshold change.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the Reserve Bank of India (RBI) announced measures to support the rupee. Consider the following statements about these measures:",
+    "items": [
+     "The RBI opened a special window to supply dollars from its foreign exchange reserves directly to three state-run oil refiners.",
+     "The RBI imposed a 20 per cent FX risk reserve on derivative contracts over USD 2 million.",
+     "The RBI cut unhedged derivative transaction limits from USD 100 million to USD 5 million."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The dollar window served Indian Oil, Hindustan Petroleum and Bharat Petroleum, easing pressure on the spot FX market. The derivative curbs, borrowed from Beijing's playbook, sharply raise the cost of speculative bets against the rupee.",
+    "source": "the RBI imposed a 20 per cent FX risk reserve on derivative contracts over USD 2 million and slashed unhedged derivative transaction limits from USD 100 million to USD 5 million, sharply raising the cost of speculative bets against the rupee."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the RBI's liquidity operations in September and October 2026:",
+    "items": [
+     "The open market operations announced in October 2026 were purchases of government bonds intended to inject cash into the banking system.",
+     "The daily banking liquidity surplus averaged about 7 per cent of deposits from 1 September 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both are incorrect. The RBI announced INR 250 billion in open market bond sales to drain cash, after a record INR 1 trillion sale in September 2026. The surplus averaged over USD 72 billion, about 2.6 per cent of deposits, and analysts expect it to fall to 0 to 0.5 per cent.",
+    "source": "On Friday, the RBI announced INR 250 billion (USD 2.58 billion) in open market bond sales for Tuesday, following a record INR 1 trillion (USD 10.3 billion) sale last month."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In October 2026, how did the RBI change the daily cash reserve ratio (CRR) maintenance threshold for banks?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "From 90 per cent to 99 per cent",
+     "From 80 per cent to 90 per cent",
+     "From 90 per cent to 95 per cent",
+     "From 95 per cent to 100 per cent"
+    ],
+    "answer": 0,
+    "explain": "The threshold rose from 90 per cent to 99 per cent from 16 October 2026, locking up more non-interest-bearing bank deposits. It was part of a push to soak up excess rupee liquidity with the currency near record lows.",
+    "source": "It also raised the daily cash reserve ratio maintenance threshold from 90 per cent to 99 per cent starting October 16, locking up non-interest-bearing bank deposits."
+   }
+  ]
+ }
+}
