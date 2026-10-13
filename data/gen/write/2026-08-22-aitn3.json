@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-22-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 205,
+  "output_tokens": 1134,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the core features of the mineral-tax law signed in August 2026: Centre's control over mineral-rights taxation, voiding of uncollected state levies, and overturning of a 2024 Supreme Court ruling.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, President Murmu signed the mineral-tax bill into law. Consider the following statements about the law:",
+    "items": [
+     "It allows states to retain the right to collect levies on mineral rights that were imposed earlier but not yet collected.",
+     "It bars states from taxing mineral rights except on the Centre's terms.",
+     "It overturns a ruling delivered by the Supreme Court in 2024."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the law voids uncollected state levies rather than preserving them. The law, signed on 19 August 2026, also bars states from taxing mineral rights except on the Centre's terms, overturning a 2024 Supreme Court ruling.",
+    "source": "barring states from taxing mineral rights except on the Centre's terms and voiding uncollected state levies, overturning a 2024 Supreme Court ruling."
+   }
+  ]
+ }
+}

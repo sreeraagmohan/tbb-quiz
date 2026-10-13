@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-18-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 234,
+  "output_tokens": 1071,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the Strategic Partnership upgrade, the summit venue and the 2030 trade target from the July 2026 India–New Zealand visit.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Prime Minister Narendra Modi's visit to New Zealand in July 2026:",
+    "items": [
+     "India and New Zealand elevated their ties to a Strategic Partnership.",
+     "The talks with Prime Minister Christopher Luxon were held in Wellington.",
+     "The two sides set a target to double bilateral trade to NZD 7 billion by 2030."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the ties were elevated in Auckland, not Wellington. It was the first Indian prime ministerial visit to New Zealand in 40 years and produced ten agreements.",
+    "source": "Modi and Christopher Luxon elevated India-New Zealand ties to a Strategic Partnership in Auckland, the first Indian prime ministerial visit in 40 years, with ten agreements and a target to double trade to NZD 7 billion (USD 4 billion) by 2030."
+   }
+  ]
+ }
+}

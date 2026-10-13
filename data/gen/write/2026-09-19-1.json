@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-19-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 218,
+  "output_tokens": 338,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text contains only the date and issue number, with no checkable facts to quote. The answer-pattern line in the text was ignored because answers must follow the facts.",
+  "questions": []
+ }
+}

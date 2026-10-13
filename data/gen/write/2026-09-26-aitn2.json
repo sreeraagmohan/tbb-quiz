@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-26-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 204,
+  "output_tokens": 857,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Project 75(I) submarine deal: the Indian shipyard partner and the build location.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, Germany finalised an estimated USD 8 billion deal for six submarines under Project 75(I). Consider the following statements about the deal:",
+    "items": [
+     "The submarines will be built in Germany by ThyssenKrupp and then transferred to India.",
+     "Mazagon Dock is the Indian partner for building the submarines."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because ThyssenKrupp is partnering Mazagon Dock to build the six submarines in India, not in Germany. The German side had finalised the deal, which was awaiting only India's internal approvals.",
+    "source": "with ThyssenKrupp partnering Mazagon Dock to build them in India under Project 75(I)."
+   }
+  ]
+ }
+}

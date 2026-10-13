@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-25-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 201,
+  "output_tokens": 1093,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the July 2026 government position on ethanol-blended petrol: no return to E10, the mileage loss conceded and the forex savings cited.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, the Union government set out its position on ethanol-blended petrol. Consider the following statements:",
+    "items": [
+     "It said E10 petrol could be restored for motorists concerned about mileage.",
+     "It conceded a mileage loss of 3% to 5% while citing USD 20.5 billion in foreign exchange savings."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the government ruled out ever restoring E10 or ethanol-free petrol. It accepted a 3% to 5% mileage loss but defended the policy by citing USD 20.5 billion in foreign exchange savings.",
+    "source": "Modi's government ruled out ever restoring E10 or ethanol-free petrol, conceding a 3% to 5% mileage loss while citing USD 20.5 billion in foreign exchange savings."
+   }
+  ]
+ }
+}

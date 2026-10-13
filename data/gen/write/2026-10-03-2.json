@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-10-03-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 313,
+  "output_tokens": 1893,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "A thin weekly roundup. Tested the grid stress and its causes, the USD 20 billion transmission approval and the US tariff exemption for specialty medicines.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the stress on India's power grid in the week to 3 October 2026:",
+    "items": [
+     "Weak monsoon rains boosted hydropower output and eased pressure on coal-fired generation.",
+     "The Centre ordered factory-owned coal plants to run flat out to help keep the grid afloat.",
+     "Coal stocks had fallen to about a week of supply."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the story says weak monsoon rains sapped hydropower rather than boosting it. With coal stocks down to a week of supply, the Centre had to call on factory-owned coal plants to support the grid.",
+    "source": "Weak monsoon rains sapped hydropower, and coal stocks were down to just a week of supply."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In the week to 3 October 2026, the Government of India approved USD 20 billion for which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Transmission lines for long-term solar ambitions",
+     "New coal-fired thermal power plants",
+     "Pumped hydro storage projects in the Himalayas",
+     "A fleet of new nuclear power reactors"
+    ],
+    "answer": 0,
+    "explain": "The USD 20 billion is meant to build the transmission lines India needs for its long-term solar plans. The approval came in the same week that a near power crunch showed how fragile the grid remains.",
+    "source": "even as the government approves USD 20 billion to build the transmission lines needed for its long-term solar ambitions"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In the week to 3 October 2026, India secured a key tariff exemption from the United States for which category of its exports?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Specialty medicines",
+     "Steel and aluminium",
+     "Cotton textiles",
+     "Cut and polished diamonds"
+    ],
+    "answer": 0,
+    "explain": "India won the tariff exemption for its specialty medicines. Even so, trade friction and diplomatic disagreements over regional policy with Washington remain unresolved.",
+    "source": "India secured a key tariff exemption for its specialty medicines, but trade friction and diplomatic disagreements over regional policy remain very much on the table."
+   }
+  ]
+ }
+}

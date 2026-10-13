@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-12-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 229,
+  "output_tokens": 954,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the September 2026 Defence Acquisition Council clearance: its size, indigenous share and terrain focus.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the arms procurement cleared by the Defence Acquisition Council in September 2026:",
+    "items": [
+     "It cleared procurement worth about INR 1.1 trillion.",
+     "Roughly 98% of the procurement is to come from Indian manufacturers.",
+     "It was weighted toward equipment for moving and fighting across the rough terrain of the China and Pakistan borders."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. On 8 September 2026 the Defence Acquisition Council cleared about INR 1.1 trillion (USD 11.7 billion), nearly all of it from domestic makers, with a focus on mobility and combat along India's northern and western frontiers.",
+    "source": "The Defence Acquisition Council cleared about INR 1.1 trillion (USD 11.7 billion) in arms procurement, roughly 98% from Indian manufacturers, weighted toward equipment for moving and fighting across the rough terrain of the China and Pakistan borders."
+   }
+  ]
+ }
+}

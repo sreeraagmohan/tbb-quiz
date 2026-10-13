@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-20-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 192,
+  "output_tokens": 620,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief item; tested the partner country for the Innovation Roadmap 2030, adopted in June 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, India adopted the 'Innovation Roadmap 2030', which covers trusted AI, space and mobility, with which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "France",
+     "Germany",
+     "Japan",
+     "United Kingdom"
+    ],
+    "answer": 0,
+    "explain": "India and France adopted the Innovation Roadmap 2030 on 16 June 2026. It aims to build a tech ecosystem in trusted AI, space and mobility that is independent of both Washington and Beijing.",
+    "source": "India and France adopted the Innovation Roadmap 2030, building a tech ecosystem in trusted AI, space, and mobility independent of both Washington and Beijing."
+   }
+  ]
+ }
+}

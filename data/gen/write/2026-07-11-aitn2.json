@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-11-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 197,
+  "output_tokens": 913,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Customs duty change with a clear policy aim; tested scope (components and battery machinery, not finished goods) and the 2029 end date.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, India scrapped import duties on certain electronics-related imports. Consider the following statements about this decision:",
+    "items": [
+     "The duty removal also applies to imports of finished electronic goods.",
+     "The duty-free treatment is valid until 2027."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both statements are wrong. The duties were scrapped only on electronics components and battery machinery, while tariffs on finished goods stay. The relief runs until 2029, not 2027. Cutting input costs while protecting finished goods is meant to push global firms to build local supply chains rather than merely assemble.",
+    "source": "India scrapped import duties on electronics components and battery machinery until 2029, cutting input costs while keeping tariffs on finished goods"
+   }
+  ]
+ }
+}

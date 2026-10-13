@@ -1,0 +1,77 @@
+{
+ "story_id": "2026-09-05-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 405,
+  "output_tokens": 3828,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly round-up; tested the Indus Waters ruling, Alipay+ link, credit rating, mineral sourcing, GDP growth and the Kyiv visit.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about developments involving India in the week ending 5 September 2026:",
+    "items": [
+     "India rejected a ruling from the court at The Hague that it honour the Indus Waters Treaty with Pakistan, calling the court illegitimate.",
+     "A Japanese agency restored India's A-category credit rating, which India had lost about ten years earlier.",
+     "India stalled a payments link with China-linked Alipay+ over data fears."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the story says India lost the A-category rating more than 35 years ago, not a decade earlier. TBB reads the Hague rejection and the Alipay+ pause as confidence from strong growth hardening into refusal.",
+    "source": "New Delhi rejected the Hague's ruling that it honour the Indus Waters Treaty with Pakistan, calling the court illegitimate"
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, India was reported to be courting critical energy minerals from abroad. Consider the following statements:",
+    "items": [
+     "India is courting lithium from Uzbekistan.",
+     "India is courting uranium from Latin America."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both pairings are reversed. The story says India is courting Uzbek uranium and Latin American lithium, part of the confidence TBB links to strong growth.",
+    "source": "A country posting these numbers, courting Uzbek uranium and Latin American lithium, feels less need to accommodate a tribunal, a neighbour, or a superpower."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India in early September 2026:",
+    "items": [
+     "Quarterly figures showed India's economy grew 7.8%, falling short of most forecasts.",
+     "External Affairs Minister Jaishankar visited Moscow to defend India's purchases of Russian oil."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "The 7.8% growth cleared every forecast, and Jaishankar was sent to Kyiv, not Moscow, to defend buying Russian oil. Modi greeted the growth figures by declaring the doomsayers doomed.",
+    "source": "India's economy grew 7.8% last quarter, clearing every forecast, and by Wednesday a Japanese agency had restored the A-category credit rating India lost more than 35 years ago."
+   }
+  ]
+ }
+}

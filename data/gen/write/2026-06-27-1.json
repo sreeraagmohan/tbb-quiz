@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-27-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 235,
+  "output_tokens": 334,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text has only dates and an issue number, with no body to source facts from, so no questions could be grounded and the requested answer pattern could not be applied.",
+  "questions": []
+ }
+}

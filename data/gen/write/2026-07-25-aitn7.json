@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-25-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 195,
+  "output_tokens": 1266,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the July 2026 first private Indian orbital launch by Skyroot's Vikram 1 and India's global position in private orbital launches.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Vikram 1 rocket, which reached orbit on 21 July 2026:",
+    "items": [
+     "It is India's first privately developed orbital rocket.",
+     "It was developed by Skyroot.",
+     "Its success made India the third country, after the US and China, where a private firm has reached orbit."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements are correct. Skyroot's Vikram 1 reached orbit on Tuesday, 21 July 2026, as India's first privately developed orbital rocket. This placed India alongside the US and China as the only countries where a private firm has reached orbit.",
+    "source": "Skyroot's Vikram 1 reached orbit, India's first privately developed orbital rocket, making it the third country after the US and China where a private firm has done so."
+   }
+  ]
+ }
+}

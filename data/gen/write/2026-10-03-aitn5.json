@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-03-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 188,
+  "output_tokens": 1078,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A thin item. It tests only the regulatory point that a court ruled duty-free airport shops are subject to domestic drug law, together with the health ministry crackdown.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about developments in India in September 2026:",
+    "items": [
+     "The Union health ministry ordered a crackdown on illegal nicotine pouches.",
+     "A court accepted the claim that duty-free shops at airports are immune from domestic drug law."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the court rejected Adani's claim that its duty-free airport shops were immune from domestic drug law. The health ministry's crackdown on illegal nicotine pouches followed that ruling on 28 September 2026.",
+    "source": "The health ministry ordered a crackdown on illegal nicotine pouches, after a court rejected Adani's claim that its duty-free airport shops were immune from domestic drug law."
+   }
+  ]
+ }
+}

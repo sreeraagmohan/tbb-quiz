@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-13-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 211,
+  "output_tokens": 430,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text holds only a date, issue number and an answer-pattern line, with no substantive content to ground or quote, so no questions can be written.",
+  "questions": []
+ }
+}

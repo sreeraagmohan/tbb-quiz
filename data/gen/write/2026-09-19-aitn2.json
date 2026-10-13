@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-19-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 212,
+  "output_tokens": 988,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Kishau dam agreement: number of signatory states, its place in the Centre's water-dispute settlements and the 90% central funding formula.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Kishau dam agreement signed in September 2026:",
+    "items": [
+     "It was signed by six northern states.",
+     "It was the tenth water dispute the Centre has settled since 2018.",
+     "It used a formula under which the Centre funds 90% of a national project."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. Six northern states signed the long-stalled agreement, the tenth water dispute settled since 2018 under the Centre's 90% funding formula for national projects. The story notes that the generous formula also gives holdout states a reason to wait.",
+    "source": "Six northern states signed the decades-stalled Kishau dam agreement, the tenth water dispute the Centre has settled since 2018 using a formula where it funds 90% of a national project, which also gives holdout states a reason to wait."
+   }
+  ]
+ }
+}

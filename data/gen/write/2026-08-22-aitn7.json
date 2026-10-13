@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-22-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 197,
+  "output_tokens": 1003,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the type of sugar, duty status and reasons behind India's first sugar imports in nearly a decade.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, India permitted sugar imports of 1 million tonnes, its first sugar imports in nearly a decade. Consider the following statements about this decision:",
+    "items": [
+     "The permitted imports are of refined sugar and attract a concessional customs duty.",
+     "Diversion of sugar to ethanol production and a weak harvest pushed domestic output below consumption."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the imports allowed are of raw sugar, and they are duty-free rather than at a concessional rate. Statement 2 is correct, since ethanol diversion and a weak harvest pushed production below domestic consumption.",
+    "source": "India allowed 1 million tonnes of duty-free raw sugar imports, its first sugar imports in nearly a decade, after ethanol diversion and a weak harvest pushed output below consumption."
+   }
+  ]
+ }
+}

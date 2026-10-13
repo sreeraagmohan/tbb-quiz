@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-26-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 177,
+  "output_tokens": 781,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the stated G20 summit venue linked to Canada's deadline for its India trade pact; the deadline itself is only a target, so the venue is the firmer fact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, Canada set a December target to conclude its trade pact with India. By the G20 summit in which city did Canada aim to wrap up the talks?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Miami",
+     "Toronto",
+     "Johannesburg",
+     "New Delhi"
+    ],
+    "answer": 0,
+    "explain": "Canada aimed to conclude the trade talks by the G20 summit in Miami. The December target was set ahead of a planned visit by Prime Minister Modi.",
+    "source": "aiming to wrap talks by the G20 summit in Miami."
+   }
+  ]
+ }
+}

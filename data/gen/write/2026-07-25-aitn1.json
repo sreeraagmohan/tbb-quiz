@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-25-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 208,
+  "output_tokens": 940,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A thin item. It tests only the status of two bills at the start of the July 2026 Monsoon Session.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Parliament opened its Monsoon Session on 21 July 2026. Consider the following statements about two bills at the start of that session:",
+    "items": [
+     "The bill to remove ministers held in custody for 30 days had cleared committee and was advancing.",
+     "A rewrite of foreign-funding rules was advancing."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The bill to remove ministers held in custody for 30 days stayed stuck in committee, so statement 1 is wrong. The foreign-funding rewrite was the one advancing, and the custody bill was described as the more contentious of the two.",
+    "source": "a bill to remove ministers held in custody for 30 days stayed stuck in committee"
+   }
+  ]
+ }
+}

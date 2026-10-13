@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-22-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 165,
+  "output_tokens": 918,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A brief WTO dispute item; tests the type of measure and that this was India's fourth such challenge.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, India took a United States trade measure to the World Trade Organization (WTO). Consider the following statements about this dispute:",
+    "items": [
+     "The measure challenged was a safeguard tariff on quartz surfaces.",
+     "It was the first such challenge India had brought against the United States."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "India challenged a US safeguard tariff on quartz surfaces, so statement 1 is correct. Statement 2 is wrong because the story describes this as India's fourth such challenge, not its first.",
+    "source": "India took a US quartz-surface safeguard tariff to the WTO, its fourth such challenge."
+   }
+  ]
+ }
+}

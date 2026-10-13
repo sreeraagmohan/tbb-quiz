@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-13-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 198,
+  "output_tokens": 837,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Brief item on Nepal's stance on mediation in its border dispute with India; tested the outcome and the countries the Prime Minister had proposed.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Nepal's border dispute with India as of June 2026:",
+    "items": [
+     "In June 2026, Nepal agreed to involve foreign mediators in resolving the dispute.",
+     "Nepal's Prime Minister Balen Shah had suggested involving China and the United Kingdom in the dispute."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong: on 8 June 2026 Nepal ruled out foreign mediators in the dispute. This completed a week-long climbdown from Prime Minister Balen Shah's suggestion of bringing in China and the United Kingdom.",
+    "source": "Nepal ruled out foreign mediators in its border dispute with India, completing a week-long climbdown from Prime Minister Balen Shah's suggestion of involving China and the United Kingdom."
+   }
+  ]
+ }
+}

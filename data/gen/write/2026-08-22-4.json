@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-08-22-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 617,
+  "output_tokens": 1705,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the MQ-9B Sea Guardian lease terms and the India–Japan maritime-security framework. Skipped the detentions item as an enforcement action with little durable Prelims value.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, India's defence ministry signed a contract to lease MQ-9B Sea Guardian drones. Consider the following statements about this contract:",
+    "items": [
+     "It covers two drones leased for the Indian Air Force.",
+     "The lease runs for 30 months.",
+     "It serves as a bridge until 31 purchased drones begin arriving from 2029."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong because the two drones were leased for the Navy, not the Air Force. The INR 19.43 billion lease comes as Chinese warships, submarines and survey vessels operate across the Indian Ocean, some mapping the seabed.",
+    "source": "The defence ministry signed a INR 19.43 billion (USD 203 million) contract to lease two MQ-9B Sea Guardian drones for the Navy for 30 months, a bridge until 31 purchased drones arrive from 2029."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the maritime-security framework signed by India and Japan in August 2026:",
+    "items": [
+     "It was the first defence co-development deal between India and Japan.",
+     "Under it, the two navies will work towards reciprocal access to ports and repair facilities."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong because the framework followed the first India–Japan defence co-development deal, which was signed in July 2026. The framework covers domain awareness, information sharing and closer naval operations, and the two navies will also expand exercises.",
+    "source": "The two navies will expand exercises and work towards reciprocal access to ports and repair facilities."
+   }
+  ]
+ }
+}

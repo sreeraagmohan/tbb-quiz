@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-10-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 188,
+  "output_tokens": 982,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the October 2026 trade margin cap on non-scheduled anti-cancer drugs: the cap level and the projected price fall.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, the Centre announced a measure on the pricing of anti-cancer drugs. Consider the following statements about it:",
+    "items": [
+     "It capped trade margins on non-scheduled anti-cancer drugs at 30% of retail price.",
+     "Officials projected that the measure would lower prices by up to 30%."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because officials projected price falls of up to 70%. The 30% figure is the trade margin cap itself. The cap targets non-scheduled anti-cancer drugs, which sit outside direct price control.",
+    "source": "The Centre capped trade margins on non-scheduled anti-cancer drugs at 30% of retail price, with officials projecting price falls of up to 70%."
+   }
+  ]
+ }
+}

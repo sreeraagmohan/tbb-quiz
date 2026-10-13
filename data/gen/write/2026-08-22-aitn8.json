@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-22-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 178,
+  "output_tokens": 149,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a one-line corporate insolvency update that does not name the tribunal or the law, so it offers no checkable public-affairs fact.",
+  "questions": []
+ }
+}

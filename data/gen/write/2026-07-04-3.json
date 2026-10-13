@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-04-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 793,
+  "output_tokens": 2595,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the steel anti-dumping probe, record foreign bond inflows and India's request to the EU for a scrap-curb exemption; skipped the WhatsApp directive as an evolving executive matter.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, India's trade-remedies body opened an anti-dumping investigation into imports of hot-rolled steel. Consider the following statements about it:",
+    "items": [
+     "The investigation covers hot-rolled steel from China, Japan and Russia.",
+     "Any anti-dumping duties imposed would replace the existing 12% safeguard duty.",
+     "Domestic mills alleged below-cost selling, and Chinese steel exports to India more than doubled in April."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The second statement is wrong: any anti-dumping duties would stack on top of the existing 12% safeguard rather than replace it. Chinese steel was running USD 11 to 37 per tonne cheaper, and New Delhi is treating trade defence as a rules-based process insulated from diplomacy.",
+    "source": "Any duties would stack on an existing 12% safeguard."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about foreign investment in Indian government bonds in June 2026:",
+    "items": [
+     "Foreign investors' purchases in June were smaller than their combined purchases over the preceding five months.",
+     "The inflows followed New Delhi's scrapping of taxes on foreign holdings of government bonds.",
+     "The inflows move India towards inclusion in a Bloomberg bond index, estimated to be worth USD 20 to 25 billion."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The first statement is wrong: the record USD 3 billion bought in June dwarfed the USD 1.7 billion taken across the prior five months. Cheaper crude also sweetened the trade, and such inflows help steady the rupee and reduce the need for central-bank intervention.",
+    "source": "Foreign investors bought a record USD 3 billion of Indian government bonds in June, dwarfing the USD 1.7 billion taken across the prior five months, after New Delhi scrapped taxes on foreign holdings and cheaper crude sweetened the trade."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, India formally asked the European Union for an exemption from which of the following EU export curbs, due to take effect in 2027?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Curbs on metal-scrap exports",
+     "Curbs on fertiliser exports",
+     "Curbs on semiconductor exports",
+     "Curbs on rare-earth exports"
+    ],
+    "answer": 0,
+    "explain": "India sought an exemption from the EU's metal-scrap export curbs, warning that they would raise steelmakers' costs and erode the new India-EU trade pact. The episode shows that EU environmental regulation can reshape market access from outside the negotiated trade text.",
+    "source": "India formally asked the European Union for an exemption from metal-scrap export curbs taking effect in 2027, warning they would raise steelmakers' costs and erode the new trade pact before it starts."
+   }
+  ]
+ }
+}

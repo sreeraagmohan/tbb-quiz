@@ -1,0 +1,78 @@
+{
+ "story_id": "2026-09-12-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 593,
+  "output_tokens": 2781,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the satellite spectrum levy, the FIU action on offshore crypto platforms and the amended e-commerce discount rules.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about satellite broadband spectrum pricing in India as of September 2026:",
+    "items": [
+     "The Department of Telecommunications moved to charge satellite broadband operators 5% of adjusted gross revenue for spectrum.",
+     "The levy proposed by the Department is higher than the rate recommended by its own regulator.",
+     "Starlink, Eutelsat OneWeb and the Jio-SES venture had all been cleared to operate but were held up on pricing and security checks."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The Department chose 5% of adjusted gross revenue over the regulator's 4% recommendation, and Cabinet approval was still pending. Delhi is betting that hundreds of millions of unconnected Indians keep operators interested despite the levy.",
+    "source": "The Department of Telecommunications moved to charge satellite broadband operators 5% of adjusted gross revenue for spectrum, overriding its own regulator's 4% recommendation, with Cabinet approval still pending."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, compliance notices were issued to 15 offshore crypto platforms, including Weex, Blofin and WOO X. Consider the following statements:",
+    "items": [
+     "The notices were issued by the Enforcement Directorate for violations of foreign exchange law.",
+     "Platforms notified in earlier rounds, including Binance, later registered and paid penalties to return to India."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The notices came from the Financial Intelligence Unit, for skipping registration under anti-money-laundering law, so statement 1 is wrong. Platforms notified in 2023 and 2025 later registered and paid penalties, because the chokepoint is where digital coins meet rupees.",
+    "source": "The Financial Intelligence Unit issued compliance notices to 15 offshore crypto platforms including Weex, Blofin, and WOO X, and moved to pull their apps in India, for skipping registration under anti-money-laundering law."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the e-commerce rules amended by the Department of Consumer Affairs in September 2026:",
+    "items": [
+     "Reference period for any advertised price cut — Lowest price of the prior 30 days",
+     "Date from which the amendment takes effect — January 1, 2027",
+     "Consumer complaints cited for 2025 — 17.7 million"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The Department cited 1.77 million consumer complaints in 2025, not 17.7 million, and nearly a third of them concerned e-commerce. The amendment targets dark patterns and fake festive discounts, though platforms still audit themselves.",
+    "source": "The Department of Consumer Affairs amended e-commerce rules to curb dark patterns and fake festive discounts, requiring any advertised price cut to reference the lowest price of the prior 30 days, effective January 1, 2027."
+   }
+  ]
+ }
+}

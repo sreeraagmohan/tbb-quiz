@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-26-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 182,
+  "output_tokens": 1140,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A draft EU trade-environment measure affecting India. Testing the stated reason and the start date, avoiding the ambiguous direction of trade.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the European Commission proposed excluding India from EU metal-scrap imports. Consider the following statements about the proposal:",
+    "items": [
+     "The Commission cited insufficient pollution controls as the reason for the exclusion.",
+     "The exclusion would take effect as soon as the consultation closes in October 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The proposal cites insufficient pollution controls, but the exclusion would apply from May 2027, not October 2026. October 16 is only the deadline for consultation on the draft.",
+    "source": "The European Commission proposed excluding India from EU metal-scrap imports from May 2027, citing insufficient pollution controls, with the draft open to consultation until October 16."
+   }
+  ]
+ }
+}

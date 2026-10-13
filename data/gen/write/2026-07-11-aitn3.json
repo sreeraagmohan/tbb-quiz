@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-11-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 207,
+  "output_tokens": 239,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a one-line item on overlapping ministerial tours with no concrete outcome, and the UNSC seat campaign launch is only an upcoming plan with no details to test.",
+  "questions": []
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-20-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 599,
+  "output_tokens": 3861,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–Slovakia visit outcomes, the IMPACT connectivity proposal at the G7 outreach, and the venue of the India–France summit, all from June 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Prime Minister Modi's visit to Slovakia in June 2026:",
+    "items": [
+     "He became the first Indian Prime Minister to visit Slovakia.",
+     "India and Slovakia signed thirteen agreements during the visit.",
+     "India–Slovakia ties were elevated to a Special Global Strategic Partnership."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the first statement is correct. The visit produced eleven agreements and lifted ties to a Comprehensive Partnership; the 13 outcomes and the Special Global Strategic Partnership belong to India–France ties. Slovakia's Prime Minister Fico is described as the EU's most openly pro-Moscow, pro-Beijing leader, which gives New Delhi a sympathetic ear in Brussels as it seeks ratification of the India-EU trade deal.",
+    "source": "Modi became the first Indian Prime Minister to visit Slovakia, elevating ties to a Comprehensive Partnership across eleven agreements."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Prime Minister Modi proposed a connectivity initiative called IMPACT at the G7 outreach session. Consider the following statements about it:",
+    "items": [
+     "It envisages pairing Indian capital with G7 execution.",
+     "It is designed as a hedge against the India-Middle East-Europe Economic Corridor rather than an extension of it."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Neither statement is correct. IMPACT pairs G7 capital with Indian execution and Global South ownership. It scales up India's earlier bet on the India-Middle East-Europe Economic Corridor rather than hedging it. Modi pitched India at the Evian session as a bridge between the developed world and the Global South.",
+    "source": "At the G7 outreach session in Evian, Modi pitched India as a bridge between the developed world and the Global South, proposing a new connectivity initiative, IMPACT, pairing G7 capital with Indian execution and Global South ownership."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Prime Minister Modi and President Macron held their first meeting since India and France elevated ties to a Special Global Strategic Partnership. In which French city did this meeting take place?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Nice",
+     "Evian",
+     "Lyon",
+     "Marseille"
+    ],
+    "answer": 0,
+    "explain": "The two leaders met in Nice on 15 June 2026 and signed off on 13 outcomes spanning defence, critical minerals, space and trade. Evian hosted the G7 outreach session later that week. France offers processing technology and access to African mining.",
+    "source": "Modi and Macron signed off on 13 outcomes in Nice spanning defence, critical minerals, space, and trade, the first meeting since the two elevated ties to a Special Global Strategic Partnership."
+   }
+  ]
+ }
+}

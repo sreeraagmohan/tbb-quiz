@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-10-03-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 576,
+  "output_tokens": 1904,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the US specialty-medicine tariff exemption for India and the October 2026 Modi-Trump call; skipped Jaishankar's remarks as commentary.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, the United States announced exemptions from its new pharmaceutical tariffs for specialty medicines. Consider the following statements:",
+    "items": [
+     "Generic medicines supplied by India are covered by the exemption.",
+     "India was named among 20 eligible suppliers under the exemption.",
+     "The exempted categories include cell and gene therapies."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Generics stay outside the programme and remain tied to a pending security review. The exemption covers rare-disease, fertility, and cell and gene therapies. TBB reads it as Washington giving aligned partners targeted relief while holding back the comprehensive trade deal as leverage.",
+    "source": "The US named India among 20 eligible suppliers of specialty medicines exempt from its new pharmaceutical tariffs, covering rare-disease, fertility, and cell and gene therapies, though generics stay outside the programme and tied to a pending security review."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the phone call between Prime Minister Narendra Modi and US President Donald Trump in October 2026:",
+    "items": [
+     "It was their first conversation since June 2026.",
+     "The leaders reviewed trade, defence and energy.",
+     "It came days after the US Russia-oil tariff law took effect."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The call came as Commerce Minister Piyush Goyal flew to the G20 trade meeting to meet Greer, and the India-US trade deal remained unsigned.",
+    "source": "Modi called Trump, their first conversation since June, reviewing trade, defence, and energy days after the Russia-oil tariff law took effect and as Goyal flew to the G20 trade meeting to see Greer."
+   }
+  ]
+ }
+}

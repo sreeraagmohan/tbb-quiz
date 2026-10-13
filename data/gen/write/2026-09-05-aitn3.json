@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-05-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 184,
+  "output_tokens": 826,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Delhi High Court's September 2026 ruling on job protection after maternity leave and its direction to the Centre.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the Delhi High Court ruled on the rights of women returning from maternity leave. Consider the following statements about the ruling:",
+    "items": [
+     "Women returning from maternity leave must get their old job or an equivalent one.",
+     "The court directed the Centre to draft protective rules within six months."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. On 4 September 2026 the Delhi High Court held that a woman returning from maternity leave is entitled to her old job or an equivalent one. It also ordered the Centre to frame protective rules within six months.",
+    "source": "The Delhi High Court ruled that women returning from maternity leave must get their old job or an equivalent one, ordering the Centre to draft protective rules within six months."
+   }
+  ]
+ }
+}

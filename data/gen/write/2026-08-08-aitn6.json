@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-08-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 210,
+  "output_tokens": 1134,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the outlay, sector and demand-guarantee mechanism of the GOBARdhan compressed biogas scheme approved by the Cabinet.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the GOBARdhan scheme approved in August 2026:",
+    "items": [
+     "It was approved by the Cabinet with an outlay of INR 237 billion.",
+     "It is a scheme for compressed biogas.",
+     "It guarantees producers a buyer through city-gas blending obligations that rise every year."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. On 7 August 2026 the Cabinet approved GOBARdhan, an INR 237 billion (USD 2.5 billion) compressed biogas scheme. Demand is secured through city-gas blending obligations that rise every year.",
+    "source": "The Cabinet approved GOBARdhan, a INR 237 billion (USD 2.5 billion) compressed biogas scheme, guaranteeing producers a buyer through city-gas blending obligations that rise every year."
+   }
+  ]
+ }
+}

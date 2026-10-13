@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-04-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 214,
+  "output_tokens": 389,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text holds only dates and an issue number, with none of the facts in the headline (steel probe, India–Japan defence pact, Seychelles, bond inflows), so no question can be grounded or sourced.",
+  "questions": []
+ }
+}

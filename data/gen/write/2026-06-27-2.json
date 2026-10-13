@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-27-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 405,
+  "output_tokens": 1289,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A weekly round-up dominated by corporate deals. Only the BRICS meeting hosted by Doval is a checkable public-affairs fact, so one question tests that.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Ajit Doval hosted China's Wang Yi and Russia's Sergei Shoigu in New Delhi at a meeting of which grouping?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "BRICS",
+     "Quad",
+     "G20",
+     "SCO"
+    ],
+    "answer": 0,
+    "explain": "Doval hosted Wang Yi and Sergei Shoigu at a BRICS table on Tuesday 23 June 2026. The same week, the US trade envoy wrapped up four days of talks in India, part of New Delhi's balancing between the powers.",
+    "source": "Doval hosted China's Wang Yi and Russia's Sergei Shoigu at a BRICS table on Tuesday"
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-09-05-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 532,
+  "output_tokens": 2893,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the arbitral ruling on the Indus Waters Treaty, the stalled UPI–Alipay+ link and Jaishankar's first standalone Ukraine visit.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the Permanent Court of Arbitration ruled on the Indus Waters Treaty. Consider the following statements:",
+    "items": [
+     "The court held that the 1960 Indus Waters Treaty remains fully in force.",
+     "India accepted the tribunal's jurisdiction but sought a review of the ruling."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The court held that the treaty remains fully in force and that India had no justification for suspending it after the April 2025 Pahalgam attack. Statement 2 is wrong because India rejected the ruling categorically, called the tribunal illegally constituted and denied it any jurisdiction.",
+    "source": "The Permanent Court of Arbitration ruled the 1960 Indus Waters Treaty remains fully in force and that India had no justification for suspending it after the April 2025 attack in Pahalgam."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the proposed link between UPI and Alipay+, as reported in September 2026:",
+    "items": [
+     "New Delhi stalled the proposal over concerns about data, money laundering and cyberfraud.",
+     "Ant International, which offers Alipay+, is based in Hong Kong.",
+     "UPI already operates in Nepal, Greece and Qatar."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the story places Ant International's base in Singapore, not Hong Kong. The proposal, made in January, would have connected UPI to Alipay+'s vast Asian merchant network, but Delhi stalled it over data, laundering and cyberfraud fears.",
+    "source": "New Delhi stalled a proposed link between UPI and Alipay+ over data, laundering, and cyberfraud fears, leaving the January proposal in limbo despite Ant International's Singapore base."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, External Affairs Minister S Jaishankar defended India's Russian oil purchases during the first standalone visit by an Indian foreign minister to which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Ukraine",
+     "Poland",
+     "Romania",
+     "Moldova"
+    ],
+    "answer": 0,
+    "explain": "Jaishankar made the first standalone visit by an Indian foreign minister to Ukraine. He argued that India's oil purchases would not decide the war and cited a duty to fuel 1.4 billion people. Russia supplied 45% of India's crude in August 2026.",
+    "source": "Jaishankar used the first standalone visit by an Indian foreign minister to Ukraine to defend India's Russian oil purchases, arguing they would not decide the war and citing a duty to fuel 1.4 billion people."
+   }
+  ]
+ }
+}

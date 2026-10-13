@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-13-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 280,
+  "output_tokens": 895,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the Clinical Establishments Act display rule and the package-rate advisory for medical and Ayush visa holders.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, the Union Health Secretary asked states and union territories to review compliance with rules on healthcare establishments displaying their charges. Consider the following statements:",
+    "items": [
+     "Where the Clinical Establishments Act applies, rates must be prominently displayed in English only.",
+     "The Centre asked states to encourage establishments to display package rates for foreign patients travelling on medical or Ayush visas."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because, under the Clinical Establishments Act, rates must be displayed in both English and the local language. Where the Act does not apply, state regulations govern the requirements. Ayush visas cover foreign patients seeking traditional Indian medication.",
+    "source": "Where the Clinical Establishments Act applies, rates must be prominently displayed in English and the local language; elsewhere, state regulations govern the requirements."
+   }
+  ]
+ }
+}

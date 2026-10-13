@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-12-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 220,
+  "output_tokens": 395,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "The headline topics (China border channel, BRICS, defence procurement, WTO sugar subsidies) suit Prelims, but the story text has no body beyond the date and issue number. There is nothing to ground questions or source quotes in, so none were written.",
+  "questions": []
+ }
+}

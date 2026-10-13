@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-19-aitn10",
+ "error": null,
+ "usage": {
+  "input_tokens": 199,
+  "output_tokens": 988,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the edition, venue states and troop strength of the India–US Yudh Abhyas exercise that began in September 2026.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–US Yudh Abhyas army exercise that began in September 2026:",
+    "items": [
+     "It is the 22nd edition of the exercise.",
+     "It is being held in Uttarakhand and Rajasthan.",
+     "Each side has fielded 1,200 troops for the exercise."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because each side fielded 600 troops, not 1,200. The 22nd edition began on 16 September 2026 in Uttarakhand and Rajasthan, with drills on mountain warfare, drones and autonomous systems.",
+    "source": "India and the US began the 22nd Yudh Abhyas army exercise in Uttarakhand and Rajasthan, 600 troops a side, drilling mountain warfare, drones, and autonomous systems."
+   }
+  ]
+ }
+}

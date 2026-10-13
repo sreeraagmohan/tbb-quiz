@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-05-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 222,
+  "output_tokens": 422,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Skipped: the headline topics (GDP growth, sovereign rating, Indus treaty, payments deal) are strong Prelims material, but the story text has only the date and issue number, so no question can be grounded or quoted.",
+  "questions": []
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-15-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 205,
+  "output_tokens": 339,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: the story text holds only the date and issue number, with no substantive content to ground questions. The headline alone is too vague to source facts from.",
+  "questions": []
+ }
+}

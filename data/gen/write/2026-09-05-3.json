@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-09-05-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 586,
+  "output_tokens": 2702,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the April–June 2026 GDP composition, the JCRA sovereign rating upgrade and the six pillars of Semicon 2.0.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's GDP data for the April to June 2026 quarter, released in September 2026:",
+    "items": [
+     "Growth of 7.8% exceeded the Reserve Bank's own estimate of 7% for the quarter.",
+     "Private investment growth closed at 12%, nearly doubling its pace.",
+     "Lending grew at its fastest pace in over a decade."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The economy grew 7.8% against a 7% RBI estimate, private investment closed at 12% and lending grew at its fastest in over a decade. Investment leading growth rather than consumption points to a turn in the capital-spending cycle.",
+    "source": "Private investment nearly doubled its pace to close at 12%, and lending grew at its fastest in over a decade."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, Japan Credit Rating Agency (JCRA) raised India's sovereign credit rating to A- from BBB+. Consider the following statements:",
+    "items": [
+     "It was India's first sovereign credit rating upgrade since May 2025.",
+     "JCRA is one of the Big Three agencies whose ratings price India's foreign borrowing."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "It was India's fourth upgrade since May 2025, after Morningstar DBRS, S&P Global Ratings and R&I. The Big Three that price India's foreign borrowing are S&P, Moody's and Fitch, not JCRA.",
+    "source": "It is India’s fourth sovereign credit rating upgrade since May 2025, following Morningstar DBRS, S&P Global Ratings, and Japan's Rating and Investment Information (R&I)."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In September 2026, India notified the full rulebook for Semicon 2.0, funding six pillars of the chip value chain. Which one of the following is NOT among those six pillars?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Device assembly",
+     "Design",
+     "Packaging",
+     "Talent"
+    ],
+    "answer": 0,
+    "explain": "The six pillars are design, materials, fabrication, packaging, research and talent; device assembly is not one of them. The shift into design and equipment targets the choke points where export controls bite.",
+    "source": "India notified the full rulebook for Semicon 2.0, funding all six pillars of the chip value chain: design, materials, fabrication, packaging, research, and talent."
+   }
+  ]
+ }
+}

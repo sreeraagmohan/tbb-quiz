@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-20-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 203,
+  "output_tokens": 242,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text contains only dates and an issue number, with no body text to ground questions or quote as a source.",
+  "questions": []
+ }
+}

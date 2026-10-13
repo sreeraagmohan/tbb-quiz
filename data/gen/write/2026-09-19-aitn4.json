@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-19-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 213,
+  "output_tokens": 861,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the design of the UPI merchant fee set by the Finance Ministry in September 2026: rate, threshold, cap and exemption.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the merchant fee on UPI payments set by the Finance Ministry in September 2026:",
+    "items": [
+     "The fee is 0.4% and applies to UPI payments above INR 2,000.",
+     "Person-to-person transfers above INR 2,000 also attract the fee.",
+     "The fee is capped at INR 300."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because all person-to-person transfers are unaffected by the fee. The 0.4% fee, capped at INR 300, applies only to merchant payments above INR 2,000, leaving 96% of merchant transactions untouched.",
+    "source": "capped at INR 300, with 96% of merchant transactions and all person-to-person transfers unaffected."
+   }
+  ]
+ }
+}

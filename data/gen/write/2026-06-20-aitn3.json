@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-20-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 206,
+  "output_tokens": 494,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped. This is a capital-market deal, an IPO filing with valuation and selling shareholders, with no scheme, law, regulatory decision or policy outcome to test.",
+  "questions": []
+ }
+}

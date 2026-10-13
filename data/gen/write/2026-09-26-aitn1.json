@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-26-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 212,
+  "output_tokens": 881,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A political ultimatum, but it carries one durable polity fact stated in the story: only Parliament can remove the Chief Election Commissioner.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, the Cockroach Janta Party demanded the resignation of Chief Election Commissioner Gyanesh Kumar over alleged voter-roll manipulation. Which body alone can remove the Chief Election Commissioner from office?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Parliament",
+     "The President",
+     "The Supreme Court",
+     "The Union Cabinet"
+    ],
+    "answer": 0,
+    "explain": "Parliament alone can remove the Chief Election Commissioner, so the party's 48-hour ultimatum carries no power to force him out. The demand was made over alleged manipulation of voter rolls.",
+    "source": "testing a movement that won in July against an official Parliament alone can remove."
+   }
+  ]
+ }
+}

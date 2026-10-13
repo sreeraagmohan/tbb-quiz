@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-01-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 194,
+  "output_tokens": 997,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "World Heritage inscriptions are standard Prelims material. Tested Sarnath's count, its Buddhist significance and its link to the national emblem.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, UNESCO added Sarnath, near Varanasi, to its World Heritage List. Consider the following statements about Sarnath:",
+    "items": [
+     "It became India's 45th World Heritage site.",
+     "It is the place where the Buddha delivered his first sermon.",
+     "It is the source of India's national emblem."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. UNESCO inscribed Sarnath as India's 45th World Heritage site on 27 July 2026. The Varanasi site is where the Buddha delivered his first sermon, and India's national emblem comes from Sarnath.",
+    "source": "UNESCO inscribed Sarnath as India's 45th World Heritage site, the Varanasi site where the Buddha delivered his first sermon and source of the national emblem."
+   }
+  ]
+ }
+}

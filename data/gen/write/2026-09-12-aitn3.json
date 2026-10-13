@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-12-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 230,
+  "output_tokens": 1035,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the revised Census 2027 schedule, the first official caste count and the Manipur deferral in one statements question.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, the Centre revised the schedule for Census 2027. Consider the following statements:",
+    "items": [
+     "Fieldwork was advanced to 1 December in Uttar Pradesh, Punjab, Goa and parts of Uttarakhand.",
+     "The census includes independent India's first official caste count.",
+     "The census in Manipur has been deferred indefinitely."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story. The Centre moved fieldwork to December 1 in poll-bound states, which places independent India's first official caste count weeks before their state elections, while Manipur's census was put off indefinitely.",
+    "source": "The Centre advanced Census 2027 fieldwork to December 1 in poll-bound Uttar Pradesh, Punjab, Goa, and parts of Uttarakhand, placing independent India's first official caste count weeks before those state elections, while deferring the census in Manipur indefinitely."
+   }
+  ]
+ }
+}

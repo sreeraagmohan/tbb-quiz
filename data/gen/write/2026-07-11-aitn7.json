@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-11-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 182,
+  "output_tokens": 691,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the strait whose reopening let India lift emergency gas allocation restrictions in July 2026; the brief item supports one question.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, India lifted emergency gas allocation restrictions after liquefied natural gas shipments resumed through which reopened waterway?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Strait of Malacca",
+     "Bab-el-Mandeb Strait",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "India lifted the restrictions on 6 July 2026, after LNG shipments resumed through a reopened Strait of Hormuz. The emergency curbs on gas allocation were eased once these supplies started moving again.",
+    "source": "India lifted emergency gas allocation restrictions after liquefied natural gas shipments resumed through a reopened Strait of Hormuz."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-25-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 371,
+  "output_tokens": 1304,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A weekly recap with little durable detail; the only test is a statements question on India's diplomatic moves with Russia and China.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's diplomatic engagements in the week ending 24 July 2026:",
+    "items": [
+     "New Delhi summoned Russia's envoy over four seafarers killed off Odessa, its second such summons in six weeks.",
+     "Jaishankar pressed Wang Yi on a deficit above USD 100 billion."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The summons over the seafarers killed off Odessa was India's third in six weeks, not its second. In the same week, Jaishankar raised a deficit above USD 100 billion with Wang Yi, while Washington said the trade deal must wait on its own tariff probe.",
+    "source": "Jaishankar pressed Wang Yi on a deficit above USD 100 billion, and Delhi summoned Moscow's envoy over four seafarers killed off Odessa, its third such summons in six weeks."
+   }
+  ]
+ }
+}

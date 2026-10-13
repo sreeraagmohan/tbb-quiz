@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-18-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 203,
+  "output_tokens": 1317,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the review of the 2011 India–Japan trade agreement, the size of the deficit and the shift in India's approach.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, India began reviewing its 2011 trade agreement with Japan. Consider the following statements:",
+    "items": [
+     "Through the review, India is shifting its focus from attracting Japanese investment towards expanding goods exports to Japan.",
+     "India's bilateral trade deficit with Japan nearly tripled to USD 15.4 billion in a decade."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 reverses the story. India is pivoting away from selling goods and towards courting Japanese capital. The review was prompted by the bilateral deficit nearly tripling to USD 15.4 billion over a decade.",
+    "source": "India is reviewing its 2011 trade agreement with Japan after the bilateral deficit nearly tripled to USD 15.4 billion in a decade, pivoting from selling goods to courting Japanese capital."
+   }
+  ]
+ }
+}

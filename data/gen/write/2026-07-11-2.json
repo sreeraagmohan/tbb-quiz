@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-07-11-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 368,
+  "output_tokens": 2047,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly round-up; tested the concrete outcomes of the Indonesia and Australia leg and the three domestic regulatory actions.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Prime Minister Modi's visits to Jakarta and Melbourne in July 2026:",
+    "items": [
+     "The Jakarta leg produced a USD 630 million missile package and four agreements.",
+     "In Melbourne, India activated a uranium arrangement that had been dormant since 2014."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The Jakarta state visit, which opened on 8 July 2026, produced fourteen agreements alongside the USD 630 million missile package, not four. The trip closed in Melbourne on 10 July 2026 with the activation of the uranium arrangement, and neither host was asked to name China or join any grouping.",
+    "source": "Modi opened a state visit to Jakarta on Wednesday with a USD 630 million missile package and fourteen agreements, then closed in Melbourne on Friday by activating a uranium arrangement that had sat dormant since 2014."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about regulatory developments in India in the week ending 11 July 2026:",
+    "items": [
+     "The technology ministry gave Meta seven days to explain child abuse advertisements on Instagram.",
+     "The Reserve Bank of India moved to wall banks off from crypto.",
+     "Google filed a 4,761-page appeal against a Delhi ruling on its ad auction."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three actions are reported in the story for that week. They unfolded alongside driver protests at Jantar Mantar over fuel, which TBB framed as India absorbing grievance at home while selling deterrence abroad.",
+    "source": "Drivers filled Jantar Mantar over a fuel they cannot refuse, the technology ministry gave Meta seven days to explain child abuse advertisements on Instagram, the Reserve Bank moved to wall banks off from crypto, and Google filed a 4,761-page appeal against a Delhi ruling on its ad auction."
+   }
+  ]
+ }
+}

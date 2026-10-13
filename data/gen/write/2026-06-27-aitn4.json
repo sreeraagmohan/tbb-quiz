@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-27-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 194,
+  "output_tokens": 277,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the item reports only a visit and 'significant progress' towards an interim India-US trade deal that has not been concluded, so there is no settled outcome to test.",
+  "questions": []
+ }
+}

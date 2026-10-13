@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-12-aitn10",
+ "error": null,
+ "usage": {
+  "input_tokens": 188,
+  "output_tokens": 70,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: a building collapse with arrests and suspensions is an accident story without a durable institutional or policy fact suitable for Prelims.",
+  "questions": []
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-19-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 195,
+  "output_tokens": 797,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the September 2026 New Zealand legislation implementing the India trade deal and the small share of India's exports it covers.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–New Zealand trade deal as of September 2026:",
+    "items": [
+     "New Zealand's parliament passed legislation implementing the deal, zeroing tariffs on qualifying Indian goods.",
+     "New Zealand accounts for more than 1% of India's exports."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because New Zealand takes only 0.13% of India's exports. The implementing law passed on 17 September 2026 and removes tariffs on qualifying Indian goods, though the market it opens is small.",
+    "source": "New Zealand's parliament passed legislation implementing its India trade deal, zeroing tariffs on qualifying Indian goods, though the market is small at 0.13% of India's exports."
+   }
+  ]
+ }
+}

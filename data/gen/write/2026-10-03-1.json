@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-03-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 218,
+  "output_tokens": 275,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "No questions: the story text has only the date and issue number, with no body to ground facts or quote a source from, so the requested answer pattern could not be applied.",
+  "questions": []
+ }
+}

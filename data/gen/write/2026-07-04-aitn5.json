@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-04-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 210,
+  "output_tokens": 737,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the destination of Operation Amistad, a named HADR airlift that is India's first such reach into Latin America.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, India sent two Indian Air Force C-17 aircraft under Operation Amistad to deliver earthquake relief to which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Venezuela",
+     "Colombia",
+     "Peru",
+     "Ecuador"
+    ],
+    "answer": 0,
+    "explain": "Operation Amistad was a military airlift of two C-17s to earthquake-hit Venezuela. It extends India's disaster-relief reach well beyond its usual Indian Ocean neighbourhood.",
+    "source": "India sent two air force C-17s to earthquake-hit Venezuela under Operation Amistad"
+   }
+  ]
+ }
+}

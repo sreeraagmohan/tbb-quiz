@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-29-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 1137,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the outlay and the ownership and local-design conditions of the phone manufacturing scheme rules notified in August 2026.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the technology ministry notified rules for a phone manufacturing scheme. Consider the following statements about the scheme:",
+    "items": [
+     "It carries an outlay of INR 625 billion (USD 6.5 billion).",
+     "Its rules set ownership and local-design tests for Indian brands."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The rules for the INR 625 billion scheme add ownership and local-design tests for Indian brands. This shifts the policy pitch from \"Made in India\" to \"Owned in India\".",
+    "source": "The technology ministry notified rules for the INR 625 billion (USD 6.5 billion) phone manufacturing scheme, shifting the pitch from \"Made in India\" to \"Owned in India\" with ownership and local-design tests for Indian brands."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-03-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 617,
+  "output_tokens": 2816,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Green Energy Corridor Phase III approval, the Andaman Sea seabed mineral block auction, and the reason for the captive coal plant order.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the third phase of the Green Energy Corridor approved in October 2026:",
+    "items": [
+     "It was approved by the Union Cabinet with an outlay of INR 1.9 trillion.",
+     "It aims to move 135 gigawatts of renewable power from remote sites to the grid by 2032-33.",
+     "It includes 50 gigawatt-hours of battery storage."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the Cabinet decision of 1 October 2026, which approved INR 1.9 trillion (USD 20 billion) for 135 GW of transmission by 2032-33 with 50 GWh of battery storage. Moving green power without destabilising fragile state grids is where India's energy transition usually stalls, which is why direct central funding matters.",
+    "source": "The Cabinet approved a INR 1.9 trillion (USD 20 billion) third phase of the Green Energy Corridor to move 135 gigawatts of renewable power from remote sites to the grid by 2032-33, with 50 gigawatt-hours of battery storage."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, the Union government opened bidding for offshore blocks containing seabed mineral nodules. Consider the following statements:",
+    "items": [
+     "The two blocks on offer lie in the Arabian Sea.",
+     "An earlier round in 2024 near Great Nicobar attracted a large number of qualifying bids."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "The Ministry of Mines offered two Andaman Sea blocks covering 1,632 sq km, not Arabian Sea blocks, and the 2024 round near Great Nicobar drew too few qualifying bids. The nodules hold cobalt, nickel, manganese and rare earths, but India's miners lack deep-sea experience.",
+    "source": "The Ministry of Mines opened bidding for two Andaman Sea blocks covering 1,632 square kilometres, whose seabed nodules hold cobalt, nickel, manganese, and rare earths, with bids due December 28."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, India ordered 112 captive coal plants serving steel mills and smelters to maximise output from October to December and sell the surplus to the grid. Besides nighttime power shortages, which factor did the order respond to?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Weak rainfall reducing hydropower output",
+     "Cyclone damage to transmission lines",
+     "A strike at major coal mines",
+     "Outages at nuclear power plants"
+    ],
+    "answer": 0,
+    "explain": "Nighttime shortages reached 7.7 GW in September 2026 and weak rainfall sapped hydropower, prompting the order. Coal stocks had also fallen 24% to about seven days' supply.",
+    "source": "India ordered 112 captive coal plants serving steel mills and smelters to maximise output from October through December and sell the surplus to the grid, after nighttime shortages hit 7.7 gigawatts in September and weak rainfall sapped hydropower."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-25-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 638,
+  "output_tokens": 1034,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly protest politics. One question tests the durable institutional point that the Supreme Court requires internet suspension orders to be published, paired with the unpublished anti-leak law details.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, youth-led protests in Delhi over exam paper leaks drew a response from the authorities and the Prime Minister. Consider the following statements:",
+    "items": [
+     "The Supreme Court requires orders suspending mobile internet to be published.",
+     "Prime Minister Modi's announcement of a tougher law against paper leaks came with published draft legislation."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because no start date, court count or draft legislation was published with the announcement of fast-track courts and a tougher anti-leak law. Delhi suspended mobile internet twice without publishing a suspension order, which the Supreme Court requires.",
+    "source": "Delhi shut 16 metro stations for a second day and suspended mobile internet twice, with no suspension order published as the Supreme Court requires."
+   }
+  ]
+ }
+}

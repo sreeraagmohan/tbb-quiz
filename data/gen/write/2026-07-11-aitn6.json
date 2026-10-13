@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-11-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 198,
+  "output_tokens": 112,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a monsoon accident report with no scheme, ruling, institutional response or project detail worth testing.",
+  "questions": []
+ }
+}

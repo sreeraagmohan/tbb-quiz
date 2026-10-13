@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-08-15-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 397,
+  "output_tokens": 1506,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly roundup; tested the parliamentary handling of three Union bills and the US Senate tariff bill on Russian-oil buyers.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about legislation in Parliament in August 2026:",
+    "items": [
+     "The Tribunals Reforms Bill was passed without debate.",
+     "The FCRA bill was referred to a joint parliamentary committee rather than being debated on the floor.",
+     "A bill on mineral rights sought to expand the powers of states to tax mineral rights."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the mineral-rights bill sought to strip states of the power to tax mineral rights, not expand it. TBB read the week's bills as the Centre moving power towards itself.",
+    "source": "A Tribunals Reforms Bill passed without debate on Monday, a bill to strip states of mineral-rights taxation followed on Thursday, and the FCRA bill went to a joint parliamentary committee the same day rather than being debated on the floor."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, the US Senate passed a bill authorising tariffs of up to what level on buyers of Russian oil?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "100%",
+     "50%",
+     "25%",
+     "200%"
+    ],
+    "answer": 0,
+    "explain": "The Senate bill authorised tariffs of up to 100% on Russian-oil buyers. Within days, Nayara Energy shipped fuel refined from Russian oil back to Russia, giving Washington's critics the headline the bill was written to punish.",
+    "source": "The US Senate passed a bill authorising tariffs up to 100% on Russian-oil buyers on Saturday"
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-13-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 207,
+  "output_tokens": 1017,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the June 2026 replacement of MGNREGA: the cost sharing with states, the 125-day guarantee and the end of the demand-driven design.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In June 2026, India replaced the MGNREGA rural jobs scheme with a new mission. Consider the following statements about the new mission:",
+    "items": [
+     "It shifts 40% of the scheme's costs to states.",
+     "It retains MGNREGA's open-ended, demand-driven character.",
+     "It raises guaranteed employment to 125 days."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the new mission ends the open-ended, demand-driven safety net that defined MGNREGA. It does shift 40% of costs to states and raises guaranteed employment to 125 days, so states now carry a much larger share of rural job spending.",
+    "source": "a new mission shifting 40% of costs to states, raising guaranteed employment to 125 days while ending the open-ended, demand-driven safety net."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-04-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 243,
+  "output_tokens": 1145,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Corporate deal with an infrastructure and transhipment angle; tested the location, stake and its significance as a port investment.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, Adani Ports announced a stake sale in the operator of Vizhinjam Port to the shipping company MSC. Consider the following statements:",
+    "items": [
+     "Vizhinjam Port is in Kerala, and MSC will acquire a 49% stake in its operator.",
+     "The USD 1.4 billion deal is the largest foreign private investment in Indian port infrastructure."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. Adani Ports is selling 49% of the Kerala port's operator to MSC for USD 1.4 billion, the largest foreign private investment in Indian port infrastructure. The deal gives MSC a direct incentive to route cargo through India rather than through Colombo or Singapore.",
+    "source": "Adani Ports will sell 49% of Kerala's Vizhinjam Port operator to shipping giant MSC for USD 1.4 billion, the largest foreign private investment in Indian port infrastructure"
+   }
+  ]
+ }
+}

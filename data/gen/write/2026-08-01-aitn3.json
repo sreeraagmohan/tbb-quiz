@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-01-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 935,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the scale and cause of solar curtailment in April to June 2026, a renewable energy and grid infrastructure theme.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about solar power curtailment in India between April and June 2026, as reported in July 2026:",
+    "items": [
+     "Roughly a quarter of India's solar output was wasted during the period.",
+     "The losses arose because solar generation fell short of the capacity of available transmission lines."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "About 11% of solar output, over 8,000 GWh, was wasted, not a quarter. The cause was the reverse of statement 2: generation outpaced the grid lines needed to carry it, so transmission bottlenecks forced the losses.",
+    "source": "Transmission bottlenecks wasted 11% of India's solar output between April and June, over 8,000 GWh, as generation outpaced the grid lines needed to carry it."
+   }
+  ]
+ }
+}

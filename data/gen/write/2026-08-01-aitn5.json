@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-01-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 1003,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Thin item; tested the July 2026 Bombay High Court permission for a deepfake suit against platforms and its E20 subject.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, the Bombay High Court allowed Union minister Nitin Gadkari to sue Meta, Google and X. Consider the following statements about the suit:",
+    "items": [
+     "It concerns deepfakes relating to E20 fuel.",
+     "It seeks INR 1.1 billion from the three platforms."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The suit concerns E20 deepfakes, but it seeks INR 110 million (USD 1.14 million), not INR 1.1 billion. The court's permission came on 28 July 2026, days before transport unions were due to march on Parliament.",
+    "source": "The Bombay High Court allowed Nitin Gadkari to sue Meta, Google, and X over E20 deepfakes, seeking INR 110 million (USD 1.14 million)"
+   }
+  ]
+ }
+}

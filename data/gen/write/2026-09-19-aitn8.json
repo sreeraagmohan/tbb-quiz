@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-19-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 186,
+  "output_tokens": 720,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Procedural step on the India–EU trade deal; tested the approval stage and the date talks concluded.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–EU trade deal as of September 2026:",
+    "items": [
+     "In September 2026, the European Commission sent the deal to the Council for approval.",
+     "Negotiations on the deal had concluded in January 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "On 14 September 2026 the Commission forwarded the deal to the Council, the first formal step towards signature since talks concluded in January 2026. Parliamentary consent and Indian ratification were still pending at that point.",
+    "source": "The European Commission sent the India trade deal to the Council for approval, the first formal step to signature since talks concluded in January"
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-29-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 220,
+  "output_tokens": 509,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text has only the date and issue number, with no body to ground questions or quote a source from. The headline topics (defence indigenisation, India-China border hotlines, US sanctions over Iran, wheat exports, Nepal floods) are Prelims-relevant, so please resend with the full text. The answer-pattern request does not apply with no questions.",
+  "questions": []
+ }
+}

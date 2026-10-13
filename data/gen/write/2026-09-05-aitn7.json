@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-05-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 1102,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the SCO summit venue, the Modi–Putin meeting and the BRICS summit India hosts, as one statements question.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Shanghai Cooperation Organisation (SCO) summit held at the end of August 2026:",
+    "items": [
+     "It was held in Bishkek.",
+     "Prime Minister Modi met Russian President Putin there, their first meeting of 2026.",
+     "It came shortly before a BRICS summit hosted by India in September 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. Modi held four bilaterals at the Bishkek summit, met Putin for the first time in 2026 and pressed Iran on seafarer safety. India hosts the BRICS summit on 12 and 13 September 2026.",
+    "source": "Modi held four bilaterals at the SCO summit in Bishkek, meeting Putin for the first time this year and pressing Iran on seafarer safety, ahead of the BRICS summit India hosts on September 12 and 13."
+   }
+  ]
+ }
+}

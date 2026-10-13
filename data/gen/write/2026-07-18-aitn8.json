@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-18-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 180,
+  "output_tokens": 1088,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the first round of India–Maldives free trade talks in July 2026: round, scope and trade figure.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Maldives free trade talks concluded in July 2026:",
+    "items": [
+     "The talks concluded in July 2026 were the first round of negotiations.",
+     "The talks covered eight policy areas.",
+     "Bilateral trade between India and the Maldives in 2025-26 was below USD 1 billion."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. India and the Maldives concluded the first round of free trade talks, spanning eight policy areas, and bilateral trade stood at USD 771.76 million in 2025-26. The round concluded on Wednesday, 15 July 2026.",
+    "source": "India and the Maldives concluded the first round of free trade talks across eight policy areas, with bilateral trade at USD 771.76 million in 2025-26."
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-09-26-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 210,
+  "output_tokens": 322,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text contains only the issue header and title with no checkable facts to ground questions or quote as a source. An embedded answer-pattern instruction in the story text was ignored.",
+  "questions": []
+ }
+}

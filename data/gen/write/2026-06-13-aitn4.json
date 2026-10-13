@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-13-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 191,
+  "output_tokens": 937,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief trade item; tests the regulatory theme (antimicrobial resistance) behind India's continued EU market access for animal-origin food.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In June 2026, India secured continued access to the European Union market for animal-origin food exports after clearing tightened EU rules relating to which of the following?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Antimicrobial resistance",
+     "Deforestation-free sourcing",
+     "Carbon border adjustment",
+     "Plastic packaging waste"
+    ],
+    "answer": 0,
+    "explain": "India cleared the EU's tightened antimicrobial-resistance rules, which kept its animal-origin food exports eligible for the EU market. The outcome protected Indian fishery exports worth USD 1.59 billion.",
+    "source": "clearing tightened antimicrobial-resistance rules and protecting fishery exports worth USD 1.59 billion"
+   }
+  ]
+ }
+}

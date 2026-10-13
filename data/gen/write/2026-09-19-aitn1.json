@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-19-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 210,
+  "output_tokens": 733,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the direction of August 2026 retail inflation and the level of wholesale fuel-and-power inflation; the rate-rise outlook is speculative and was left out.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about inflation data released in September 2026 for the month of August 2026:",
+    "items": [
+     "Retail inflation eased to 4.82% in August 2026.",
+     "Wholesale inflation in the fuel-and-power category exceeded 20%."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Retail inflation rose to 4.82% in August 2026, so it did not ease. Wholesale fuel-and-power inflation hit 22.93%, which kept a Reserve Bank rate rise in play even as 7.8% growth provided a cushion.",
+    "source": "Retail inflation rose to 4.82% in August while wholesale fuel-and-power inflation hit 22.93%"
+   }
+  ]
+ }
+}

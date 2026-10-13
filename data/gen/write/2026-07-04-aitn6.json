@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-04-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 202,
+  "output_tokens": 679,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a one-line item on India's level of representation at Khamenei's funeral, a protocol detail with no durable, checkable Prelims fact.",
+  "questions": []
+ }
+}

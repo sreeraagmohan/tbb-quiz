@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-15-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 216,
+  "output_tokens": 989,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Tests the purpose and bidders of the August 2026 INR 1 trillion transport aircraft tender, a concrete defence procurement step.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Defence Ministry floated a INR 1 trillion tender for 60 aircraft. Consider the following statements about it:",
+    "items": [
+     "The tender seeks fighter aircraft to strengthen the Indian Air Force's combat squadrons.",
+     "Private Indian defence manufacturers are competing for the contract."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The tender is for transport aircraft, not fighters, so statement 1 is wrong. Private Indian defence manufacturers are competing to supply the 60 planes, which will replace the Indian Air Force's ageing Soviet-era transport fleet.",
+    "source": "tender for 60 transport aircraft, with private Indian defence manufacturers competing to replace the Indian Air Force’s ageing Soviet-era fleet"
+   }
+  ]
+ }
+}

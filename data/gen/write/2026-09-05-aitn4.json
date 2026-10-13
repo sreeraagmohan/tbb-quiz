@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-05-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 740,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A brief item on a host-government action against an Indian firm abroad. It tests only which country issued the order.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, the President of which country ordered Tata Chemicals to halt its century-old soda ash operation there?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Kenya",
+     "Tanzania",
+     "Uganda",
+     "Ethiopia"
+    ],
+    "answer": 0,
+    "explain": "On 4 September 2026, Kenya's President ordered Tata Chemicals to halt its soda ash operation in the country. He cited compliance gaps and the operation's failure to produce benefits for locals.",
+    "source": "Kenya's President ordered Tata Chemicals to halt its century-old soda ash operation, citing compliance gaps and failure to produce benefits for locals."
+   }
+  ]
+ }
+}

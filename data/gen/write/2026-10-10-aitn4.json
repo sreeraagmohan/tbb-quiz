@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-10-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 181,
+  "output_tokens": 560,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the item only says a fifth round of India–Canada trade talks opened, aiming for a year-end deal. That is an aspiration, not a concluded agreement, and too thin for a firmly grounded question.",
+  "questions": []
+ }
+}

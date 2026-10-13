@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-29-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 220,
+  "output_tokens": 736,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the August 2026 lifting of India's wheat export ban: the record harvest behind it and the global price context.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, India lifted its years-long ban on wheat exports. Consider the following statements about this decision:",
+    "items": [
+     "It followed a record wheat harvest of 120.6 million tonnes.",
+     "It came when disruption in the Black Sea region had pushed global wheat prices to a two-year low."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because Black Sea disruption had pushed wheat prices to a two-year high, not a low. The move earns India diplomatic credit, but a future heatwave could force it to reverse course.",
+    "source": "India lifted its years-long ban on wheat exports after a record 120.6 million tonne harvest"
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-20-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 907,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief defence item; tested the complex's location and its link to the Sudarshan Chakra shield programme.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Advanced Weapon System Complex opened by Defence Minister Rajnath Singh in June 2026:",
+    "items": [
+     "The complex is located in Hyderabad.",
+     "The complex was tied to India's Sudarshan Chakra shield programme as part of its missile push after Operation Sindoor."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. Rajnath Singh opened the complex in Hyderabad on 15 June 2026, linking India's post-Operation Sindoor missile push to the Sudarshan Chakra shield programme.",
+    "source": "Defence Minister Rajnath Singh opened a new Advanced Weapon System Complex in Hyderabad, tying India's post-Operation Sindoor missile push to the Sudarshan Chakra shield programme."
+   }
+  ]
+ }
+}

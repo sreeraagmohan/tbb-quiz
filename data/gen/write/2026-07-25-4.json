@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-07-25-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 627,
+  "output_tokens": 2382,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the India–China trade figures and border trade restart, the US delay and generic-drug tariff path, and India's summons of Russia's envoy. The trade deal's signing window is a forecast, so it was not tested.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, External Affairs Minister S. Jaishankar raised trade concerns with Chinese Foreign Minister Wang Yi in Manila. Consider the following statements about India–China trade at that time:",
+    "items": [
+     "China was India's largest source of imports, with imports of about USD 132 billion.",
+     "India's trade deficit with China was below USD 50 billion.",
+     "Land border trade between India and China was set to resume on 1 August 2026 after a gap of six years."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because India's deficit with China was above USD 100 billion. India was also opening the door to Chinese machinery because its factories need it, which weakens its leverage on the deficit.",
+    "source": "a trade imbalance that has India importing USD 132 billion from China, its largest source, against a deficit above USD 100 billion"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–US trade developments in July 2026:",
+    "items": [
+     "A senior US official attributed the delay in signing the India–US trade deal to Washington's own Section 301 probes rather than a bilateral dispute.",
+     "The US set generic drugs on a path to 100% tariffs that would apply immediately."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the 100% tariffs on generic drugs are to apply after two years, not immediately. The move threatens USD 9.7 billion of Indian pharmaceutical exports, while the delay to the deal sits inside the US Section 301 probes.",
+    "source": "Trump also set generic drugs on a path to 100% tariffs after two years, threatening USD 9.7 billion of Indian pharmaceutical exports."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, a missile strike on the MV Golden Leo as it left Odessa killed four Indian crew. Which country's chargé d'affaires did India summon in protest?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Russia",
+     "Ukraine",
+     "Iran",
+     "United States"
+    ],
+    "answer": 0,
+    "explain": "India summoned Russia's chargé d'affaires after Ukraine's Navy attributed three cruise missiles to Russian forces. It was India's third protest over dead seafarers in six weeks, following two summonses to Washington and one to Tehran.",
+    "source": "India summoned Russia's chargé d'affaires after a missile strike on the MV Golden Leo leaving Odessa killed four Indian crew, with Ukraine's Navy attributing three cruise missiles to Russian forces."
+   }
+  ]
+ }
+}

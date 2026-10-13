@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-19-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 207,
+  "output_tokens": 949,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A one-line diplomatic protest over a naval collision; only the location and India's diplomatic response are testable.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, India summoned Pakistan's charge d'affaires after a Pakistan Navy vessel collided with an Indian ship. Where did the collision take place?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Arabian Sea",
+     "Bay of Bengal",
+     "Andaman Sea",
+     "Red Sea"
+    ],
+    "answer": 0,
+    "explain": "The collision between a Pakistan Navy vessel and an Indian ship took place in the Arabian Sea on 17 September 2026. India summoned Pakistan's charge d'affaires and called the conduct unacceptable and unprofessional.",
+    "source": "India summoned Pakistan's charge d'affaires after a Pakistan Navy vessel collided with an Indian ship in the Arabian Sea, calling the conduct unacceptable and unprofessional."
+   }
+  ]
+ }
+}

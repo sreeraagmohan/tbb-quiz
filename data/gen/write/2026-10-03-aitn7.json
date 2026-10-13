@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-03-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 186,
+  "output_tokens": 269,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a one-line MEA advisory against enlisting in Russia's army, with no scheme, law, agreement or other durable fact worth testing.",
+  "questions": []
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-12-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 208,
+  "output_tokens": 1010,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the WTO sugarcane subsidy challenge by Australia: the alleged support level against the threshold, and the Appellate Body's status.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, Australia asked India to defend its sugarcane subsidies at the World Trade Organization (WTO). Consider the following statements:",
+    "items": [
+     "Australia alleged that India's support for sugarcane amounts to about 10% of the crop's value.",
+     "The WTO's Appellate Body is functioning, which limits India's ability to stall the challenge."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Australia alleged support worth 90 to 95% of crop value; 10% is the threshold, not the alleged level. The Appellate Body is non-functional, which is why India can stall the challenge.",
+    "source": "alleging support worth 90 to 95% of crop value against a 10% threshold, a challenge India can stall through the WTO's non-functional Appellate Body."
+   }
+  ]
+ }
+}

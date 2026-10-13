@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-27-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 198,
+  "output_tokens": 982,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests India's first-ever FATF vice-presidency (June 2026) and the body's anti-money-laundering role.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, India took up a leadership position in the Financial Action Task Force (FATF). Consider the following statements:",
+    "items": [
+     "India had held the FATF vice-presidency on earlier occasions before June 2026.",
+     "The FATF is a global body that sets anti-money-laundering rules of scrutiny."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because India took the FATF vice-presidency for the first time in June 2026. The role gives New Delhi advance visibility and a voice as the global anti-money-laundering body writes its rules of scrutiny.",
+    "source": "India took the Financial Action Task Force vice-presidency for the first time, giving New Delhi advance visibility and a voice as the global anti-money-laundering body writes the rules of scrutiny."
+   }
+  ]
+ }
+}

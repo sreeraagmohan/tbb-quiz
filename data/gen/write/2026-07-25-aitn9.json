@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-25-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 1226,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A brief item on aviation regulation; tested only which foreign regulator's audit prompted the ministry's reprimand of the DGCA.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, the Ministry of Civil Aviation reprimanded the Directorate General of Civil Aviation (DGCA) over conflict-of-interest failures. The reprimand came ahead of an audit by which of the following bodies?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "United States Federal Aviation Administration",
+     "International Civil Aviation Organization",
+     "European Union Aviation Safety Agency",
+     "United Kingdom Civil Aviation Authority"
+    ],
+    "answer": 0,
+    "explain": "The reprimand came ahead of an audit by the US Federal Aviation Administration (FAA). It followed disclosures by 51 DGCA officials that 59 of their relatives work in the aviation sector.",
+    "source": "The Civil Aviation Ministry reprimanded the DGCA over conflict-of-interest failures, with 51 officials disclosing 59 relatives working in aviation, ahead of a US FAA audit."
+   }
+  ]
+ }
+}

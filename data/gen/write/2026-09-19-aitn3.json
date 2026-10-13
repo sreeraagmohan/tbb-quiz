@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-19-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 217,
+  "output_tokens": 1028,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official monthly trade data; tests the direction of exports, the trade deficit and gold imports rather than precise decimals.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's merchandise trade data for August 2026, released in September 2026:",
+    "items": [
+     "Goods exports rose by more than a quarter year-on-year to about USD 43.8 billion.",
+     "The trade deficit narrowed compared with August 2025.",
+     "Gold imports fell by more than half year-on-year."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. Exports grew 26.1% to USD 43.81 billion and the trade deficit narrowed against a year earlier, while gold imports fell 57.75%. Despite the strong export growth, the deficit narrowed by just USD 360 million, and the fall in gold imports did most of the work.",
+    "source": "India's goods exports rose 26.1% year-on-year in August to USD 43.81 billion, yet the trade deficit narrowed just USD 360 million against a year earlier, as a 57.75% fall in gold imports did the heavy lifting."
+   }
+  ]
+ }
+}

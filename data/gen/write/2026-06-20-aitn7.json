@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-20-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 196,
+  "output_tokens": 918,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Thin item, but a court testing the proportionality of a platform-wide block is durable polity material. One statements question on the reason for the restriction and the court's scrutiny.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, India temporarily restricted the messaging platform Telegram, and the company challenged the move in court. Consider the following statements:",
+    "items": [
+     "The restriction was imposed over exam-cheating networks.",
+     "The Delhi High Court questioned whether blocking 150 million users was proportionate."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The restriction, which ran until 22 June 2026, targeted exam-cheating networks. After Telegram sued, the Delhi High Court asked whether cutting off 150 million users was a proportionate response.",
+    "source": "India temporarily restricted Telegram until 22 June over exam-cheating networks, and the company sued, with the Delhi High Court later questioning whether blocking 150 million users was proportionate."
+   }
+  ]
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-08-01-3",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": false,
+    "problem": "The explanation says the bill \"caps investigations at two months and trials at three months\" and calls Statement 2 wrong, which matches the story. It errs in placing the special-prosecutor requirement in this bill: the story says the bill requires states to designate existing Sessions Courts and appoint special prosecutors. That claim actually matches the story too. Re-checking the fine: the story says maximum fines rise fivefold to INR 5 million, which also matches. On review, every claim in this explanation is consistent with the story."
+   },
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 3384,
+  "output_tokens": 485,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

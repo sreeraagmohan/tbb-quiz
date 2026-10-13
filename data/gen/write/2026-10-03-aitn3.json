@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-03-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 1205,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests who brought the WTO challenge to the EU carbon border tax and why India joined as a third party.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, India reserved third-party rights in a World Trade Organization dispute over the European Union's carbon border tax. Consider the following statements:",
+    "items": [
+     "India is the complainant that brought the dispute against the European Union.",
+     "The dispute directly affects Indian steel and aluminium exporters."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the challenge was brought by Russia, and India only reserved third-party rights. Reserving these rights lets India follow a case that directly affects its own steel and aluminium exporters.",
+    "source": "India reserved third-party rights in Russia's WTO challenge to the EU's carbon border tax, letting it follow a case that directly affects its own steel and aluminium exporters."
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-08-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 187,
+  "output_tokens": 195,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the item only reports that the FCRA amendment bill was again not tabled amid protests, with no enacted provisions or decision to test.",
+  "questions": []
+ }
+}

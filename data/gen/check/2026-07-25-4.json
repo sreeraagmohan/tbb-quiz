@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-07-25-4",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   3,
+   2,
+   1
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 2,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 0,
+    "exactly_one_correct": false,
+    "grounded_in_story": false,
+    "problem": "statement 1 attributes the Section 301 explanation to the US official, but the story does not clearly say he gave it",
+    "verdict": "drop"
+   },
+   {
+    "chosen": 0,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 2905,
+  "output_tokens": 651,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

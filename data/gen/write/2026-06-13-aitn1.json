@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-13-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 214,
+  "output_tokens": 973,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the drivers of India's 7.8% January–March 2026 GDP growth and the RBI's outlook, both stated directly in the item.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "India's GDP grew 7.8% in the January–March 2026 quarter, the last quarter of FY2025–26. Consider the following statements about this data, reported in June 2026:",
+    "items": [
+     "Growth in the quarter was led mainly by private consumption.",
+     "The Reserve Bank of India expects growth to pick up further from the quarter's pace."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both statements are wrong. Growth was led by a 10.8% jump in private investment while consumption still lags, and the RBI sees growth slowing to 6.6% ahead.",
+    "source": "led by a 10.8% jump in private investment, though consumption still lags and the Reserve Bank of India sees growth slowing to 6.6% ahead"
+   }
+  ]
+ }
+}

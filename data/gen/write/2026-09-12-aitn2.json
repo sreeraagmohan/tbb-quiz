@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-12-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 241,
+  "output_tokens": 1203,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the UK's recognition of India's Carbon Credit Trading Scheme under UK CBAM: start date and sectors covered.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the United Kingdom's decision in September 2026 relating to India and the UK Carbon Border Adjustment Mechanism (CBAM):",
+    "items": [
+     "The UK recognised India's Carbon Credit Trading Scheme under its incoming border carbon tax.",
+     "The UK CBAM is scheduled to begin on 1 January 2027.",
+     "The decision spares Indian exporters of iron, steel, aluminium and cement from double taxation."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. Britain recognised India's Carbon Credit Trading Scheme, so exporters of iron, steel, aluminium and cement avoid double taxation when UK CBAM starts on 1 January 2027. The move cleared one of the two measures that had stalled the India-UK trade pact.",
+    "source": "sparing exporters of iron, steel, aluminium, and cement from double taxation when UK CBAM begins on January 1, 2027"
+   }
+  ]
+ }
+}

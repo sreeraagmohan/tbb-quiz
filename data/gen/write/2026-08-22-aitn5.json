@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-22-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 210,
+  "output_tokens": 988,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the competing India and Bangladesh positions on the Ganges treaty renewal: bilateralism versus international forums.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, Bangladesh set out its demands for the renewal of the Ganges water-sharing treaty with India. Consider the following statements:",
+    "items": [
+     "Bangladesh ruled out raising its demand for a minimum-flow guarantee at international forums.",
+     "India views the issue as a bilateral one and resists third-party mediation."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because Bangladesh threatened to take the matter to international forums if it did not get a binding minimum-flow guarantee. India resists this, since it treats the treaty as a bilateral matter and rejects third-party mediation.",
+    "source": "a demand India resists because it views the issue to be a bilateral one and resists third-party mediation"
+   }
+  ]
+ }
+}

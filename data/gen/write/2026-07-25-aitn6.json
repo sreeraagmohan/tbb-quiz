@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-25-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 203,
+  "output_tokens": 997,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the July 2026 Atomic Energy Commission clearance of Tarapur for India's first small modular reactors and the five-unit target.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, a site was cleared for India's first small modular reactors. Consider the following statements about this decision:",
+    "items": [
+     "The clearance was granted by the Atomic Energy Commission.",
+     "The reactors are to be located at Tarapur.",
+     "The plan targets five indigenous units by 2033."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. On 23 July 2026 the Atomic Energy Commission cleared Tarapur for India's first small modular reactors, targeting five indigenous units by 2033. The move fits a wider goal of 100 GW of nuclear capacity by 2047.",
+    "source": "The Atomic Energy Commission cleared Tarapur for India's first small modular reactors, targeting five indigenous units by 2033 and 100 GW of nuclear capacity by 2047."
+   }
+  ]
+ }
+}

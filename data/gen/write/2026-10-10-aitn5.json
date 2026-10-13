@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-10-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 191,
+  "output_tokens": 802,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Concrete bilateral mobility pact with a checkable annual quota; tested the number of places and how they relate to the Swiss quota.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, India and Switzerland signed a migration and mobility pact. Consider the following statements about it:",
+    "items": [
+     "It opens 300 reserved places a year for young Indian professionals in Switzerland.",
+     "Indians admitted under the reserved places are counted within Switzerland's non-European hiring quota."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The pact reserves 300 places a year for young Indian professionals. Statement 2 is wrong because the reserved places let these professionals skip Switzerland's non-European hiring quota rather than count against it.",
+    "source": "India and Switzerland signed a migration and mobility pact opening 300 reserved places a year for young Indian professionals, helping them skip Switzerland’s non-European hiring quota."
+   }
+  ]
+ }
+}

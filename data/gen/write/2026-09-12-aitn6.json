@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-12-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 188,
+  "output_tokens": 721,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the basic facts of India joining the US-led 6G standards initiative in September 2026; the initiative's name is not given, so the question avoids it.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, India joined an international initiative on telecom standards. Consider the following statements about this initiative:",
+    "items": [
+     "It is a United States-led grouping of 25 nations.",
+     "It seeks to shape standards for 6G telecommunications."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct: India joined a US-led, 25-nation initiative to shape 6G telecom standards on 9 September 2026. Countries use the framework to write rules that lock out Chinese vendors such as Huawei.",
+    "source": "India joined a US-led 25-nation initiative to shape 6G telecom standards, the framework countries use for writing rules that lock out Chinese vendors like Huawei."
+   }
+  ]
+ }
+}

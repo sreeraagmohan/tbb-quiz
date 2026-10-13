@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-18-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 219,
+  "output_tokens": 986,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Cabinet-approved outlays for Semicon 2.0 and the accompanying mobile-phone manufacturing allocation.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, the Union Cabinet approved Semicon 2.0. Consider the following statements:",
+    "items": [
+     "Semicon 2.0 is a semiconductor programme with an outlay of USD 13.3 billion.",
+     "It was approved alongside a separate USD 6.5 billion allocation for mobile-phone manufacturing."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The Cabinet approved the USD 13.3 billion Semicon 2.0 programme on 16 July 2026, together with USD 6.5 billion for mobile-phone manufacturing. The programme marks a shift from landing chip factories to building the ecosystem around them.",
+    "source": "The Cabinet approved Semicon 2.0, a USD 13.3 billion semiconductor programme, alongside USD 6.5 billion for mobile-phone manufacturing"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-25-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 988,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A lobbying request with no decision yet; tested only the existing 10% cap on airport operators' airline stakes, a durable regulatory fact.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, Gautam Adani asked the Union government to dilute a rule that limits how much of an airline an airport operator may own. What is the cap on an airport operator's airline stake under that rule?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "10%",
+     "26%",
+     "49%",
+     "5%"
+    ],
+    "answer": 0,
+    "explain": "The rule caps airport operators at a 10% stake in an airline. Adani sought its dilution to break the IndiGo and Air India duopoly, which holds roughly 90% of domestic traffic.",
+    "source": "Gautam Adani asked Delhi to dilute the rule capping airport operators at a 10% airline stake, seeking to break the IndiGo and Air India duopoly that holds roughly 90% of domestic traffic."
+   }
+  ]
+ }
+}

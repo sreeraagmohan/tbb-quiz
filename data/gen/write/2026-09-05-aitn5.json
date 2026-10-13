@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-05-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 215,
+  "output_tokens": 815,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the vessel type of INS Nipun, an indigenous Navy commissioning with a regional-strategy angle.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, the Indian Navy commissioned INS Nipun. Which of the following best describes this vessel?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "An indigenous submarine rescue vessel",
+     "An indigenous nuclear-powered attack submarine",
+     "An indigenous fleet support tanker",
+     "An indigenous anti-submarine warfare corvette"
+    ],
+    "answer": 0,
+    "explain": "INS Nipun is an indigenous submarine rescue vessel, commissioned on 2 September 2026. The Navy is using it to position India as the Indian Ocean's \"Preferred Submarine Rescue Partner\" as it competes with China for regional influence.",
+    "source": "The Navy commissioned INS Nipun, an indigenous submarine rescue vessel"
+   }
+  ]
+ }
+}

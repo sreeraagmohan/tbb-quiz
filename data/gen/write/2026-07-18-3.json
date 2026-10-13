@@ -1,0 +1,78 @@
+{
+ "story_id": "2026-07-18-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 686,
+  "output_tokens": 2318,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the Urea investment policy, India's seafarer and Hormuz figures, and India's diplomatic response to the July 2026 tanker strikes.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the National Investment Policy for Urea-2026 approved by the Union Cabinet in July 2026:",
+    "items": [
+     "It replaces an earlier urea investment framework that expired in 2019.",
+     "It offers guaranteed returns of 12% to 16% to draw private capital into gas-based urea plants.",
+     "It addresses India's import of about 26% of its urea, mostly from Oman via the Strait of Hormuz."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The policy also offers rupee conversion of fixed costs after four years, and the Hormuz conflict nearly doubled urea prices, exposing India's import reliance on a politically sensitive farm input.",
+    "source": "The Cabinet approved the National Investment Policy for Urea-2026, replacing a framework that expired in 2019, offering guaranteed returns of 12% to 16% and rupee conversion of fixed costs after four years to draw private capital into gas-based plants."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In July 2026, India ordered shipowners and recruiters to stop deploying Indian seafarers on vessels transiting the Strait of Hormuz. Consider the following pairs:",
+    "items": [
+     "Indian seafarers supplied to global fleets — more than 300,000",
+     "India's rank among suppliers of seafarers to global fleets — third-largest",
+     "Share of the world's oil moving through the Strait of Hormuz — roughly a fifth"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the story. Because Hormuz traffic is disproportionately crewed by Indians, owners must now find replacements at a premium or idle their ships, giving New Delhi leverage in the Gulf.",
+    "source": "India supplies more than 300,000 sailors to global fleets, third-largest in the world, and roughly a fifth of the world's oil moves through that strait on vessels disproportionately crewed by Indians."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, missile strikes on two tankers in the Strait of Hormuz killed an Indian seafarer, and India summoned Iran's deputy ambassador. Consider the following statements:",
+    "items": [
+     "India's protest explicitly named Iran as responsible for the strikes.",
+     "The United Arab Emirates attributed the strikes to Iranian cruise missiles."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because India protested without naming Tehran, while the UAE blamed Iranian cruise missiles. A month earlier India had summoned the US chargé d'affaires over a similar death of Indian crew.",
+    "source": "The United Arab Emirates blamed Iranian cruise missiles. India protested without naming Tehran."
+   }
+  ]
+ }
+}

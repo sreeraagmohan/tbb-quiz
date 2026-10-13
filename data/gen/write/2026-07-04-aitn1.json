@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-04-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 212,
+  "output_tokens": 149,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a corporate data-leak incident at a private assembler, with no scheme, law, regulator or institutional response to test.",
+  "questions": []
+ }
+}

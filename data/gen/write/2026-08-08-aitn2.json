@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-08-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 201,
+  "output_tokens": 889,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief item; tested the capacity, mandatory storage and stated purpose of the Cabinet-approved floating solar scheme.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Union Cabinet cleared a floating solar scheme. Consider the following statements about it:",
+    "items": [
+     "The scheme covers 5,000 MW of floating solar capacity and makes storage mandatory.",
+     "The scheme is aimed at holding the midday solar surplus that transmission bottlenecks currently waste."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "The Cabinet cleared a 5,000 MW floating solar scheme with mandatory storage on 3 August 2026, so both statements are correct. The scheme is aimed less at building capacity and more at storing midday power that would otherwise be lost to transmission constraints.",
+    "source": "The Cabinet cleared a 5,000 MW floating solar scheme with mandatory storage, aimed less at capacity building and more at holding the midday surplus that transmission bottlenecks currently waste."
+   }
+  ]
+ }
+}

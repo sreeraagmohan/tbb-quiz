@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-18-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 213,
+  "output_tokens": 219,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: the story text holds only dates and an answer-pattern instruction, with no body to ground questions or quote as a source.",
+  "questions": []
+ }
+}

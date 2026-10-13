@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-08-08-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 432,
+  "output_tokens": 2142,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly roundup; tested the week's economic policy measures and the institutional actions by MEA, SIAM and a parliamentary panel.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about economic policy measures in India in the first week of August 2026:",
+    "items": [
+     "A tax bill introduced in Parliament would extend tax holidays for electronics to 2041.",
+     "Foreign-invested e-commerce platforms were allowed to hold export inventory in India.",
+     "The Lok Sabha passed a bill to end the fee-free regime for UPI transactions."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The tax bill, introduced on 4 August 2026, would also let fund managers relocate to India without bringing their offshore funds into Indian tax, and the UPI bill ends a decade of fee-free payments.",
+    "source": "A tax bill introduced on Tuesday would extend electronics holidays to 2041 and let fund managers relocate without dragging their offshore funds into Indian tax, and on Thursday foreign-invested e-commerce platforms were allowed to hold export inventory in India."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of institutions and their actions in the first week of August 2026:",
+    "items": [
+     "Society of Indian Automobile Manufacturers — Retracted a corrosion warning on E20 fuel",
+     "Parliamentary panel — Gave Mark Zuckerberg 30 days to apologise or lose Meta's safe harbour status",
+     "Ministry of External Affairs — Invited Prime Minister Tarique Rahman to the G20 summit"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the SIAM pair is correct. The parliamentary panel gave Zuckerberg three days, not 30, and the MEA invited Tarique Rahman to the September BRICS summit, not the G20, while disavowing Sheikh Hasina's planned address.",
+    "source": "a parliamentary panel gave Mark Zuckerberg three days to apologise or lose Meta's safe harbour status"
+   }
+  ]
+ }
+}

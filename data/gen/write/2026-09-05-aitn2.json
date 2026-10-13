@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-05-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 1177,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the label design and trigger in the food regulator's August 2026 warning-label proposal, a concrete regulatory step on public health.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, India's food regulator proposed warning labels for packaged food. Consider the following statements about the proposal:",
+    "items": [
+     "The proposed warning label is a red octagon.",
+     "The warning would apply to packaged food that is high in any one of fat, sugar or salt."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both statements are wrong. The proposed label is a red hexagon, not an octagon, and it would apply only to food high in two or more of fat, sugar or salt, not just one. The proposal, made on 31 August 2026, reversed an earlier climbdown by the regulator.",
+    "source": "India's food regulator proposed red-hexagon warning labels for packaged food high in two or more of fat, sugar, or salt, reversing an earlier climbdown."
+   }
+  ]
+ }
+}

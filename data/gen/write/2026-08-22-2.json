@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-22-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 360,
+  "output_tokens": 1375,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A weekly round-up that is mostly politics. Only the concrete security steps taken around Independence Day 2026 are tested; the speech promises are unnamed and the party reshuffle is not Prelims material.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's security measures around Independence Day in August 2026:",
+    "items": [
+     "India leased drones from Israel to monitor the Indian Ocean.",
+     "India deepened naval ties with Japan to watch a busier Indian Ocean.",
+     "A pre-Independence Day security sweep detained 253 people across 14 states."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the drones India leased were American, not Israeli. The story presents the drone lease and the closer naval ties with Japan as part of a hardened security posture in a busier Indian Ocean.",
+    "source": "Underneath the politics, India hardened its security posture, leasing American drones and deepening naval ties with Japan to watch a busier Indian Ocean, while a pre-Independence Day sweep detained 253 people across 14 states."
+   }
+  ]
+ }
+}

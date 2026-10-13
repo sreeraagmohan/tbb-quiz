@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-15-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 167,
+  "output_tokens": 728,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the grouping India signed trade agreement terms of reference with, its first such framework with an African region.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, India signed terms of reference for a trade agreement with which African grouping, its first such framework with an African region?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Southern African Customs Union",
+     "Southern African Development Community",
+     "East African Community",
+     "Economic Community of West African States"
+    ],
+    "answer": 0,
+    "explain": "India and the Southern African Customs Union signed terms of reference for a trade agreement on 13 August 2026. It is India's first such trade framework with an African region, and only begins the negotiation process.",
+    "source": "India and the Southern African Customs Union signed terms of reference for a trade agreement, India's first such framework with an African region."
+   }
+  ]
+ }
+}

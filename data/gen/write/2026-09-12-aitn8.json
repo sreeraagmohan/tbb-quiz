@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-12-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 225,
+  "output_tokens": 1088,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the defining fact that EOS-05, launched in September 2026, is India's first imaging satellite in geosynchronous orbit.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In September 2026, ISRO launched EOS-05. It was described as India's first imaging satellite placed in which type of orbit?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Geosynchronous orbit",
+     "Sun-synchronous polar orbit",
+     "Low Earth equatorial orbit",
+     "Highly elliptical orbit"
+    ],
+    "answer": 0,
+    "explain": "EOS-05 is India's first geosynchronous-orbit imaging satellite. It can keep near-continuous watch over an area instead of passing over it every few days. This improves real-time tracking of cyclones, floods and borders.",
+    "source": "ISRO launched EOS-05, India's first geosynchronous-orbit imaging satellite, able to hold near-continuous watch over an area rather than passing over it every few days"
+   }
+  ]
+ }
+}

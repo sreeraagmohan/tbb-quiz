@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-06-20-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 774,
+  "output_tokens": 2547,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the India-UK CETA's entry into force and social security pact, the India-Japan Joint Crediting Mechanism, and the Modi-Trump G7 meeting venue; skipped the speculative US tariff-deal terms.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-UK Comprehensive Economic and Trade Agreement (CETA), as reported in June 2026:",
+    "items": [
+     "The agreement will take effect on 24 July 2026.",
+     "A companion social security pact spares 75,000 professionals from double social security contributions."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The CETA and its companion social security pact take effect on 15 July 2026, not 24 July. 24 July is when Washington's 150-day tariff pause expires. The agreement grants zero-duty access on roughly 99% of Indian exports, with favourable carve-outs on agriculture and steel.",
+    "source": "The India-UK Comprehensive Economic and Trade Agreement and a companion social security pact will take effect on 15 July, granting zero-duty access on roughly 99% of Indian exports and sparing 75,000 professionals from double social security contributions."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-Japan Joint Crediting Mechanism (JCM):",
+    "items": [
+     "It is the basis of a bilateral carbon market under the Paris Agreement.",
+     "It channels Japanese capital and technology into Indian clean-energy projects.",
+     "In June 2026, India and Japan switched on its Rules of Implementation."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The Rules of Implementation, switched on in June 2026, are the operational layer of the bilateral carbon market. With the US out of the Paris accord, India is positioning to become one of the largest high-integrity carbon-credit suppliers, and the Cabinet has cleared similar deals with other countries.",
+    "source": "India and Japan switched on the Rules of Implementation for their Joint Crediting Mechanism, the operational layer of a bilateral carbon market under the Paris Agreement that channels Japanese capital and technology into Indian clean-energy projects."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, Prime Minister Modi and US President Trump met on the margins of the G7 summit and instructed officials to finalise an interim Bilateral Trade Agreement. Where was this G7 summit held?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Evian",
+     "Kananaskis",
+     "Hiroshima",
+     "Apulia"
+    ],
+    "answer": 0,
+    "explain": "The two leaders met on the G7 margins in Evian, their first meeting in sixteen months. US Trade Representative Jamieson Greer's visit to India on 23–24 June 2026 was meant to put a date on the interim deal.",
+    "source": "Modi and Trump met on the G7 margins in Evian, their first meeting in sixteen months, and instructed officials to finalise the interim Bilateral Trade Agreement at the earliest, with Greer's visit putting a date on it."
+   }
+  ]
+ }
+}

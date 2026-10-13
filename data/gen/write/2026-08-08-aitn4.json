@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-08-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 202,
+  "output_tokens": 1036,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Draft rules are a concrete government step on road safety; testing the scope, start date and aim of the proposed V2V mandate.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, draft rules on vehicle-to-vehicle (V2V) communication in India were reported. Consider the following statements about them:",
+    "items": [
+     "The V2V requirement would apply only to new commercial vehicles, leaving new private cars exempt.",
+     "The requirement would take effect from October 2028 and is aimed at blind-spot crashes."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the draft rules would cover all new vehicles, not only commercial ones. The mandate would start in October 2028 and targets blind-spot crashes, which cause a disproportionate share of road casualties in India.",
+    "source": "Draft rules would require vehicle-to-vehicle communication in all new vehicles from October 2028, aimed at the blind-spot crashes that cause a disproportionate share of road casualties in the country."
+   }
+  ]
+ }
+}

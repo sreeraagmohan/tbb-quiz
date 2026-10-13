@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-09-12-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 412,
+  "output_tokens": 2113,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly round-up; tested the India–China confidence-building steps before the BRICS summit and the domestic market-access measures. Speculative framing skipped.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–China engagement in the week before the BRICS summit hosted by India in September 2026:",
+    "items": [
+     "India and China held their first-ever eastern-sector corps commander talks in Sikkim.",
+     "The summit marked Xi Jinping's first visit to India since 2019.",
+     "The Commerce Ministry canvassed Indian industry on Chinese curbs on rare-earth magnets and battery technology."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The first-ever eastern-sector corps commander talks were held in Arunachal Pradesh, not Sikkim. The talks extended a thaw that began with Doval's Beijing trip, while the Commerce Ministry gathered grievances to raise face to face at the summit on 12 and 13 September.",
+    "source": "It held its first-ever eastern-sector corps commander talks with China in Arunachal Pradesh"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about measures taken by the Government of India in September 2026:",
+    "items": [
+     "The government moved to charge satellite operators a spectrum levy described as one of the world's steepest.",
+     "The government squeezed 15 offshore crypto platforms."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both steps were taken on Thursday, 10 September 2026, and e-commerce discount rules were tightened the next day. Together they reflected the government deciding what access to India's market should cost.",
+    "source": "The government moved to charge satellite operators one of the world's steepest spectrum levies on Thursday, squeezed 15 offshore crypto platforms the same day, and tightened e-commerce discount rules on Friday."
+   }
+  ]
+ }
+}

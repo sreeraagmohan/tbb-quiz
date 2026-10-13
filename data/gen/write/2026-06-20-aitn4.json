@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-20-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 195,
+  "output_tokens": 924,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official CPI release; tested direction, the revamped-index record and the cited drivers.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's retail inflation data for May 2026, released in June 2026:",
+    "items": [
+     "Retail inflation eased in May 2026 compared with the previous reading.",
+     "At 3.93%, the May 2026 figure was the highest recorded under the revamped index, with fuel price hikes and a weak rupee cited as drivers."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because retail inflation rose, not eased, to 3.93% in May 2026, the highest under the revamped index. Fuel hikes and a weak rupee imported price pressure ahead of an uncertain monsoon.",
+    "source": "India's retail inflation rose to 3.93% in May, its highest under the revamped index, as fuel hikes and a weak rupee imported price pressure ahead of an uncertain monsoon."
+   }
+  ]
+ }
+}

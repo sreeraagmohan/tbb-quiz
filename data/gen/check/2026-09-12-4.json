@@ -1,0 +1,71 @@
+{
+ "story_id": "2026-09-12-4",
+ "error": null,
+ "perms": [
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ],
+  [
+   0,
+   1,
+   2,
+   3
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   },
+   {
+    "chosen": 1,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": true,
+    "problem": ""
+   },
+   {
+    "accurate": false,
+    "problem": "The explanation says platforms notified in 2023 and 2025 registered and paid penalties \"because the chokepoint is where digital coins meet rupees.\" The story gives no such causal link. It reports the earlier registrations and penalties, then separately remarks that the chokepoint is where digital coins meet rupees."
+   },
+   {
+    "accurate": true,
+    "problem": ""
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 3049,
+  "output_tokens": 539,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 798
+ }
+}

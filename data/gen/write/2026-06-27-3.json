@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-27-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 689,
+  "output_tokens": 1109,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly corporate deals and listings; tested only the policy angle, the Centre's 20-year tax holiday for foreign cloud providers.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Centre's tax holiday for foreign cloud service providers serving global clients from India, as reported in June 2026:",
+    "items": [
+     "The tax holiday runs for 20 years.",
+     "The holiday's end date depends on when each provider starts operations in India."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the 20-year tax holiday expires in 2047 regardless of when a provider begins, so every year of delay forfeits tax-free revenue. Amazon's June 2026 pledge to lift its India investment to USD 48 billion through 2030 tracks this incentive, with more than USD 21 billion earmarked for AI and cloud.",
+    "source": "Amazon is buying a tax runway that expires in 2047 regardless of start date, so every year of delay forfeits tax-free revenue."
+   }
+  ]
+ }
+}

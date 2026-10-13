@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-29-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 201,
+  "output_tokens": 1070,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the country behind the US sanctions on Indian firms and the Russian supply assurance from the same week.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about developments in August 2026:",
+    "items": [
+     "Under Operation Economic Outcast, the United States sanctioned four India-based firms over alleged trade in Venezuelan petroleum.",
+     "Russian President Putin promised External Affairs Minister Jaishankar sustained fuel and fertiliser supplies."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the four India-based firms were sanctioned over alleged Iranian petroleum trade, not Venezuelan. In the same week, Putin assured Jaishankar of continued fuel and fertiliser supplies to India.",
+    "source": "The United States sanctioned four India-based firms over alleged Iranian petroleum trade under Operation Economic Outcast, even as Putin promised Jaishankar sustained fuel and fertiliser supplies."
+   }
+  ]
+ }
+}

@@ -1693,6 +1693,26 @@
   ]
  },
  {
+  "id": "g-2026-06-27-2-1",
+  "story_id": "2026-06-27-2",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In June 2026, Ajit Doval hosted China's Wang Yi and Russia's Sergei Shoigu in New Delhi at a meeting of which grouping?",
+  "options": [
+   "BRICS",
+   "Quad",
+   "G20",
+   "SCO"
+  ],
+  "answer": 0,
+  "explain": "Doval hosted Wang Yi and Sergei Shoigu at a BRICS table on Tuesday 23 June 2026. The same week, the US trade envoy wrapped up four days of talks in India, part of New Delhi's balancing between the powers.",
+  "source": "Doval hosted China's Wang Yi and Russia's Sergei Shoigu at a BRICS table on Tuesday",
+  "reasons": [
+   "needs facts outside the story"
+  ]
+ },
+ {
   "id": "g-2026-06-29-aitn1-1",
   "story_id": "2026-06-29-aitn1",
   "topic": "International Relations",
@@ -1779,6 +1799,32 @@
   ]
  },
  {
+  "id": "g-2026-07-11-2-2",
+  "story_id": "2026-07-11-2",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about regulatory developments in India in the week ending 11 July 2026:",
+  "items": [
+   "The technology ministry gave Meta seven days to explain child abuse advertisements on Instagram.",
+   "The Reserve Bank of India moved to wall banks off from crypto.",
+   "Google filed a 4,761-page appeal against a Delhi ruling on its ad auction."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three actions are reported in the story for that week. They unfolded alongside driver protests at Jantar Mantar over fuel, which TBB framed as India absorbing grievance at home while selling deterrence abroad.",
+  "source": "Drivers filled Jantar Mantar over a fuel they cannot refuse, the technology ministry gave Meta seven days to explain child abuse advertisements on Instagram, the Reserve Bank moved to wall banks off from crypto, and Google filed a 4,761-page appeal against a Delhi ruling on its ad auction.",
+  "reasons": [
+   "solver: trivial; all statements true, Google's appeal is a court filing rather than a regulatory move"
+  ]
+ },
+ {
   "id": "g-2026-07-14-1-2",
   "story_id": "2026-07-14-1",
   "topic": "Economy",
@@ -1836,6 +1882,33 @@
   "source": "The two met in Manila on the sidelines of the ASEAN Foreign Ministers’ Meeting on Wednesday.",
   "reasons": [
    "same fact as g-2026-07-23-1-2"
+  ]
+ },
+ {
+  "id": "g-2026-07-25-4-2",
+  "story_id": "2026-07-25-4",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about India–US trade developments in July 2026:",
+  "items": [
+   "A senior US official attributed the delay in signing the India–US trade deal to Washington's own Section 301 probes rather than a bilateral dispute.",
+   "The US set generic drugs on a path to 100% tariffs that would apply immediately."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because the 100% tariffs on generic drugs are to apply after two years, not immediately. The move threatens USD 9.7 billion of Indian pharmaceutical exports, while the delay to the deal sits inside the US Section 301 probes.",
+  "source": "Trump also set generic drugs on a path to 100% tariffs after two years, threatening USD 9.7 billion of Indian pharmaceutical exports.",
+  "reasons": [
+   "not exactly one correct option",
+   "needs facts outside the story",
+   "solver: statement 1 attributes the Section 301 explanation to the US official, but the story does not clearly say he gave it"
   ]
  },
  {
@@ -1944,6 +2017,32 @@
   ]
  },
  {
+  "id": "g-2026-08-01-3-1",
+  "story_id": "2026-08-01-3",
+  "topic": "Polity & Governance",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the exam-cheating bill introduced by the Centre in July 2026:",
+  "items": [
+   "It raises prison terms for exam cheating to five to ten years.",
+   "It caps investigations at three months and trials at two months.",
+   "It requires states to designate existing Sessions Courts instead of creating a new judiciary."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the bill caps investigations at two months and trials at three months. It also lifts maximum fines fivefold to INR 5 million, and states must appoint special prosecutors for the designated courts.",
+  "source": "The Centre introduced a bill raising prison terms for exam cheating to five to ten years, lifting maximum fines fivefold to INR 5 million (USD 52,000), and capping investigations at two months with trials at three.",
+  "reasons": [
+   "explanation: The explanation says the bill \"caps investigations at two months and trials at three months\" and calls Statement 2 wrong, which matches the story. It errs in placing the special-prosecutor requirement in this bill: the story says the bill requires states to designate existing Sessions Courts and appoint special prosecutors. That claim actually matches the story too. Re-checking the fine: the story says maximum fines rise fivefold to INR 5 million, which also matches. On review, every claim in this explanation is consistent with the story."
+  ]
+ },
+ {
   "id": "g-2026-08-07-aitn1-1",
   "story_id": "2026-08-07-aitn1",
   "topic": "Economy",
@@ -1966,6 +2065,32 @@
   "source": "amends the Payment and Settlement Systems Act to permit Merchant Discount Rate (MDR) charges on Unified Payments Interface (UPI) transactions",
   "reasons": [
    "same fact as g-2026-08-06-2-1"
+  ]
+ },
+ {
+  "id": "g-2026-08-08-aitn6-1",
+  "story_id": "2026-08-08-aitn6",
+  "topic": "Environment & Energy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the GOBARdhan scheme approved in August 2026:",
+  "items": [
+   "It was approved by the Cabinet with an outlay of INR 237 billion.",
+   "It is a scheme for compressed biogas.",
+   "It guarantees producers a buyer through city-gas blending obligations that rise every year."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three are correct. On 7 August 2026 the Cabinet approved GOBARdhan, an INR 237 billion (USD 2.5 billion) compressed biogas scheme. Demand is secured through city-gas blending obligations that rise every year.",
+  "source": "The Cabinet approved GOBARdhan, a INR 237 billion (USD 2.5 billion) compressed biogas scheme, guaranteeing producers a buyer through city-gas blending obligations that rise every year.",
+  "reasons": [
+   "solver: trivial"
   ]
  },
  {
@@ -2296,6 +2421,71 @@
   ]
  },
  {
+  "id": "g-2026-09-12-4-2",
+  "story_id": "2026-09-12-4",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In September 2026, compliance notices were issued to 15 offshore crypto platforms, including Weex, Blofin and WOO X. Consider the following statements:",
+  "items": [
+   "The notices were issued by the Enforcement Directorate for violations of foreign exchange law.",
+   "Platforms notified in earlier rounds, including Binance, later registered and paid penalties to return to India."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "The notices came from the Financial Intelligence Unit, for skipping registration under anti-money-laundering law, so statement 1 is wrong. Platforms notified in 2023 and 2025 later registered and paid penalties, because the chokepoint is where digital coins meet rupees.",
+  "source": "The Financial Intelligence Unit issued compliance notices to 15 offshore crypto platforms including Weex, Blofin, and WOO X, and moved to pull their apps in India, for skipping registration under anti-money-laundering law.",
+  "reasons": [
+   "explanation: The explanation says platforms notified in 2023 and 2025 registered and paid penalties \"because the chokepoint is where digital coins meet rupees.\" The story gives no such causal link. It reports the earlier registrations and penalties, then separately remarks that the chokepoint is where digital coins meet rupees."
+  ]
+ },
+ {
+  "id": "g-2026-09-19-4-3",
+  "story_id": "2026-09-19-4",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In September 2026, Tata Electronics was reported to be anchoring a semiconductor supplier park at which of the following locations?",
+  "options": [
+   "Dholera",
+   "Sanand",
+   "Hosur",
+   "Noida"
+  ],
+  "answer": 0,
+  "explain": "Tata Electronics is anchoring the supplier park in Dholera. It forms part of INR 1 trillion in semiconductor commitments that India secured in September 2026.",
+  "source": "with Tata Electronics anchoring a supplier park in Dholera",
+  "reasons": [
+   "explanation: \"INR 1 trillion in semiconductor commitments that India secured in September 2026\" adds a date the story does not support. The story says India banked INR 1 trillion (USD 10.4 billion) in commitments, but it does not say the commitments were secured in September 2026; it only reports the cumulative figure."
+  ]
+ },
+ {
+  "id": "g-2026-09-19-aitn7-1",
+  "story_id": "2026-09-19-aitn7",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In September 2026, India summoned Pakistan's charge d'affaires after a Pakistan Navy vessel collided with an Indian ship. Where did the collision take place?",
+  "options": [
+   "Arabian Sea",
+   "Bay of Bengal",
+   "Andaman Sea",
+   "Red Sea"
+  ],
+  "answer": 0,
+  "explain": "The collision between a Pakistan Navy vessel and an Indian ship took place in the Arabian Sea on 17 September 2026. India summoned Pakistan's charge d'affaires and called the conduct unacceptable and unprofessional.",
+  "source": "India summoned Pakistan's charge d'affaires after a Pakistan Navy vessel collided with an Indian ship in the Arabian Sea, calling the conduct unacceptable and unprofessional.",
+  "reasons": [
+   "explanation: The explanation says the collision \"took place in the Arabian Sea on 17 September 2026\". The story does not give a date for the collision. The date Thursday, September 17 is attached to the news item, which reports India summoning Pakistan's charge d'affaires, not to the collision itself."
+  ]
+ },
+ {
   "id": "g-2026-09-29-aitn1-1",
   "story_id": "2026-09-29-aitn1",
   "topic": "International Relations",
@@ -2438,6 +2628,82 @@
   "source": "The order falls under the Buy (Indian-IDDM) category, used for equipment designed, developed, and manufactured in India, and carries at least 68 per cent local content.",
   "reasons": [
    "explanation: The explanation says \"The INR 6.62 billion contract covers the BrahMos, a supersonic missile\", implying the missiles themselves are being bought. The story says the contract is for missile fire control systems and launchers on Indian Navy warships, not for the missiles."
+  ]
+ },
+ {
+  "id": "g-2026-10-10-aitn2-1",
+  "story_id": "2026-10-10-aitn2",
+  "topic": "International Relations",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Black Sea truce proposal India made to Russia and Ukraine in October 2026:",
+  "items": [
+   "The proposal had three parts.",
+   "It covered energy sites, grain shipments and merchant vessels.",
+   "Kyiv called it the broadest of four competing plans on the table."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements match the story: India's truce plan had three parts covering energy sites, grain shipments and merchant vessels, and Kyiv called it the broadest of the four competing plans. The proposal was made on 8 October 2026.",
+  "source": "India proposed a three-part Black Sea truce to Russia and Ukraine, covering energy sites, grain shipments, and merchant vessels, which Kyiv called the broadest of four competing plans on the table.",
+  "reasons": [
+   "solver: trivial: all statements restate the story verbatim, so the answer is 'all correct' with no discrimination"
+  ]
+ },
+ {
+  "id": "g-2026-10-10-aitn7-1",
+  "story_id": "2026-10-10-aitn7",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, the Centre announced a measure on the pricing of anti-cancer drugs. Consider the following statements about it:",
+  "items": [
+   "It capped trade margins on non-scheduled anti-cancer drugs at 30% of retail price.",
+   "Officials projected that the measure would lower prices by up to 30%."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because officials projected price falls of up to 70%. The 30% figure is the trade margin cap itself. The cap targets non-scheduled anti-cancer drugs, which sit outside direct price control.",
+  "source": "The Centre capped trade margins on non-scheduled anti-cancer drugs at 30% of retail price, with officials projecting price falls of up to 70%.",
+  "reasons": [
+   "explanation: The core correction is right: officials projected price falls of up to 70%, and 30% is the margin cap. However, the claim that non-scheduled anti-cancer drugs \"sit outside direct price control\" is not in the story. The story only says the Centre capped trade margins on non-scheduled anti-cancer drugs at 30% of retail price, and says nothing about their price-control status."
+  ]
+ },
+ {
+  "id": "g-2026-10-13-aitn1-1",
+  "story_id": "2026-10-13-aitn1",
+  "topic": "Polity & Governance",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, the Union Health Secretary asked states and union territories to review compliance with rules on healthcare establishments displaying their charges. Consider the following statements:",
+  "items": [
+   "Where the Clinical Establishments Act applies, rates must be prominently displayed in English only.",
+   "The Centre asked states to encourage establishments to display package rates for foreign patients travelling on medical or Ayush visas."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because, under the Clinical Establishments Act, rates must be displayed in both English and the local language. Where the Act does not apply, state regulations govern the requirements. Ayush visas cover foreign patients seeking traditional Indian medication.",
+  "source": "Where the Clinical Establishments Act applies, rates must be prominently displayed in English and the local language; elsewhere, state regulations govern the requirements.",
+  "reasons": [
+   "explanation: The explanation omits statement 2 entirely: it never says statement 2 is correct or why, so it doesn't fully support answer (b). The story confirms statement 2: the Centre asked states to encourage establishments to display package rates for foreign patients on medical or Ayush visas. The claims it does make about statement 1, state regulations and Ayush visas match the story."
   ]
  }
 ]

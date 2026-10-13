@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-26-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 181,
+  "output_tokens": 893,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A one-line regulatory item; it tests only which body ordered voice-and-text-only plans.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, which body ordered telecom operators to offer cheaper voice-and-text-only mobile plans for low-income users who do not need data?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Telecom Regulatory Authority of India",
+     "Department of Telecommunications",
+     "Competition Commission of India",
+     "Telecom Disputes Settlement and Appellate Tribunal"
+    ],
+    "answer": 0,
+    "explain": "The order came from TRAI, the telecom sector regulator. The plans are aimed at low-income users who need calls and texts but not mobile data.",
+    "source": "TRAI ordered operators to offer cheaper voice-and-text-only mobile plans for low-income users who do not need data."
+   }
+  ]
+ }
+}

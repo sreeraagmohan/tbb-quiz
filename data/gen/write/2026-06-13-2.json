@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-06-13-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 384,
+  "output_tokens": 1686,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Weekly round-up with little hard detail; tested only the location of the US blockade of Iranian oil and India's diplomatic response, skipping the unclear Putin sanctions line.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, three sailors were killed as a United States blockade of Iranian oil hit tankers crewed by Indians. In which water body was this blockade being enforced?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Gulf of Oman",
+     "Gulf of Aden",
+     "Red Sea",
+     "Bay of Bengal"
+    ],
+    "answer": 0,
+    "explain": "The story places the enforcement of Washington's blockade of Iranian oil in the Gulf of Oman. Within seven days it affected three foreign-flagged tankers crewed by Indians, and the three deaths were the first since the campaign began.",
+    "source": "Washington's blockade of Iranian oil, enforced in the Gulf of Oman, ran through three foreign-flagged tankers crewed by Indians in seven days, and by Friday it had killed three sailors, the first deaths since the campaign began."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Indian sailors were killed during a United States blockade of Iranian oil. Consider the following statements:",
+    "items": [
+     "The tankers that were hit were Indian-flagged vessels.",
+     "India responded with a formal protest and summoned a diplomat."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the tankers were foreign-flagged, though crewed by Indians. New Delhi moved from silence on Wednesday, when it would not even name the United States, to a formal protest and a summoned diplomat on Friday, which TBB calls the ceiling of what it will risk.",
+    "source": "New Delhi moved from Wednesday's studied silence, refusing even to name the United States, to Friday's formal protest and a summoned diplomat, the ceiling of what it will risk."
+   }
+  ]
+ }
+}

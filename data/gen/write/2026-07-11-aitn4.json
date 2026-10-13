@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-11-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 178,
+  "output_tokens": 937,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Brief bilateral defence item; tested only the meeting's sequence and the areas of cooperation agreed.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Rwanda defence joint committee meeting held in July 2026:",
+    "items": [
+     "It was the first meeting of the two countries' defence joint committee.",
+     "The two sides agreed to widen their defence partnership across military training, joint exercises and defence industries."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the meeting on 8 July 2026 was the second meeting of the joint committee, not the first. At that meeting the two countries agreed to broaden cooperation across training, exercises and defence industries.",
+    "source": "India and Rwanda agreed to widen their defence partnership across military training, joint exercises, and defence industries at their second joint committee meeting."
+   }
+  ]
+ }
+}

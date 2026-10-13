@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-10-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 628,
+  "output_tokens": 2270,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the GST Council's October 2026 compliance reforms, the Cabinet-approved SME Growth Fund, and the Delhi High Court's energy-drink labelling order.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the recommendations made by the GST Council in October 2026:",
+    "items": [
+     "Tax officers' arrest powers would be scrapped entirely.",
+     "The prosecution threshold would be raised fivefold to INR 50 million.",
+     "90 per cent of export and inverted-duty refund claims would be paid provisionally after an automated risk check."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are recommendations the GST Council made on 9 October 2026, with prosecution kept only for fake input-tax-credit claims. Together with the August MSME reforms that swapped criminal penalties for fines, they point toward treating routine compliance as a civil rather than a criminal matter.",
+    "source": "The GST Council recommended scrapping tax officers’ arrest powers entirely, raising the prosecution threshold fivefold to INR 50 million (USD 516,100), and paying 90 per cent of export and inverted-duty refund claims provisionally after an automated risk check."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the SME Growth Fund approved by the Union Cabinet in October 2026:",
+    "items": [
+     "It has a corpus of INR 100 billion and will take direct equity stakes in mid-sized firms ready to scale.",
+     "Most of the fund is earmarked for the services sector."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because most of the fund is earmarked for manufacturing, not services. The fund targets the capital gap that opens once a company outgrows startup funding but is not yet large enough for conventional finance.",
+    "source": "The Cabinet approved a INR 100 billion (USD 1.04 billion) SME Growth Fund to take direct equity stakes in mid-sized firms ready to scale, with most of it earmarked for manufacturing."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, which court allowed beverage companies to clear existing stock labelled \"energy drink\" after the food regulator had banned the phrase?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Delhi High Court",
+     "Bombay High Court",
+     "Supreme Court of India",
+     "Madras High Court"
+    ],
+    "answer": 0,
+    "explain": "The Delhi High Court let PepsiCo, Monster, Reliance and Red Bull clear existing stock and criticised the regulator for giving no transition time. New production carrying the label still faces seizure, so the regulator's wider push on labels and warnings remains intact.",
+    "source": "The Delhi High Court let PepsiCo, Monster, Reliance, and Red Bull clear existing stock labelled “energy drink” after the food regulator banned the phrase in June, scolding the regulator for rushing the order with no transition time."
+   }
+  ]
+ }
+}

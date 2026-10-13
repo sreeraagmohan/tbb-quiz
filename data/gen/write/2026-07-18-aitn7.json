@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-18-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 205,
+  "output_tokens": 155,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: a boat accident involving Indian tourists, with only a routine consular response and no durable policy or institutional angle.",
+  "questions": []
+ }
+}

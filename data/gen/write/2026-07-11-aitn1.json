@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-11-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 236,
+  "output_tokens": 1066,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a criminal case, but the cross-border indictment and its explicit clearing of the Indian government give it an India–Canada relations angle worth one question.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, an indictment was filed against jailed gang boss Lawrence Bishnoi and his deputy over the 2023 murder of Sikh separatist Hardeep Singh Nijjar. Consider the following statements:",
+    "items": [
+     "The indictment was filed by the United States, although the murder took place in Canada.",
+     "The indictment alleges no role for the Indian government in the killing."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The United States brought the indictment over a killing in Canada, and it pointedly alleged no Indian government role. This gives Carney accountability without forcing New Delhi to answer for anything.",
+    "source": "The United States indicted jailed gang boss Lawrence Bishnoi and his deputy over the 2023 murder of Sikh separatist Hardeep Singh Nijjar in Canada, while pointedly alleging no Indian government role"
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-09-26-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 449,
+  "output_tokens": 2329,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the dissolution of the Digital Communications Commission, the satellite spectrum allocation method and the longer validity of port green clearances.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, the Department of Telecommunications dissolved the Digital Communications Commission. Consider the following statements about this:",
+    "items": [
+     "The Commission was an inter-ministerial body that reviewed telecom decisions.",
+     "Its functions were handed to a new panel of secretaries drawn from several ministries.",
+     "It was dissolved shortly after it had cleared terms for satellite spectrum."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the Commission was replaced by the telecom secretary alone, not by a multi-ministry panel. The dissolution came 18 days after the panel cleared satellite spectrum terms, leaving the auditor, the courts and Parliament as checks that act only after the fact.",
+    "source": "The Department of Telecommunications dissolved the Digital Communications Commission, the inter-ministerial body that reviewed telecom decisions, replacing it with the telecom secretary alone, 18 days after the panel cleared satellite spectrum terms."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the change to green clearances for ports made in September 2026:",
+    "items": [
+     "The validity of port green clearances was raised to 30 years, with extensions permitted up to 40 years.",
+     "The change was notified by the Ministry of Ports, Shipping and Waterways."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "The validity was doubled to 20 years, with extensions to 30, and the change was made by the environment ministry, days after a shipping-secretary meeting pushed for it. Congress said the change is built for the Great Nicobar transshipment port.",
+    "source": "The environment ministry doubled the validity of port green clearances to 20 years, with extensions to 30, days after a shipping-secretary meeting pushed for exactly that."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In September 2026, the Digital Communications Commission cleared terms for satellite spectrum. How was that spectrum allocated?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "At a fixed revenue share without an auction",
+     "Through an open ascending-price auction",
+     "Through a sealed-bid auction among operators",
+     "Through a reverse auction on service tariffs"
+    ],
+    "answer": 0,
+    "explain": "The satellite spectrum was allocated at a fixed revenue share rather than auctioned. The story notes this is the same method behind the 2008 2G scandal.",
+    "source": "That spectrum was allocated at a fixed revenue share rather than auctioned, the same method behind the 2008 2G scandal."
+   }
+  ]
+ }
+}

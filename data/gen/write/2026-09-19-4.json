@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-09-19-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 441,
+  "output_tokens": 2220,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests DRDO's September 2026 source-code sharing framework, India's semiconductor commitments, and the Dholera supplier park.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the framework launched by the Defence Research and Development Organisation (DRDO) in September 2026:",
+    "items": [
+     "It allows licensed private firms to access the source code of weapon software.",
+     "Under it, DRDO handed 13 technology-transfer agreements to nine firms."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong. DRDO handed nine technology-transfer agreements to 13 firms, part of more than 2,300 transfers to date. The source-code sharing marks a sharp break from DRDO's historical secrecy and came with easier access to testing facilities and direct funding for defence start-ups.",
+    "source": "DRDO launched a framework to share weapon software source code with licensed private firms, a sharp break from its historical secrecy, alongside easier access to testing facilities and direct funding for defence start-ups."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's semiconductor and electronics sector as of September 2026:",
+    "items": [
+     "India secured semiconductor commitments worth INR 1 trillion.",
+     "Applied Materials pledged USD 5 billion over a decade.",
+     "Domestic value addition in electronics had reached about 40%."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong. Domestic value addition in electronics still sits at 18 to 20%. The first foundries give global suppliers an anchor to build local operations, so later entrants can source in India rather than import.",
+    "source": "India banked INR 1 trillion (USD 10.4 billion) in semiconductor commitments, Applied Materials alone pledging USD 5 billion over a decade, with Tata Electronics anchoring a supplier park in Dholera."
+   },
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, Tata Electronics was reported to be anchoring a semiconductor supplier park at which of the following locations?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Dholera",
+     "Sanand",
+     "Hosur",
+     "Noida"
+    ],
+    "answer": 0,
+    "explain": "Tata Electronics is anchoring the supplier park in Dholera. It forms part of INR 1 trillion in semiconductor commitments that India secured in September 2026.",
+    "source": "with Tata Electronics anchoring a supplier park in Dholera"
+   }
+  ]
+ }
+}

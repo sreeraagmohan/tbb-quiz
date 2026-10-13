@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-13-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 212,
+  "output_tokens": 170,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: an opposition alliance meeting and party attendance is coalition politics with no institutional, legal or electoral-process fact worth testing.",
+  "questions": []
+ }
+}

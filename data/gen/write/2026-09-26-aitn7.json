@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-09-26-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 174,
+  "output_tokens": 721,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A brief bilateral aviation item; one recall question on the partner country in the air-capacity expansion.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, India more than doubled its weekly bilateral flight capacity to over 16,000 seats with which country, after airlines had exhausted the existing rights?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Vietnam",
+     "Thailand",
+     "Indonesia",
+     "Malaysia"
+    ],
+    "answer": 0,
+    "explain": "India and Vietnam more than doubled their weekly flight capacity to over 16,000 seats. The expansion came because airlines had used up all the seats allowed under the existing rights.",
+    "source": "India and Vietnam more than doubled their weekly flight capacity to over 16,000 seats, after airlines exhausted existing rights."
+   }
+  ]
+ }
+}

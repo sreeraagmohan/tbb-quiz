@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-04-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 218,
+  "output_tokens": 1166,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the start year of Delhi's petrol vehicle ban and its first-in-India status, both stated in the story.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Delhi announced an electric-vehicle policy with an outlay of INR 150 billion. Consider the following statements about it:",
+    "items": [
+     "The ban on registering new petrol three-wheelers and light trucks takes effect from 2030.",
+     "Delhi became the first Indian city to bar new combustion-engine registrations in any vehicle category."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The ban on new petrol three-wheelers and light trucks applies from 2027, not 2030. It comes under an INR 150 billion (USD 1.59 billion) electric-vehicle policy and makes Delhi the first Indian city to bar new combustion-engine registrations in any category.",
+    "source": "Delhi banned new petrol three-wheelers and light trucks from 2027 under a INR 150 billion (USD 1.59 billion) electric-vehicle policy, the first Indian city to bar new combustion-engine registrations in any category."
+   }
+  ]
+ }
+}

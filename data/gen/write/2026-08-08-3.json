@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-08-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 609,
+  "output_tokens": 2600,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the UPI merchant-fee amendments, the export-only inventory rule for foreign-invested e-commerce, and the electronics tax holiday extension; avoids the Lok Sabha passage date, which the story gives inconsistently.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the Finance Minister tabled amendments creating a legal framework to reintroduce merchant fees on UPI transactions. Consider the following statements:",
+    "items": [
+     "The proposed fee of 0.3 to 0.5% would apply to UPI payments above INR 2,000 made to larger merchants.",
+     "UPI transactions above INR 2,000 account for about two-thirds of transaction volume but only 4% of value.",
+     "The Lok Sabha passed the amendments by voice vote, and they still await the Rajya Sabha."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 reverses the figures. Transactions above INR 2,000 are just 4% of volume but 67% of value. The Lok Sabha passed the bill without debate a day after the RBI governor called the discussion premature.",
+    "source": "Transactions above that threshold are just 4% of volume but 67% of value."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the change to e-commerce rules announced by India in August 2026:",
+    "items": [
+     "Foreign-invested e-commerce platforms may hold inventory in India for goods bound for export, routed through a registered Exporter-on-Record.",
+     "The decade-old ban on foreign-owned inventory for domestic sales was lifted."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Delhi did not touch the decade-old ban on foreign-owned domestic inventory. It gave Amazon and Flipkart the right to hold inventory only for exports, and Amazon linked the move to its USD 80 billion export target for 2030.",
+    "source": "India let foreign-invested e-commerce platforms hold inventory domestically, but only for goods bound for export, routed through a registered Exporter-on-Record."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, Finance Minister Nirmala Sitharaman introduced a bill proposing to extend the tax holiday for electronics manufacturers. Up to which year would the tax holiday be extended?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "2040-41",
+     "2031-32",
+     "2035-36",
+     "2047-48"
+    ],
+    "answer": 0,
+    "explain": "The bill would push the tax holiday from 2031 to 2040-41. The same bill would ease approvals for global cloud providers and let fund managers relocate to India without subjecting offshore funds to Indian tax laws.",
+    "source": "extend the tax holiday for electronics manufacturers' from 2031 to 2040-41, ease approvals for global cloud providers"
+   }
+  ]
+ }
+}

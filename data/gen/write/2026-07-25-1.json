@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-25-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 219,
+  "output_tokens": 394,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: the story text holds only a date and issue number, with no body to quote from. The headline topics (E20, Wangchuk, the trade deal) cannot be grounded, so the answer-pattern line was moot.",
+  "questions": []
+ }
+}

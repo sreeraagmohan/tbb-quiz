@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-18-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 844,
+  "output_tokens": 2726,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the India-UK CETA entry into force, the DGFT ban on forced-labour imports, and the US Senate bill on buyers of Russian energy; skipped the unsigned India-US framework.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India-UK Comprehensive Economic and Trade Agreement, which took effect in July 2026:",
+    "items": [
+     "On entry into force, India eliminated duties on 96.8% of its tariff lines.",
+     "Dairy and grains were left out of the immediate duty cuts.",
+     "The Double Contribution Convention exempts roughly 75,000 Indian professionals from UK National Insurance for five years."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong. Britain scrapped duties on 96.8% of tariff lines, while India cut duties on 64.1% at once. The agreement took effect a year after signing, and TBB notes that the services surplus of nearly USD 8 billion matters more than the USD 1.76 billion goods surplus.",
+    "source": "The India-UK Comprehensive Economic and Trade Agreement took effect a year after signing, with Britain scrapping duties on 96.8% of tariff lines and India on 64.1% at once, dairy and grains untouched."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "In July 2026, India prohibited imports made wholly or partly with forced labour. Consider the following pairs relating to this decision:",
+    "items": [
+     "Body that issued the prohibition — Directorate General of Foreign Trade",
+     "Source of the wording used to define forced labour — International Labour Organization's 1930 convention",
+     "Tariff the USTR had proposed over India's failure to block such goods — 25%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third pair is wrong. The USTR had proposed a 12.5% tariff five weeks before India's move. No goods are being stopped at the border yet, because inquiries must first name specific products.",
+    "source": "India's Directorate General of Foreign Trade prohibited imports made wholly or partly with forced labour, borrowing the International Labour Organization's 1930 convention wording, five weeks after the USTR proposed a 12.5% tariff over India's failure to block such goods."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, a bipartisan US Senate bill would allow the US President to impose tariffs on the five largest buyers of Russian energy. What is the maximum tariff level the bill provides for?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Up to 100%",
+     "Up to 500%",
+     "Up to 50%",
+     "Up to 250%"
+    ],
+    "answer": 0,
+    "explain": "The bill lowers the earlier ceiling of 500% to 100%. India ranks second only to China among buyers after its Russian oil imports reached a record USD 5.2 billion in June 2026, up 34%.",
+    "source": "A bipartisan Senate bill would let Trump impose tariffs of up to 100% on the five largest buyers of Russian energy, with India second only to China after its Russian oil imports hit a record USD 5.2 billion in June, up 34%."
+   }
+  ]
+ }
+}

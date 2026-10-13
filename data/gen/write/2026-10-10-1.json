@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-10-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 473,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: the story text holds only the issue date and number, with no body to ground answers or quote as a source. The headline topics (GST Council arrest powers, RBI rate hike, Black Sea truce, Pakistan summons) would be strong Prelims material if the full text were supplied.",
+  "questions": []
+ }
+}

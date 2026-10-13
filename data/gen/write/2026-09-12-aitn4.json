@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-12-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 202,
+  "output_tokens": 898,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Tested the US vote and India's stated position on the UN 'Correct the Map' resolution, avoiding the vote count.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, India voted in favour of the UN's \"Correct the Map\" resolution on fairer map projections. Consider the following statements:",
+    "items": [
+     "The United States cast the only vote against the resolution.",
+     "India said its vote endorsed a specific alternative map projection."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The US was the sole opposing vote. Statement 2 is wrong because New Delhi stressed it was endorsing the principle of fairer projections rather than any specific map. India joined 163 other countries in backing the resolution.",
+    "source": "India joined 163 countries backing the UN's \"Correct the Map\" resolution for fairer map projections, the US the sole opposing vote, though Delhi stressed it was endorsing the principle rather than any specific map."
+   }
+  ]
+ }
+}

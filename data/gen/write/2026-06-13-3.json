@@ -1,0 +1,73 @@
+{
+ "story_id": "2026-06-13-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 473,
+  "output_tokens": 2054,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the June 2026 Gulf of Oman tanker strikes: India's diplomatic response, the blockade timeline and the vessel's flag state.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the June 2026 incidents involving Indian-crewed tankers off Oman:",
+    "items": [
+     "The 24 Indian crew of the MT Marivex were rescued by the Indian Navy.",
+     "After the strike on the MT Settebello, India lodged a formal protest and summoned the US chargé d'affaires."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Oman's navy, not the Indian Navy, rescued the Marivex crew, and India reserved its thanks for Oman. The Settebello strike killed three Indian sailors, which prompted Delhi's formal protest.",
+    "source": "This time Delhi lodged a formal protest and summoned the US chargé d'affaires, though its options stop there: it will not break with Washington over foreign-flagged crews."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the US blockade of Iran, as reported in June 2026:",
+    "items": [
+     "Washington began enforcing the blockade in April 2026.",
+     "The MT Marivex, disabled on 8 June 2026, was the first vessel disabled under the blockade."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The Marivex was the seventh vessel disabled since the blockade began in April, not the first. The strike on the MT Settebello two days later caused the first deaths of the blockade.",
+    "source": "The vessel was the seventh disabled since Washington began enforcing its Iran blockade in April."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, a US missile disabled the tanker MT Marivex off Oman, which had 24 Indian crew on board. Under which country's flag was the vessel sailing?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Palau",
+     "Panama",
+     "Liberia",
+     "Malta"
+    ],
+    "answer": 0,
+    "explain": "The Marivex was Palau-flagged. Its 24 Indian crew were rescued by Oman's navy, and India responded without naming the United States.",
+    "source": "A US missile disabled the Palau-flagged MT Marivex off Oman on 8 June, with all 24 Indian crew rescued by Oman's navy."
+   }
+  ]
+ }
+}

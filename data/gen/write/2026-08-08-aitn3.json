@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-08-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 237,
+  "output_tokens": 897,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the August 2026 PM-KISAN extension outlay and the scheme's beneficiary group.",
+  "questions": [
+   {
+    "topic": "Agriculture",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, India extended the PM-KISAN scheme. Consider the following statements:",
+    "items": [
+     "The scheme provides income support to landless agricultural labourers rather than landholding farmers.",
+     "The extension, covering five more years, carries an outlay of INR 3.16 trillion."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because PM-KISAN supports eligible landholding farmer families, not landless labourers. The five-year extension costs INR 3.16 trillion (USD 33.1 billion), but the per-family payout has not changed since 2019 and is shrinking in real terms.",
+    "source": "India locked in five more years of PM-KISAN farmer payments at INR 3.16 trillion (USD 33.1 billion), with the per-family payout unchanged since 2019 and shrinking in real terms."
+   }
+  ]
+ }
+}

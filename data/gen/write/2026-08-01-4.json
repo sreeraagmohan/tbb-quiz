@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-08-01-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 442,
+  "output_tokens": 1950,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Bharat Maritime Insurance Pool's first sovereign-backed P&I policy and India's diplomatic and advisory response to attacks on ships with Indian crew in July 2026.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Bharat Maritime Insurance Pool as of July 2026:",
+    "items": [
+     "New India Assurance issued the first sovereign-backed Protection and Indemnity policy under the pool to Shipping Corporation of India.",
+     "The first Protection and Indemnity policy covers third-party liabilities of up to USD 500 million.",
+     "The pool has written over 1,600 war-risk policies since May 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "The policy issued to Shipping Corporation of India covers third-party liabilities up to USD 1.5 billion, not USD 500 million. The pool has written 1,608 war-risk policies since May, with premiums down 35 to 40% from the conflict peak, as India swaps dependence on foreign insurers for its own balance sheet.",
+    "source": "New India Assurance issued the first sovereign-backed Protection and Indemnity policy under the Bharat Maritime Insurance Pool to Shipping Corporation of India, covering third-party liabilities up to USD 1.5 billion."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's response to attacks on merchant ships carrying Indian seafarers in July 2026:",
+    "items": [
+     "India summoned Ukraine's ambassador over the attack on MV Omorfi, which killed an Indian national.",
+     "India's July 26 advisory on Black Sea assignments did not impose a deployment ban of the kind imposed on Hormuz."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. India summoned Ukraine's ambassador over MV Omorfi a week after summoning Russia's chargé over four deaths aboard MV Golden Leo, and the July 26 advisory left seafarers to weigh Black Sea assignments themselves rather than banning deployment.",
+    "source": "A July 26 advisory told seafarers to weigh Black Sea assignments themselves, with no deployment ban of the kind imposed on Hormuz."
+   }
+  ]
+ }
+}

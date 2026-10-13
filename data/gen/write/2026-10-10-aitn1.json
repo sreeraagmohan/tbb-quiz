@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-10-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 222,
+  "output_tokens": 1075,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A border incident with a diplomatic angle; the question tests only the location and the force involved.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, India and Pakistan summoned each other's envoys after two Pakistani men were shot dead on the border. Consider the following statements about the incident:",
+    "items": [
+     "The shooting took place in the Ferozepur sector of Rajasthan.",
+     "The men were shot dead by the Indo-Tibetan Border Police."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both statements are wrong. The Ferozepur sector is in Punjab, and the shooting was carried out by the Border Security Force, not the ITBP. India called the men infiltrators linked to cross-border narcotics, while Islamabad said they were unarmed civilians.",
+    "source": "India and Pakistan summoned each other’s envoys after the Border Security Force shot dead two Pakistani men in Punjab’s Ferozepur sector."
+   }
+  ]
+ }
+}

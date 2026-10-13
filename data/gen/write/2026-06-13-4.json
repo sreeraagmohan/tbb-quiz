@@ -1,0 +1,53 @@
+{
+ "story_id": "2026-06-13-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 500,
+  "output_tokens": 2453,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "A weekly digest that is mostly analysis. Tested the forum remarks, the USTR overcapacity finding and the US sanctions law named in connection with the S-400.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about developments in June 2026:",
+    "items": [
+     "At the St. Petersburg forum, Russian President Vladimir Putin pitched the Su-57 stealth fighter while warning that US sanctions on India would backfire.",
+     "India rejected a US Trade Representative finding of structural excess capacity in its pharmaceutical and electronics sectors."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The USTR finding that India rejected concerned its textile and steel sectors, not pharmaceuticals and electronics. Putin's remarks came while US officials were in Delhi working towards a mid-July trade tranche.",
+    "source": "India rejected a US Trade Representative finding that its textile and steel sectors carry structural excess capacity"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, which US law was described as losing its bite because India had bought the S-400 and kept buying Russian oil without facing a penalty?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Countering America's Adversaries Through Sanctions Act",
+     "Uyghur Forced Labor Prevention Act",
+     "Foreign Corrupt Practices Act",
+     "Inflation Reduction Act"
+    ],
+    "answer": 0,
+    "explain": "The story says the Countering America's Adversaries Through Sanctions Act is losing its bite, since India faced no penalty for the S-400 purchase or for its Russian oil imports. Washington is meanwhile running overcapacity, forced-labour and Section 301 tracks against India at the same time.",
+    "source": "The deeper signal is that the Countering America's Adversaries Through Sanctions Act is losing its bite: India bought the S-400, kept buying Russian oil, and faced no penalty, and Moscow is keeping score."
+   }
+  ]
+ }
+}

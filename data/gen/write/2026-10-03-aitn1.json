@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-03-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 226,
+  "output_tokens": 1148,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Brief item on planned UAE investment; one statements question on the headline target and the aluminium deal size, both stated in the story.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about UAE investment in India as reported in September 2026:",
+    "items": [
+     "The UAE plans another USD 25 billion in Indian investment, with a longer-term target of USD 100 billion.",
+     "The aluminium complex among the UAE's recent Indian deals is valued at USD 25 billion."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the aluminium complex is valued at USD 11.5 billion, while USD 25 billion is the size of the planned new investment. Recent deals also include a bank stake and housing finance, and Emirati capital is pivoting towards India's gateway ports and shipyards.",
+    "source": "The UAE plans another USD 25 billion in Indian investment, targeting USD 100 billion in time, with recent deals spanning a bank stake, housing finance, and an USD 11.5 billion aluminium complex"
+   }
+  ]
+ }
+}

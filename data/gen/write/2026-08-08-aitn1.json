@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-08-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 220,
+  "output_tokens": 1095,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "A new Cabinet-approved scheme with a named outlay and a clear objective. The question tests its offshore focus, its cost-shifting design and the import-dependence context.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Union Cabinet approved the Samudra Manthan scheme. Consider the following statements about it:",
+    "items": [
+     "It moves the cost of seabed surveys from the state onto private exploration companies.",
+     "It was approved after India's crude import dependence hit a record 88.7%."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the scheme moves the cost of seabed surveys onto the state, not away from it. Samudra Manthan is an INR 840.84 billion (USD 8.81 billion) offshore oil exploration scheme, approved as crude import dependence reached a record 88.7%.",
+    "source": "moving the cost of seabed surveys onto the state after crude import dependence hit a record 88.7%."
+   }
+  ]
+ }
+}

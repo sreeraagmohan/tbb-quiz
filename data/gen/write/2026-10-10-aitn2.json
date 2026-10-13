@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-10-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 199,
+  "output_tokens": 892,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the scope of India's October 2026 Black Sea truce proposal and Ukraine's response, a concrete diplomatic initiative.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Black Sea truce proposal India made to Russia and Ukraine in October 2026:",
+    "items": [
+     "The proposal had three parts.",
+     "It covered energy sites, grain shipments and merchant vessels.",
+     "Kyiv called it the broadest of four competing plans on the table."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story: India's truce plan had three parts covering energy sites, grain shipments and merchant vessels, and Kyiv called it the broadest of the four competing plans. The proposal was made on 8 October 2026.",
+    "source": "India proposed a three-part Black Sea truce to Russia and Ukraine, covering energy sites, grain shipments, and merchant vessels, which Kyiv called the broadest of four competing plans on the table."
+   }
+  ]
+ }
+}

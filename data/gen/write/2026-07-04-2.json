@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-04-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 397,
+  "output_tokens": 2178,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "A weekly roundup with thin detail. The questions test the trade measures (steel anti-dumping probe, EU scrap carve-out, bond inflows) and the first defence co-development pact with Japan.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's trade and capital measures in the week ending 4 July 2026:",
+    "items": [
+     "India opened an anti-dumping probe into steel imports from China, Japan and Russia.",
+     "India pressed the European Union for a carve-out on scrap exports.",
+     "India drew a record USD 3 billion of foreign bond inflows after scrapping key taxes."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The steel probe opened on Monday 29 June, the scrap-export request went to Brussels on Tuesday, and the record USD 3 billion of bond money came in by Wednesday after key taxes were scrapped. TBB reads the week as India using rules as a lever to set its own terms of engagement.",
+    "source": "New Delhi opened an anti-dumping probe into steel from China, Japan, and Russia on Monday, pressed Brussels for a scrap-export carve-out on Tuesday, drew a record USD 3 billion of foreign bond money after scrapping key taxes by Wednesday"
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In the week ending 4 July 2026, India signed its first defence co-development pact with which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Japan",
+     "France",
+     "United States",
+     "Australia"
+    ],
+    "answer": 0,
+    "explain": "India closed the week by signing a first defence co-development pact with Japan. In the same week, Modi also deepened India's presence in Seychelles with a soft-power package.",
+    "source": "closed the week signing a first defence co-development pact with Japan"
+   }
+  ]
+ }
+}

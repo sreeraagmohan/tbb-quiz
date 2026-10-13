@@ -1,0 +1,54 @@
+{
+ "story_id": "2026-07-18-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 401,
+  "output_tokens": 1700,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly round-up; tested India's Hormuz responses and forced-labour import ban, plus the Oman urea supply link. Skipped the Senate tariff bill as it is only a threat.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's actions in the week ending 18 July 2026:",
+    "items": [
+     "India summoned the US chargé d'affaires after a missile killed an Indian seafarer in the Strait of Hormuz.",
+     "India barred Indian crews from transiting the Strait of Hormuz.",
+     "India banned imports made with forced labour while a USTR probe was pending."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "After the July 2026 missile death, India summoned Iran's deputy ambassador. The US chargé had been summoned a month earlier over three deaths in the same waters. On 17 July 2026 India moved from protest to withdrawal, barring its crews from Hormuz transits, and on 15 July it banned forced-labour imports with a USTR probe pending.",
+    "source": "India summoned Iran's deputy ambassador on Wednesday after a missile killed an Indian seafarer, one month after summoning the US chargé over three deaths in the same waters"
+   },
+   {
+    "topic": "Agriculture",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In July 2026, the Union Cabinet adopted a urea policy driven partly by disruption in the Strait of Hormuz. About a quarter of India's urea supply ships through the strait from which country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Oman",
+     "Qatar",
+     "Kuwait",
+     "Bahrain"
+    ],
+    "answer": 0,
+    "explain": "A quarter of India's urea supply ships from Oman through the Strait of Hormuz, which is why the Cabinet took up a urea policy on the same day India barred its crews from Hormuz transits.",
+    "source": "since a quarter of India's supply ships from Oman through those waters."
+   }
+  ]
+ }
+}

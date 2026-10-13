@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-07-11-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 784,
+  "output_tokens": 2545,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the institutions behind each item (Delhi High Court ruling, RBI, technology ministry, Attorney General) and the E20 blend level; skipped the opinion and speculation.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, Google filed an appeal against a Delhi High Court ruling in a case brought by bathroom fittings maker Hindware. Consider the following statements about that ruling:",
+    "items": [
+     "The court found Google liable for trademark infringement by auctioning rival brand names as ad keywords.",
+     "The court accepted Google's defence that it was only a passive intermediary."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "The Delhi High Court held Google liable for selling rival brand names as ad keywords, and it rejected Google's passive-intermediary defence, so statement 2 is wrong. Google's appeal runs to 4,761 pages.",
+    "source": "Google filed a 4,761-page appeal against a Delhi High Court ruling that found it liable for trademark infringement by auctioning rival brand names as ad keywords, after losing to bathroom fittings maker Hindware."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs of developments in India in July 2026 and the authority involved:",
+    "items": [
+     "Notice to Meta over Instagram advertisements promoting child sexual abuse material — Technology ministry",
+     "Push to bar banks from any exposure to crypto assets and stablecoins — Securities and Exchange Board of India",
+     "Calling E20 petrol an experiment in open court — Solicitor General"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the first pair is correct: the technology ministry gave Meta seven days to respond. The crypto push came from the Reserve Bank of India, not SEBI, and it was the Attorney General, not the Solicitor General, who called E20 an experiment.",
+    "source": "The Reserve Bank of India renewed its push to bar banks and financial institutions from any exposure to crypto assets and privately issued stablecoins, five years after a ban bill that never reached Parliament."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, drivers protested at Jantar Mantar against India's mandatory blending of petrol with ethanol. What is the mandated ethanol share in this petrol?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "20%",
+     "10%",
+     "15%",
+     "30%"
+    ],
+    "answer": 0,
+    "explain": "The protests targeted mandatory E20, petrol with 20% ethanol. Maruti Suzuki put the resulting mileage loss at 3 to 3.5%, while the economic case rests on a lower crude-import bill.",
+    "source": "Drivers protested India's mandatory 20% ethanol-blended petrol at Jantar Mantar after the Attorney General called E20 an experiment in open court, with carmakers and insurers pulled onto the defensive."
+   }
+  ]
+ }
+}

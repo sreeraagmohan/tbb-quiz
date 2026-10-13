@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-10-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 207,
+  "output_tokens": 882,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mainly a company announcement; tested only the onshore data-processing angle and NPCI's role as UPI operator.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, Anthropic began processing Claude AI requests inside India. Consider the following statements:",
+    "items": [
+     "The onshore processing is delivered through Google Cloud infrastructure.",
+     "The National Payments Corporation of India (NPCI), which operates the UPI network, is building its AI platform on Claude."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the story says the processing runs via AWS, not Google Cloud. The move targets banks and public bodies that need their data kept onshore.",
+    "source": "NPCI, the operator of India’s UPI payments network, is building its AI platform on Claude."
+   }
+  ]
+ }
+}

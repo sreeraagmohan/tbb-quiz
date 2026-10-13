@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-09-26-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 443,
+  "output_tokens": 1622,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the EU Commission's proposed metal-scrap exclusion of India and the US sanctions law's tariff mechanism; skipped the monthly oil-import figures as transient.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In September 2026, the European Commission proposed a measure on metal-scrap imports affecting India. Consider the following statements about the proposal:",
+    "items": [
+     "It would exclude India from EU metal-scrap imports from May 2026.",
+     "It cites weak recycling controls as the reason for the exclusion.",
+     "The draft was open to consultation until 16 October 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong: the exclusion would apply from May 2027, not May 2026. The draft is not yet a hard measure and remains open to consultation, so it works as leverage held in reserve.",
+    "source": "the European Commission proposed excluding India from EU metal-scrap imports from May 2027, citing weak recycling controls"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, US President Donald Trump signed a Russia and Iran sanctions law. Consider the following statements about its implications for India:",
+    "items": [
+     "It exposes India to tariffs of up to 100% on purchases of Russian energy.",
+     "The tariffs apply automatically, without needing a presidential trigger."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong: the tariff needs a presidential trigger, so it is not yet a hard duty. Meanwhile India's Russian oil imports fell 16.5% in August 2026, though Russia remained India's top supplier.",
+    "source": "Trump signed the Russia and Iran sanctions law exposing India to tariffs up to 100% on Russian-energy purchases"
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-10-13-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 679,
+  "output_tokens": 2043,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the composition and drivers of September 2026 CPI inflation and the RBI's October 2026 repo rate hike.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about retail inflation data for September 2026, released in October 2026:",
+    "items": [
+     "Onion prices more than doubled year-on-year.",
+     "Tomato and potato prices declined year-on-year.",
+     "The RBI cited a deficient monsoon and renewed West Asia tensions among the causes of rising inflation."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. Onion prices rose 108.09% year-on-year, while tomatoes (-8.62%) and potatoes (-11.50%) fell. The RBI blamed a deficient monsoon and West Asia tensions, which pushed Brent crude in September 22% above its July average.",
+    "source": "Onion prices, which the official data shows more than doubled over the year, added to the pressure."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, after retail inflation reached a 22-month high, the Reserve Bank of India raised its repo rate to which level?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "5.5%",
+     "5.25%",
+     "5.75%",
+     "6%"
+    ],
+    "answer": 0,
+    "explain": "The RBI raised the repo rate by 0.25 percentage points to 5.5% on 7 October 2026. It expects inflation to average 6% in October to December and has ruled out near-term cuts.",
+    "source": "The RBI raised its repo rate by 0.25 percentage points to 5.5% on 7 October"
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to India's retail inflation figures for September 2026:",
+    "items": [
+     "Food inflation — 6.08%",
+     "Rural inflation — 4.88%",
+     "Urban inflation — 7.74%"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 3,
+    "explain": "None is correctly matched. Food inflation was 7.74%, rural inflation 6.08% and urban inflation 4.88%, while headline inflation rose to 5.54% from 4.82% in August.",
+    "source": "Rural areas felt the heat at 6.08%, while urban inflation stood at 4.88%."
+   }
+  ]
+ }
+}

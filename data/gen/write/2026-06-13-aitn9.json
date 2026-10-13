@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-06-13-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 202,
+  "output_tokens": 872,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the June 2026 India–Nepal launch of person-to-person UPI remittances, a payment-systems fact with a neighbourhood-policy angle.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In June 2026, India launched instant cross-border UPI remittances for person-to-person transfers with which neighbouring country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Nepal",
+     "Bhutan",
+     "Sri Lanka",
+     "Bangladesh"
+    ],
+    "answer": 0,
+    "explain": "India and Nepal launched instant cross-border UPI remittances on 12 June 2026, extending the link beyond merchant QR payments to full person-to-person transfers. TBB described it as a durable strategic play in a country where China has expanded its footprint.",
+    "source": "India and Nepal launched instant cross-border UPI remittances, going beyond merchant QR payments to full person-to-person transfers"
+   }
+  ]
+ }
+}

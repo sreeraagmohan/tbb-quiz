@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-10-10-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 179,
+  "output_tokens": 648,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Olympic bid is only at early-talks stage, so the test is the settled fact that Ahmedabad will host the 2030 Commonwealth Games.",
+  "questions": [
+   {
+    "topic": "Society",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, India was reported to be one of seven countries in early talks to host the 2036 Summer Olympics. Which Indian city is set to host the 2030 Commonwealth Games?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Ahmedabad",
+     "Bhubaneswar",
+     "Hyderabad",
+     "Pune"
+    ],
+    "answer": 0,
+    "explain": "Ahmedabad is already set to host the 2030 Commonwealth Games. That role sits alongside India's early talks, as one of seven countries, to host the 2036 Summer Olympics.",
+    "source": "India is one of seven countries in early talks to host the 2036 Summer Olympics, with Ahmedabad already set to host the 2030 Commonwealth Games."
+   }
+  ]
+ }
+}

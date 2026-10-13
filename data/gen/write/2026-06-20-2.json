@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-20-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 341,
+  "output_tokens": 1265,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Thin weekly round-up; tested only the dated facts on the UK pact, the US tariff pause and the Modi–Trump meeting.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's trade diplomacy in June 2026:",
+    "items": [
+     "India's trade pact with the United Kingdom was set to go live from 15 July 2026.",
+     "The United States' 150-day tariff pause was due to expire on 24 July 2026.",
+     "Narendra Modi and Donald Trump met for the first time in sixteen months and called a trade deal close."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are stated in the story. The UK pact goes live from 15 July, the US tariff pause ends on 24 July, and Modi and Trump met after sixteen months and described a deal as close. India's diplomacy that week was shaped by the push to conclude a deal with Washington before the pause ran out.",
+    "source": "India banked wins it already held: the UK pact goes live from 15 July, the Japan carbon market switched on"
+   }
+  ]
+ }
+}

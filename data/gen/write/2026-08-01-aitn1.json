@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-01-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 203,
+  "output_tokens": 1080,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the July 2026 US additional duty on Indian goods and the textile quotas offered to Southeast and South Asian competitors.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the trade measures announced by the United States in July 2026:",
+    "items": [
+     "The United States imposed an additional 10% duty on Indian goods, citing forced-labour enforcement.",
+     "India was among the countries offered textile quotas by the United States.",
+     "Bangladesh, Cambodia, Indonesia and Malaysia were offered textile quotas."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because India was not offered a textile quota and must now negotiate its way into the arrangement. The quotas went to Bangladesh, Cambodia, Indonesia and Malaysia, while India faced an extra 10% duty over forced-labour enforcement.",
+    "source": "The United States imposed an additional 10% duty on Indian goods over forced-labour enforcement, while offering textile quotas to Bangladesh, Cambodia, Indonesia, and Malaysia that India must now negotiate its way into."
+   }
+  ]
+ }
+}

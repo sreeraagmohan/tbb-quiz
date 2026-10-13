@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-07-18-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 205,
+  "output_tokens": 279,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a brief enforcement item against one company. The story does not name the regulator or the law used, so it gives no durable, checkable institutional fact to test.",
+  "questions": []
+ }
+}

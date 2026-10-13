@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-13-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 205,
+  "output_tokens": 1153,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the Zojila Tunnel breakthrough, its all-weather Ladakh access and the route's Kargil war link.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Zojila Tunnel:",
+    "items": [
+     "It achieved its main breakthrough in June 2026.",
+     "It is intended to provide all-weather access to Ladakh.",
+     "It lies along a strategic frontier route that Pakistan targeted during the 1999 Kargil war."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The tunnel's main breakthrough came on Wednesday, 10 June 2026, and it promises all-weather access to Ladakh along a frontier route Pakistan targeted in the 1999 Kargil war.",
+    "source": "The Zojila Tunnel achieved its main breakthrough, promising all-weather access to Ladakh along a strategic frontier route Pakistan targeted during the 1999 Kargil war."
+   }
+  ]
+ }
+}

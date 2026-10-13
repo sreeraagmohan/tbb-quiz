@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-26-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 178,
+  "output_tokens": 1045,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the September 2026 edible oil import duty cut: zero duty on crude sunflower oil and the reason (rising international prices).",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the Centre cut import duties on edible oils. Consider the following statements about this decision:",
+    "items": [
+     "The cut was meant to protect domestic oilseed farmers from a sharp fall in international edible oil prices.",
+     "The import levy on crude sunflower oil was reduced to zero."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong. The duty cut followed a sharp rise in international rates and was meant to curb domestic prices, not to shield farmers from falling prices. The Centre zeroed the levy on crude sunflower oil as part of the cut.",
+    "source": "The Centre cut edible oil import duties, zeroing the levy on crude sunflower oil, to curb prices after a sharp rise in international rates."
+   }
+  ]
+ }
+}

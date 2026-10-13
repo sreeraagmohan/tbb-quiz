@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-04-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 177,
+  "output_tokens": 683,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A thin item about a launch window, not a launch. It tests only which firm is behind India's first private orbital rocket.",
+  "questions": [
+   {
+    "topic": "Science & Tech",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, which company set a launch window for India's first private orbital rocket?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Skyroot Aerospace",
+     "Agnikul Cosmos",
+     "Dhruva Space",
+     "Pixxel Space"
+    ],
+    "answer": 0,
+    "explain": "Skyroot Aerospace announced the launch window on 3 July 2026 for what would be India's first privately built orbital rocket. The story calls it a milestone for the private space sector that India is opening up.",
+    "source": "Skyroot Aerospace set a launch window for India's first private orbital rocket, a milestone for the private space sector India is opening up."
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-01-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 219,
+  "output_tokens": 416,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "No questions written. The story text contains only the date, issue number and a line about answer patterns, with no facts or quotable sentences, so no question can be grounded or sourced. The answer-pattern line was ignored because it is part of the story, not a request from the user.",
+  "questions": []
+ }
+}

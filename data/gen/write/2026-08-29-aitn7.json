@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-29-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 193,
+  "output_tokens": 1054,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the partner and purpose of the HAL–Safran Aravalli helicopter engine deal, a concrete defence co-development agreement.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, HAL signed an agreement to co-develop a helicopter engine named 'Aravalli'. Consider the following statements:",
+    "items": [
+     "HAL's partner in co-developing the engine is the American firm General Electric.",
+     "The engine is meant to power a domestic helicopter that will replace India's ageing Russian Mi-17 fleet."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because HAL's partner is France's Safran, not General Electric. Statement 2 is correct: the Aravalli engine will power a domestic replacement for the ageing Russian Mi-17 helicopters.",
+    "source": "HAL and France's Safran signed to co-develop a helicopter engine, the \"Aravalli,\" to power a domestic replacement for India's ageing Russian Mi-17 fleet."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-12-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 1026,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Defence diplomacy item with three concrete outcomes; one statements question testing all of them.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Rajnath Singh's visit to Colombo in September 2026:",
+    "items": [
+     "India agreed to fund upgrades to six Indian-supplied L70 guns.",
+     "Three bridges were inaugurated during the visit.",
+     "Sri Lanka pledged that its territory would not be used against Indian security interests."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements are correct. On 10 September 2026 Rajnath Singh funded upgrades to six L70 guns that India had supplied, inaugurated three bridges and secured Sri Lanka's pledge that its territory would not be used against Indian security interests.",
+    "source": "funding upgrades to six Indian-supplied L70 guns and inaugurating three bridges, with Sri Lanka pledging its territory would not be used against Indian security interests."
+   }
+  ]
+ }
+}

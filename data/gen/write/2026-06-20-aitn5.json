@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-06-20-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 179,
+  "output_tokens": 194,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a brief update on an air accident whose cause is still unnamed, plus a company fleet decision, with no durable institutional or policy fact to test.",
+  "questions": []
+ }
+}

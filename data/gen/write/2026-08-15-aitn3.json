@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-15-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 201,
+  "output_tokens": 974,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the August 2026 RBI loan-recovery rules: the device-locking ban, the social media shaming cover and the January 2027 start date.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Reserve Bank of India banned lenders from remotely locking a defaulting borrower's phone or laptop. Consider the following statements about the new rules:",
+    "items": [
+     "They widen the loan-recovery harassment rules to cover shaming of borrowers on social media.",
+     "They take effect in January 2027."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. Alongside the ban on remotely locking a defaulter's phone or laptop, the RBI extended its harassment rules on loan recovery to social media shaming, and the rules apply from January 2027.",
+    "source": "The Reserve Bank of India banned lenders from remotely locking a defaulting borrower's phone or laptop and widened loan-recovery harassment rules to cover social media shaming."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-27-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 189,
+  "output_tokens": 888,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the commissioning of three indigenous warships: venue, indigenous content and the BrahMos-armed stealth frigate.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Prime Minister Narendra Modi commissioned three indigenously built warships. Consider the following statements about them:",
+    "items": [
+     "The warships were commissioned in Kolkata.",
+     "Their indigenous content was below 60%.",
+     "One of them is a stealth frigate armed with BrahMos missiles."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the warships' indigenous content was above 75%, not below 60%. All three ships were indigenously built and commissioned together in Kolkata on 22 June 2026.",
+    "source": "Modi commissioned three indigenously built warships in Kolkata, with indigenous content above 75%, including a BrahMos-armed stealth frigate."
+   }
+  ]
+ }
+}

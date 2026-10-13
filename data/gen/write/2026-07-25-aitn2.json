@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-07-25-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 215,
+  "output_tokens": 1063,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief item on India's battery-cell incentive programme. Tested its claims, installed capacity against target, and the contrasting auto scheme figures in one statements question.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's battery-cell incentive programme, as reported in July 2026:",
+    "items": [
+     "The programme had drawn no incentive claims.",
+     "Installed capacity stood at 1 GWh against a target of 50 GWh.",
+     "The parallel incentive scheme for the auto sector drew USD 4.6 billion in investment."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements are correct. The battery-cell programme had no incentive claims and only 1 GWh installed against a 50 GWh target. By contrast, the parallel auto scheme drew USD 4.6 billion in investment and 67,820 jobs.",
+    "source": "India's battery-cell programme has drawn no incentive claims at all, with just 1 GWh installed against a 50 GWh target, even as the parallel auto scheme drew USD 4.6 billion in investment and 67,820 jobs."
+   }
+  ]
+ }
+}

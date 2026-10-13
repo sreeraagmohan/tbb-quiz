@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-25-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 718,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the two countries that received the first-ever Indian presidential visits in July 2026.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, President Murmu made the first-ever visits by an Indian President to which pair of countries?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Moldova and North Macedonia",
+     "Moldova and Montenegro",
+     "Albania and North Macedonia",
+     "Serbia and Montenegro"
+    ],
+    "answer": 0,
+    "explain": "The visits to Moldova and North Macedonia, reported on 22 July 2026, were the first by an Indian President to either country. Both are EU candidate states, and the trips produced no binding deals.",
+    "source": "President Murmu made first-ever Indian presidential visits to Moldova and North Macedonia"
+   }
+  ]
+ }
+}

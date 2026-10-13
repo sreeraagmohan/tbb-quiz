@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-29-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 218,
+  "output_tokens": 1039,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Place in the news: tested the Parandur airport's link to Chennai, its design capacity and the reason it was scrapped.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Parandur airport project, which Tamil Nadu scrapped in August 2026:",
+    "items": [
+     "It was part of Chennai's aviation expansion and was designed for 100 million passengers.",
+     "It was scrapped after protests by farmers."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The USD 2.86 billion Parandur site was meant to carry Chennai's aviation expansion to 100 million passengers, and Tamil Nadu dropped it after farmer protests. No replacement site was named.",
+    "source": "Tamil Nadu scrapped the USD 2.86 billion Parandur airport project after farmer protests, leaving Chennai's aviation expansion short of the 100 million passengers the site was designed for, with no replacement site named."
+   }
+  ]
+ }
+}

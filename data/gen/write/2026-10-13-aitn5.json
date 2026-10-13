@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-10-13-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 230,
+  "output_tokens": 917,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A brief security item with little policy content; one question on who claimed the attack, since only one fact fits a question.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, which group claimed responsibility for the attack on King Khalid International Airport in Riyadh, Saudi Arabia?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "The Houthis",
+     "Hezbollah",
+     "Hamas",
+     "Al-Shabaab"
+    ],
+    "answer": 0,
+    "explain": "The Houthis claimed responsibility for the 10 October 2026 strikes on the Riyadh airport. The death toll rose to 13 after an Indian national died of his injuries on 11 October, which India's embassy in Riyadh confirmed.",
+    "source": "The Houthis claimed responsibility for the airport strikes."
+   }
+  ]
+ }
+}

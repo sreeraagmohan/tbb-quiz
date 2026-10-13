@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-27-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 200,
+  "output_tokens": 858,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested India's 2025 lead in global ship recycling and the certification gap facing its yards with European owners.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's ship-recycling industry, as reported in June 2026:",
+    "items": [
+     "In 2025, India became the world's top ship-recycling nation, with a 35.4% share of global tonnage.",
+     "Indian ship-recycling yards hold the certification that European shipowners look for."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because Indian yards still lack the certification that would make the lead bankable with European owners. India took the top spot in 2025, five years ahead of its target.",
+    "source": "India became the world's top ship-recycling nation in 2025 with a 35.4% share of global tonnage, five years ahead of target"
+   }
+  ]
+ }
+}

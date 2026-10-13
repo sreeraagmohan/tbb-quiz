@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-09-19-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 752,
+  "output_tokens": 2314,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the final US anti-dumping and countervailing duties on Indian solar products, India's EU steel quota and the carbon-levy catch, and the venue of Xi's first India visit since 2019.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about steel under the pending India–EU trade deal, as reported in September 2026:",
+    "items": [
+     "India's steel exports to the EU will be exempt from the EU's carbon levy as soon as the deal takes effect.",
+     "India secured annual access of about 1.64 million tonnes of steel to the EU."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the separate EU carbon levy stays in place until Brussels recognises India's carbon-credit scheme. The quota access matters because Europe's new July steel regime reserves half its import quota for free-trade partners and hits the rest with a 50% duty.",
+    "source": "The catch is the separate EU carbon levy, which stays in place until Brussels recognises India's carbon-credit scheme, the same fight India is running with the UK."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about US trade action on Indian solar products in September 2026:",
+    "items": [
+     "The US Commerce Department finalised an anti-dumping margin of more than 120% on Indian solar cells and panels.",
+     "The United States bought more than 95% of India's solar exports when the preliminary rate was announced.",
+     "A US trade commission vote in October 2026 is the last step before duty orders are issued."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "The final anti-dumping margin was 123.04%, alongside a 126.09% countervailing duty, and the trade commission vote on October 14 is the last gate before duty orders in November. India's own solar-localisation rules leave domestic projects to absorb output the factories can no longer sell abroad.",
+    "source": "The United States bought more than 95% of India's solar exports when the preliminary rate landed, and a US trade commission vote on October 14 is the last gate before duty orders in November."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In September 2026, Chinese President Xi Jinping made his first visit to India since 2019. Which summit in Delhi did he attend?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "BRICS summit",
+     "SCO summit",
+     "G20 summit",
+     "East Asia Summit"
+    ],
+    "answer": 0,
+    "explain": "Modi and Xi met on the sidelines of the Delhi BRICS summit, where Modi held that border peace remains the precondition for normal ties. Xi pushed a \"Greater BRICS\" integrated market and a China-led AI zone.",
+    "source": "Modi and Xi met on the sidelines of the Delhi BRICS summit, Xi's first India visit since 2019, with Modi holding that border peace remains the precondition for normal ties."
+   }
+  ]
+ }
+}

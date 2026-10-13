@@ -1,0 +1,78 @@
+{
+ "story_id": "2026-08-01-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 879,
+  "output_tokens": 2519,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the July 2026 exam-cheating bill's provisions, its passage through Parliament, and related figures, skipping the protest and political commentary.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the exam-cheating bill introduced by the Centre in July 2026:",
+    "items": [
+     "It raises prison terms for exam cheating to five to ten years.",
+     "It caps investigations at three months and trials at two months.",
+     "It requires states to designate existing Sessions Courts instead of creating a new judiciary."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the bill caps investigations at two months and trials at three months. It also lifts maximum fines fivefold to INR 5 million, and states must appoint special prosecutors for the designated courts.",
+    "source": "The Centre introduced a bill raising prison terms for exam cheating to five to ten years, lifting maximum fines fivefold to INR 5 million (USD 52,000), and capping investigations at two months with trials at three."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the exam-leak developments of July 2026:",
+    "items": [
+     "Maximum fine under the exam-cheating bill — INR 5 million",
+     "Reform task force headed by Nandan Nilekani — nine members",
+     "Persons charged in the CBI's first NEET chargesheet — 30"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 0,
+    "explain": "Only the fine is correctly matched. The Nilekani task force has six members, and the CBI charged 13 people, citing 360 witnesses. A similar 2019 panel's report was never published.",
+    "source": "Modi named Nandan Nilekani to head a six-member reform task force."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the passage of the exam-cheating bill through Parliament in July 2026:",
+    "items": [
+     "The Rajya Sabha cleared the bill a day after the Lok Sabha passed it.",
+     "The bill restricts appeals to a single two-judge High Court bench within three months."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "The Lok Sabha passed the bill by voice vote with the appeal restriction, and the Rajya Sabha cleared it the next day, leaving only presidential assent. The government said six special fast-track courts already operate.",
+    "source": "The Lok Sabha passed the bill by voice vote, restricting appeals to a single two-judge High Court bench within three months, on the day a fast-track court took the first NEET chargesheet on record."
+   }
+  ]
+ }
+}

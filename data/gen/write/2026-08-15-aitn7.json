@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-15-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 197,
+  "output_tokens": 205,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a one-line tally of state investment agreements with no scheme, law or institution named, so there is little durable Prelims material to test.",
+  "questions": []
+ }
+}

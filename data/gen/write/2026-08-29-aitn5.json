@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-29-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 191,
+  "output_tokens": 787,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the August 2026 move to treat rupee export earnings on par with dollars and euros for trade-policy benefits and its purpose of promoting rupee settlement.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, India changed how export earnings received in rupees are treated. Consider the following statements about this change:",
+    "items": [
+     "Rupee export earnings were put on the same footing as earnings in dollars and euros for trade-policy benefits.",
+     "The move is intended to nudge exporters towards settling trade in rupees."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. Exporters paid in rupees now get the same trade-policy benefits as those paid in dollars or euros, which nudges them towards rupee settlement. The step came as Trump warned BRICS against challenging the dollar.",
+    "source": "India put rupee export earnings on the same footing as dollars and euros for trade-policy benefits, nudging exporters towards rupee settlement as Trump warns BRICS against challenging the dollar."
+   }
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-08-22-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 477,
+  "output_tokens": 1054,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Mostly political analysis and unbudgeted pledges; one question tests the youth pledges from the August 2026 Independence Day address, skipping the BJP social-media reshuffle as party affairs.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the youth-focused pledges in Prime Minister Modi's Independence Day address of August 2026:",
+    "items": [
+     "It pledged AI training for 100 million young people within a year.",
+     "It announced a talent hunt to groom children for a 2036 Olympics that India wants to host.",
+     "The pledges were made without a stated budget or launch date."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "The AI training pledge covered 10 million young people within a year, not 100 million. The address also promised free online exam coaching, though much of the package scales programmes already running and adds no new vacancies.",
+    "source": "pledging free online exam coaching, AI training for 10 million young people within a year, and a talent hunt grooming children for a 2036 Olympics India wants to host."
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-07-04-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 491,
+  "output_tokens": 2404,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests India's June 2026 Seychelles package, the 2015 Seychelles base setback and the July 2026 India–Japan defence co-development pact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about Prime Minister Modi's visit to Seychelles in June 2026:",
+    "items": [
+     "The visit coincided with Seychelles' 50th independence day.",
+     "India extended a line of credit of USD 300 million to Seychelles.",
+     "India gifted a patrol vessel, and the package included rollouts of UPI and generic medicines."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the line of credit was USD 130 million, alongside eight agreements signed during the visit. None of the package needs a parliamentary vote in Seychelles, which makes it harder to reverse than a base lease.",
+    "source": "Modi visited Seychelles for its 50th independence day, signing eight agreements, extending a USD 130 million line of credit, and gifting a patrol vessel, with UPI and generic-medicine rollouts as the civilian anchors."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Japan summit held in July 2026:",
+    "items": [
+     "Prime Minister Modi met Japanese Prime Minister Sanae Takaichi.",
+     "The two countries signed their first defence co-development pact.",
+     "A target was set to send 500 Indian AI professionals to Japan by 2030."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three statements are correct. Modi and Takaichi signed the first defence co-development pact and set the AI professionals target. They also signed documents on economic security, energy and artificial intelligence between the two QUAD partners.",
+    "source": "Modi and Japanese Prime Minister Sanae Takaichi signed India and Japan's first defence co-development pact, alongside documents on economic security, energy, and artificial intelligence, and a target to send 500 Indian AI professionals to Japan by 2030."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "An Indian military-base plan collapsed in 2015 in the parliament of which Indian Ocean country?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Seychelles",
+     "Maldives",
+     "Sri Lanka",
+     "Madagascar"
+    ],
+    "answer": 0,
+    "explain": "The 2015 base plan collapsed in the Seychelles parliament. India's June 2026 package of credit, a patrol vessel, UPI and generic medicines was designed so that none of it needed a parliamentary vote.",
+    "source": "After a 2015 military-base plan collapsed in the Seychelles parliament, the genius of this package is that none of it needs a parliamentary vote."
+   }
+  ]
+ }
+}

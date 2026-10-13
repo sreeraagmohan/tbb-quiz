@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-19-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 175,
+  "output_tokens": 1012,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the direction and trigger of India's emergency power exports to Nepal, a neighbourhood energy-cooperation fact.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Nepal electricity trade in September 2026:",
+    "items": [
+     "India approved the import of up to 654 MW of electricity from Nepal through December 2026.",
+     "The approval followed floods that damaged Nepal's hydropower."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because India approved exports of up to 654 MW to Nepal, not imports from it. The approval, given on 15 September 2026 and valid through December, came after floods damaged Nepal's hydropower.",
+    "source": "India approved electricity exports of up to 654 MW to flood-hit Nepal through December, after floods damaged Nepal's hydropower."
+   }
+  ]
+ }
+}

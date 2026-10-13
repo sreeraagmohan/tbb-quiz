@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-22-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 172,
+  "output_tokens": 811,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief item; tested the location of Vizhinjam port, the place in the news, using its August 2026 shift beyond transshipment as context.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, Vizhinjam port began import-export operations, moving beyond transshipment. In which state is Vizhinjam port located?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Kerala",
+     "Tamil Nadu",
+     "Karnataka",
+     "Andhra Pradesh"
+    ],
+    "answer": 0,
+    "explain": "Vizhinjam is a Kerala port. On 19 August 2026 it began import-export operations, so it no longer handles only transshipment cargo.",
+    "source": "Kerala's Vizhinjam port began import-export operations, moving operations beyond transshipment."
+   }
+  ]
+ }
+}

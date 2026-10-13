@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-03-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 196,
+  "output_tokens": 987,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official industrial output data for August 2026; tested the headline growth figure and its composition by use-based category.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's industrial output data for August 2026, released in September 2026:",
+    "items": [
+     "Industrial output grew 8% in August 2026.",
+     "Capital goods led the growth, rising 16.9%.",
+     "Consumer non-durables grew more slowly than overall industrial output."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "Overall output rose 8%, capital goods led at 16.9%, and consumer non-durables managed just 2.1%, well below the headline figure. The gap suggests the investment-led boom is not yet reaching ordinary households.",
+    "source": "India's industrial output grew 8% in August, led by capital goods at 16.9%, though everyday consumer non-durables rose just 2.1%, a sign the boom is not yet reaching ordinary households."
+   }
+  ]
+ }
+}

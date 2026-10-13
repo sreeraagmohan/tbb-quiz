@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-10-03-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 179,
+  "output_tokens": 781,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A corporate launch with a slight payments angle. One question tests the launch bank and the exclusion of the domestic RuPay network.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, Apple Pay was launched in India. Consider the following statements about the launch:",
+    "items": [
+     "It was launched through Axis Bank.",
+     "It supports RuPay credit cards alongside Visa and Mastercard credit cards."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Apple Pay was launched through Axis Bank, so statement 1 is correct. Statement 2 is wrong because the service covers Visa and Mastercard credit cards but leaves out the domestic RuPay network.",
+    "source": "Apple Pay launched in India through Axis Bank, covering Visa and Mastercard credit cards but excluding the domestic RuPay network."
+   }
+  ]
+ }
+}

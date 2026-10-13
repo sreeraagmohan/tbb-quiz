@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-09-19-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 407,
+  "output_tokens": 3813,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly roundup. Tested the hosting of BRICS, the New Zealand trade deal, DRDO source-code sharing, US trade measures and the EU steel quota.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about developments involving India in September 2026:",
+    "items": [
+     "The Indian Space Research Organisation began sharing weapon source code with private firms.",
+     "India hosted a BRICS summit in Delhi.",
+     "New Zealand's parliament passed its trade deal with India."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "It was DRDO, not ISRO, that began sharing weapon source code with private firms. Modi used the Delhi BRICS summit to steady ties with Xi in the same week that New Zealand's parliament passed its India trade deal.",
+    "source": "Modi steadied ties with Xi at the Delhi BRICS summit on Monday, India secured a 1.64 million tonne EU steel quota on Tuesday, and New Zealand's parliament passed its India trade deal on Thursday."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about US trade actions concerning India in September 2026:",
+    "items": [
+     "The US Commerce Department finalised anti-dumping and countervailing duties of about 25% on Indian solar exports.",
+     "A bill passed by the US House would let the President impose tariffs of up to 50% on India for buying Russian oil."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "The finalised duties on Indian solar exports were above 123%, and the House bill allows tariffs of up to 100% on India for buying Russian oil. The bill passed days before Trump was due to host Xi.",
+    "source": "The Commerce Department finalised anti-dumping and countervailing duties above 123% on Indian solar exports on Monday, and by Thursday the US House had passed a bill letting Trump tariff India up to 100% for buying Russian oil, timed days before he hosts Xi."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In September 2026, India secured a steel quota from the European Union of how much?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "1.64 million tonnes",
+     "0.82 million tonnes",
+     "3.28 million tonnes",
+     "6.40 million tonnes"
+    ],
+    "answer": 0,
+    "explain": "India secured a 1.64 million tonne EU steel quota in the same week that the US finalised steep duties on Indian solar exports. TBB read the week as major powers both pressuring and courting India.",
+    "source": "India secured a 1.64 million tonne EU steel quota on Tuesday"
+   }
+  ]
+ }
+}

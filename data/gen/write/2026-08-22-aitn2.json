@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-22-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 203,
+  "output_tokens": 766,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a corporate statement of intent with no contract signed, and the item gives too little checkable detail on the engine programme to support a firmly grounded question.",
+  "questions": []
+ }
+}

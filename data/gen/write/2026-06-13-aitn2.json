@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-13-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 211,
+  "output_tokens": 904,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the June 2026 tax waiver for foreign portfolio investors in government securities and its rupee-defence aim.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about a tax measure announced by the Finance Ministry in June 2026:",
+    "items": [
+     "It waived income and capital gains taxes for foreign portfolio investors in government securities.",
+     "It aimed to draw debt capital to support the rupee after equity outflows of USD 27.6 billion in 2026."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. On 8 June 2026 the Finance Ministry exempted foreign portfolio investors in government securities from income and capital gains taxes. The aim was to defend a sliding rupee by attracting debt capital, seen as stickier than the equity money that had flowed out.",
+    "source": "The Finance Ministry waived income and capital gains taxes for foreign portfolio investors in government securities, aiming to defend a sliding rupee after USD 27.6 billion in equity outflows this year by drawing in stickier debt capital."
+   }
+  ]
+ }
+}

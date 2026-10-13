@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-06-27-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 493,
+  "output_tokens": 1814,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the June 2026 BRICS NSAs' meeting in New Delhi and India's stated position on the US-Iran conflict; skipped the speculation about who India will send to the funeral.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the BRICS National Security Advisers' Meeting held in June 2026:",
+    "items": [
+     "It was a two-day meeting held in New Delhi and hosted by National Security Adviser Ajit Doval.",
+     "Russia was represented at the meeting by Sergei Shoigu.",
+     "India's chairing of BRICS lets it draft the agenda for the grouping's summit in September 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. Doval hosted China's Wang Yi, Russia's Sergei Shoigu and Iran's deputy security chief in New Delhi, and chairing BRICS lets India draft September's summit agenda first. Doval also held a bilateral with Wang on the side amid a steady India-China thaw.",
+    "source": "National Security Adviser Ajit Doval hosted China's Wang Yi, Russia's Sergei Shoigu, and Iran's deputy security chief at the two-day BRICS National Security Advisers' Meeting in New Delhi"
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Iran invited Prime Minister Modi to the state funeral of former Supreme Leader Ayatollah Ali Khamenei. With reference to India's stated position on the events surrounding Khamenei's death, consider the following statements:",
+    "items": [
+     "India condemned the strike that killed Khamenei.",
+     "India welcomed the US-Iran ceasefire."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "India welcomed the US-Iran ceasefire but declined to condemn the strike that killed Khamenei. The funeral, running 4 to 9 July 2026, was expected to draw delegations from Russia, China and Pakistan.",
+    "source": "India, which welcomed the US-Iran ceasefire while declining to condemn the strike that killed Khamenei, now faces a visible choice a condolence book let it avoid."
+   }
+  ]
+ }
+}

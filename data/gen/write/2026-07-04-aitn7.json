@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-07-04-aitn7",
+ "error": null,
+ "usage": {
+  "input_tokens": 169,
+  "output_tokens": 595,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the country where UPI went live in July 2026 as its tenth overseas market, a payments-system fact.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In July 2026, India's Unified Payments Interface (UPI) went live in which European country, making it UPI's tenth overseas market?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Greece",
+     "Portugal",
+     "Spain",
+     "Italy"
+    ],
+    "answer": 0,
+    "explain": "UPI went live in Greece on 1 July 2026, which became its tenth overseas market. The launch extends India's run of exporting its payments system into another European economy.",
+    "source": "UPI went live in Greece, its tenth overseas market, extending India's payments-export run into another European economy."
+   }
+  ]
+ }
+}

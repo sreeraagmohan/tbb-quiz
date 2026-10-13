@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-09-12-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 446,
+  "output_tokens": 1752,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the first eastern-sector corps commander talks at Wacha-Damai and NITI Aayog's electric-truck platforms; Xi's visit is used only as a dated detail.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–China corps commander-level talks held in September 2026:",
+    "items": [
+     "They were held at the Wacha-Damai point in Arunachal Pradesh.",
+     "Since the 2020 Galwan clash, such talks had been held only in Ladakh on the western frontier.",
+     "They came days before Xi Jinping's visit for the BRICS summit, his first India trip since 2014."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the story says Xi's BRICS visit was his first India trip since 2019, not 2014. These were the first corps commander-level talks in the eastern sector, in Arunachal Pradesh, which China claims as South Tibet.",
+    "source": "Since the 2020 Galwan clash, such talks had happened only in Ladakh on the western frontier."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's electric-truck sector in September 2026:",
+    "items": [
+     "NITI Aayog launched two platforms to accelerate electric-truck adoption.",
+     "Chinese brands such as SANY and Foton held less than a fifth of the nascent electric-truck market."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the story says SANY and Foton already held more than half of the nascent market. Electric vehicles attract just a 10% import duty, which Tata Motors wants fixed.",
+    "source": "NITI Aayog launched two platforms to accelerate electric-truck adoption, but Chinese brands SANY and Foton already hold more than half a nascent market, and electric vehicles attract just a 10% import duty that Tata Motors wants fixed."
+   }
+  ]
+ }
+}

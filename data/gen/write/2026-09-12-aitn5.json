@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-12-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 200,
+  "output_tokens": 934,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the nationalities of the accused and the location of the alleged drone-warfare training in the NIA case.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the National Investigation Agency (NIA) filed charges in a case of alleged drone-warfare training of armed groups. Consider the following statements:",
+    "items": [
+     "The accused included six Russian nationals.",
+     "The alleged training was given to anti-India armed groups in Myanmar."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "The NIA charged a US citizen and six Ukrainians, not Russians. Russia figures only as the possible source of the intelligence used to track them, according to the agency.",
+    "source": "The NIA charged a US citizen and six Ukrainians over alleged drone-warfare training of anti-India armed groups in Myanmar"
+   }
+  ]
+ }
+}

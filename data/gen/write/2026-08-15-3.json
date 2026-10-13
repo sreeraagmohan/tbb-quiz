@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-08-15-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 573,
+  "output_tokens": 2015,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the US Senate Russian-oil tariff bill (scope, legislative stage, review cycle, named countries) and the first Indian fuel export to Russia; skipped the Adani dismissal as a foreign court case with no Indian policy angle.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, the US Senate passed a bill targeting buyers of Russian oil. Consider the following statements about the bill:",
+    "items": [
+     "It authorises tariffs of up to 100% on the five largest buyers of Russian oil.",
+     "It became law after the Senate vote, without needing approval from the House of Representatives.",
+     "Tariffs imposed under it are discretionary and are to be reassessed every 180 days."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the bill still needs to pass the House of Representatives and get President Trump's signature. The 180-day reassessment makes the tariffs a standing threat that keeps Delhi justifying its energy choices.",
+    "source": "It still needs to pass the House of Representatives and President Trump's signature."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, a petroleum shipment from India reached Russia. Consider the following statements about it:",
+    "items": [
+     "The shipment came from Nayara Energy's Jamnagar refinery.",
+     "It was the second occasion on which Russia had imported fuel from India."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Both are wrong: the 42,000-tonne shipment came from Nayara's Vadinar refinery, and it was the first time Russia has ever imported fuel from India. Nayara Energy is backed by Rosneft, and the sale earns India revenue rather than funding Russia.",
+    "source": "A 42,000-tonne petroleum shipment from Rosneft-backed Nayara Energy's Vadinar refinery reached Russia in early August, the first time Russia has ever imported fuel from India."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "single",
+    "prompt": "In August 2026, a bill passed by the US Senate named five countries as the largest buyers of Russian oil. Which one of the following countries was NOT among them?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Turkey",
+     "Slovakia",
+     "Hungary",
+     "Azerbaijan"
+    ],
+    "answer": 0,
+    "explain": "The five countries named were India, China, Slovakia, Hungary and Azerbaijan, so Turkey was not among them. The bill authorises tariffs of up to 100% on these buyers.",
+    "source": "The US Senate passed a bill authorising tariffs up to 100% on the five largest buyers of Russian oil, naming India alongside China, Slovakia, Hungary, and Azerbaijan."
+   }
+  ]
+ }
+}

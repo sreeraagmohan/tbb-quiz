@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-26-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 194,
+  "output_tokens": 937,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the first-time flight test of KAL, an indigenous long-range loitering munition, and its range and class.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, IG Defence flight-tested KAL, described as India's first indigenous long-range attack drone. Consider the following statements about KAL:",
+    "items": [
+     "It is a loitering munition with a range of 1,000 km.",
+     "It is in the same class as the American MQ-9 Reaper."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "KAL is a 1,000 km loitering munition, but it is placed in the same class as the Iranian Shahed, not the MQ-9 Reaper. The flight test took place on 22 September 2026.",
+    "source": "a 1,000 km loitering munition in the same class as the Iranian Shahed"
+   }
+  ]
+ }
+}

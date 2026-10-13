@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-10-10-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 202,
+  "output_tokens": 955,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the location of India's October 2026 map renaming of sites across the LAC; the place-in-news angle is durable.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, India named 28 sites in Ladakh on its official map. Several of these sites lie across the Line of Actual Control in which Chinese-held area?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Aksai Chin",
+     "Tawang",
+     "Doklam",
+     "Siachen"
+    ],
+    "answer": 0,
+    "explain": "Several of the 28 named sites lie across the Line of Actual Control in Aksai Chin, which is held by China and claimed by India. The move borrows Beijing's own tactic of renaming places to keep India's claim on the record.",
+    "source": "India named 28 sites in Ladakh on the official map, several across the Line of Actual Control in Aksai Chin"
+   }
+  ]
+ }
+}

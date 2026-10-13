@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-05-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 198,
+  "output_tokens": 962,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the August 2026 India–Uzbekistan upgrade: partnership status, uranium arrangement and trade target.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–Uzbekistan engagement of August 2026:",
+    "items": [
+     "The two countries elevated their ties to a Comprehensive Strategic Partnership.",
+     "The two sides advanced an arrangement for the supply of uranium.",
+     "The two sides set a bilateral trade target of USD 10 billion for 2030."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because the trade target set for 2030 is USD 5 billion, not USD 10 billion. On 31 August 2026 the two countries also advanced a uranium supply arrangement and raised ties to a Comprehensive Strategic Partnership.",
+    "source": "India and Uzbekistan set a USD 5 billion trade target for 2030 and advanced a uranium supply arrangement, elevating ties to a Comprehensive Strategic Partnership."
+   }
+  ]
+ }
+}

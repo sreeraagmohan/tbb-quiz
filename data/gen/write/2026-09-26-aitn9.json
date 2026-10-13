@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-09-26-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 173,
+  "output_tokens": 874,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A brief infrastructure item. The question tests the scope and one feature of the NHAI's uniform design standards.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, the National Highways Authority of India (NHAI) issued uniform design standards for highways. Consider the following statements about these standards:",
+    "items": [
+     "They apply to new four- and six-lane access-controlled highways.",
+     "They include barriers to keep out stray cattle."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. On 23 September 2026 the NHAI issued uniform design standards covering new four- and six-lane access-controlled highways. The standards include barriers to keep stray cattle off these roads.",
+    "source": "The NHAI issued uniform design standards for new four- and six-lane access-controlled highways, including barriers to keep out stray cattle."
+   }
+  ]
+ }
+}

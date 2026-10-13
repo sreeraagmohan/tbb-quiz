@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-27-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 210,
+  "output_tokens": 806,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the India-UK trade pact's entry-into-force date and the 2030 bilateral trade target.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, Commerce Minister Piyush Goyal travelled to London ahead of the India-UK trade pact taking effect. Consider the following statements about the pact:",
+    "items": [
+     "It was set to enter into force on 15 July 2026.",
+     "The two sides are targeting USD 120 billion in bilateral trade by 2030."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The story says the pact enters into force on 15 July, with the two sides targeting USD 120 billion in bilateral trade by 2030. Goyal's London trip on 25 June 2026 came ahead of that date.",
+    "source": "Commerce Minister Piyush Goyal headed to London ahead of the 15 July entry into force of the India-UK trade pact, with the two sides targeting USD 120 billion in bilateral trade by 2030."
+   }
+  ]
+ }
+}

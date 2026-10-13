@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-20-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 198,
+  "output_tokens": 803,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Official trade data release; tested the record export figure and the direction of the trade deficit.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's trade data for May 2026, released in June 2026:",
+    "items": [
+     "India's exports reached a record USD 81.96 billion in the month.",
+     "The trade deficit narrowed to USD 10.51 billion as gold imports fell."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Exports hit a record USD 81.96 billion, but the trade deficit widened to USD 10.51 billion rather than narrowing. Gold imports and a flipped petroleum bill drove the wider gap and added fresh external strain.",
+    "source": "India's exports hit a record USD 81.96 billion in May, but the trade deficit widened to USD 10.51 billion as gold imports and a flipped petroleum bill opened fresh external strain."
+   }
+  ]
+ }
+}

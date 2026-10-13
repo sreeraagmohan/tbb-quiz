@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-07-04-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 191,
+  "output_tokens": 892,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the structure of Delhi's July 2026 shift from reactive to continuous winter pollution curbs; the story does not name the deciding body, so that is not asked.",
+  "questions": [
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, Delhi changed its approach to tackling winter air pollution. Consider the following statements about the new curbs:",
+    "items": [
+     "They will run continuously from November to February, regardless of air quality levels.",
+     "They include 50% work-from-home."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. On 3 July 2026, Delhi fixed curbs for the whole November to February period, including 50% work-from-home, whatever the air quality. This replaces the reactive model, which imposed restrictions only after pollution spiked and has failed for years.",
+    "source": "Delhi then locked in continuous winter pollution curbs running November to February regardless of air quality, including 50% work-from-home, replacing the reactive model that has failed for years."
+   }
+  ]
+ }
+}

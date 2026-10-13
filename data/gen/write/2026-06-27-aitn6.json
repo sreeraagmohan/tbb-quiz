@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-06-27-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 190,
+  "output_tokens": 838,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Brief item; tested the cumulative auction total and the stated import-substitution aim of critical mineral auctions.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, India auctioned 10 more critical mineral blocks. Consider the following statements about this:",
+    "items": [
+     "The auction took the running total of critical mineral blocks auctioned by India to 56.",
+     "The push for critical mineral auctions aims to reduce the import dependence of clean energy, electronics and defence."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. The 10 blocks auctioned on 24 June 2026 took the cumulative total to 56. The stated aim is to wean the clean energy, electronics and defence sectors off imported minerals.",
+    "source": "India auctioned 10 more critical mineral blocks, taking the running total to 56 as it pushes to wean clean energy, electronics, and defence off imports."
+   }
+  ]
+ }
+}

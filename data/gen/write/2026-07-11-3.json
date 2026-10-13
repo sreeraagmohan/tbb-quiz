@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-07-11-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 497,
+  "output_tokens": 2083,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the India–Indonesia BrahMos and Astra deal and the India–Australia uranium arrangement under the 2014 civil nuclear agreement.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In July 2026, India signed a defence package with Indonesia as Prime Minister Modi opened a state visit to Jakarta. Consider the following statements:",
+    "items": [
+     "The package covers BrahMos supersonic cruise missiles and Astra air-to-air missiles.",
+     "Indonesia became the third confirmed BrahMos buyer after the Philippines and Vietnam.",
+     "The agreements signed during the visit included a first overseas Indian Institute of Management campus."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. The missile package is worth roughly USD 630 million, and it came alongside fourteen agreements spanning critical minerals, steel and an overseas IIM campus. TBB notes that India sells deterrence across the Indo-Pacific without naming Beijing.",
+    "source": "Indonesia becomes the third confirmed BrahMos buyer after the Philippines and Vietnam, alongside fourteen agreements spanning critical minerals, steel, and a first overseas Indian Institute of Management campus."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In July 2026, India and Australia finalised an administrative arrangement enabling Australian uranium exports to India. Consider the following statements:",
+    "items": [
+     "The arrangement was completed in Canberra alongside a new defence and security declaration.",
+     "The arrangement activates a civil nuclear agreement signed in 2014."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the deal was completed in Melbourne, not Canberra, alongside the new defence and security declaration. The 2014 civil nuclear agreement had moved almost no fuel before this arrangement, and TBB argues the bilateral route now delivers what Nuclear Suppliers Group membership was meant to.",
+    "source": "India and Australia finalised the administrative arrangement enabling Australian uranium exports, activating a civil nuclear agreement signed in 2014 that has moved almost no fuel since."
+   }
+  ]
+ }
+}

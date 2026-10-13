@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-08-22-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 222,
+  "output_tokens": 471,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "No questions written: the story text has only the date and issue header, with no facts or quotable sentences, so nothing can be grounded. The headline topics (Vizhinjam, US drone lease, India–Japan naval ties, sugar imports) would be worth testing once the full text is available.",
+  "questions": []
+ }
+}

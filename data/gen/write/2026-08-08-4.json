@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-08-08-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 589,
+  "output_tokens": 1976,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "A weekly recap with two testable threads: India's handling of Bangladesh (the BRICS invitation and the Hasina extradition request) and the E20 fuel-quality dispute. The Meta safe-harbour item was skipped as too thin.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India–Bangladesh relations as of August 2026:",
+    "items": [
+     "India confirmed that Bangladesh's leader Tarique Rahman was invited to the BRICS outreach session in September 2026.",
+     "Bangladesh's request for the extradition of Sheikh Hasina has been under examination since December 2024."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both statements are correct. India confirmed Tarique Rahman's invitation to the September BRICS outreach session, and Dhaka's extradition request for Hasina has been under examination since December 2024. At the same time, India disavowed any involvement in Hasina's planned virtual address from New Delhi.",
+    "source": "Dhaka still wants Hasina extradited, a request under examination since December 2024."
+   },
+   {
+    "topic": "Environment & Energy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In August 2026, a dispute arose over the quality of E20 petrol sold in India. Consider the following statements:",
+    "items": [
+     "The Society of Indian Automobile Manufacturers (SIAM) withdrew a letter to the government warning that E20 petrol was corroding fuel injectors and pumps.",
+     "The Petroleum Ministry said only two of over 2,000 samples showed contamination.",
+     "SIAM did not withdraw its demand for tighter fuel-quality standards."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements are correct. SIAM withdrew the letter hours after it reached the media, but it did not retract the chloride readings behind it. It also kept its demand for tighter fuel-quality standards, while the Petroleum Ministry put contamination at two of over 2,000 samples.",
+    "source": "The Petroleum Ministry says only two of over 2,000 samples showed contamination."
+   }
+  ]
+ }
+}

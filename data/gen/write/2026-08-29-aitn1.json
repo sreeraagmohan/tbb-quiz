@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-08-29-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 211,
+  "output_tokens": 903,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "A disaster item with little institutional content, so one geography question on the pilgrimage destination linked to the Nepal floods.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, a glacial collapse on the China border triggered flash floods in Nepal that left 288 Indians missing. Many of those unaccounted for were pilgrims bound for which destination?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Mount Kailash",
+     "Amarnath Cave",
+     "Hemkund Sahib",
+     "Vaishno Devi"
+    ],
+    "answer": 0,
+    "explain": "The story says many of the missing were pilgrims headed for Mount Kailash. The 288 Indians were among more than 1,500 people unaccounted for, and India flew in relief and opened a control room.",
+    "source": "many of them pilgrims bound for Mount Kailash, with India flying in relief and opening a control room"
+   }
+  ]
+ }
+}

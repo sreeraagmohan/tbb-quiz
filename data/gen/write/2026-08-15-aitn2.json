@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-15-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 209,
+  "output_tokens": 867,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the venue of the August 2026 Saudi Arabia–Turkey–Pakistan collective defence pact and Turkey's standing within NATO.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, Saudi Arabia, Turkey and Pakistan formalised a collective defence pact. Consider the following statements about it:",
+    "items": [
+     "The pact was formalised in Mecca.",
+     "One of its members has NATO's second-largest military."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. The pact was formalised in Mecca on 10 August 2026, and it brings together Gulf capital and NATO's second-largest military, Turkey's. India watches this bloc closely.",
+    "source": "Saudi Arabia, Turkey, and Pakistan formalised a collective defence pact in Mecca, adding Gulf capital and NATO's second-largest military to a bloc India keeps a close eye on."
+   }
+  ]
+ }
+}

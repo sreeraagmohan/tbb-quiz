@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-10-10-aitn6",
+ "error": null,
+ "usage": {
+  "input_tokens": 193,
+  "output_tokens": 873,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Short item on a maritime attack; only the location of the incident is a durable places-in-the-news fact worth testing.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, a projectile struck the MT On Peace, injuring 11 Indian sailors. In which strait did the attack take place?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Strait of Malacca",
+     "Bab-el-Mandeb",
+     "Palk Strait"
+    ],
+    "answer": 0,
+    "explain": "The MT On Peace was hit in the Strait of Hormuz on 7 October 2026, injuring 11 Indian sailors. It was the second attack on an Indian-crewed vessel off Oman in under a month.",
+    "source": "A projectile struck the MT On Peace in the Strait of Hormuz, injuring 11 Indian sailors, the second attack on an Indian-crewed vessel off Oman in under a month."
+   }
+  ]
+ }
+}

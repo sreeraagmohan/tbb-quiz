@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-06-27-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 193,
+  "output_tokens": 766,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the three requirements in the RBI's June 2026 draft rules on banks' use of AI; draft status noted in the stem.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In June 2026, the Reserve Bank of India drafted rules on the use of artificial intelligence by banks. Consider the following statements about the draft rules:",
+    "items": [
+     "They place banks' artificial intelligence under board-level control.",
+     "They require continuous assessment of model risk.",
+     "They require human oversight of automated decisions."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three are correct. The draft rules put banks' AI under board-level control, require continuous model-risk assessment and keep humans overseeing automated decisions. The RBI drafted these rules on 25 June 2026.",
+    "source": "The Reserve Bank of India drafted rules putting banks' artificial intelligence under board-level control, requiring continuous model-risk assessment and human oversight of automated decisions."
+   }
+  ]
+ }
+}

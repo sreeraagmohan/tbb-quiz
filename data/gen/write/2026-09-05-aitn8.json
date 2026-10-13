@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-09-05-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 222,
+  "output_tokens": 1104,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the duration and stated priorities of the RAKSHA defence diplomacy roadmap unveiled in September 2026.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In September 2026, Rajnath Singh unveiled a defence diplomacy roadmap called RAKSHA. Consider the following statements about it:",
+    "items": [
+     "It is a ten-year roadmap.",
+     "Arms exports are among its stated priorities.",
+     "It envisages a first-responder role for India in the Indian Ocean."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. RAKSHA is a ten-year roadmap whose priorities include arms exports and a first-responder role in the Indian Ocean. It also prioritises security partnerships and joint exercises.",
+    "source": "Rajnath Singh unveiled RAKSHA, a ten-year defence diplomacy roadmap, prioritising security partnerships, joint exercises, arms exports, and a first-responder role in the Indian Ocean."
+   }
+  ]
+ }
+}

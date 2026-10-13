@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-15-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 200,
+  "output_tokens": 1135,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the two time limits in the small-business payment disputes bill passed by Parliament; the story does not name the bill, so the question avoids it.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, Parliament passed a bill on mediated payment disputes involving small businesses. Consider the following statements about it:",
+    "items": [
+     "Courts must release at least half of a disputed award if a legal challenge drags past six months.",
+     "It sets a 180-day deadline for resolving mediated payment disputes involving small businesses."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the bill sets a 90-day deadline, not 180 days. The rule forcing courts to release at least half of a disputed award after six months of litigation is meant to stop legal challenges from holding up payments to small businesses.",
+    "source": "Parliament passed a bill requiring mediated payment disputes involving small businesses to be resolved within 90 days, forcing courts to release at least half of a disputed award if a legal challenge drags past six months."
+   }
+  ]
+ }
+}

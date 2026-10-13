@@ -1,0 +1,73 @@
+{
+ "story_id": "2026-08-29-3",
+ "error": null,
+ "usage": {
+  "input_tokens": 645,
+  "output_tokens": 2434,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the DRDO missile technology transfer policy, the Rolls-Royce fighter engine offer and the Garden Reach expansion; skipped the shipbuilding share and ship repair analysis.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, the Defence Minister approved transfers of DRDO technology for conventional missiles to qualified Indian companies. Consider the following statements about this decision:",
+    "items": [
+     "The approval named specific missile systems, recipient firms and a production timetable.",
+     "It breaks from a model that routed missile production through state-owned Bharat Dynamics."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because no systems, firms or timetable were named. The transfer covers every conventional missile and moves away from production routed through Bharat Dynamics, though its effect depends on whether private players get to lead production rather than only supply parts.",
+    "source": "Rajnath Singh approved transfers of Defence Research and Development Organisation technology for every conventional missile to qualified Indian companies, breaking from a model that routed production through state-owned Bharat Dynamics."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, Rolls-Royce offered India a full technology transfer for the engine of India's planned fifth-generation fighter. Consider the following statements about the offer:",
+    "items": [
+     "India would retain the intellectual property of the engine.",
+     "The engine design would remain subject to US export controls."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the offer keeps the design outside US export controls. India builds airframes, missiles and radar, but decades of effort on a high-thrust jet engine have fallen short.",
+    "source": "Rolls-Royce offered India a full technology transfer for the engine of its planned fifth-generation fighter, letting India keep the intellectual property and keeping the design outside US export controls."
+   },
+   {
+    "topic": "Defence & Security",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In August 2026, the Defence Minister broke ground on expansion projects worth about INR 35 billion that would let which shipyard bid for next-generation destroyers?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Garden Reach Shipbuilders, Kolkata",
+     "Mazagon Dock Shipbuilders, Mumbai",
+     "Cochin Shipyard, Kochi",
+     "Goa Shipyard, Vasco da Gama"
+    ],
+    "answer": 0,
+    "explain": "The five projects at Garden Reach Shipbuilders and Yantra India allow the Kolkata yard to bid for next-generation destroyers. India still builds only a sliver of global tonnage behind China, South Korea and Japan.",
+    "source": "Rajnath Singh broke ground on five expansion projects worth about INR 35 billion (USD 366 million) at Garden Reach Shipbuilders and Yantra India, letting the Kolkata yard bid for next-generation destroyers."
+   }
+  ]
+ }
+}

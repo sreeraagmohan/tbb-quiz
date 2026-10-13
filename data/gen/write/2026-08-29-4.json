@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-08-29-4",
+ "error": null,
+ "usage": {
+  "input_tokens": 476,
+  "output_tokens": 2823,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tested the outcome of the 25th round of India–China Special Representatives talks and the Indian Oil–Mauritius fuel supply deal; skipped Xi's expected BRICS visit as speculative.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the India–China border talks held in Beijing in August 2026:",
+    "items": [
+     "The talks were the 25th round of the Special Representatives talks between the two countries.",
+     "The two sides agreed two new commander meeting points and two military hotlines along the disputed border.",
+     "The two sides agreed a map of the disputed border along with a timetable for troop cuts."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because no map, troop cuts or timetable emerged from the talks between NSA Ajit Doval and Foreign Minister Wang Yi. The hotlines contain the conflict rather than settle it, and the risk for India is that ties normalise before the border is resolved.",
+    "source": "National Security Advisor Ajit Doval and Foreign Minister Wang Yi agreed two new commander meeting points and two military hotlines along the disputed border, following the 25th round of Special Representatives talks in Beijing, weeks ahead of Xi's expected visit for the BRICS summit."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In August 2026, Indian Oil agreed to supply all of Mauritius's petrol, diesel and jet fuel. Consider the following statements about this deal:",
+    "items": [
+     "It is India's first such long-term fuel supply deal with a country outside South Asia.",
+     "Under the deal, Indian Oil will supply Mauritius's fuel for ten years."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because the supply runs for five years, not ten. The deal is paired with a bunker-fuel facility, official training and a joint biofuels policy under India's Indian Ocean doctrine.",
+    "source": "Indian Oil will supply all of Mauritius's petrol, diesel, and jet fuel for five years, India's first such long-term deal outside South Asia"
+   }
+  ]
+ }
+}

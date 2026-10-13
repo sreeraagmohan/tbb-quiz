@@ -1,0 +1,36 @@
+{
+ "story_id": "2026-08-15-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 201,
+  "output_tokens": 823,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tested the August 2026 Fitch affirmation (BBB-, stable) and the FY27 growth projection against peers.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about Fitch's review of India's sovereign credit rating in August 2026:",
+    "items": [
+     "Fitch upgraded India's sovereign credit rating from BBB- to BBB.",
+     "Fitch projected India's FY27 growth at roughly half the median for similarly rated peers."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explain": "Fitch affirmed, rather than upgraded, India's rating at BBB- with a stable outlook. Its 6.4% growth projection for FY27 is roughly triple, not half, the median for similarly rated peers.",
+    "source": "Fitch affirmed India's sovereign credit rating at BBB- with a stable outlook, projecting 6.4% growth for FY27, roughly triple the median for similarly rated peers."
+   }
+  ]
+ }
+}

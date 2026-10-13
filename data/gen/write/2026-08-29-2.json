@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-08-29-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 427,
+  "output_tokens": 2341,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly roundup with thin detail; tested the defence-industry opening and the India–China hotlines and US sanctions, and skipped the Nepal disaster as lacking an institutional angle.",
+  "questions": [
+   {
+    "topic": "Defence & Security",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about developments in India's defence sector in the last week of August 2026:",
+    "items": [
+     "Defence Minister Rajnath Singh broke ground on new warship yards.",
+     "Transfer of the technology of every conventional missile to private firms was approved.",
+     "Rolls-Royce offered India full ownership of fighter-engine technology."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three are correct. Rajnath Singh broke ground on warship yards on 24 August, approved missile technology transfers to private firms on 26 August, and Rolls-Royce made its engine offer on 27 August. The fighter-engine technology is one that decades of state effort could not produce.",
+    "source": "Rajnath Singh broke ground on new warship yards on Monday, approved transfers of every conventional missile's technology to private firms on Wednesday, and by Thursday Rolls-Royce had offered India full ownership of the fighter-engine technology that decades of state effort could not produce."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about India's external relations in August 2026:",
+    "items": [
+     "Ajit Doval and Wang Yi opened military hotlines along the India–China border after the two countries resolved their boundary dispute.",
+     "The United States sanctioned four Indian firms over Iranian oil."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong: the two hotlines, opened on 27 August, built a workable relationship around a dispute that remains unresolved. In the same week, Washington sanctioned four Indian firms over Iranian oil while Putin promised Delhi fuel and fertiliser.",
+    "source": "Doval and Wang Yi opened two military hotlines along the disputed border on Thursday, building a workable relationship around an unresolved dispute, even as Washington sanctioned four Indian firms over Iranian oil and Putin promised Delhi fuel and fertiliser."
+   }
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "story_id": "2026-09-26-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 421,
+  "output_tokens": 2158,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Weekly roundup; tested the Centre's telecom and port-clearance decisions and the Russia sanctions and trade facts, skipping the protest item as ephemeral.",
+  "questions": [
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about decisions taken by the Centre in September 2026:",
+    "items": [
+     "The validity of environmental clearances for port projects was extended to 10 years.",
+     "The inter-ministerial Digital Communications Commission was dissolved.",
+     "The change in port clearance validity insulates projects such as Great Nicobar from fresh environmental review."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because port green-clearance validity was doubled to 20 years, not set at 10 years. The dissolution of the Digital Communications Commission hands one desk control over how 1.3 billion users connect.",
+    "source": "The Centre dissolved the inter-ministerial Digital Communications Commission on Tuesday, handing one desk control of how 1.3 billion users connect, then doubled port green-clearance validity to 20 years on Thursday, insulating slow mega-projects like Great Nicobar from fresh environmental review."
+   },
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about developments affecting India's external trade in September 2026:",
+    "items": [
+     "A Russia sanctions law signed by US President Trump exposes India to tariffs of up to 100%.",
+     "Canada set a December target for concluding its trade pact with India.",
+     "India's Russian oil imports rose 16.5% in August 2026."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explain": "Statement 3 is wrong because India's Russian oil imports fell 16.5% in August, so they were already declining before the sanctions law was signed. Trump signed the law on Monday 21 September 2026.",
+    "source": "Trump signed the Russia sanctions law exposing India to tariffs up to 100% on Monday, yet India's Russian oil imports were already falling, down 16.5% in August, and Canada set a December target to finish its trade pact."
+   }
+  ]
+ }
+}
