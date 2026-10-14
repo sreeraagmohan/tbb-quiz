@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-14-aitn4",
+ "error": null,
+ "usage": {
+  "input_tokens": 379,
+  "output_tokens": 329,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a police detention of protesters with no scheme, ruling or institutional decision to test, and the new protest venues are not named.",
+  "questions": []
+ }
+}

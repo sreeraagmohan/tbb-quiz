@@ -23249,5 +23249,108 @@
   "answer": 0,
   "explain": "The Houthis claimed responsibility for the 10 October 2026 strikes on the Riyadh airport. The death toll rose to 13 after an Indian national died of his injuries on 11 October, which India's embassy in Riyadh confirmed.",
   "source": "The Houthis claimed responsibility for the airport strikes."
+ },
+ {
+  "id": "g-2026-10-14-1-1",
+  "story_id": "2026-10-14-1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Research, Development and Innovation Fund (RDIF):",
+  "items": [
+   "It operates within a wider INR 1 trillion scheme managed by NITI Aayog.",
+   "It was launched in November 2025.",
+   "Government money can cover at most half of a project or equity funding round."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 1,
+  "explain": "Statement 1 is wrong because the wider INR 1 trillion scheme is managed by the Anusandhan National Research Foundation, not NITI Aayog. The company or other non-government sources must provide the rest of the funding, which TBB notes can push managers towards faster-to-market startups.",
+  "source": "The RDIF, launched in November 2025, operates within a wider INR 1 trillion (USD 10.51 billion) scheme managed by the Anusandhan National Research Foundation."
+ },
+ {
+  "id": "g-2026-10-14-1-2",
+  "story_id": "2026-10-14-1",
+  "topic": "Science & Tech",
+  "difficulty": 3,
+  "format": "pairs",
+  "prompt": "Consider the following pairs relating to the Research, Development and Innovation Fund (RDIF) as described in October 2026:",
+  "items": [
+   "Horizon of RDIF capital from the government — 50 years, interest-free",
+   "Minimum technology maturity of funded projects — Technology Readiness Level 4",
+   "First cohort of 19 fund managers — 14 alternative investment funds and five focused research organisations"
+  ],
+  "ask": "How many of the pairs given above are correctly matched?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three pairs match the story. Managers fund projects at Technology Readiness Level 4 or above, broadly technologies with laboratory-level prototypes, and the government gives RDIF capital a 50-year, interest-free horizon.",
+  "source": "The cohort comprises 14 alternative investment funds and five focused research organisations, which are expected to mobilise matching private capital."
+ },
+ {
+  "id": "g-2026-10-14-1-3",
+  "story_id": "2026-10-14-1",
+  "topic": "Economy",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In October 2026, the Centre named 19 fund managers to channel money from the Research, Development and Innovation Fund into private research and innovation. How much were they to channel?",
+  "options": [
+   "INR 71.31 billion",
+   "INR 7.13 billion",
+   "INR 713.1 billion",
+   "INR 1 trillion"
+  ],
+  "answer": 0,
+  "explain": "The 19 managers would channel INR 71.31 billion (USD 737 million) from the RDIF. INR 1 trillion is the size of the wider scheme managed by the Anusandhan National Research Foundation within which the RDIF operates.",
+  "source": "On Monday, the Centre said 19 fund managers would channel INR 71.31 billion (USD 737 million) from the Research, Development and Innovation Fund (RDIF) into private research and innovation."
+ },
+ {
+  "id": "g-2026-10-14-aitn1-1",
+  "story_id": "2026-10-14-aitn1",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the dispute over place names in Ladakh in October 2026:",
+  "items": [
+   "India gave official names to 28 places and geographical features in Ladakh on 2 October 2026.",
+   "China's Foreign Ministry called India's move \"illegal and invalid\" and said Beijing has never recognised the Union Territory of Ladakh.",
+   "In August 2026, China had used similar language to reject India's names for 27 places in Arunachal Pradesh."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements match the story: India named 28 Ladakh sites on 2 October, and spokesperson Mao Ning rejected the move, as Beijing had done with 27 Arunachal names in August. China also claimed that areas in the western sector of the China–India boundary have always belonged to it.",
+  "source": "the official names India gave on October 2 to 28 places and geographical features in Ladakh"
+ },
+ {
+  "id": "g-2026-10-14-aitn3-1",
+  "story_id": "2026-10-14-aitn3",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In October 2026, National Security Adviser Ajit Doval spoke with the Secretary of Iran's Supreme National Security Council after a run of attacks on tankers with Indian crews. In and around which strait did these attacks take place?",
+  "options": [
+   "Strait of Hormuz",
+   "Bab-el-Mandeb Strait",
+   "Strait of Malacca",
+   "Strait of Gibraltar"
+  ],
+  "answer": 0,
+  "explain": "The attacks took place in and around the Strait of Hormuz. They included a strike off Oman on 11 October 2026 that left two Indian sailors missing. Doval spoke with Mohsen Rezaei the next day, and Rezaei separately claimed the United States had accepted some of Iran's seven conditions for reopening the strait.",
+  "source": "The call followed a run of attacks on tankers with Indian crews in and around the Strait of Hormuz"
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-14-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 291,
+  "output_tokens": 1083,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the key parameters of the deferred UPI merchant discount rate: rate, threshold, cap and original start date.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, the National Payments Corporation of India (NPCI) deferred a Merchant Discount Rate (MDR) on Unified Payments Interface (UPI) payments until after Diwali. Consider the following statements about this fee:",
+    "items": [
+     "It is levied at 0.4 percent on UPI payments to merchants above INR 2,000.",
+     "It was originally due to start on November 8, 2026.",
+     "Finance Ministry notifications capped it at INR 300 per transaction."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 3 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong: the fee was due to start on October 15, while November 8 is the date of Diwali, after which it has now been deferred. The fee rests on Finance Ministry notifications issued on September 14 and 15.",
+    "source": "It was due to start on October 15 under Finance Ministry notifications issued on September 14 and 15, which capped it at INR 300 (USD 3) per transaction."
+   }
+  ]
+ }
+}

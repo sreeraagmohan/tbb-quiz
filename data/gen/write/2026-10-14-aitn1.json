@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-14-aitn1",
+ "error": null,
+ "usage": {
+  "input_tokens": 294,
+  "output_tokens": 1006,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–China naming dispute: India's October 2026 naming of 28 Ladakh sites, China's rejection, and the earlier Arunachal precedent.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the dispute over place names in Ladakh in October 2026:",
+    "items": [
+     "India gave official names to 28 places and geographical features in Ladakh on 2 October 2026.",
+     "China's Foreign Ministry called India's move \"illegal and invalid\" and said Beijing has never recognised the Union Territory of Ladakh.",
+     "In August 2026, China had used similar language to reject India's names for 27 places in Arunachal Pradesh."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story: India named 28 Ladakh sites on 2 October, and spokesperson Mao Ning rejected the move, as Beijing had done with 27 Arunachal names in August. China also claimed that areas in the western sector of the China–India boundary have always belonged to it.",
+    "source": "the official names India gave on October 2 to 28 places and geographical features in Ladakh"
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "story_id": "2026-10-14-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 865,
+  "output_tokens": 2627,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the RDIF's institutional home, launch date, funding rules and first cohort of fund managers named in October 2026.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Research, Development and Innovation Fund (RDIF):",
+    "items": [
+     "It operates within a wider INR 1 trillion scheme managed by NITI Aayog.",
+     "It was launched in November 2025.",
+     "Government money can cover at most half of a project or equity funding round."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explain": "Statement 1 is wrong because the wider INR 1 trillion scheme is managed by the Anusandhan National Research Foundation, not NITI Aayog. The company or other non-government sources must provide the rest of the funding, which TBB notes can push managers towards faster-to-market startups.",
+    "source": "The RDIF, launched in November 2025, operates within a wider INR 1 trillion (USD 10.51 billion) scheme managed by the Anusandhan National Research Foundation."
+   },
+   {
+    "topic": "Science & Tech",
+    "difficulty": 3,
+    "format": "pairs",
+    "prompt": "Consider the following pairs relating to the Research, Development and Innovation Fund (RDIF) as described in October 2026:",
+    "items": [
+     "Horizon of RDIF capital from the government — 50 years, interest-free",
+     "Minimum technology maturity of funded projects — Technology Readiness Level 4",
+     "First cohort of 19 fund managers — 14 alternative investment funds and five focused research organisations"
+    ],
+    "ask": "How many of the pairs given above are correctly matched?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 2,
+    "explain": "All three pairs match the story. Managers fund projects at Technology Readiness Level 4 or above, broadly technologies with laboratory-level prototypes, and the government gives RDIF capital a 50-year, interest-free horizon.",
+    "source": "The cohort comprises 14 alternative investment funds and five focused research organisations, which are expected to mobilise matching private capital."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, the Centre named 19 fund managers to channel money from the Research, Development and Innovation Fund into private research and innovation. How much were they to channel?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "INR 71.31 billion",
+     "INR 7.13 billion",
+     "INR 713.1 billion",
+     "INR 1 trillion"
+    ],
+    "answer": 0,
+    "explain": "The 19 managers would channel INR 71.31 billion (USD 737 million) from the RDIF. INR 1 trillion is the size of the wider scheme managed by the Anusandhan National Research Foundation within which the RDIF operates.",
+    "source": "On Monday, the Centre said 19 fund managers would channel INR 71.31 billion (USD 737 million) from the Research, Development and Innovation Fund (RDIF) into private research and innovation."
+   }
+  ]
+ }
+}

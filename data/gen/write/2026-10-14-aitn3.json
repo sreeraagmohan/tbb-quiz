@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-10-14-aitn3",
+ "error": null,
+ "usage": {
+  "input_tokens": 318,
+  "output_tokens": 1273,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the strait at the centre of the Doval–Iran call; Rezaei's claim about US acceptance of conditions is unverified and skipped.",
+  "questions": [
+   {
+    "topic": "Geography",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, National Security Adviser Ajit Doval spoke with the Secretary of Iran's Supreme National Security Council after a run of attacks on tankers with Indian crews. In and around which strait did these attacks take place?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Strait of Hormuz",
+     "Bab-el-Mandeb Strait",
+     "Strait of Malacca",
+     "Strait of Gibraltar"
+    ],
+    "answer": 0,
+    "explain": "The attacks took place in and around the Strait of Hormuz. They included a strike off Oman on 11 October 2026 that left two Indian sailors missing. Doval spoke with Mohsen Rezaei the next day, and Rezaei separately claimed the United States had accepted some of Iran's seven conditions for reopening the strait.",
+    "source": "The call followed a run of attacks on tankers with Indian crews in and around the Strait of Hormuz"
+   }
+  ]
+ }
+}
