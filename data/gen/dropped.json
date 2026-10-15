@@ -2735,5 +2735,51 @@
    "non-standard statement options",
    "need exactly four distinct options"
   ]
+ },
+ {
+  "id": "g-2026-10-15-aitn5-1",
+  "story_id": "2026-10-15-aitn5",
+  "topic": "International Relations",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In October 2026, the home ministers of which regional grouping adopted the Delhi Declaration on regional security?",
+  "options": [
+   "BIMSTEC",
+   "SAARC",
+   "ASEAN",
+   "SCO"
+  ],
+  "answer": 0,
+  "explain": "The home ministers of BIMSTEC adopted the Delhi Declaration, which deals with regional security. Its name reflects New Delhi as the setting for the adoption.",
+  "source": "BIMSTEC home ministers adopt Delhi Declaration on regional security",
+  "reasons": [
+   "explanation: The explanation says \"Its name reflects New Delhi as the setting for the adoption.\" The story does not say where the declaration was adopted. It states only that BIMSTEC home ministers adopted the Delhi Declaration on regional security."
+  ]
+ },
+ {
+  "id": "g-2026-10-15-aitn6-1",
+  "story_id": "2026-10-15-aitn6",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the meeting of BIMSTEC home ministers held in October 2026:",
+  "items": [
+   "It was the first-ever meeting of BIMSTEC home ministers, and it adopted the Delhi Declaration.",
+   "The bloc condemned terrorism including cross-border terrorism and called for UN Security Council sanctions to be enforced.",
+   "Ministers pushed for early agreement on conventions covering extradition, transfer of sentenced prisoners and human trafficking."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 2,
+  "explain": "All three statements match the story. The home ministers adopted the Delhi Declaration on 13 October 2026, condemned terrorism in all its forms and also flagged crime groups that traffic people and force them to run online fraud from scam centres.",
+  "source": "Home ministers of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) adopted the Delhi Declaration on Tuesday at their first-ever meeting.",
+  "reasons": [
+   "solver: trivial: all statements copied verbatim from the story, no false statement to discriminate"
+  ]
  }
 ]

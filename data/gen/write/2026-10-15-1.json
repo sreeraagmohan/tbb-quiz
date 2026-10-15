@@ -1,0 +1,57 @@
+{
+ "story_id": "2026-10-15-1",
+ "error": null,
+ "usage": {
+  "input_tokens": 1266,
+  "output_tokens": 1984,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Skipped the Jio IPO deal details. Tested SEBI's revised minimum public offer rule and pre-IPO lock-in, plus the 2026 foreign portfolio outflows.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about market rules relating to large initial public offerings (IPOs) in India, as of October 2026:",
+    "items": [
+     "In September 2025, SEBI moved to halve the minimum stake that companies worth over INR 5 trillion must sell, from 5 percent to 2.5 percent.",
+     "The finance ministry has written SEBI's change to this minimum stake into the rules.",
+     "Under SEBI rules, existing pre-IPO investors cannot sell their stakes for twelve months after the IPO has been allotted."
+    ],
+    "ask": "How many of the statements given above are correct?",
+    "options": [
+     "Only one",
+     "Only two",
+     "All three",
+     "None"
+    ],
+    "answer": 1,
+    "explain": "The third statement is wrong because the lock-in for existing investors lasts six months after allotment, not twelve. SEBI said markets may struggle to absorb bigger sales. At Jio's valuation, the old 5 percent minimum would have meant selling about INR 515 billion of stock.",
+    "source": "In September 2025, the Securities and Exchange Board of India (SEBI) moved to halve the minimum stake that companies worth over INR 5 trillion (USD 52.5 billion) must sell, from 5 percent to 2.5 percent, saying markets may struggle to absorb bigger sales."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "Consider the following statements about foreign institutional investor (FII) flows in 2026, as reported in October 2026:",
+    "items": [
+     "FIIs had pulled a record amount from Indian shares during the year, nearly double the total for 2025.",
+     "Over the same period, the rupee had fallen nearly 7 percent against the US dollar."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explain": "Both are correct. FIIs pulled a record INR 3.08 trillion from Indian shares, and the rupee's fall of nearly 7 percent shrank what those investors earn in dollars. Jefferies said domestic mutual funds, fed by monthly savings plans, were absorbing much of the selling.",
+    "source": "Foreign institutional investors (FII) have pulled a record INR 3.08 trillion (USD 32.4 billion) from Indian shares this year, nearly double 2025’s total."
+   }
+  ]
+ }
+}

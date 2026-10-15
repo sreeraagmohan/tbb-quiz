@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-15-aitn8",
+ "error": null,
+ "usage": {
+  "input_tokens": 233,
+  "output_tokens": 1077,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Tests the India–Russia temporary employment pact ratified by Russia in October 2026: its purpose, where it was signed and the ratification sequence.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "In October 2026, Russian President Vladimir Putin signed a law ratifying an India–Russia agreement. Consider the following statements about the agreement:",
+    "items": [
+     "It eases temporary employment for each country's citizens in the other.",
+     "It was signed during an Indian Prime Minister's visit to Moscow.",
+     "Russia's State Duma approved the ratification law before the Federation Council did."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explain": "Statement 2 is wrong because the pact was signed during Putin's state visit to New Delhi in December 2025. The State Duma approved the law on 1 October 2026 and the Federation Council on 2 October, and Putin signed it on 12 October.",
+    "source": "The two countries signed the pact during Putin’s state visit to New Delhi in December 2025."
+   }
+  ]
+ }
+}

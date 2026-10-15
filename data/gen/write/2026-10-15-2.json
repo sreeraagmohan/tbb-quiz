@@ -1,0 +1,74 @@
+{
+ "story_id": "2026-10-15-2",
+ "error": null,
+ "usage": {
+  "input_tokens": 691,
+  "output_tokens": 2269,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "high",
+  "note": "Tests the Principal Purpose Test in the India–Mauritius DTAA, the 2017 grandfathering cut-off, BEPS alignment and the court behind the Tiger Global ruling. The retroactive versus prospective point is avoided because the story is internally inconsistent on it.",
+  "questions": [
+   {
+    "topic": "Economy",
+    "difficulty": 2,
+    "format": "statements",
+    "prompt": "In October 2026, the CBDT notified changes to India's Double Taxation Avoidance Agreement with Mauritius. Consider the following statements:",
+    "items": [
+     "The changes allow tax authorities to deny treaty benefits if obtaining them was one of the principal purposes of an arrangement.",
+     "Capital gains on shares acquired before April 1, 2017 lose their earlier grandfathering protection."
+    ],
+    "ask": "Which of the statements given above is/are correct?",
+    "options": [
+     "1 only",
+     "2 only",
+     "Both 1 and 2",
+     "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explain": "Statement 2 is wrong because capital gains on shares acquired before April 1, 2017 remain protected under the earlier grandfathering rules. Dividends, interest and post-2017 capital gains are the items that face sharper scrutiny under the Principal Purpose Test.",
+    "source": "Capital gains on shares acquired before April 1, 2017 remain protected under previous grandfathering rules."
+   },
+   {
+    "topic": "Economy",
+    "difficulty": 3,
+    "format": "statements",
+    "prompt": "Consider the following statements about the Principal Purpose Test introduced into the India–Mauritius tax treaty in October 2026:",
+    "items": [
+     "It was notified by the Central Board of Direct Taxes.",
+     "It aligns India with global Base Erosion and Profit Shifting (BEPS) anti-abuse standards.",
+     "Mauritius holding companies must show real substance, local governance and a clear non-tax commercial objective to avoid tax demands."
+    ],
+    "ask": "Which of the statements given above are correct?",
+    "options": [
+     "1 and 2 only",
+     "2 and 3 only",
+     "1 and 3 only",
+     "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explain": "All three statements match the story. The CBDT notified the change, it brings India in line with BEPS anti-abuse standards, and holding companies can no longer rely on paper presence. TBB expects risk-averse funds to shift towards higher-substance jurisdictions such as Singapore or the UAE.",
+    "source": "It aligns India with global Base Erosion and Profit Shifting (BEPS) anti-abuse standards."
+   },
+   {
+    "topic": "Polity & Governance",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "Which body delivered the January 2026 Tiger Global ruling, which held that grandfathering does not automatically shield shell structures lacking commercial substance from domestic anti-avoidance rules?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "Supreme Court of India",
+     "Delhi High Court",
+     "Bombay High Court",
+     "Income Tax Appellate Tribunal"
+    ],
+    "answer": 0,
+    "explain": "The Supreme Court's January 2026 Tiger Global ruling set this precedent. The ruling sharpens the risk for Mauritius conduits even where shares fall within the pre-2017 grandfathering window.",
+    "source": "the Supreme Court's January 2026 Tiger Global ruling set a precedent that grandfathering doesn't automatically shield shell structures that lack real commercial substance from domestic anti-avoidance rules."
+   }
+  ]
+ }
+}

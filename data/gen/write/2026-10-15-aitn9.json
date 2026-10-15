@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-15-aitn9",
+ "error": null,
+ "usage": {
+  "input_tokens": 136,
+  "output_tokens": 133,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "none",
+  "note": "Skipped: the item gives only a headline, with no court, law or institutional detail to ground a question.",
+  "questions": []
+ }
+}

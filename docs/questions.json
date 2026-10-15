@@ -31198,5 +31198,187 @@
   "issue_title": "Runway from lab to launch",
   "story_title": "NSA Doval and Iran’s security chief discuss shipping attacks on the Strait of Hormuz",
   "link": "https://thebharatbriefing.beehiiv.com/p/runway-from-lab-to-launch#also-in-the-news:~:text=The%20call%20followed%20a%20run%20of%20attacks%20on"
+ },
+ {
+  "id": "g-2026-10-15-1-1",
+  "story_id": "2026-10-15-1",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about market rules relating to large initial public offerings (IPOs) in India, as of October 2026:",
+  "items": [
+   "In September 2025, SEBI moved to halve the minimum stake that companies worth over INR 5 trillion must sell, from 5 percent to 2.5 percent.",
+   "The finance ministry has written SEBI's change to this minimum stake into the rules.",
+   "Under SEBI rules, existing pre-IPO investors cannot sell their stakes for twelve months after the IPO has been allotted."
+  ],
+  "ask": "How many of the statements given above are correct?",
+  "options": [
+   "Only one",
+   "Only two",
+   "All three",
+   "None"
+  ],
+  "answer": 1,
+  "explain": "The third statement is wrong because the lock-in for existing investors lasts six months after allotment, not twelve. SEBI said markets may struggle to absorb bigger sales. At Jio's valuation, the old 5 percent minimum would have meant selling about INR 515 billion of stock.",
+  "source": "In September 2025, the Securities and Exchange Board of India (SEBI) moved to halve the minimum stake that companies worth over INR 5 trillion (USD 52.5 billion) must sell, from 5 percent to 2.5 percent, saying markets may struggle to absorb bigger sales.",
+  "date": "2026-10-15",
+  "issue_no": 189,
+  "issue_title": "Home advantage?",
+  "story_title": "Home advantage?",
+  "link": "https://thebharatbriefing.beehiiv.com/p/home-advantage#home-advantage:~:text=In%20September%202025%2C%20the%20Securities%20and%20Exchange%20Board"
+ },
+ {
+  "id": "g-2026-10-15-1-2",
+  "story_id": "2026-10-15-1",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "Consider the following statements about foreign institutional investor (FII) flows in 2026, as reported in October 2026:",
+  "items": [
+   "FIIs had pulled a record amount from Indian shares during the year, nearly double the total for 2025.",
+   "Over the same period, the rupee had fallen nearly 7 percent against the US dollar."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 2,
+  "explain": "Both are correct. FIIs pulled a record INR 3.08 trillion from Indian shares, and the rupee's fall of nearly 7 percent shrank what those investors earn in dollars. Jefferies said domestic mutual funds, fed by monthly savings plans, were absorbing much of the selling.",
+  "source": "Foreign institutional investors (FII) have pulled a record INR 3.08 trillion (USD 32.4 billion) from Indian shares this year, nearly double 2025’s total.",
+  "date": "2026-10-15",
+  "issue_no": 189,
+  "issue_title": "Home advantage?",
+  "story_title": "Home advantage?",
+  "link": "https://thebharatbriefing.beehiiv.com/p/home-advantage#home-advantage:~:text=Foreign%20institutional%20investors%20%28FII%29%20have%20pulled%20a%20record"
+ },
+ {
+  "id": "g-2026-10-15-2-1",
+  "story_id": "2026-10-15-2",
+  "topic": "Economy",
+  "difficulty": 2,
+  "format": "statements",
+  "prompt": "In October 2026, the CBDT notified changes to India's Double Taxation Avoidance Agreement with Mauritius. Consider the following statements:",
+  "items": [
+   "The changes allow tax authorities to deny treaty benefits if obtaining them was one of the principal purposes of an arrangement.",
+   "Capital gains on shares acquired before April 1, 2017 lose their earlier grandfathering protection."
+  ],
+  "ask": "Which of the statements given above is/are correct?",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "answer": 0,
+  "explain": "Statement 2 is wrong because capital gains on shares acquired before April 1, 2017 remain protected under the earlier grandfathering rules. Dividends, interest and post-2017 capital gains are the items that face sharper scrutiny under the Principal Purpose Test.",
+  "source": "Capital gains on shares acquired before April 1, 2017 remain protected under previous grandfathering rules.",
+  "date": "2026-10-15",
+  "issue_no": 189,
+  "issue_title": "Home advantage?",
+  "story_title": "Taxing times for island hoppers",
+  "link": "https://thebharatbriefing.beehiiv.com/p/home-advantage#taxing-times-for-island-hoppers:~:text=Capital%20gains%20on%20shares%20acquired%20before%20April%201%2C"
+ },
+ {
+  "id": "g-2026-10-15-2-2",
+  "story_id": "2026-10-15-2",
+  "topic": "Economy",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "Consider the following statements about the Principal Purpose Test introduced into the India–Mauritius tax treaty in October 2026:",
+  "items": [
+   "It was notified by the Central Board of Direct Taxes.",
+   "It aligns India with global Base Erosion and Profit Shifting (BEPS) anti-abuse standards.",
+   "Mauritius holding companies must show real substance, local governance and a clear non-tax commercial objective to avoid tax demands."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 3,
+  "explain": "All three statements match the story. The CBDT notified the change, it brings India in line with BEPS anti-abuse standards, and holding companies can no longer rely on paper presence. TBB expects risk-averse funds to shift towards higher-substance jurisdictions such as Singapore or the UAE.",
+  "source": "It aligns India with global Base Erosion and Profit Shifting (BEPS) anti-abuse standards.",
+  "date": "2026-10-15",
+  "issue_no": 189,
+  "issue_title": "Home advantage?",
+  "story_title": "Taxing times for island hoppers",
+  "link": "https://thebharatbriefing.beehiiv.com/p/home-advantage#taxing-times-for-island-hoppers:~:text=It%20aligns%20India%20with%20global%20Base%20Erosion%20and"
+ },
+ {
+  "id": "g-2026-10-15-2-3",
+  "story_id": "2026-10-15-2",
+  "topic": "Polity & Governance",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "Which body delivered the January 2026 Tiger Global ruling, which held that grandfathering does not automatically shield shell structures lacking commercial substance from domestic anti-avoidance rules?",
+  "options": [
+   "Supreme Court of India",
+   "Delhi High Court",
+   "Bombay High Court",
+   "Income Tax Appellate Tribunal"
+  ],
+  "answer": 0,
+  "explain": "The Supreme Court's January 2026 Tiger Global ruling set this precedent. The ruling sharpens the risk for Mauritius conduits even where shares fall within the pre-2017 grandfathering window.",
+  "source": "the Supreme Court's January 2026 Tiger Global ruling set a precedent that grandfathering doesn't automatically shield shell structures that lack real commercial substance from domestic anti-avoidance rules.",
+  "date": "2026-10-15",
+  "issue_no": 189,
+  "issue_title": "Home advantage?",
+  "story_title": "Taxing times for island hoppers",
+  "link": "https://thebharatbriefing.beehiiv.com/p/home-advantage#taxing-times-for-island-hoppers:~:text=the%20Supreme%20Court%27s%20January%202026%20Tiger%20Global%20ruling"
+ },
+ {
+  "id": "g-2026-10-15-aitn4-1",
+  "story_id": "2026-10-15-aitn4",
+  "topic": "Geography",
+  "difficulty": 1,
+  "format": "single",
+  "prompt": "In October 2026, US Secretary of State Marco Rubio's India itinerary included Jamnagar, home to the world's largest single-site refining complex. In which state is Jamnagar located?",
+  "options": [
+   "Gujarat",
+   "Maharashtra",
+   "Odisha",
+   "Kerala"
+  ],
+  "answer": 0,
+  "explain": "Jamnagar is in Gujarat. It houses Reliance Industries' refinery, which processes 1.4 million barrels a day. The State Department said Rubio's visit would include discussions on enhanced energy cooperation.",
+  "source": "Jamnagar, in Gujarat, houses Mukesh Ambani’s Reliance Industries’ refinery, the world’s largest single-site refining complex, which processes 1.4 million barrels a day.",
+  "date": "2026-10-15",
+  "issue_no": 189,
+  "issue_title": "Home advantage?",
+  "story_title": "US Secretary of State Marco Rubio will visit",
+  "link": "https://thebharatbriefing.beehiiv.com/p/home-advantage#also-in-the-news:~:text=Jamnagar%2C%20in%20Gujarat%2C%20houses%20Mukesh%20Ambani%E2%80%99s%20Reliance%20Industries%E2%80%99"
+ },
+ {
+  "id": "g-2026-10-15-aitn8-1",
+  "story_id": "2026-10-15-aitn8",
+  "topic": "International Relations",
+  "difficulty": 3,
+  "format": "statements",
+  "prompt": "In October 2026, Russian President Vladimir Putin signed a law ratifying an India–Russia agreement. Consider the following statements about the agreement:",
+  "items": [
+   "It eases temporary employment for each country's citizens in the other.",
+   "It was signed during an Indian Prime Minister's visit to Moscow.",
+   "Russia's State Duma approved the ratification law before the Federation Council did."
+  ],
+  "ask": "Which of the statements given above are correct?",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 3 only",
+   "1, 2 and 3"
+  ],
+  "answer": 2,
+  "explain": "Statement 2 is wrong because the pact was signed during Putin's state visit to New Delhi in December 2025. The State Duma approved the law on 1 October 2026 and the Federation Council on 2 October, and Putin signed it on 12 October.",
+  "source": "The two countries signed the pact during Putin’s state visit to New Delhi in December 2025.",
+  "date": "2026-10-15",
+  "issue_no": 189,
+  "issue_title": "Home advantage?",
+  "story_title": "Russian President Vladimir Putin has signed a law",
+  "link": "https://thebharatbriefing.beehiiv.com/p/home-advantage#also-in-the-news:~:text=The%20two%20countries%20signed%20the%20pact%20during%20Putin%E2%80%99s"
  }
 ]

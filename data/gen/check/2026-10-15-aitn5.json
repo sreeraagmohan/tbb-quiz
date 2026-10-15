@@ -1,0 +1,37 @@
+{
+ "story_id": "2026-10-15-aitn5",
+ "error": null,
+ "perms": [
+  [
+   1,
+   3,
+   2,
+   0
+  ]
+ ],
+ "solve": {
+  "results": [
+   {
+    "chosen": 3,
+    "exactly_one_correct": true,
+    "grounded_in_story": true,
+    "problem": "trivial",
+    "verdict": "keep"
+   }
+  ]
+ },
+ "audit": {
+  "results": [
+   {
+    "accurate": false,
+    "problem": "The explanation says \"Its name reflects New Delhi as the setting for the adoption.\" The story does not say where the declaration was adopted. It states only that BIMSTEC home ministers adopted the Delhi Declaration on regional security."
+   }
+  ]
+ },
+ "usage": {
+  "input_tokens": 944,
+  "output_tokens": 313,
+  "cache_creation_input_tokens": 798,
+  "cache_read_input_tokens": 0
+ }
+}

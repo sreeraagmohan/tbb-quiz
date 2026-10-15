@@ -1,0 +1,15 @@
+{
+ "story_id": "2026-10-15-aitn2",
+ "error": null,
+ "usage": {
+  "input_tokens": 301,
+  "output_tokens": 283,
+  "cache_creation_input_tokens": 4552,
+  "cache_read_input_tokens": 0
+ },
+ "result": {
+  "upsc_relevance": "low",
+  "note": "Skipped: a corporate investment pledge by Hyundai Motor Group with no scheme, law, agreement or institutional angle, so it falls outside durable Prelims material.",
+  "questions": []
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "story_id": "2026-10-15-aitn5",
+ "error": null,
+ "usage": {
+  "input_tokens": 155,
+  "output_tokens": 708,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 4552
+ },
+ "result": {
+  "upsc_relevance": "medium",
+  "note": "Only the headline is available, so one single question tests which grouping's home ministers adopted the Delhi Declaration on regional security.",
+  "questions": [
+   {
+    "topic": "International Relations",
+    "difficulty": 1,
+    "format": "single",
+    "prompt": "In October 2026, the home ministers of which regional grouping adopted the Delhi Declaration on regional security?",
+    "items": [],
+    "ask": "",
+    "options": [
+     "BIMSTEC",
+     "SAARC",
+     "ASEAN",
+     "SCO"
+    ],
+    "answer": 0,
+    "explain": "The home ministers of BIMSTEC adopted the Delhi Declaration, which deals with regional security. Its name reflects New Delhi as the setting for the adoption.",
+    "source": "BIMSTEC home ministers adopt Delhi Declaration on regional security"
+   }
+  ]
+ }
+}
